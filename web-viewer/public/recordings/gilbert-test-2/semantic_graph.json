@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "alpha": 0.5,
+        "beta": 0.5,
+        "gamma": 0.5,
+        "threshold": 0.6,
+        "model": "all-MiniLM-L6-v2"
+    },
+    "nodes": [
+        {
+            "id": 0,
+            "cluster_id": 0,
+            "title": "Exploration Start & Glitch Check",
+            "pos": [
+                -16.536674627399258,
+                -7.063999555321596,
+                3.761179099451455
+            ],
+            "time": "5.3s - 46.7s"
+        },
+        {
+            "id": 1,
+            "cluster_id": 1,
+            "title": "Tour Endpoint, Recording Concerns",
+            "pos": [
+                -16.01893706928483,
+                -5.781132952282379,
+                2.4003536938845302
+            ],
+            "time": "31.8s - 535.6s"
+        },
+        {
+            "id": 2,
+            "cluster_id": 2,
+            "title": "Gilbert's Unique Structural Overhang",
+            "pos": [
+                1.5914891967162579,
+                15.089822518424938,
+                4.006556785325275
+            ],
+            "time": "69.5s - 106.4s"
+        },
+        {
+            "id": 3,
+            "cluster_id": 3,
+            "title": "Introducing Surge Lab Space",
+            "pos": [
+                111.86875021188101,
+                -34.36942589963559,
+                -4.279828363002538
+            ],
+            "time": "248.4s - 262.7s"
+        },
+        {
+            "id": 4,
+            "cluster_id": 5,
+            "title": "Engineering Education Project Hub",
+            "pos": [
+                93.86905942718634,
+                -44.3054052269776,
+                -4.3132104856476365
+            ],
+            "time": "304.0s - 321.3s"
+        },
+        {
+            "id": 5,
+            "cluster_id": 8,
+            "title": "Evaluating Natural Environment Interaction",
+            "pos": [
+                76.39669963372735,
+                14.790588738030976,
+                -1.3685059862397988
+            ],
+            "time": "401.7s - 441.5s"
+        },
+        {
+            "id": 6,
+            "cluster_id": 6,
+            "title": "Old Stumps, Tour Context",
+            "pos": [
+                75.6628431565325,
+                13.475170231666871,
+                -2.6196625942537
+            ],
+            "time": "405.6s - 431.1s"
+        }
+    ],
+    "links": [
+        {
+            "source": 5,
+            "target": 6,
+            "weight": 0.6169398072394257,
+            "semantic_sim": 0.8582170009613037,
+            "spatial_prox": 0.3756626135175475,
+            "rationale": "The expert intentionally focuses on static natural elements, specifically trees and ground stumps, to evaluate and enhance the recording system's SLAM capabilities. This sustained attention on specific landscape features simultaneously gathers valuable environmental and historical context, directly contributing to the development of robust data capture for future professional outdoor and wildlife area tours. The shared intent is to leverage these natural elements for both technical performance improvement and contextual data acquisition.",
+            "type": "convergence"
+        }
+    ]
+}

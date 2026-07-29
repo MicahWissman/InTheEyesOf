@@ -1,0 +1,41 @@
+{
+  "generated_at": "2026-05-23T23:48:40.445708",
+  "pipeline": "InTheEyesOf Semantic Pipeline",
+  "stage": {
+    "summarizer": {
+      "gaze_source": "auto",
+      "cluster_eps": 0.25,
+      "cluster_min_samples": 10,
+      "group_radius": 2.0,
+      "quality_tiers": {
+        "STRONG": "< 0.5m perpendicular",
+        "WEAK": "0.5-1.0m perpendicular",
+        "UNCERTAIN": "1.0-1.5m perpendicular",
+        "FALLBACK": "> 1.5m, uses 2.0m depth"
+      },
+      "event_count": 74,
+      "mean_quality": 0.731,
+      "fallback_ratio_mean": 0.055
+    },
+    "synthesizer": {
+      "anchor_count": 68,
+      "has_grouped_clusters": false,
+      "has_vlm_objects": true,
+      "events_to_anchors_ratio": 1.09
+    },
+    "graph_builder": {
+      "alpha": 0.7,
+      "beta": 0.1,
+      "gamma": 0.05,
+      "threshold": 0.45,
+      "model": "BAAI/bge-m3",
+      "edge_count": 1357,
+      "node_count": 68
+    },
+    "trajectory": "exported",
+    "pointcloud": {
+      "file": "pointcloud.ply",
+      "size_mb": 96.5
+    }
+  }
+}

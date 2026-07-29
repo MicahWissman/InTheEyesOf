@@ -1,0 +1,54 @@
+{
+  "generated_at": "2026-06-04T23:40:01.919122",
+  "pipeline": "InTheEyesOf Semantic Pipeline",
+  "stage": {
+    "summarizer": {
+      "cluster_eps": 0.25,
+      "cluster_min_samples": 10,
+      "quality_tiers": {
+        "STRONG": "< 0.5m perpendicular",
+        "WEAK": "0.5-1.0m perpendicular",
+        "UNCERTAIN": "1.0-1.5m perpendicular",
+        "FALLBACK": "> 1.5m, uses 2.0m depth"
+      }
+    },
+    "synthesizer": {
+      "group_radius": 2.0,
+      "vlm_synthesis": true
+    },
+    "graph_builder": {
+      "alpha": 0.5,
+      "beta": 0.5,
+      "gamma": 0.5,
+      "lam": 0.05,
+      "threshold": 0.6,
+      "tau_spatial": 0.4,
+      "tau_referential": 0.25,
+      "tau_thematic": 0.7,
+      "edge_method": "typed_edges_with_convergence_degree",
+      "model": "BAAI/bge-m3",
+      "edge_count": 652,
+      "node_count": 71
+    },
+    "results": {
+      "event_count": 79,
+      "anchor_count": 71,
+      "edge_count": 0,
+      "node_count": 0,
+      "mean_quality": 0.666,
+      "fallback_ratio_mean": 0.078,
+      "has_vlm_objects": true,
+      "quality_tier_counts": {
+        "strong": 468,
+        "weak": 233,
+        "uncertain": 194,
+        "fallback": 102,
+        "total_samples": 997
+      }
+    },
+    "pointcloud": {
+      "size_mb": 12.9
+    },
+    "trajectory_exported": false
+  }
+}

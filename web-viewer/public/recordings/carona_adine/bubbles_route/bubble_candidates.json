@@ -1,0 +1,1406 @@
+{
+ "note": "EgoBlur Gen1 face-blur (conf 0.25). gaze_xy: adine3 from gaze_yaw/pitch, companion center proxy.",
+ "count": 100,
+ "candidates": [
+  {
+   "anchor_id": "adine3_0246",
+   "src": "adine3",
+   "landmark": "village",
+   "frame": "seg_0246_1.jpg",
+   "img": "img/adine3_0246_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.463,
+    0.587
+   ],
+   "score": 1.0,
+   "faces_blurred": 2
+  },
+  {
+   "anchor_id": "adine3_0258",
+   "src": "adine3",
+   "landmark": "village",
+   "frame": "seg_0258_1.jpg",
+   "img": "img/adine3_0258_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.5,
+    0.675
+   ],
+   "score": 0.893,
+   "faces_blurred": 0
+  },
+  {
+   "anchor_id": "adine3_0269",
+   "src": "adine3",
+   "landmark": "village",
+   "frame": "seg_0269_1.jpg",
+   "img": "img/adine3_0269_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.546,
+    0.57
+   ],
+   "score": 0.872,
+   "faces_blurred": 1
+  },
+  {
+   "anchor_id": "c8",
+   "src": "companion",
+   "landmark": "santa_marta",
+   "frame": "seg_0046_1.jpg",
+   "img": "img/c8_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.869,
+   "faces_blurred": 0
+  },
+  {
+   "anchor_id": "c318",
+   "src": "companion",
+   "landmark": "connecting",
+   "frame": "seg_0486_1.jpg",
+   "img": "img/c318_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.821,
+   "faces_blurred": 1
+  },
+  {
+   "anchor_id": "c121",
+   "src": "companion",
+   "landmark": "san_giorgio",
+   "frame": "seg_0107_1.jpg",
+   "img": "img/c121_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.82,
+   "faces_blurred": 2
+  },
+  {
+   "anchor_id": "c114",
+   "src": "companion",
+   "landmark": "san_giorgio",
+   "frame": "seg_0065_0.jpg",
+   "img": "img/c114_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.809,
+   "faces_blurred": 1
+  },
+  {
+   "anchor_id": "adine3_0109",
+   "src": "adine3",
+   "landmark": "village",
+   "frame": "seg_0109_1.jpg",
+   "img": "img/adine3_0109_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.569,
+    0.624
+   ],
+   "score": 0.798,
+   "faces_blurred": 0
+  },
+  {
+   "anchor_id": "c66",
+   "src": "companion",
+   "landmark": "madonna",
+   "frame": "seg_0271_1.jpg",
+   "img": "img/c66_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.794,
+   "faces_blurred": 1
+  },
+  {
+   "anchor_id": "c113",
+   "src": "companion",
+   "landmark": "san_giorgio",
+   "frame": "seg_0063_1.jpg",
+   "img": "img/c113_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.794,
+   "faces_blurred": 0
+  },
+  {
+   "anchor_id": "c182",
+   "src": "companion",
+   "landmark": "connecting",
+   "frame": "seg_0205_1.jpg",
+   "img": "img/c182_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.784,
+   "faces_blurred": 0
+  },
+  {
+   "anchor_id": "c344",
+   "src": "companion",
+   "landmark": "connecting",
+   "frame": "seg_0562_1.jpg",
+   "img": "img/c344_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.775,
+   "faces_blurred": 2
+  },
+  {
+   "anchor_id": "c125",
+   "src": "companion",
+   "landmark": "san_giorgio",
+   "frame": "seg_0111_1.jpg",
+   "img": "img/c125_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.772,
+   "faces_blurred": 1
+  },
+  {
+   "anchor_id": "c12",
+   "src": "companion",
+   "landmark": "santa_marta",
+   "frame": "seg_0068_1.jpg",
+   "img": "img/c12_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.767,
+   "faces_blurred": 0
+  },
+  {
+   "anchor_id": "c129",
+   "src": "companion",
+   "landmark": "madonna",
+   "frame": "seg_0121_0.jpg",
+   "img": "img/c129_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.767,
+   "faces_blurred": 1
+  },
+  {
+   "anchor_id": "c183",
+   "src": "companion",
+   "landmark": "connecting",
+   "frame": "seg_0206_1.jpg",
+   "img": "img/c183_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.763,
+   "faces_blurred": 0
+  },
+  {
+   "anchor_id": "c254",
+   "src": "companion",
+   "landmark": "connecting",
+   "frame": "seg_0409_1.jpg",
+   "img": "img/c254_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.761,
+   "faces_blurred": 1
+  },
+  {
+   "anchor_id": "c175",
+   "src": "companion",
+   "landmark": "connecting",
+   "frame": "seg_0197_1.jpg",
+   "img": "img/c175_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.759,
+   "faces_blurred": 2
+  },
+  {
+   "anchor_id": "c290",
+   "src": "companion",
+   "landmark": "connecting",
+   "frame": "seg_0458_0.jpg",
+   "img": "img/c290_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.753,
+   "faces_blurred": 0
+  },
+  {
+   "anchor_id": "c55",
+   "src": "companion",
+   "landmark": "madonna",
+   "frame": "seg_0248_1.jpg",
+   "img": "img/c55_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.753,
+   "faces_blurred": 2
+  },
+  {
+   "anchor_id": "c2",
+   "src": "companion",
+   "landmark": "santa_marta",
+   "frame": "seg_0018_1.jpg",
+   "img": "img/c2_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.749,
+   "faces_blurred": 2
+  },
+  {
+   "anchor_id": "adine3_0093",
+   "src": "adine3",
+   "landmark": "village",
+   "frame": "seg_0093_1.jpg",
+   "img": "img/adine3_0093_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.568,
+    0.611
+   ],
+   "score": 0.747,
+   "faces_blurred": 1
+  },
+  {
+   "anchor_id": "c58",
+   "src": "companion",
+   "landmark": "madonna",
+   "frame": "seg_0256_1.jpg",
+   "img": "img/c58_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.747,
+   "faces_blurred": 0
+  },
+  {
+   "anchor_id": "c277",
+   "src": "companion",
+   "landmark": "connecting",
+   "frame": "seg_0448_0.jpg",
+   "img": "img/c277_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.745,
+   "faces_blurred": 1
+  },
+  {
+   "anchor_id": "c49",
+   "src": "companion",
+   "landmark": "madonna",
+   "frame": "seg_0234_1.jpg",
+   "img": "img/c49_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.745,
+   "faces_blurred": 1
+  },
+  {
+   "anchor_id": "c316",
+   "src": "companion",
+   "landmark": "connecting",
+   "frame": "seg_0483_0.jpg",
+   "img": "img/c316_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.743,
+   "faces_blurred": 0
+  },
+  {
+   "anchor_id": "c172",
+   "src": "companion",
+   "landmark": "connecting",
+   "frame": "seg_0194_1.jpg",
+   "img": "img/c172_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.741,
+   "faces_blurred": 1
+  },
+  {
+   "anchor_id": "c57",
+   "src": "companion",
+   "landmark": "madonna",
+   "frame": "seg_0255_1.jpg",
+   "img": "img/c57_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.739,
+   "faces_blurred": 0
+  },
+  {
+   "anchor_id": "c117",
+   "src": "companion",
+   "landmark": "san_giorgio",
+   "frame": "seg_0086_0.jpg",
+   "img": "img/c117_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.739,
+   "faces_blurred": 0
+  },
+  {
+   "anchor_id": "c17",
+   "src": "companion",
+   "landmark": "santa_marta",
+   "frame": "seg_0097_1.jpg",
+   "img": "img/c17_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.736,
+   "faces_blurred": 0
+  },
+  {
+   "anchor_id": "c174",
+   "src": "companion",
+   "landmark": "connecting",
+   "frame": "seg_0196_0.jpg",
+   "img": "img/c174_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.732,
+   "faces_blurred": 1
+  },
+  {
+   "anchor_id": "c123",
+   "src": "companion",
+   "landmark": "san_giorgio",
+   "frame": "seg_0110_0.jpg",
+   "img": "img/c123_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.729,
+   "faces_blurred": 1
+  },
+  {
+   "anchor_id": "c170",
+   "src": "companion",
+   "landmark": "madonna",
+   "frame": "seg_0193_0.jpg",
+   "img": "img/c170_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.725,
+   "faces_blurred": 1
+  },
+  {
+   "anchor_id": "c233",
+   "src": "companion",
+   "landmark": "santa_marta",
+   "frame": "seg_0328_1.jpg",
+   "img": "img/c233_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.724,
+   "faces_blurred": 2
+  },
+  {
+   "anchor_id": "c278",
+   "src": "companion",
+   "landmark": "connecting",
+   "frame": "seg_0452_1.jpg",
+   "img": "img/c278_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.722,
+   "faces_blurred": 0
+  },
+  {
+   "anchor_id": "c48",
+   "src": "companion",
+   "landmark": "madonna",
+   "frame": "seg_0232_1.jpg",
+   "img": "img/c48_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.722,
+   "faces_blurred": 3
+  },
+  {
+   "anchor_id": "c16",
+   "src": "companion",
+   "landmark": "santa_marta",
+   "frame": "seg_0095_1.jpg",
+   "img": "img/c16_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.72,
+   "faces_blurred": 2
+  },
+  {
+   "anchor_id": "adine3_0084",
+   "src": "adine3",
+   "landmark": "village",
+   "frame": "seg_0084_1.jpg",
+   "img": "img/adine3_0084_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.509,
+    0.659
+   ],
+   "score": 0.717,
+   "faces_blurred": 3
+  },
+  {
+   "anchor_id": "c258",
+   "src": "companion",
+   "landmark": "connecting",
+   "frame": "seg_0418_0.jpg",
+   "img": "img/c258_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.714,
+   "faces_blurred": 1
+  },
+  {
+   "anchor_id": "c186",
+   "src": "companion",
+   "landmark": "santa_marta",
+   "frame": "seg_0214_1.jpg",
+   "img": "img/c186_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.714,
+   "faces_blurred": 1
+  },
+  {
+   "anchor_id": "c281",
+   "src": "companion",
+   "landmark": "connecting",
+   "frame": "seg_0455_1.jpg",
+   "img": "img/c281_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.713,
+   "faces_blurred": 0
+  },
+  {
+   "anchor_id": "c168",
+   "src": "companion",
+   "landmark": "madonna",
+   "frame": "seg_0190_0.jpg",
+   "img": "img/c168_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.712,
+   "faces_blurred": 1
+  },
+  {
+   "anchor_id": "c163",
+   "src": "companion",
+   "landmark": "madonna",
+   "frame": "seg_0182_0.jpg",
+   "img": "img/c163_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.711,
+   "faces_blurred": 1
+  },
+  {
+   "anchor_id": "c59",
+   "src": "companion",
+   "landmark": "madonna",
+   "frame": "seg_0258_0.jpg",
+   "img": "img/c59_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.71,
+   "faces_blurred": 0
+  },
+  {
+   "anchor_id": "c185",
+   "src": "companion",
+   "landmark": "santa_marta",
+   "frame": "seg_0213_1.jpg",
+   "img": "img/c185_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.707,
+   "faces_blurred": 1
+  },
+  {
+   "anchor_id": "adine3_0102",
+   "src": "adine3",
+   "landmark": "village",
+   "frame": "seg_0102_1.jpg",
+   "img": "img/adine3_0102_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.602,
+    0.717
+   ],
+   "score": 0.705,
+   "faces_blurred": 2
+  },
+  {
+   "anchor_id": "adine3_0071",
+   "src": "adine3",
+   "landmark": "village",
+   "frame": "seg_0071_1.jpg",
+   "img": "img/adine3_0071_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.548,
+    0.597
+   ],
+   "score": 0.703,
+   "faces_blurred": 1
+  },
+  {
+   "anchor_id": "c42",
+   "src": "companion",
+   "landmark": "madonna",
+   "frame": "seg_0225_1.jpg",
+   "img": "img/c42_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.703,
+   "faces_blurred": 1
+  },
+  {
+   "anchor_id": "c213",
+   "src": "companion",
+   "landmark": "santa_marta",
+   "frame": "seg_0289_0.jpg",
+   "img": "img/c213_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.699,
+   "faces_blurred": 1
+  },
+  {
+   "anchor_id": "c44",
+   "src": "companion",
+   "landmark": "madonna",
+   "frame": "seg_0227_1.jpg",
+   "img": "img/c44_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.699,
+   "faces_blurred": 2
+  },
+  {
+   "anchor_id": "adine3_0280",
+   "src": "adine3",
+   "landmark": "village",
+   "frame": "seg_0280_1.jpg",
+   "img": "img/adine3_0280_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.563,
+    0.727
+   ],
+   "score": 0.698,
+   "faces_blurred": 2
+  },
+  {
+   "anchor_id": "c164",
+   "src": "companion",
+   "landmark": "madonna",
+   "frame": "seg_0183_0.jpg",
+   "img": "img/c164_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.695,
+   "faces_blurred": 1
+  },
+  {
+   "anchor_id": "adine3_0001",
+   "src": "adine3",
+   "landmark": "village",
+   "frame": "seg_0001_1.jpg",
+   "img": "img/adine3_0001_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.558,
+    0.671
+   ],
+   "score": 0.693,
+   "faces_blurred": 2
+  },
+  {
+   "anchor_id": "adine3_0247",
+   "src": "adine3",
+   "landmark": "village",
+   "frame": "seg_0247_1.jpg",
+   "img": "img/adine3_0247_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.439,
+    0.617
+   ],
+   "score": 0.693,
+   "faces_blurred": 3
+  },
+  {
+   "anchor_id": "c216",
+   "src": "companion",
+   "landmark": "santa_marta",
+   "frame": "seg_0292_1.jpg",
+   "img": "img/c216_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.693,
+   "faces_blurred": 0
+  },
+  {
+   "anchor_id": "adine3_0159",
+   "src": "adine3",
+   "landmark": "village",
+   "frame": "seg_0159_1.jpg",
+   "img": "img/adine3_0159_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.481,
+    0.663
+   ],
+   "score": 0.69,
+   "faces_blurred": 3
+  },
+  {
+   "anchor_id": "c165",
+   "src": "companion",
+   "landmark": "madonna",
+   "frame": "seg_0185_1.jpg",
+   "img": "img/c165_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.69,
+   "faces_blurred": 2
+  },
+  {
+   "anchor_id": "c18",
+   "src": "companion",
+   "landmark": "santa_marta",
+   "frame": "seg_0100_0.jpg",
+   "img": "img/c18_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.686,
+   "faces_blurred": 0
+  },
+  {
+   "anchor_id": "c50",
+   "src": "companion",
+   "landmark": "madonna",
+   "frame": "seg_0235_1.jpg",
+   "img": "img/c50_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.686,
+   "faces_blurred": 0
+  },
+  {
+   "anchor_id": "c67",
+   "src": "companion",
+   "landmark": "madonna",
+   "frame": "seg_0272_1.jpg",
+   "img": "img/c67_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.686,
+   "faces_blurred": 0
+  },
+  {
+   "anchor_id": "c143",
+   "src": "companion",
+   "landmark": "madonna",
+   "frame": "seg_0151_0.jpg",
+   "img": "img/c143_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.685,
+   "faces_blurred": 1
+  },
+  {
+   "anchor_id": "c208",
+   "src": "companion",
+   "landmark": "santa_marta",
+   "frame": "seg_0281_1.jpg",
+   "img": "img/c208_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.684,
+   "faces_blurred": 0
+  },
+  {
+   "anchor_id": "c212",
+   "src": "companion",
+   "landmark": "santa_marta",
+   "frame": "seg_0287_1.jpg",
+   "img": "img/c212_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.683,
+   "faces_blurred": 0
+  },
+  {
+   "anchor_id": "c47",
+   "src": "companion",
+   "landmark": "madonna",
+   "frame": "seg_0229_1.jpg",
+   "img": "img/c47_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.679,
+   "faces_blurred": 0
+  },
+  {
+   "anchor_id": "c171",
+   "src": "companion",
+   "landmark": "madonna",
+   "frame": "seg_0193_1.jpg",
+   "img": "img/c171_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.679,
+   "faces_blurred": 0
+  },
+  {
+   "anchor_id": "adine3_0276",
+   "src": "adine3",
+   "landmark": "village",
+   "frame": "seg_0276_1.jpg",
+   "img": "img/adine3_0276_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.614,
+    0.632
+   ],
+   "score": 0.677,
+   "faces_blurred": 0
+  },
+  {
+   "anchor_id": "adine3_0279",
+   "src": "adine3",
+   "landmark": "village",
+   "frame": "seg_0279_1.jpg",
+   "img": "img/adine3_0279_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.567,
+    0.654
+   ],
+   "score": 0.677,
+   "faces_blurred": 2
+  },
+  {
+   "anchor_id": "adine3_0156",
+   "src": "adine3",
+   "landmark": "village",
+   "frame": "seg_0156_1.jpg",
+   "img": "img/adine3_0156_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.522,
+    0.857
+   ],
+   "score": 0.675,
+   "faces_blurred": 0
+  },
+  {
+   "anchor_id": "adine3_0180",
+   "src": "adine3",
+   "landmark": "village",
+   "frame": "seg_0180_1.jpg",
+   "img": "img/adine3_0180_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.487,
+    0.605
+   ],
+   "score": 0.675,
+   "faces_blurred": 0
+  },
+  {
+   "anchor_id": "adine3_0250",
+   "src": "adine3",
+   "landmark": "village",
+   "frame": "seg_0250_1.jpg",
+   "img": "img/adine3_0250_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.546,
+    0.538
+   ],
+   "score": 0.675,
+   "faces_blurred": 2
+  },
+  {
+   "anchor_id": "c209",
+   "src": "companion",
+   "landmark": "santa_marta",
+   "frame": "seg_0282_1.jpg",
+   "img": "img/c209_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.675,
+   "faces_blurred": 0
+  },
+  {
+   "anchor_id": "c211",
+   "src": "companion",
+   "landmark": "santa_marta",
+   "frame": "seg_0286_0.jpg",
+   "img": "img/c211_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.674,
+   "faces_blurred": 0
+  },
+  {
+   "anchor_id": "adine3_0334",
+   "src": "adine3",
+   "landmark": "village",
+   "frame": "seg_0334_1.jpg",
+   "img": "img/adine3_0334_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.606,
+    0.692
+   ],
+   "score": 0.67,
+   "faces_blurred": 2
+  },
+  {
+   "anchor_id": "adine3_0160",
+   "src": "adine3",
+   "landmark": "village",
+   "frame": "seg_0160_1.jpg",
+   "img": "img/adine3_0160_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.457,
+    0.625
+   ],
+   "score": 0.668,
+   "faces_blurred": 3
+  },
+  {
+   "anchor_id": "c46",
+   "src": "companion",
+   "landmark": "madonna",
+   "frame": "seg_0228_1.jpg",
+   "img": "img/c46_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.668,
+   "faces_blurred": 0
+  },
+  {
+   "anchor_id": "adine3_0057",
+   "src": "adine3",
+   "landmark": "village",
+   "frame": "seg_0057_1.jpg",
+   "img": "img/adine3_0057_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.468,
+    0.647
+   ],
+   "score": 0.667,
+   "faces_blurred": 1
+  },
+  {
+   "anchor_id": "adine3_0074",
+   "src": "adine3",
+   "landmark": "village",
+   "frame": "seg_0074_1.jpg",
+   "img": "img/adine3_0074_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.527,
+    0.602
+   ],
+   "score": 0.667,
+   "faces_blurred": 1
+  },
+  {
+   "anchor_id": "adine3_0092",
+   "src": "adine3",
+   "landmark": "village",
+   "frame": "seg_0092_1.jpg",
+   "img": "img/adine3_0092_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.5,
+    0.6
+   ],
+   "score": 0.665,
+   "faces_blurred": 3
+  },
+  {
+   "anchor_id": "adine3_0177",
+   "src": "adine3",
+   "landmark": "village",
+   "frame": "seg_0177_1.jpg",
+   "img": "img/adine3_0177_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.528,
+    0.65
+   ],
+   "score": 0.665,
+   "faces_blurred": 0
+  },
+  {
+   "anchor_id": "c19",
+   "src": "companion",
+   "landmark": "santa_marta",
+   "frame": "seg_0103_1.jpg",
+   "img": "img/c19_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.665,
+   "faces_blurred": 1
+  },
+  {
+   "anchor_id": "c68",
+   "src": "companion",
+   "landmark": "madonna",
+   "frame": "seg_0274_0.jpg",
+   "img": "img/c68_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.665,
+   "faces_blurred": 3
+  },
+  {
+   "anchor_id": "c52",
+   "src": "companion",
+   "landmark": "madonna",
+   "frame": "seg_0236_1.jpg",
+   "img": "img/c52_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.66,
+   "faces_blurred": 0
+  },
+  {
+   "anchor_id": "c56",
+   "src": "companion",
+   "landmark": "madonna",
+   "frame": "seg_0253_1.jpg",
+   "img": "img/c56_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.66,
+   "faces_blurred": 0
+  },
+  {
+   "anchor_id": "c108",
+   "src": "companion",
+   "landmark": "san_giorgio",
+   "frame": "seg_0032_1.jpg",
+   "img": "img/c108_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.658,
+   "faces_blurred": 2
+  },
+  {
+   "anchor_id": "c20",
+   "src": "companion",
+   "landmark": "santa_marta",
+   "frame": "seg_0105_1.jpg",
+   "img": "img/c20_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.655,
+   "faces_blurred": 0
+  },
+  {
+   "anchor_id": "c218",
+   "src": "companion",
+   "landmark": "santa_marta",
+   "frame": "seg_0295_1.jpg",
+   "img": "img/c218_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.655,
+   "faces_blurred": 0
+  },
+  {
+   "anchor_id": "c201",
+   "src": "companion",
+   "landmark": "santa_marta",
+   "frame": "seg_0272_0.jpg",
+   "img": "img/c201_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.649,
+   "faces_blurred": 0
+  },
+  {
+   "anchor_id": "c22",
+   "src": "companion",
+   "landmark": "santa_marta",
+   "frame": "seg_0106_1.jpg",
+   "img": "img/c22_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.637,
+   "faces_blurred": 0
+  },
+  {
+   "anchor_id": "c148",
+   "src": "companion",
+   "landmark": "madonna",
+   "frame": "seg_0160_0.jpg",
+   "img": "img/c148_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.636,
+   "faces_blurred": 1
+  },
+  {
+   "anchor_id": "c63",
+   "src": "companion",
+   "landmark": "madonna",
+   "frame": "seg_0264_1.jpg",
+   "img": "img/c63_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.634,
+   "faces_blurred": 0
+  },
+  {
+   "anchor_id": "c109",
+   "src": "companion",
+   "landmark": "san_giorgio",
+   "frame": "seg_0034_1.jpg",
+   "img": "img/c109_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.613,
+   "faces_blurred": 4
+  },
+  {
+   "anchor_id": "c107",
+   "src": "companion",
+   "landmark": "san_giorgio",
+   "frame": "seg_0027_0.jpg",
+   "img": "img/c107_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.591,
+   "faces_blurred": 1
+  },
+  {
+   "anchor_id": "c126",
+   "src": "companion",
+   "landmark": "san_giorgio",
+   "frame": "seg_0113_0.jpg",
+   "img": "img/c126_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.577,
+   "faces_blurred": 0
+  },
+  {
+   "anchor_id": "c96",
+   "src": "companion",
+   "landmark": "san_giorgio",
+   "frame": "seg_0406_0.jpg",
+   "img": "img/c96_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.56,
+   "faces_blurred": 3
+  },
+  {
+   "anchor_id": "c106",
+   "src": "companion",
+   "landmark": "san_giorgio",
+   "frame": "seg_0015_0.jpg",
+   "img": "img/c106_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.541,
+   "faces_blurred": 2
+  },
+  {
+   "anchor_id": "c112",
+   "src": "companion",
+   "landmark": "san_giorgio",
+   "frame": "seg_0059_0.jpg",
+   "img": "img/c112_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.539,
+   "faces_blurred": 0
+  },
+  {
+   "anchor_id": "c110",
+   "src": "companion",
+   "landmark": "san_giorgio",
+   "frame": "seg_0049_0.jpg",
+   "img": "img/c110_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.502,
+   "faces_blurred": 2
+  },
+  {
+   "anchor_id": "c97",
+   "src": "companion",
+   "landmark": "san_giorgio",
+   "frame": "seg_0409_0.jpg",
+   "img": "img/c97_gaze.png",
+   "type": "gaze",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.501,
+   "faces_blurred": 1
+  },
+  {
+   "anchor_id": "c105",
+   "src": "companion",
+   "landmark": "san_giorgio",
+   "frame": "seg_0008_0.jpg",
+   "img": "img/c105_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.498,
+   "faces_blurred": 1
+  },
+  {
+   "anchor_id": "c102",
+   "src": "companion",
+   "landmark": "san_giorgio",
+   "frame": "seg_0451_0.jpg",
+   "img": "img/c102_touch.png",
+   "type": "touch",
+   "gaze_xy": [
+    0.5,
+    0.5
+   ],
+   "score": 0.493,
+   "faces_blurred": 0
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0" type="device">
+  <diagram id="system_architecture_v2" name="Architecture">
+    <mxGraphModel dx="1280" dy="500" grid="1" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1280" pageHeight="260" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+
+        <mxCell id="label_authoring" value="&lt;span style=&quot;letter-spacing: 2px;&quot;&gt;&lt;b&gt;AUTHORING&lt;/b&gt; &amp;nbsp;&amp;middot;&amp;nbsp; offline, once per site&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="20" y="0" width="300" height="30" as="geometry" />
+        </mxCell>
+
+        <mxCell id="cloud_vlm" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;VLM cloud&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1.5;dashed=1;dashPattern=1 2;fillColor=#ffffff;strokeColor=#000000;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="684" y="20" width="196" height="40" as="geometry" />
+        </mxCell>
+
+        <mxCell id="box_aria" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;Aria capture&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1.5;fillColor=#ffffff;strokeColor=#000000;fontFamily=Helvetica;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="20" y="76" width="232" height="64" as="geometry" />
+        </mxCell>
+
+        <mxCell id="box_mps" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;MPS + Whisper&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1.5;fillColor=#ffffff;strokeColor=#000000;fontFamily=Helvetica;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="272" y="76" width="232" height="64" as="geometry" />
+        </mxCell>
+
+        <mxCell id="box_stage1" value="&lt;div style=&quot;font-size: 11px; letter-spacing: 1.5px; color: #555555;&quot;&gt;STAGE 1&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Multimodal&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffffff;strokeColor=#000000;fontFamily=Helvetica;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="524" y="76" width="232" height="64" as="geometry" />
+        </mxCell>
+
+        <mxCell id="box_stage2" value="&lt;div style=&quot;font-size: 11px; letter-spacing: 1.5px; color: #555555;&quot;&gt;STAGE 2&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Synthesis&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffffff;strokeColor=#000000;fontFamily=Helvetica;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="776" y="76" width="232" height="64" as="geometry" />
+        </mxCell>
+
+        <mxCell id="box_stage3" value="&lt;div style=&quot;font-size: 11px; letter-spacing: 1.5px; color: #555555;&quot;&gt;STAGE 3&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;KG + points&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffffff;strokeColor=#000000;fontFamily=Helvetica;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="1028" y="76" width="232" height="64" as="geometry" />
+        </mxCell>
+
+        <mxCell id="edge_aria_mps" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1.5;strokeColor=#000000;endArrow=block;endFill=1;" edge="1" parent="1" source="box_aria" target="box_mps">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+
+        <mxCell id="edge_mps_stage1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1.5;strokeColor=#000000;endArrow=block;endFill=1;" edge="1" parent="1" source="box_mps" target="box_stage1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+
+        <mxCell id="edge_stage1_stage2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1.5;strokeColor=#000000;endArrow=block;endFill=1;" edge="1" parent="1" source="box_stage1" target="box_stage2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+
+        <mxCell id="edge_stage2_stage3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1.5;strokeColor=#000000;endArrow=block;endFill=1;" edge="1" parent="1" source="box_stage2" target="box_stage3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+
+        <mxCell id="edge_cloud_stage2" style="edgeStyle=none;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeWidth=1.2;strokeColor=#555555;endArrow=block;endFill=1;" edge="1" parent="1" source="cloud_vlm" target="box_stage2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+
+        <mxCell id="edge_cloud_stage3" style="edgeStyle=none;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeWidth=1.2;strokeColor=#555555;endArrow=block;endFill=1;" edge="1" parent="1" source="cloud_vlm" target="box_stage3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

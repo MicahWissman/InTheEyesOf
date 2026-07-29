@@ -1,0 +1,22 @@
+[Unit]
+Description=InTheEyesOf ask-proxy (Gemini single-shot AI)
+Documentation=https://github.com/lborunda/InTheEyesOf
+After=network.target
+
+[Service]
+Type=simple
+User=eyesof
+WorkingDirectory=/home/eyesof/workspace/InTheEyesOf/server
+
+# Loads KEY=VALUE lines from .env — the file must exist but is never committed
+EnvironmentFile=-/home/eyesof/workspace/InTheEyesOf/.env
+
+ExecStart=/usr/bin/node ask-proxy.js
+Restart=on-failure
+RestartSec=5
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=ask-proxy
+
+[Install]
+WantedBy=multi-user.target

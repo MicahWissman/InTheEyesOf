@@ -1,0 +1,176 @@
+{
+  "recordings": [
+    {
+      "id": "stegercenter1",
+      "lang": "en",
+      "title": "Steger Center — Riva San Vitale",
+      "anchorsFile": "narrative_anchors.json",
+      "pointCloudFile": "pointcloud.528049a2.ply",
+      "pointCloudLodFile": "pointcloud.528049a2.ply",
+      "trajectoryFile": "trajectory_latlon.json"
+    },
+    {
+      "id": "carona",
+      "lang": "en",
+      "title": "Carona — Walk",
+      "anchorsFile": "narrative_anchors.json",
+      "pointCloudFile": "pointcloud.ply",
+      "pointCloudLodFile": "pointcloud.ply",
+      "trajectoryFile": "trajectory_latlon.json"
+    },
+    {
+      "id": "riva1",
+      "lang": "en",
+      "title": "Riva San Vitale — Test",
+      "anchorsFile": "narrative_anchors.json",
+      "pointCloudFile": "pointcloud.ply",
+      "semanticGraphFile": "semantic_graph.json",
+      "trajectoryFile": "trajectory_latlon.json"
+    },
+    {
+      "id": "carona_adine",
+      "lang": "en",
+      "title": "Carona — In the Eyes of Adine",
+      "anchorsFile": "anchors_route.json",
+      "pointCloudFile": "pointcloud.ply",
+      "pointCloudLodFile": "pointcloud.ply",
+      "trajectoryFile": "trajectory_latlon.json"
+    },
+    {
+      "id": "riva1",
+      "title": "Riva Test 1",
+      "anchorsFile": "narrative_anchors.json",
+      "pointCloudFile": "pointcloud.ply",
+      "semanticGraphFile": "semantic_graph.json",
+      "trajectoryFile": "trajectory_latlon.json"
+    },
+    {
+      "id": "Irchel_30_expanded2_v1",
+      "title": "Irchel Park 30 expanded script 2",
+      "anchorsFile": "narrative_anchors.json",
+      "pointCloudFile": "pointcloud.ply",
+      "semanticGraphFile": "semantic_graph.json",
+      "trajectoryFile": "trajectory_latlon.json"
+    },
+    {
+      "id": "Irchel_30_enriched_v2",
+      "title": "Irchel Park 30 enriched script 2 v2",
+      "anchorsFile": "narrative_anchors.json",
+      "pointCloudFile": "pointcloud.ply",
+      "semanticGraphFile": "semantic_graph.json",
+      "trajectoryFile": "trajectory_latlon.json"
+    },
+    {
+      "id": "Irchel_30_enriched_v3",
+      "title": "Irchel Park 30 enriched script 2 v3",
+      "anchorsFile": "narrative_anchors.json",
+      "pointCloudFile": "pointcloud.ply",
+      "semanticGraphFile": "semantic_graph.json",
+      "trajectoryFile": "trajectory_latlon.json"
+    },
+    {
+      "id": "Irchel_30_enriched_v3.5",
+      "title": "Irchel Park 30 enriched script 2 v3.5",
+      "anchorsFile": "narrative_anchors.json",
+      "pointCloudFile": "pointcloud.ply",
+      "semanticGraphFile": "semantic_graph.json",
+      "trajectoryFile": "trajectory_latlon.json"
+    },
+    {
+      "id": "Irchel_30_enriched_v3.6",
+      "title": "Irchel Park 30 enriched script 2 v3.6 (balanced graph)",
+      "anchorsFile": "narrative_anchors.json",
+      "pointCloudFile": "pointcloud.ply",
+      "semanticGraphFile": "semantic_graph.json",
+      "trajectoryFile": "trajectory_latlon.json"
+    },
+    {
+      "id": "Irchel_30_enriched_v4.0",
+      "title": "Irchel Park 30 enriched script 2 v4.0 (semantic-focused: 49 anchors, 57 edges)",
+      "anchorsFile": "narrative_anchors.json",
+      "pointCloudFile": "pointcloud.ply",
+      "semanticGraphFile": "semantic_graph.json",
+      "trajectoryFile": "trajectory_latlon.json"
+    },
+    {
+      "id": "StegerCenter1_guided1",
+      "title": "Steger Center 1 — guided script 1 (storytelling)",
+      "anchorsFile": "narrative_anchors.json",
+      "pointCloudFile": "pointcloud.ply",
+      "semanticGraphFile": "semantic_graph.json",
+      "trajectoryFile": "trajectory_latlon.json"
+    },
+    {
+      "id": "StegerCenter1_enriched2",
+      "title": "Steger Center 1 — enriched script 2 (object inventory)",
+      "anchorsFile": "narrative_anchors.json",
+      "pointCloudFile": "pointcloud.ply",
+      "semanticGraphFile": "semantic_graph.json",
+      "trajectoryFile": "trajectory_latlon.json"
+    },
+    {
+      "id": "Irchel_30_guided1",
+      "title": "Irchel Park 30 — guided script 1 (storytelling)",
+      "anchorsFile": "narrative_anchors.json",
+      "pointCloudFile": "pointcloud.ply",
+      "semanticGraphFile": "semantic_graph.json",
+      "trajectoryFile": "trajectory_latlon.json"
+    },
+    {
+      "id": "Irchel_30_enriched2",
+      "title": "Irchel Park 30 — enriched script 2 (object inventory)",
+      "anchorsFile": "narrative_anchors.json",
+      "pointCloudFile": "pointcloud.ply",
+      "semanticGraphFile": "semantic_graph.json",
+      "trajectoryFile": "trajectory_latlon.json"
+    },
+    {
+      "id": "Carona_02_companion",
+      "title": "Carona 02 — companion (Carona gaze + Adine expert speech, intent-gated)",
+      "anchorsFile": "narrative_anchors.json",
+      "pointCloudFile": "pointcloud.ply",
+      "semanticGraphFile": "semantic_graph.json",
+      "trajectoryFile": "trajectory_latlon.json"
+    },
+    {
+      "id": "Carona_02_companion_filtered",
+      "title": "Carona 02 — companion (filter-before: L3 aside removed pre-synthesis)",
+      "anchorsFile": "narrative_anchors.json",
+      "pointCloudFile": "pointcloud.ply",
+      "semanticGraphFile": "semantic_graph.json",
+      "trajectoryFile": "trajectory_latlon.json"
+    },
+    {
+      "id": "Carona_03_companion",
+      "title": "Carona 03 — companion (later-filter / intent-gated)",
+      "anchorsFile": "narrative_anchors.json",
+      "pointCloudFile": "pointcloud.ply",
+      "semanticGraphFile": "semantic_graph.json",
+      "trajectoryFile": "trajectory_latlon.json"
+    },
+    {
+      "id": "Carona_03_companion_filtered",
+      "title": "Carona 03 — companion (filter-before / L3 removed)",
+      "anchorsFile": "narrative_anchors.json",
+      "pointCloudFile": "pointcloud.ply",
+      "semanticGraphFile": "semantic_graph.json",
+      "trajectoryFile": "trajectory_latlon.json"
+    },
+    {
+      "id": "Carona_02_03_companion",
+      "title": "Carona 02+03 — MERGED companion (later-filter, cross-part edges)",
+      "anchorsFile": "narrative_anchors.json",
+      "pointCloudFile": "pointcloud.ply",
+      "semanticGraphFile": "semantic_graph.json",
+      "trajectoryFile": "trajectory_latlon.json"
+    },
+    {
+      "id": "Carona_02_03_companion_filtered",
+      "title": "Carona 02+03 — MERGED companion (filter-before, cross-part edges)",
+      "anchorsFile": "narrative_anchors.json",
+      "pointCloudFile": "pointcloud.ply",
+      "semanticGraphFile": "semantic_graph.json",
+      "trajectoryFile": "trajectory_latlon.json"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "alpha": 0.8,
+        "beta": 0.2,
+        "gamma": 0.5,
+        "threshold": 0.45,
+        "model": "all-MiniLM-L6-v2"
+    },
+    "nodes": [
+        {
+            "id": 0,
+            "cluster_id": 0,
+            "title": "Entry Threshold",
+            "pos": [
+                -30.45,
+                -21.8,
+                1.5
+            ],
+            "time": "0.0s - 15.3s"
+        },
+        {
+            "id": 1,
+            "cluster_id": 1,
+            "title": "Working Surface",
+            "pos": [
+                -28.2,
+                -18.4,
+                4.2
+            ],
+            "time": "1:07 - 1:37"
+        },
+        {
+            "id": 2,
+            "cluster_id": 2,
+            "title": "Llop's Reading Corner",
+            "pos": [
+                -15.3,
+                -12.5,
+                3.8
+            ],
+            "time": "2:37 - 3:07"
+        },
+        {
+            "id": 3,
+            "cluster_id": 3,
+            "title": "South Light Window",
+            "pos": [
+                -8.5,
+                -5.2,
+                4.6
+            ],
+            "time": "4:47 - 5:22"
+        },
+        {
+            "id": 4,
+            "cluster_id": 4,
+            "title": "Threshold to the Back Room",
+            "pos": [
+                5.4,
+                8.3,
+                3.9
+            ],
+            "time": "6:47 - 7:25"
+        },
+        {
+            "id": 5,
+            "cluster_id": 5,
+            "title": "The Quiet Room",
+            "pos": [
+                15.8,
+                20.5,
+                3.2
+            ],
+            "time": "8:57 - 9:29"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 4,
+            "weight": 0.78,
+            "semantic_sim": 0.81,
+            "spatial_prox": 0.32,
+            "rationale": "Both anchors discuss spatial compression as a deliberate architectural device. The entry threshold introduces the compression-then-release sequence; the back-room threshold echoes it on a smaller scale. Together they frame compression as a recurring vocabulary in the apartment's spatial grammar."
+        },
+        {
+            "source": 1,
+            "target": 3,
+            "weight": 0.71,
+            "semantic_sim": 0.65,
+            "spatial_prox": 0.58,
+            "rationale": "The working surface anchor describes triangulated sight lines including the south window; the south-light anchor explains how that window organizes daily rhythm. The two anchors connect through the expert's implicit claim that workspace placement is mediated by natural light patterns, not abstract floor-plan logic."
+        },
+        {
+            "source": 2,
+            "target": 4,
+            "weight": 0.69,
+            "semantic_sim": 0.74,
+            "spatial_prox": 0.41,
+            "rationale": "Llop's concept of heritage as reciclaje en positivo surfaces in both anchors. The reading corner names it explicitly; the back-room threshold demonstrates it materially \u2014 an old masonry move whose intent has been forgotten but whose effect persists. Both anchors are arguments that buildings carry conceptual content forward through time."
+        },
+        {
+            "source": 2,
+            "target": 5,
+            "weight": 0.62,
+            "semantic_sim": 0.68,
+            "spatial_prox": 0.28,
+            "rationale": "Both anchors describe spaces that resist categorization. The reading corner is intellectually private; the quiet room is programmatically undefined. The expert frames each as essential precisely because of its under-definition. The most meaningful spaces in a dwelling may be those the architectural program cannot account for."
+        },
+        {
+            "source": 3,
+            "target": 5,
+            "weight": 0.54,
+            "semantic_sim": 0.49,
+            "spatial_prox": 0.45,
+            "rationale": "The south-light anchor describes the apartment's temporal rhythm via light; the quiet room anchor describes its psychological rhythm via absence of program. Both point to dimensions of habitation that purely visual capture cannot represent without expert narration."
+        }
+    ]
+}

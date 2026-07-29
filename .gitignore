@@ -1,0 +1,20 @@
+# Ignore dependency and cache directories
+__pycache__/
+lib/
+site-packages/
+venv/
+.venv/
+ORB_SLAM3/
+Pangolin/
+semantic_report_output/
+secrets.json
+.env
+pipeline_results/
+backend/conversation-service/data/
+backend/conversation-service/.env
+backend/conversation-service/node_modules/
+server/node_modules/
+web-viewer/public/tiles/web-viewer/public/recordings/carona_adine/bubbles_lite.zip
+
+pipeline_results_*
+reccordings_aria/

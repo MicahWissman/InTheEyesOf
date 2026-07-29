@@ -1,0 +1,211 @@
+[
+  {
+    "id": 0,
+    "start_ts": 303463325,
+    "gx": 20.7384,
+    "gy": -2.2823,
+    "gz": -31.6155,
+    "narrative_title": "Arrival — The Threshold",
+    "narrative": "We begin at the corner of the building, under the Virginia Tech flag. The plaque reads Steger Center for International Scholarship — Fondazione Olivio Ferrari, Via Settala 8. This is the threshold: the pause at the edge before entering, where the institution announces itself to the street.",
+    "relative_time": "303s",
+    "source": "narration",
+    "streams": [
+      "audio"
+    ],
+    "confidence": "high",
+    "narrative_description": "We begin at the corner of the building, under the Virginia Tech flag. The plaque reads Steger Center for International Scholarship — Fondazione Olivio Ferrari, Via Settala 8. This is the threshold: the pause at the edge before entering, where the institution announces itself to the street.",
+    "end_ts": 359463325,
+    "audioUrl": "audio/anchor_000.mp3",
+    "audioCaption": "We begin at the corner of the building, under the Virginia Tech flag. The plaque reads Steger Center for International Scholarship — Fondazione Olivio Ferrari, Via Settala 8. This is the threshold: the pause at the edge before entering, where the institution announces itself to the street."
+  },
+  {
+    "id": 1,
+    "start_ts": 359463325,
+    "gx": 23.659,
+    "gy": -3.5553,
+    "gz": 32.1361,
+    "narrative_title": "The Olivio Ferrari Foundation",
+    "narrative": "Along the facade is the office of the Fondazione Olivio Ferrari — the foundation whose name the center carries and whose lineage shapes its mission. (Audio largely inaudible here; confirm framing with a vision pass before publishing.)",
+    "relative_time": "359s",
+    "source": "narration",
+    "streams": [
+      "audio"
+    ],
+    "confidence": "partial",
+    "narrative_description": "Along the facade is the office of the Fondazione Olivio Ferrari — the foundation whose name the center carries and whose lineage shapes its mission. (Audio largely inaudible here; confirm framing with a vision pass before publishing.)",
+    "end_ts": 645782325,
+    "audioUrl": "audio/anchor_001.mp3",
+    "audioCaption": "Along the facade is the office of the Fondazione Olivio Ferrari — the foundation whose name the center carries and whose lineage shapes its mission. (Audio largely inaudible here; confirm framing with a vision pass before publishing.)"
+  },
+  {
+    "id": 2,
+    "start_ts": 645782325,
+    "gx": -13.1766,
+    "gy": 2.1437,
+    "gz": 44.8215,
+    "narrative_title": "The Cafeteria Commons",
+    "narrative": "Past the sound of the church bell and down the stairs, the cafe — the social heart of the center, where everyone gathers for coffee together. The room that does the quiet work of community before any teaching begins.",
+    "relative_time": "646s",
+    "source": "narration",
+    "streams": [
+      "audio"
+    ],
+    "confidence": "high",
+    "narrative_description": "Past the sound of the church bell and down the stairs, the cafe — the social heart of the center, where everyone gathers for coffee together. The room that does the quiet work of community before any teaching begins.",
+    "end_ts": 878403325,
+    "audioUrl": "audio/anchor_002.mp3",
+    "audioCaption": "Past the sound of the church bell and down the stairs, the cafe — the social heart of the center, where everyone gathers for coffee together. The room that does the quiet work of community before any teaching begins."
+  },
+  {
+    "id": 3,
+    "start_ts": 878403325,
+    "gx": 12.4985,
+    "gy": -2.4111,
+    "gz": -3.9776,
+    "narrative_title": "Central Lobby — First Panorama",
+    "narrative": "Point one: the central lobby. From here the building organizes itself — the first full 360, the hinge from which the circulation of the whole center can be read.",
+    "relative_time": "878s",
+    "source": "narration",
+    "streams": [
+      "audio"
+    ],
+    "confidence": "high",
+    "narrative_description": "Point one: the central lobby. From here the building organizes itself — the first full 360, the hinge from which the circulation of the whole center can be read.",
+    "end_ts": 1080283325,
+    "audioUrl": "audio/anchor_003.mp3",
+    "audioCaption": "Point one: the central lobby. From here the building organizes itself — the first full 360, the hinge from which the circulation of the whole center can be read."
+  },
+  {
+    "id": 4,
+    "start_ts": 1080283325,
+    "gx": -13.9651,
+    "gy": -2.4698,
+    "gz": 10.8929,
+    "narrative_title": "Aula B",
+    "narrative": "Into Aula B, one of the teaching classrooms. A working room — the everyday space of instruction the center is built to serve.",
+    "relative_time": "1080s",
+    "source": "narration",
+    "streams": [
+      "audio"
+    ],
+    "confidence": "high",
+    "narrative_description": "Into Aula B, one of the teaching classrooms. A working room — the everyday space of instruction the center is built to serve.",
+    "end_ts": 1267803325,
+    "audioUrl": "audio/anchor_004.mp3",
+    "audioCaption": "Into Aula B, one of the teaching classrooms. A working room — the everyday space of instruction the center is built to serve."
+  },
+  {
+    "id": 5,
+    "start_ts": 1267803325,
+    "gx": -16.4329,
+    "gy": 0.3911,
+    "gz": -2.3037,
+    "narrative_title": "Aula A",
+    "narrative": "Aula A, its companion. Together the two aulas form the teaching core of the lower levels.",
+    "relative_time": "1268s",
+    "source": "narration",
+    "streams": [
+      "audio"
+    ],
+    "confidence": "high",
+    "narrative_description": "Aula A, its companion. Together the two aulas form the teaching core of the lower levels.",
+    "end_ts": 1322222325,
+    "audioUrl": "audio/anchor_005.mp3",
+    "audioCaption": "Aula A, its companion. Together the two aulas form the teaching core of the lower levels."
+  },
+  {
+    "id": 6,
+    "start_ts": 1322222325,
+    "gx": -11.0589,
+    "gy": 0.3841,
+    "gz": -1.2269,
+    "narrative_title": "The Dining Room",
+    "narrative": "Back to the comedor. Here the residential rhythm of the center shows itself — scholars in residence, meals shared as part of the program's fabric.",
+    "relative_time": "1322s",
+    "source": "narration",
+    "streams": [
+      "audio"
+    ],
+    "confidence": "high",
+    "narrative_description": "Back to the comedor. Here the residential rhythm of the center shows itself — scholars in residence, meals shared as part of the program's fabric.",
+    "end_ts": 1367802325,
+    "audioUrl": "audio/anchor_006.mp3",
+    "audioCaption": "Back to the comedor. Here the residential rhythm of the center shows itself — scholars in residence, meals shared as part of the program's fabric."
+  },
+  {
+    "id": 7,
+    "start_ts": 1367802325,
+    "gx": -2.5907,
+    "gy": 0.6094,
+    "gz": -15.686,
+    "narrative_title": "Architecture Library — Mies & the Barcelona Pavilion",
+    "narrative": "The architecture library. On the shelves: Mies van der Rohe, Barcelona — the Barcelona Pavilion, that touchstone of modern space, its flowing planes and dissolved walls. A small but pointed collection that declares the center's architectural allegiances.",
+    "relative_time": "1368s",
+    "source": "narration",
+    "streams": [
+      "audio"
+    ],
+    "confidence": "high",
+    "narrative_description": "The architecture library. On the shelves: Mies van der Rohe, Barcelona — the Barcelona Pavilion, that touchstone of modern space, its flowing planes and dissolved walls. A small but pointed collection that declares the center's architectural allegiances.",
+    "end_ts": 1577802325,
+    "audioUrl": "audio/anchor_007.mp3",
+    "audioCaption": "The architecture library. On the shelves: Mies van der Rohe, Barcelona — the Barcelona Pavilion, that touchstone of modern space, its flowing planes and dissolved walls. A small but pointed collection that declares the center's architectural allegiances."
+  },
+  {
+    "id": 8,
+    "start_ts": 1577802325,
+    "gx": 15.6838,
+    "gy": 0.5923,
+    "gz": -26.8417,
+    "narrative_title": "The Architecture Studio",
+    "narrative": "Into the architecture studio — the making space, captured across two panoramas. Where scholarship becomes drawing and model; the productive heart of the upper floors.",
+    "relative_time": "1578s",
+    "source": "narration",
+    "streams": [
+      "audio"
+    ],
+    "confidence": "high",
+    "narrative_description": "Into the architecture studio — the making space, captured across two panoramas. Where scholarship becomes drawing and model; the productive heart of the upper floors.",
+    "end_ts": 1720000000,
+    "audioUrl": "audio/anchor_008.mp3",
+    "audioCaption": "Into the architecture studio — the making space, captured across two panoramas. Where scholarship becomes drawing and model; the productive heart of the upper floors."
+  },
+  {
+    "id": 9,
+    "start_ts": 1720000000,
+    "gx": 4.0814,
+    "gy": 1.7983,
+    "gz": -2.5406,
+    "narrative_title": "Faculty Office — A Human Mark",
+    "narrative": "The faculty office. Among the working surfaces, my daughter's stickers — a small human mark in an institutional room, the detail that reminds you these spaces are lived in, not just used.",
+    "relative_time": "1720s",
+    "source": "narration",
+    "streams": [
+      "audio"
+    ],
+    "confidence": "medium",
+    "narrative_description": "The faculty office. Among the working surfaces, my daughter's stickers — a small human mark in an institutional room, the detail that reminds you these spaces are lived in, not just used.",
+    "end_ts": 1873242325,
+    "audioUrl": "audio/anchor_009.mp3",
+    "audioCaption": "The faculty office. Among the working surfaces, my daughter's stickers — a small human mark in an institutional room, the detail that reminds you these spaces are lived in, not just used."
+  },
+  {
+    "id": 10,
+    "start_ts": 1873242325,
+    "gx": 12.6186,
+    "gy": 7.0847,
+    "gz": -8.3073,
+    "narrative_title": "Top-Floor Study Room",
+    "narrative": "Up through the third floor to the top: the study room on the fourth floor — the highest and quietest, about six meters above the entrance. The end of the climb, a place simply to think.",
+    "relative_time": "1873s",
+    "source": "narration",
+    "streams": [
+      "audio"
+    ],
+    "confidence": "high",
+    "narrative_description": "Up through the third floor to the top: the study room on the fourth floor — the highest and quietest, about six meters above the entrance. The end of the climb, a place simply to think.",
+    "end_ts": 1903242325,
+    "audioUrl": "audio/anchor_010.mp3",
+    "audioCaption": "Up through the third floor to the top: the study room on the fourth floor — the highest and quietest, about six meters above the entrance. The end of the climb, a place simply to think."
+  }
+]

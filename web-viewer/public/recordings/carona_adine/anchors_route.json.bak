@@ -1,0 +1,848 @@
+{
+  "experience": "In the Eyes of Adine — full route (graph-node consolidated)",
+  "languages": [
+    "it",
+    "en"
+  ],
+  "unit": "semantic_graph node, nseg>=5, deduped; first-person from full member-segment transcripts",
+  "count": 31,
+  "candidates": [
+    {
+      "node_id": 314,
+      "landmark": "connecting",
+      "placement": "cloud",
+      "lat": 45.9562639,
+      "lon": 8.9336775,
+      "nseg": 328,
+      "score": 0.28,
+      "title": "Invasive Plants vs Local Flora",
+      "hasAudio": true,
+      "audioUrls": {
+        "it": {
+          "m": "audio_route/node_314.it.m.mp3",
+          "f": "audio_route/node_314.it.f.mp3"
+        },
+        "en": {
+          "m": "audio_route/node_314.en.m.mp3",
+          "f": "audio_route/node_314.en.f.mp3"
+        }
+      },
+      "narrative": {
+        "it": "Ricordate il giardino con quella recinzione che ci separa dal mondo naturale? Quella separazione esplode quando arrivano i ristoranti: piantano specie a caso, amazzoniche, e una palma africana invasiva — un problema enorme. Ogni palma con semi vivi vale una multa di diecimila franchi. Quello invece è il giglio di San Giovanni, una pianta di qui, importante e simbolica; ma le mettono per la bellezza, non per il significato. Ogni pianta porta una storia: se ricolleghiamo il disegno dei giardini ai monumenti, arricchiamo il patrimonio in modo fantastico.",
+        "en": "Remember the garden with that fence that separates us from the natural world? That separation explodes when the restaurants arrive: they plant species at random — Amazonian ones — and an African palm that's invasive, a huge problem. Each palm with live seeds is worth a ten-thousand-franc fine. That, instead, is the lily of Saint John, a plant from here, important and symbolic; but they plant it for beauty, not for meaning. Every plant carries a story: if we reconnect the design of the gardens to the monuments, we enrich the heritage in a fantastic way."
+      },
+      "expertVerbatim": "Pero la idea del jardín que yo les he mostrado, allá en el bosquecito, esa reja donde como hay una separación con el mundo natural. Esa cosa se explota cuando llegan esos restaurantes. O sea, los restaurantes empiezan a poner plantas al azar tipo esas son amazónicas. La palma es africana y la palma es invasiva. Es un problema gigante. Cada palma con semillas vivas debería producir una multa de 10.000 francos, por decir lo invasivo que es. Eso en cambio es el Lilio de San Juan, que es una planta de acá, que es muy importante y muy hermosa y también muy simbólica, pero los ponen para la belleza, no lo ponen para el significado. Todas esas plantas vienen con una historia. Si nosotros volvemos a conectar el diseño de los jardines y de las plantas con los monumentos, vamos a enriquecer de una manera fantástica el patrimonio.",
+      "verbatimLang": "es"
+    },
+    {
+      "node_id": 450,
+      "landmark": "connecting",
+      "placement": "cloud",
+      "lat": 45.9585099,
+      "lon": 8.9370465,
+      "nseg": 67,
+      "score": 0.521,
+      "title": "Altar's Symbolic Light Play",
+      "hasAudio": true,
+      "audioUrls": {
+        "it": {
+          "m": "audio_route/node_450.it.m.mp3",
+          "f": "audio_route/node_450.it.f.mp3"
+        },
+        "en": {
+          "m": "audio_route/node_450.en.m.mp3",
+          "f": "audio_route/node_450.en.f.mp3"
+        }
+      },
+      "narrative": {
+        "it": "Quella linea perfora l'altare e va verso la montagna: se la traccio da quell'angolo ed esce di là, arriva esattamente davanti al monte. San Giorgio è posizionato guardando se stesso nella montagna — incredibile, no? E poi si ripete questo «prosciutto», il marmo di Arzo: comincerete a rivederlo tutt'intorno, negli altari monumentali delle cattedrali, perché era venduto a un prezzo incredibile. Guardate: la parte nera intorno non è marmo, è proprio lui.",
+        "en": "That line pierces the altar and runs toward the mountain: if I draw it from that corner and let it out there, it arrives exactly before the peak. San Giorgio is placed looking at himself in the mountain — incredible, isn't it? And then this 'prosciutto' returns, the marble of Arzo: you'll begin to see it all around, in the monumental altars of cathedrals, because it was sold at an incredible price. Look: the black part around it isn't marble — it's the very same stone."
+      },
+      "expertVerbatim": "che praticamente perforava l'altare e andava verso la montagna ma anche lui se io traccio una linea esattamente da quell'angolo e la faccio uscire di là, arriverà esattamente davanti alla montagna. San Giorgio viene posizionato guardandolo, guardando se stesso nella montagna. Incredibile, no? Incredibile, sì o no? E poi cosa si ripete? Questo prosciutto che avevano già visto, ve lo ricordate? Qui è più prosciutto cotto. è sempre lui, comincerete a rivedere tutto qui intorno i diversi elementi che compongono tutte queste chiese in questo modo. che non troverete in molte altre chiese fuori da qui. Se trovate questa pietra, la trovate per elementi molto specifici di altari molto monumentali di cattedrali, cioè era venduto a un prezzo incredibile questa pietra. E anche lì lo vedete. Lo vedete lì? Lo vedete all'interno di elementi? circondati di nero la parte nera non è marmo marmo di Arzo, ma tutto il resto lo è. Questo in miniatura è identico a quello che troverete in San Lorenzo. cioè l'idea della massima composizione dei marmi che si riflette in una massima organizzazione dello spazio plastico. E' evidente che questo altare è stato costruito un pochino dopo il dipinto. Però la storia di questi dipinti è importante. Per esempio, qui c'è una copia veramente bella delle audizioni L'avete riconosciuto? Questo è quasi Michelangelo, anzi, sia qui che qui. Alla mattina Quando il sole entra da quella finestra, Questo è molto illuminato e questo resta oscuro. Perché questa parte, soprattutto la parte inferiore, è la parte dei dannati. Quindi l'illuminazione di questa chiesa per la diversità. diverse composizioni delle opere dipende dall'apertura delle finestre. Vedete che ancora per esempio lì c'è una luce in quel punto. che alla mattina l'ultima volta che io sono andata era più o meno lì cioè sale fino qui e probabilmente scende di là Questo vuol dire che questa parte sarà sempre in ombra. la parte più scura di tutto il... di tutto questo coro sarà la parte inferiore di questo dipinto. E qua è super interessante ragazzi, nella controfacciata hanno fatto un'ultima cena. interpretata perché dietro l'ultima cena c'è il paesaggio che ci circonda Leonardo pone uno spazio astratto, pone un luogo concettuale e invece qui l'artista si definendo questo sistema in un luogo reale. e dietro c'è il San Giorgio esattamente ancora una volta vediamo il Monte San Giorgio Sì, è vero, è vero. Ecco volevo... Volevo finire il nostro percorso in questo posto perché mi sembra incredibile come una chiesa del Cinquecento e del Seicento, Sono edifici, sono architetture ultra autoreferenziate perché hanno... Queste chiese hanno 1200 anni di storia prima, quindi non hanno bisogno di niente per costruirsi. in realtà persino dopo tanti secoli questa Chiesa continua a parlare con il paesaggio. Cioè è più facile che lo faccia Santa Marta che sorge in un luogo ancestrale è più facile che lo faccia la Madonna dell'Hongra sorge dentro un bosco ma che lo faccia questa è veramente impressionante perché non ne ha alcun bisogno. E questo vuol dire che la persistenza e il dialogo con la natura, quindi la definizione di un patrimonio bioculturale è ancora parte di un momento rinascimentale che noi erroneamente attribuiamo solo all'essere umano, in cui diciamo che l'interesse è solo, che il centro dell'interesse è L'opera artistica è l'essere umano e invece no, perché guardate come loro definiscono gli elementi della natura. E questo per me è un grande insegnamento. Non so come sarà per voi, ma per me davvero lo è. Ecco, vorrei finire così, ma qui c'è una macchia grigia. dell'arzo, vedete? Qui ce n'è una ossa. Avete qualche domanda?",
+      "verbatimLang": "it"
+    },
+    {
+      "node_id": 239,
+      "landmark": "connecting",
+      "placement": "cloud",
+      "lat": 45.9538279,
+      "lon": 8.9310996,
+      "nseg": 22,
+      "score": 0.384,
+      "title": "Holly's Adaptive Thorn Loss",
+      "hasAudio": true,
+      "audioUrls": {
+        "it": {
+          "m": "audio_route/node_239.it.m.mp3",
+          "f": "audio_route/node_239.it.f.mp3"
+        },
+        "en": {
+          "m": "audio_route/node_239.en.m.mp3",
+          "f": "audio_route/node_239.en.f.mp3"
+        }
+      },
+      "narrative": {
+        "it": "Vedete che in alto quasi non ha spine? Non è la giovinezza della foglia, è una decisione della pianta. In basso, dove arriva il predatore, è chiarissima di spine; ma più cresce, più le perde — guardala là in alto, non ne ha più una sola. È una dimostrazione dell'intelligenza della pianta: ha combattuto per resistere fin qui, e poi è arrivata a un punto in cui ha detto: basta, non serve più.",
+        "en": "See how up high it has almost no thorns? It isn't the youth of the leaf, it's a decision of the plant. Down low, where the predator reaches, it bristles with spines; but the more it grows, the more it sheds them — look up there, not a single one left. It's a demonstration of the plant's intelligence: it fought to survive this far, and then reached a point where it said: enough, it's no longer needed."
+      },
+      "expertVerbatim": "vedi che le parti superiori non hanno spine quasi Lo vedi? Vedi che non hanno spine. Questa non ha niente. Ha cominciato e poi ha detto vabbè dai basta. agrifogli. Vedi qui sotto? Non è una giovinezza della foglia. È una decisione della pianta. Lo vedi? A chi arriva, mira, a chi è chiarissimo. A chi è ultra chiaro. Vedi? Ha una, e se cresce di più, la perderà completamente. Guardala da là in alto. Non ne hai più una sola, lo vedi? Sì, sì, sì. Fantastico, no? È una dimostrazione dell'intelligenza della pianta. è la stessa pianta vedi lei è la stessa Perché lei ha combattuto per resistere fino a qua contro ogni forma di predatore? e poi è arrivato un punto in cui è ok non c'è bisogno più questo non è più pericoloso",
+      "verbatimLang": "it"
+    },
+    {
+      "node_id": 234,
+      "landmark": "connecting",
+      "placement": "cloud",
+      "lat": 45.9535399,
+      "lon": 8.9308066,
+      "nseg": 16,
+      "score": 0.365,
+      "title": "Holly's Spines and Christmas Tradition",
+      "hasAudio": true,
+      "audioUrls": {
+        "it": {
+          "m": "audio_route/node_234.it.m.mp3",
+          "f": "audio_route/node_234.it.f.mp3"
+        },
+        "en": {
+          "m": "audio_route/node_234.en.m.mp3",
+          "f": "audio_route/node_234.en.f.mp3"
+        }
+      },
+      "narrative": {
+        "it": "Se saliamo su, su, su, su — le spine non faranno più così male. Ecco, lì si vede meglio, dietro. Attenti a non confonderlo con altre piante: questo qui è un nocciolo — la nocciola — tutta un'altra cosa. Non riesco a mostrarvelo su questa… cerco un esemplare migliore. Ecco — le foglie in alto, quelle verdi piccoline? Hanno meno spine di queste qui sotto, e piano piano le perdono del tutto.",
+        "en": "If we go up, up, up, up — the thorns won't bite as much anymore. There, you can see it better now, behind. Careful not to confuse it with other plants: this one here is a nocciolo, a hazelnut — that's something else entirely. I can't quite show you on this one… let me find a better specimen. There — the leaves up top, those little green ones? They have fewer spines than these down here, and little by little they lose them altogether."
+      },
+      "expertVerbatim": "Si vamos arriba, arriba, arriba, arriba, arriba, las espinas ya no van a hacer tanto. Ok. Ahí se ve mejor, ahí se ve detrás, se ve un poco. A ver, es que está un poco confundido con otras. O sea, esto es un nocholo. Hazelnut. Hazelnut. Ese es un ocho. Avellana. Ese es una avellana. Eso es una... no lo puedo hacérselo ver. Busco otra planta que se vea un poco mejor. Ok. Las hojas de arriba. quelle lì, quelle verdi piccoline, hanno meno spine. che queste qua e piano piano le perdono.",
+      "verbatimLang": "es"
+    },
+    {
+      "node_id": 458,
+      "landmark": "connecting",
+      "placement": "cloud",
+      "lat": 45.9584759,
+      "lon": 8.9369925,
+      "nseg": 7,
+      "score": 0.307,
+      "title": "Interpreting Sacred Inscription",
+      "hasAudio": true,
+      "audioUrls": {
+        "it": {
+          "m": "audio_route/node_458.it.m.mp3",
+          "f": "audio_route/node_458.it.f.mp3"
+        },
+        "en": {
+          "m": "audio_route/node_458.en.m.mp3",
+          "f": "audio_route/node_458.en.f.mp3"
+        }
+      },
+      "narrative": {
+        "it": "Leggiamo l'iscrizione: «la santità della tua casa domina». Signore, concedici la santità della tua casa, dice la prima frase. E poi, con le preghiere: «domus mea» — la casa diventa mia; grazie alle orazioni, questa casa diventerà mia.",
+        "en": "Let's read the inscription: 'the holiness of your house prevails.' Lord, grant us the holiness of your house, says the first line. And then, through the prayers: 'domus mea' — the house becomes mine; thanks to the prayers, this house will become mine."
+      },
+      "expertVerbatim": "La santidad de tu casa domina. o señor concede concedenos la santidad de tu casa dice la primera frase Y vocábitur, oraciones con las rezos. La casa se vuelve mía, domus mea. Gracias a las oraciones, esta casa se volverá. Mía, también. Y la última.",
+      "verbatimLang": "es"
+    },
+    {
+      "node_id": 439,
+      "landmark": "connecting",
+      "placement": "cloud",
+      "lat": 45.9583469,
+      "lon": 8.9366585,
+      "nseg": 6,
+      "score": 0.235,
+      "title": "Historical Political Building",
+      "hasAudio": true,
+      "audioUrls": {
+        "it": {
+          "m": "audio_route/node_439.it.m.mp3",
+          "f": "audio_route/node_439.it.f.mp3"
+        },
+        "en": {
+          "m": "audio_route/node_439.en.m.mp3",
+          "f": "audio_route/node_439.en.f.mp3"
+        }
+      },
+      "narrative": {
+        "it": "Le piazze politiche erano separate da quelle religiose, ma c'è stato un periodo precedente in cui convivevano. Qui il potere politico è segnalato dagli stemmi dei diversi cantoni, su un palazzo comunale — questi sono tutti i cantoni, vedete? Lucerna, Berna, Zurigo. Aspettate — guardiamolo meglio. Sì, direi di sì.",
+        "en": "The political squares were kept separate from the religious ones, but there was an earlier period when they coexisted. Here political power is marked by the coats of arms of the different cantons, displayed on a town hall — these are all the cantons, see? Lucerne, Bern, Zurich. Wait — let's take a closer look at it. Yes, I'd say so."
+      },
+      "expertVerbatim": "Le piazze politiche erano separate da quelle religiose. Ma ce ne state? uno precedente in cui queste convivevano Quindi il potere politico che è segnalato qui dai diversi cantoni, da un palazzo comunale, Questi sono per esempio, sono tutti i cantoni, vedi Lucerna, Berna, Zurigo. ah aspetta eh vediamola si ti direi di si",
+      "verbatimLang": "it"
+    },
+    {
+      "node_id": 71,
+      "landmark": "madonna",
+      "placement": "cloud",
+      "lat": 45.9517809,
+      "lon": 8.9256616,
+      "nseg": 25,
+      "score": 0.38,
+      "title": "Interpreting Heritage: Architecture, Nature",
+      "hasAudio": true,
+      "audioUrls": {
+        "it": {
+          "m": "audio_route/node_71.it.m.mp3",
+          "f": "audio_route/node_71.it.f.mp3"
+        },
+        "en": {
+          "m": "audio_route/node_71.en.m.mp3",
+          "f": "audio_route/node_71.en.f.mp3"
+        }
+      },
+      "narrative": {
+        "it": "Il Ticino di oggi assomiglia più alla scuola francese che a quella inglese. La scuola inglese dice che un edificio è come una vecchia zia: le dai un bastone, la curi un po', ma non puoi impedirle di morire — e così i viaggiatori inglesi disegnavano le rovine coperte d'edera. La scuola francese, invece, dice: bisogna restituire l'idea di com'era. Manca la torre? La rifacciamo. Carcassonne è un intero villaggio medievale inventato nell'Ottocento; e anche il Castello Sforzesco a Milano fu rifatto così, dalle stesse famiglie che da qui esercitavano la loro influenza.",
+        "en": "Today's Ticino resembles the French school more than the English one. The English school says a building is like an old aunt: you give her a cane, you care for her a little, but you can't stop her from dying — and so English travelers drew ruins covered in ivy. The French school instead says: you must give back the idea of what it was. The castle's tower is missing? We rebuild it. Carcassonne is an entire medieval village practically invented in the 1800s; and Milan's Sforza Castle was redone the same way, by the very families who exercised their influence from here."
+      },
+      "expertVerbatim": "e soprattutto nel Ticino di ora che è più simile alla scuola francese che alla scuola inglese. La scuola inglese dice che l'edificio è come la tua vecchia zia. gli metti un bastone ma non le puoi impedire di morire ok? la curi un po' E questo crea una scuola di pensiero dell'edificio antico che bisogna che si veda. vecchio esempi di questo sono i viaggiatori inglesi che disegnano tutte queste rovine con l'edera sopra che vedi di più l'edera dell'edificio e poi invece c'è la scuola francese che dice no bisogna dare l'idea di che cos'era Quindi non so, mancava la torre, manca la torre di un castello? Eh, la facciamo. Come la facciamo? Ma così cerchiamo dei documenti, però l'importante è rifare. Per esempio, questo c'è un intero villaggio medievale con castello, mura e tutto, che si chiama Carcassonne, che è stato completamente inventato. nel 1800 per dare l'idea di come era il Medioevo ma senza andare troppo lontano anche a Milano è così il Castello Sforzesco che è stato costruito dalle stesse persone che esercitavano un'influenza politica e culturale qua che poi era in rovina, è stato ricostruito nel 1800 con una torre che si chiama Torre del Filarete, filarete non ha costruito mai se la sono inventati sui dei disegni carino facciamo lui non era che di milano E questo dà un'idea di come tante volte queste storie e trasformano in maniera radicale i luoghi. E forse è uno dei modi migliori per entrare in contatto con il patrimonio bioculturale. Uno come questo, dove abbiamo un bosco... che informa su certe cose e poi come gli esseri umani lo interpretano la convivenza, è come navigare tra gli endemismi e le storie venute da fuori. e questi sono francesi cioè dicono bisogna pulire tutto",
+      "verbatimLang": "it"
+    },
+    {
+      "node_id": 148,
+      "landmark": "madonna",
+      "placement": "cloud",
+      "lat": 45.9519729,
+      "lon": 8.9262776,
+      "nseg": 7,
+      "score": 0.364,
+      "title": "Huge Road Destroys Surprise",
+      "hasAudio": true,
+      "audioUrls": {
+        "it": {
+          "m": "audio_route/node_148.it.m.mp3",
+          "f": "audio_route/node_148.it.f.mp3"
+        },
+        "en": {
+          "m": "audio_route/node_148.en.m.mp3",
+          "f": "audio_route/node_148.en.f.mp3"
+        }
+      },
+      "narrative": {
+        "it": "Era qualcosa di fantastico, gigantesco; e poi, in epoca fascista, gli aprono una strada enorme — la via della Conciliazione — che rompe tutto, perché lo vedi da lontano e non è più una sorpresa. Esattamente come hanno fatto qui: ti rompe la sorpresa, ti impedisce di entrare in contatto con il bosco, di entrare in quella rete. Quella strada enorme, con i carri, rovina tutto.",
+        "en": "It was something fantastic, gigantic; and then, in the fascist era, they opened a huge road through it — the Via della Conciliazione — that breaks everything, because you see it from far off and it's no longer a surprise. Exactly as they've done here: it breaks the surprise, it keeps you from coming into contact with the forest, from entering that network. That enormous road, with its carts, ruins it all."
+      },
+      "expertVerbatim": "fantástico gigante y de pronto en época fascista le abren un camino enorme que se llama vía de la conciliación que rompe todo eso, porque lo ves desde lejos, ya no es una sorpresa. Exactamente como han hecho acá, ¿no? te rompe la sorpresa, te impide entrar en contacto con el bosque entrar en esa red y una vez que está en esa red como simples y eso que como que Se abre el camino a la subida a la montaña. Y esta calle enorme con el carro lo estropea todo.",
+      "verbatimLang": "es"
+    },
+    {
+      "node_id": 69,
+      "landmark": "madonna",
+      "placement": "cloud",
+      "lat": 45.9517819,
+      "lon": 8.9257486,
+      "nseg": 41,
+      "score": 0.309,
+      "title": "Loreto's Legacy: Accidental Architecture",
+      "hasAudio": true,
+      "audioUrls": {
+        "it": {
+          "m": "audio_route/node_69.it.m.mp3",
+          "f": "audio_route/node_69.it.f.mp3"
+        },
+        "en": {
+          "m": "audio_route/node_69.en.m.mp3",
+          "f": "audio_route/node_69.en.f.mp3"
+        }
+      },
+      "narrative": {
+        "it": "All'inizio del Cinquecento la Madonna di Loreto fu visitata da un gruppo di principi polacchi, affascinati dal patrimonio italiano. Cercavano un architetto che spiegasse la casa, ma c'era solo il guardiano, che vi aveva lavorato come operaio; per farsi bello disse di essere l'architetto, e spiegò tutto benissimo. Loro si entusiasmarono e lo vollero con sé: lui, senza moglie né figli né legami, disse «perché no» e partì, fingendosi architetto. E così la forma della Casa di Loreto viaggiò fin lontano.",
+        "en": "At the start of the 1500s the Madonna of Loreto was visited by a group of Polish princes, captivated by the Italian heritage. They looked for an architect to explain the house, but there was only the guardian, who'd worked there as a laborer; to make himself look good he said he was the architect, and explained it all beautifully. They were thrilled and wanted him to come with them: he, with no wife, no children, no ties, said 'why not' and set off, pretending to be the architect. And so the form of the House of Loreto traveled far away."
+      },
+      "expertVerbatim": "la Madonna di Loreto venne visitata nel all'inizio del Cinquecento da un gruppo di polacchi Nel 1500 la Polonia viveva un'epoca di... Rinascimento, Rinascenza, era molto interessata a conoscere il patrimonio italiano. Questo gruppo di principi polacchi arriva a Loreto visita la casa di Loreto e cerca l'architetto o qualcuno che guidi la visita e c'è solo il guardiano che ha lavorato un pochino come operaio alla casa però lui per farsi bello dice che lui è l'architetto chi ha detto spiega tutto benissimo questi si entusiasmano è una storia vera si entusiasmano dicono no ma lei deve venire con noi le diamo venga con noi lui non era sposato Non aveva figli, era un guardiano senza niente, senza grandi legami e dice perché no. È così. parte insieme a loro fingendo di essere l'architetto. Questi lo trattano benissimo. Però invece che andare direttamente da Loreto in Polonia, loro fanno moltissime tappe. e nelle tappe che fanno lo presentano come il super architetto. E lui ogni volta nel panico perché non lo è. e nel cammino incontra anche architetti famosi e veri e del Cinquecento entra in biblioteca e siccome lui sa leggere In questo lunghissimo viaggio che fa da Loreto a Cracovia, realmente diventa un architetto perché guardando i monumenti relazionandosi con tutte le persone con cui entra in contatto senza volerlo, a furia di pensare di essere architetto lo diventa e siccome è un uomo molto intelligente Acquisisce tutte le informazioni che gli servono. Quindi quando lui è arrivato a Cracovia... È l'architetto di Loreto. costruisce un'architettura straordinaria quasi identica alla casa di Loreto e contribuisce in una maniera epocale a diffondere questa tipologia. Quindi grazie alla falsificazione di un impostore che però era brillante e intelligente, che ha fatto una carriera incredibile, si sposa, ha numerosi figli, scuola di architettura, non mi ricordo. Cercherò di ricordarlo, lo metteremo. Lui contribuisce a far sì che questa casa senza fondamenta i principi della casa senza fondamenta, della casa degli angeli, arrivi in altri posti del mondo. anche questa è figlia in diretta di questa storia perché se no la casa di Loreto sarebbe rimasta solo a Loreto, invece la leggenda E così questa memoria, questa mitografia di una casa portata dagli angeli senza fondamenta, non sarebbe riuscita a muoversi così tanto. E questo è anche un tema per me importante da capire perché le architetture sono il risultato della combinazione tra la forma del luogo E le storie che arrivano a volte sono come... totalmente imprevedibili. E questa è una di loro, c'è una bellissima via Crucis",
+      "verbatimLang": "it"
+    },
+    {
+      "node_id": 34,
+      "landmark": "madonna",
+      "placement": "cloud",
+      "lat": 45.9518519,
+      "lon": 8.9275286,
+      "nseg": 13,
+      "score": 0.25,
+      "title": "Natural Paths, Lost Instincts",
+      "hasAudio": true,
+      "audioUrls": {
+        "it": {
+          "m": "audio_route/node_34.it.m.mp3",
+          "f": "audio_route/node_34.it.f.mp3"
+        },
+        "en": {
+          "m": "audio_route/node_34.en.m.mp3",
+          "f": "audio_route/node_34.en.f.mp3"
+        }
+      },
+      "narrative": {
+        "it": "Secondo voi è necessario capire dov'è il sentiero? Sembra una domanda da sciocchi — questo vuol dire «sentiero» — ma il fatto che esista ancora indica ciò che cercavo di dire dall'inizio: abbiamo dimenticato una capacità che è nostra, riconoscere un cammino e seguirlo. Io manderei i bambini delle elementari, una volta alla settimana, a fare un pezzo di bosco diverso ogni volta.",
+        "en": "Do you think we need to work out where the path is? It seems a foolish question — this means 'path' — but the fact that it still exists points to what I was trying to say from the start: we've forgotten a capacity that is ours, to recognize a way and follow it. I'd send the primary-school children, once a week, to walk a different stretch of forest each time."
+      },
+      "expertVerbatim": "C'è un tatuaggio involontario, non c'è bisogno di... Secondo voi è necessario capire qui dov'è il cammino? Secondo voi? È così dubbioso? dove sia la direzione? Ok, questo vuol dire sentiero. Siamo idioti. Però il fatto che questo esista ancora una volta indica quello che provavo a dire dall'inizio. Noi abbiamo dimenticato una capacità che abbiamo. che è quella di riconoscere un cammino e seguirlo e fare questo Io manderei i bambini degli elementari una volta alla settimana. fare un percorso in qualche bosco ogni volta un pezzettino diverso quando sono",
+      "verbatimLang": "it"
+    },
+    {
+      "node_id": 135,
+      "landmark": "madonna",
+      "placement": "cloud",
+      "lat": 45.9518019,
+      "lon": 8.9257056,
+      "nseg": 9,
+      "score": 0.242,
+      "title": "Ancient Floor Orienter's Enduring Use",
+      "hasAudio": true,
+      "audioUrls": {
+        "it": {
+          "m": "audio_route/node_135.it.m.mp3",
+          "f": "audio_route/node_135.it.f.mp3"
+        },
+        "en": {
+          "m": "audio_route/node_135.en.m.mp3",
+          "f": "audio_route/node_135.en.f.mp3"
+        }
+      },
+      "narrative": {
+        "it": "Ancora in uso, così. Venite qui — questo era anche nell'archivio. Non so se l'avete notato nel pavimento: è molto importante perché ci dà le direzioni cardinali — è un orientatore. Quando non c'era la bussola, c'erano queste cose. Sta qui, e stava là. Scusate se non l'ho detto prima, ma approfitto per dirvelo adesso.",
+        "en": "Still in use, like this. Come here — this was in the archive too. I'm not sure if you noticed it in the floor: it's quite important because it gives us the cardinal directions — it's an orienter. When there was no compass, there were these. And so it's here, and it was there. Forgive me for not mentioning it earlier, but I'll take this chance to tell you now."
+      },
+      "expertVerbatim": "Así usado. Ven acá. Eso estaba también en el archivo. No sé si lo han visto en el piso. Eso es bien importante porque nos da las direcciones cardinales. Es un orientador. Cuando no había brújula, había esas cosas. Por ende, está acá y estaba allá. Perdón, no se lo dije, pero bueno, aprovecho para decirlo ahora.",
+      "verbatimLang": "es"
+    },
+    {
+      "node_id": 94,
+      "landmark": "san_giorgio",
+      "placement": "cloud",
+      "lat": 45.9514719,
+      "lon": 8.9249536,
+      "nseg": 156,
+      "score": 0.584,
+      "title": "Loreto's Artistic and Historical Significance",
+      "hasAudio": true,
+      "audioUrls": {
+        "it": {
+          "m": "audio_route/node_94.it.m.mp3",
+          "f": "audio_route/node_94.it.f.mp3"
+        },
+        "en": {
+          "m": "audio_route/node_94.en.m.mp3",
+          "f": "audio_route/node_94.en.f.mp3"
+        }
+      },
+      "narrative": {
+        "it": "Perché qui c'è una casa? Perché fu portata dagli angeli: è la casa di Loreto, e «Ongaro» viene da «angelo», una forma dialettale del Cinquecento. È la forma stessa della montagna ad averne deciso la posizione, e ad aver fatto vivere qui questa storia nata a Loreto. Poi incontriamo la mia pietra preferita, il marmo di Arzo — questa specie di prosciutto pieno di fossili: nato dove la roccia si spacca sul Monte San Giorgio, è il marmo più policromo e più difficile da lavorare del pianeta.",
+        "en": "Why is there a house here? Because it was carried by the angels: it's the House of Loreto, and 'Ongaro' comes from 'angel,' a sixteenth-century dialect form. It was the shape of the mountain itself that decided its position, and that let this story born at Loreto come alive here. Then we meet my favorite stone, the marble of Arzo — that prosciutto-like stone full of fossils: born where the rock splits on Monte San Giorgio, it's the most polychrome and most difficult marble to work on the planet."
+      },
+      "expertVerbatim": "La ragione per cui c'è una casa? C'è un edificio perché è stato portato dagli angeli. È la casa di Loreto. e l'espressione Ongero è una forma dialettale. dell'italiano del 1500 che viene dalla parola angelo. E quindi questa è una delle riproduzioni della casa che è stata portata dagli angeli. Perché? Perché siamo sopra una montagna la cui sommitalitica determina la posizione dell'edificio. Quindi la forma della montagna ha permesso l'applicazione della storia. ha permesso che noi conoscessimo questa storia che nasce a Loreto, però diventa vigente qua. perché le caratteristiche naturali lo permettono. poi entriamo in contatto con la mia pietra favorita che si chiama il marmo di arzo questa specie di prosciutto Questa specie di prosciutto contiene fossili molto importanti. nel punto in cui si spacca che vi dicevo sul monte San Giorgio si formano tanti strati Uno di questi diventa il marmo di arzo. Il marmo di arzo è il più policromo e il più difficile da lavorare del pianeta Terra praticamente. perché guardatelo qua, guardate qua. La diversità dei colori corrisponde a una diversità della composizione minerale. Quindi se tu dai un colpo forte, magari riesci a tagliare questo, ma disintegri questo. Per esempio, vedete qua, se voi toccate questo, sentirete che è fratturato. Lo sentite anche qua? Quindi chi è in grado di fare anche solo questa balaustra semplice, che per un marmo di candoglia per un marmo omogeneo è facilissimo chi riesce a fare questo è già un mago Se tu riesci a lavorare questo, se tu riesci a fare queste colonnine, le colonnine hanno meno combinazione cromatica perché se fossero tutte così si sarebbero già spezzate. Chi riesce a lavorare questo è un mago. E questi maghi diventano... I picasas diventano i maestri commaccini, diventano gli scultori incredibili di questa zona, diventano i gessisti. guardate questi gesti, guardate questa roba pazzesco cioè una espressione artistica di chi conosce la lavorazione della pietra e la lavorazione della materia tridimensionale come pochi altri. Sono questi gli artisti che vengono chiamati a Roma a costruire. le statue e i gessi delle chiese romane. Quasi tutti, per esempio, sulla montagna di San Giorgio c'è un villaggio che si chiama Vigiu dove ci sono circa 200 abitanti nel 1600 300 vigiutesi cioè di più di quello che lo villaggio era capace di contenere, abitavano a Roma in un quartier dei vigiutesi. che stava facendo tutte le statue di tutte le chiese di Roma. A questo livello era la abilità di questi scultori architetti cioè il centro del mondo dal punto di vista dell'abilità sculta è determinato ancora una volta dalla natura, dalla difficoltà di lavorare la materia. super interessante oltretutto vedete come varia cromaticamente questa si chiama macchia rossa poi ce n'è un altro più grigio vediamo se lo trovo C'è uno grigio più così, poi c'è uno più giallo, ma vedete che è sempre continuo, cioè è giallo, è grigio, è rosso. Andate a vedere la cattedrale di San Lorenzo, che è dove ovviamente ne hanno messo una quantità esorbitante. Esorbitante nessuna. chiesa di un villaggetto possiede un'architettura di questo tipo. È incredibile la concentrazione e la monumentalità delle opere. In più, con una... come semplicità, tipo voilà, noi sappiamo fare questo. Così, no? Noi siamo così, no? Anche questo per me è sovracogedore, mi commuove vedere che sa fare questo e lo fa così silenziosamente. non solo lo fanno, lo dipingono. non si limitano a saperlo scolpire in 3D, dipingono la loro abilità. È pazzesco, no? E' pazzesco, cioè, e plasmano uno spazio tridimensionale dove non c'è vera differenza tra le l'elemento plastico e l'elemento pittorico. Quando tu sei qui, quando tu eri nel 1700 e vedevi questa cosa, C'era l'altare e dietro è dipinto e i tuoi occhi vedevano un sistema unitario. Noi che siamo rovinati da AutoCAD. e siamo rovinati, vediamo la differenza. Ma nella mente di chi viveva questa cosa? c'è qualche persona importante intanto ogni volta che vedete una mantellina rossa siamo davanti a Carlo Borromeo Romeo, che ha vissuto nel Cinquecento, È molto importante per la storia di queste montagne perché lui ha fatto parte della controriforma. ha inventato le chiese ad aula, dove c'è uno che parla e gli altri che ascoltano. E poi ha fatto un'altra cosa super importante. Siccome durante la controriforma c'era un chiarissimo rischio dell'espansione del pensiero protestante. nell'ambiente insubrico in Lombardia, lui cosa ha fatto? ha preso tutte le processioni che stavano sulle montagne e le ha portate giù. le ha messe dentro i villaggi in modo tale che anche bambini anziani fosse visibile nei villaggi, nelle città, la presenza del cattolicesimo. e però queste montagne erano rimaste un po' spogliate. e quindi per risarcirle ha creato i Sacri Monti. Alcuni di questi sono stati codificati, sono i Sacri Monti, sono nove tra il Piemonte e la Lombardia, ce ne sono un paio in Ticino. ma ci sono anche le montagne sacro-ancestrali dove c'è una via crucis piccola che resta. Quindi lui da un lato porta giù le grandi processioni nei villaggi, però riconosce la sacralità della vita. della montagna ancestrale ed è per questo che questi posti restano e molto spesso c'è sempre come una specie di ringraziamento C'è un buon Romeo che vede una mantellina rossa di ringraziamento per la cosa che è stata fatta. Allora, non si vede perché questa chiesa ha un'illuminazione... elevata e addirittura zenitale per dare una luce abbastanza omogenea all'insieme scultore. però qualcuno riconosce questi due? Potete anche dire a caso, nessuno si offende, quasi nessuno li riconosce. Esatto, lui è San Giorgio. E quello là? Sant'Andrea che va con la croce. San Giorgio e Sant'Andrea sono il nome dell'ultima chiesa che vedremo. Ora, San Giorgio è stato posizionato. su una superficie che tecnicamente in architettura si chiama controfacciata. È molto importante dove guarda. Lui sta guardando di qua. Se io faccio un buco dietro questa bellissima immagine, se io faccio un buco qui dietro c'è Monte San Giorgio. Lui è stato messo in asse, la Chiesa è stata messa in asse. In questo esatto punto tu riesci da questa balaustra un pochino a vedere dell'altro lago, ma essenzialmente questo orientamento sta guardando la montagna. Cosa vuol dire questo? Vuol dire tante cose. Primo, vuol dire che forse qui prima di questo C'era qualcosa che guardava la montagna. E quindi la narrativa cristiana ha integrato questa idea. Magari c'era una piattaforma. magari c'era un altare, magari c'era un tempio o qualche cosa che già era orientato su questa montagna e ha costruito la chiesa però non ha negato questo orientamento. contenuto. Perché lo ha mantenuto? Perché il movimento dei corpi celesti è sempre lo stesso. Tu puoi cambiare quello che ti pare, puoi cancellare i sentieri, Però i corpi celesti continuano a sorgere nello stesso posto tramontare nello stesso posto secondo uno schema che si ripete annualmente. quindi se tu vuoi capire qualche cosa del tempo e dell'estate è molto importante che tu sappia orientare gli edifici di culto. E questo è ciò che fa questo edificio. Adesso proviamo a vedere. Per chi ha una app... che ha una... Chi ha un iPhone troverà questo in dotazione degli iPhone. Allora, normalmente le chiese sono tutte orientate così, cioè noi dovremmo la porta qui e l'altare qua perché Cristo dice io sono la porta E anche c'è una metafora molto forte tra Cristo e il Sole. Sempre... Normalmente il 90% delle volte il sole... Si orienta la chiesa in modo tale che riceva il sole e tramonti a ovest. dove infatti si aprono le porte quando c'è un funerale, per esempio, si apre sempre la porta occidentale, che è la porta principale. Invece, come vedete, questa chiesa fa un'altra cosa guarda a sud Vedete? Vuol dire che sta cercando qualche cosa. Se io apro... sui stopo e cerco che cosa c'è in questa direzione vediamo Naturalmente queste persone non avevano la bussola. Sapete perché non l'avevano? perché non ne avevano bisogno. che è avvilente per noi. vedete questa muraglia è dietro di noi quindi se io volto così Questo muro è questo, e questa cosa sta guardando a sud, ok? se io tiro una linea vado avanti Arrivo a qua. Grazie. E questa chiesa è orientata così, la chiesa di Santa Marta è orientata così e quella di San Giorgio è orientata così. Attorno alla montagna abbiamo chiese disposte come un ventaglio. In questo punto. questo punto della montagna dove vedete questa specie di V è proprio il punto in cui la placca africana Eh... frammenta quella europea e la corruga tutta E da questo punto, infatti, noi abbiamo tutta la geomorfologia, abbiamo tutti i fossili proprio su questa linea. e abbiamo tutta una specialissima composizione di piante medicinali. E chi ha costruito queste chiese lo sapeva e lo ha rispettato. C'è qualche domanda che avete magari, qualche viaggiatura?",
+      "verbatimLang": "it"
+    },
+    {
+      "node_id": 105,
+      "landmark": "san_giorgio",
+      "placement": "cloud",
+      "lat": 45.9515759,
+      "lon": 8.9247456,
+      "nseg": 41,
+      "score": 0.458,
+      "title": "Quartz and Local Architecture",
+      "hasAudio": true,
+      "audioUrls": {
+        "it": {
+          "m": "audio_route/node_105.it.m.mp3",
+          "f": "audio_route/node_105.it.f.mp3"
+        },
+        "en": {
+          "m": "audio_route/node_105.en.m.mp3",
+          "f": "audio_route/node_105.en.f.mp3"
+        }
+      },
+      "narrative": {
+        "it": "Hanno usato così tanti elementi di questa roccia per costruire perché se ne sono accorti: le aree più ricche di quarzo danno strutture in cui il calore si concentra meglio. E dove c'è molta stagionalità è decisivo: scaldi meglio la casa con meno fuochi. Non solo: il quarzo rilascia il calore lentamente e lo accumula piano, così d'estate è più fresco e d'inverno più caldo. Qui non è mai esistito l'adobe — è esistito il quarzo.",
+        "en": "They used so many elements of this rock to build because they realized: the areas richest in quartz give structures where heat concentrates better. And where there's strong seasonality it's decisive: you heat the house better with fewer fires. Not only that: quartz releases heat slowly and stores it slowly, so in summer it's cooler and in winter warmer. Here adobe never existed — quartz did."
+      },
+      "expertVerbatim": "El hecho de que haya tantos elementos líticos de esta roca que han sido utilizado para construir la mayoría de los edificios es porque ellos se han dado cuenta Ellos se han dado cuenta que los elementos líticos y los segmentos, las áreas que contenían más cuarzo, y van a resultar en estructuras en las cuales la la concentración del calor iba a ser superior. Y cuando hay mucha estacionalidad, esto es un hecho crítico porque significa que tú necesitas hacer menos fuegos, o sea, calientas mejor la casa. esencialmente calientas mejor. Ah, otra cosa, no solamente desprende el calor lentamente y progresivamente, lo acumulan más lentamente entonces durante el verano es más fresco y durante el invierno es más caliente. Sí, acá nunca existió el adobe, pero existió el cuarzo. Y esto le da un elemento más. Ya. naturalmente lo que estamos viendo ahora es un uso contemporáneo del de la de la supervivencia del acabado la plataforma pero vamos a ver en estos por ejemplo Seguramente lo que ellos han utilizado acá, mira cómo se ve. Todo eso es cuarzo, ¿ves? Ahora tú dices, eso no me sirve. O sea, una columna Desde el punto de vista de la acumulación y de la difusión del calor, no me interesa. Pero cuando sabemos que la gran mayoría del edificio ha sido construido así, Eso ya nos ayuda a entender la comprensión de los antiguos constructores sobre la composición mineralógica. Ellos no solo son ultraescultores, trabajan muy bien la escultura, Si nos conocen y tienen un conocimiento interiorizado, muy poderoso del composición de la montaña. Por eso saben utilizar exactamente los elementos líticos que les sirven. Y entonces si nosotros, por ejemplo, vamos a mapear el uso de esta roca, vamos a descubrir que está en áreas críticas En relación a la transmisión o la conservación del calor. En ese punto se ven dos partes del lago. Vemos acá una parte del lago de Lugano. Y la de... cómo puedo definirlo, dónde se encuentra mallazo donde se encuentra La Val Malcantone. ¿Ustedes se orientan? Sí.",
+      "verbatimLang": "es"
+    },
+    {
+      "node_id": 112,
+      "landmark": "san_giorgio",
+      "placement": "cloud",
+      "lat": 45.9516109,
+      "lon": 8.9248496,
+      "nseg": 16,
+      "score": 0.381,
+      "title": "Churches, Orientation, and Landscape Views",
+      "hasAudio": true,
+      "audioUrls": {
+        "it": {
+          "m": "audio_route/node_112.it.m.mp3",
+          "f": "audio_route/node_112.it.f.mp3"
+        },
+        "en": {
+          "m": "audio_route/node_112.en.m.mp3",
+          "f": "audio_route/node_112.en.f.mp3"
+        }
+      },
+      "narrative": {
+        "it": "Vi ho detto che San Giorgio è importante: ricordate la posizione, siamo sud-nord, il nord è dietro di me, il sud è qui. A mezzogiorno entra una luce da quella finestra e illumina San Giorgio e Sant'Andrea: non guardano solo la montagna dietro di noi, saranno illuminati da quella finestra. È per questo che la chiesa è stata orientata così — e capisci come la pensavano: tutte le chiese sono punti di vista e di relazione, tra loro, con il bosco, con la punta della montagna.",
+        "en": "I told you San Giorgio is important: remember the position, we're south-north, the north is behind me, the south is here. At midday a light comes through that window and illuminates San Giorgio and Sant'Andrea: they're not only looking at the mountain behind us, they'll be lit by that window. That's why the church was oriented this way — and you grasp how they thought: every church is a point of view and of relationship, with one another, with the forest, with the mountain's peak."
+      },
+      "expertVerbatim": "Y le dije lo de San Giorgio que es importante. Acuérdense la posición. Acuérdense que estamos sur-norte. El norte está detrás mío. El sur está acá. Al mediodía va a haber una luz ahí que entra de esa ventana. ilumina San Giorgio y San Andrea. ellos no solamente están mirando la montaña que está detrás de nosotros, ellos van a ser iluminados por la ventana que está puesta ahí. Esa es la razón por la cual la iglesia ha sido orientada así. Es chévere, ¿no? O sea, cuando tú te das cuenta de cómo ellos lo pensaban. De como todas las iglesias. son puntos de vista y de relación. ¿Un poco entre ellas? un poco con el bosque y un poco con la punta de la montaña.",
+      "verbatimLang": "es"
+    },
+    {
+      "node_id": 116,
+      "landmark": "san_giorgio",
+      "placement": "cloud",
+      "lat": 45.9516589,
+      "lon": 8.9248666,
+      "nseg": 17,
+      "score": 0.342,
+      "title": "Border, Walkway, and Legend",
+      "hasAudio": true,
+      "audioUrls": {
+        "it": {
+          "m": "audio_route/node_116.it.m.mp3",
+          "f": "audio_route/node_116.it.f.mp3"
+        },
+        "en": {
+          "m": "audio_route/node_116.en.m.mp3",
+          "f": "audio_route/node_116.en.f.mp3"
+        }
+      },
+      "narrative": {
+        "it": "Guardate: quella parte di là è Svizzera, e qua sotto passa una passeggiata stupenda. Più avanti c'è un paese che si chiama Quasso, al Piano e al Monte: lì andò a studiare da sacerdote Manfredo, un milanese erudito della seconda metà del Dodicesimo secolo. Là entrò in contatto con i manoscritti di una famosa santa guaritrice, Ildegarda di Bingen, e ne imparò tutte le piante; poi, guardando la montagna, disse: voglio essere eremita lassù — e salendo ritrovò proprio le piante che aveva studiato.",
+        "en": "Look: that part over there is Switzerland, and down here runs a wonderful walk. Further on there's a village called Quasso, al Piano and al Monte: there Manfredo went to train as a priest, an erudite Milanese of the late twelfth century. There he came upon the manuscripts of a famous healer-saint, Hildegard of Bingen, and learned all her plants; then, looking at the mountain, he said: I want to be a hermit up there — and as he climbed he found the very plants he had studied."
+      },
+      "expertVerbatim": "Mira, mira una vedi è una parte c'è la parte di là è svizzera Ok, io ho detto Magliaso che era qua, sì. Sì. pezzettino lì perché qua sotto c'è una passeggiata stupenda ecco Mi faceva strano che fosse così vicino. Sì, ma sulla schiena non si vede, però... Solo per informazione, più avanti c'è un'aldea che si chiama Quasso al Piano. Cuazo al piano y cuazo al monte son las dos aldeas donde Manfredo se tala ha ido a estudiar como sacerdote. Él es un milanés, en la segunda mitad de... de 1100 que es bien erudito porque su familia tiene una biblioteca y Y él va ahí a ser sacerdote y mientras está ahí, entra en contacto con ciertos manuscritos de una famosa santa curandera que se llamaba Hildegarda von Bingen. Y él aprende todas esas plantas y de pronto estando ahí ve la montaña y dice, pero quiero ser eremita en la montaña. y subiendo la montaña encuentra las plantas que ha estudiado y se vuelve el santo curandero de la montaña.",
+      "verbatimLang": "mixed"
+    },
+    {
+      "node_id": 87,
+      "landmark": "san_giorgio",
+      "placement": "cloud",
+      "lat": 45.9516199,
+      "lon": 8.9251346,
+      "nseg": 17,
+      "score": 0.341,
+      "title": "Accessible Via Crucis Inclusivity",
+      "hasAudio": true,
+      "audioUrls": {
+        "it": {
+          "m": "audio_route/node_87.it.m.mp3",
+          "f": "audio_route/node_87.it.f.mp3"
+        },
+        "en": {
+          "m": "audio_route/node_87.en.m.mp3",
+          "f": "audio_route/node_87.en.f.mp3"
+        }
+      },
+      "narrative": {
+        "it": "Guardate che carino: un vecchino che sale, e dei ragazzi. Una delle cose più belle di questa Via Crucis, che amo tantissimo, è che è totalmente accessibile: non è l'Everest, dove arriva solo il più atletico. Il piccolino, l'anziano, le famiglie, persone come noi possono scoprire che esiste qualcosa che va oltre i limiti del visibile. Averla sagomata così ampia significa che potevano salire anche i carri, i cavalli, perfino i malati: un luogo sacro aperto a chiunque.",
+        "en": "Look how lovely: a little old man climbing, and some young people. One of the most beautiful things about this Via Crucis, which I love so dearly, is that it's completely accessible: it's not Everest, reached only by the most athletic. The little child, the elderly, families, people like us can discover that something exists beyond the limits of the visible. To have shaped it this wide meant carts, horses, even the sick could climb: a sacred place open to everyone."
+      },
+      "expertVerbatim": "Guardate che carino. C'è un vecchino che sale, ci sono dei ragazzi. Una delle cose più belle di questa via Crucis, che a me piace tantissimo, è che è totalmente accessibile. Non è andiamo sull'Everest... solo il più atletico può qui quasi siano il piccolino, l'anziano, le famiglie, le persone come noi. come te, come me, possono scoprire che esiste qualcosa che va oltre i limiti del visibile e del percepibile nello spazio e nel tempo ridottissimo della nostra vita. aver sagomato questa via crucis con questa ampiezza significa che riuscivano a salire anche dei carri dei cavalli, magari delle persone che non camminavano magari dei malati. Quindi le vie crucis non indicano solo fare un piccolo sforzo per ascendere ed entrare in uno spazio dove sei a contatto con ciò che trascende, ma anche dare la possibilità a chiunque. di arrivare in un luogo sacro e poi ancestralmente i luoghi sacri sono anche quelli che ospitano il numero maggiore di piante medicinali. Quindi essere curati nello spirito significa anche essere curati nel corpo. Bene, questa chiesa appena stata restaurata",
+      "verbatimLang": "it"
+    },
+    {
+      "node_id": 110,
+      "landmark": "san_giorgio",
+      "placement": "cloud",
+      "lat": 45.9516069,
+      "lon": 8.9247896,
+      "nseg": 6,
+      "score": 0.242,
+      "title": "Geographic Significance and Emblem",
+      "hasAudio": true,
+      "audioUrls": {
+        "it": {
+          "m": "audio_route/node_110.it.m.mp3",
+          "f": "audio_route/node_110.it.f.mp3"
+        },
+        "en": {
+          "m": "audio_route/node_110.en.m.mp3",
+          "f": "audio_route/node_110.en.f.mp3"
+        }
+      },
+      "narrative": {
+        "it": "Dall'altro lato si trova il Monte San Giorgio. Ricordate lo stemma della città che abbiamo visto in basso? È fatto così perché noi siamo proprio sulla punta tra due versanti: quello dove vediamo il lago, e l'altro. La chiesa non permette di vederlo, ma camminando lo vedremo.",
+        "en": "On the other side stands Monte San Giorgio. Remember the town's coat of arms we saw down below? It looks the way it does because we're right on the point between two watersheds: the one where we see the lake, and the other. The church keeps us from seeing it, but as we walk we will."
+      },
+      "expertVerbatim": "y en el otro lado se encuentra el Monte San Giorgio. ¿Se acuerdan ustedes del escudo de la ciudad que hemos visto abajo? Por eso el escudo es así. Porque nosotros estamos en la punta entre dos vertientes. La de un lado, donde vemos el lago, y la del otro. La iglesia no permite verlo, pero caminando acá lo vamos a ver.",
+      "verbatimLang": "es"
+    },
+    {
+      "node_id": 85,
+      "landmark": "san_giorgio",
+      "placement": "cloud",
+      "lat": 45.9516409,
+      "lon": 8.9251716,
+      "nseg": 7,
+      "score": 0.234,
+      "title": "Accessible Via Crucis Figures",
+      "hasAudio": true,
+      "audioUrls": {
+        "it": {
+          "m": "audio_route/node_85.it.m.mp3",
+          "f": "audio_route/node_85.it.f.mp3"
+        },
+        "en": {
+          "m": "audio_route/node_85.en.m.mp3",
+          "f": "audio_route/node_85.en.f.mp3"
+        }
+      },
+      "narrative": {
+        "it": "Il sacro è entrare in contatto con qualcosa di più grande di noi — ciò che costruisce la creazione, che dà vita a tutto quello che ci circonda. E questo è fatto benissimo: vedete questo vecchino? Guardate che carino. C'è un vecchino che sale, ci sono dei ragazzi. Una delle cose più belle di questa Via Crucis, e a me piace tantissimo, è che è totalmente accessibile.",
+        "en": "The sacred is coming into contact with something greater than us — that which builds creation, gives life to everything that surrounds us. And this is made beautifully: do you see this little old man? Look how lovely he is — there's an old man climbing, there are young people. One of the most beautiful things about this Via Crucis, and I love this so much, is that it's completely accessible."
+      },
+      "expertVerbatim": "di questa storia. Il sacro è entrare in contatto con qualcosa più grande di noi. che costruisce la creazione, che dà vita a tutto quello che ci circonda. E questo è fatto benissimo, perché vedete questo vecchino? Guardate che carino. C'è un vecchino che sale, ci sono dei ragazzi. Una delle cose più belle di questa via Crucis, che a me piace tantissimo, è che è totalmente accessibile.",
+      "verbatimLang": "it"
+    },
+    {
+      "node_id": 24,
+      "landmark": "santa_marta",
+      "placement": "cloud",
+      "lat": 45.9524279,
+      "lon": 8.9280826,
+      "nseg": 51,
+      "score": 0.457,
+      "title": "Beech Forest Social Dynamics",
+      "hasAudio": true,
+      "audioUrls": {
+        "it": {
+          "m": "audio_route/node_24.it.m.mp3",
+          "f": "audio_route/node_24.it.f.mp3"
+        },
+        "en": {
+          "m": "audio_route/node_24.en.m.mp3",
+          "f": "audio_route/node_24.en.f.mp3"
+        }
+      },
+      "narrative": {
+        "it": "Guardate: questi sono i faggi, e quelli più scuri e rugosi sono i castagni. Sotto di noi le radici sono tutte collegate attraverso il micelio, e sono gli alberi più anziani a decidere come si distribuiscono i minerali e il nutrimento — per questo, all'inizio del rapporto tra uomo e bosco, venivano venerati: se ne tagli uno, viene a mancare il sindaco, colui che organizza tutto là sotto. Questa è la città, e quello è il suo sindaco. Noi camminiamo solo su una fetta sottilissima: la foresta è molto sopra di noi, e molto sotto.",
+        "en": "Look: these are the beeches, and the darker, rougher ones are the chestnuts. Beneath us the roots are all connected through the mycelium, and it's the oldest trees that decide how the minerals and nourishment are shared — that's why, at the dawn of the relationship between humans and woods, they were venerated: cut one down and you lose the mayor, the one who organizes everything below. This is the city, and that is its mayor. We walk on only a very thin slice: the forest is far above us, and far below."
+      },
+      "expertVerbatim": "loro determinano la rete sottostante e la competizione con i castagni che si trovano lì che sono quelli più scuri e rugosi con quelle foglie più grandi Viene dal fatto che ciascuno dei due ha un'idea su come funziona il bosco. Sotto ci sono le radici che sono collegate attraverso il micelio con tutte le altre radici di tutti gli altri. Gli alberi più anziani determinano come funziona la distribuzione dei minerali e degli alimenti. e questo ha fatto sì che all'inizio della relazione tra esseri umani e boschi queste piante venissero venerate perché se tu tagli una di queste Viene a mancare la gestione e l'organizzazione e le regole sottostanti che distribuiscono tutto. tutti gli altri minerali e questo significa che viene a mancare come il sindaco. Questa è la città e questo è il sindaco che dice e definisce come si muove qui sotto. Noi stiamo camminando su un pezzettino molto sottile di foresta, ma la foresta è molto sopra di noi e anche molto sotto di noi, no? Siamo come un pezzettino di un sandwich. in una superficie sandwich in cui tanto importante è quello che succede in basso come quello che succede in alto. C'è la quantità di humus, vuol dire quanta gente è vissuta qua, quanti alberi, quanti animali. quanti antenati vegetali, di queste creature sono sotto come il micelio cioè la rete di funghi usa tutto questo per per muovere gli alimenti, per spostare di qua e di là. E come i viventi più antichi hanno più autorità, loro decidono. noi stiamo camminando qui in una rete che è molto più complicata della metropolitana di Londra C'è molto di più. Ci sono tante forme di vita poche quelle che riusciamo a vedere e quelle che determinano la salute di tutto quanto in più sono invisibili. E questo è anche un fatto molto importante. Noi siamo piccolini qui dentro. E questa aria, questo spazio che vedete, è un classico delle faggete. e che loro sono come le persone che dicono non mi toccherai troppo Sono carine per vedere se non stare troppo vicino. Loro non stanno mai troppo vicino. vedi che lì ce n'è un'altra, poi ce n'è un'altra di là, loro desiderano spazio. E lo difendono chimicamente, cioè non permettono a un numero eccessivo di piante di crescere attaccate a loro. Invece il castagno è uno più... popolare, va bene con tutti, è più amico, non ha queste... non ha questa gestione e ogni albero, ogni forma di vita Ha proprio questo suo carattere unico, no? E della composizione di tutti questi viene fuori il carattere unico del bosco. E noi di questo non sappiamo niente. E noi viviamo in scatole di concreto e non sappiamo più niente. E questo è il motivo per cui è difficile per noi capire la conservazione dell'ambiente. o entrare in contatto con il patrimonio naturale. Bisogna sempre che mediamo con l'espressione umana di questo, no? E invece non è così, perché loro sono qui da un sacco di tempo fanno l'acqua che noi beviamo se noi abbiamo fatto una doccia a Lugano vabbè tu a Zurigo ma noi a Lugano. Quell'acqua lì è grazie a questi che stanno lavorando tutto il giorno per noi gratis e noi non diciamo neanche grazie. Poi sentite com'è tutto diverso.",
+      "verbatimLang": "it"
+    },
+    {
+      "node_id": 1,
+      "landmark": "santa_marta",
+      "placement": "cloud",
+      "lat": 45.9528119,
+      "lon": 8.9290846,
+      "nseg": 42,
+      "score": 0.455,
+      "title": "Water's Path Shapes Life",
+      "hasAudio": true,
+      "audioUrls": {
+        "it": {
+          "m": "audio_route/node_1.it.m.mp3",
+          "f": "audio_route/node_1.it.f.mp3"
+        },
+        "en": {
+          "m": "audio_route/node_1.en.m.mp3",
+          "f": "audio_route/node_1.en.f.mp3"
+        }
+      },
+      "narrative": {
+        "it": "L'identità e la forza di un luogo vengono dalla forma della montagna, e la forma della montagna decide come cade l'acqua. Vedete quell'avvallamento che scende? È il prodotto della montagna che si modella grazie alla caduta dell'acqua; e dalla combinazione tra l'acqua e la forma del monte nasce la pianta stessa del bosco, da cui tutta la vita si leva. Se non ricordi da dove viene l'acqua, non puoi nemmeno costruire un villaggio. E quella sorgente, guardate, ha due personaggi — perché fin dall'antichità a questo si associano esseri e figure.",
+        "en": "The identity and the strength of a place come from the shape of the mountain, and the shape of the mountain decides how the water falls. See that hollow descending? It's the product of the mountain shaping itself through the fall of the water; and from the combination of the water and the mountain's form is born the very plan of the forest, from which all life rises. If you don't remember where the water comes from, you can't even build a village. And that spring, look, has two figures — for since ancient times beings and figures are bound to this."
+      },
+      "expertVerbatim": "Cualquier lugar, o sea la identidad de un lugar, la fuerza de un lugar viene de la forma de la montaña. Y la forma de la montaña determina la manera en que el agua cae. Ves acá. ¿Ves ese hundimiento, no? va bajando. Esto es el producto de la forma de la montaña. que va moldeándose gracias a la caída del agua. y la combinación entre la caída del agua y la forma de la montaña genera la forma básica y el plano del bosque desde el cual toda la vida se levanta y se activa. O sea, si tú no miras esa, si tú no recuerdas de dónde viene el agua, ni siquiera vas a poder construir una aldea, ni siquiera vas a tener agua ni nada, ¿no? Entonces, ahí, ¿qué vemos? Vemos un hundimiento, vemos una caída Y eso ha sido reconocido, entendido y codificado a través de una fuente. y en época antigua siempre hay seres y personajes que están asociados a eso. Ven acá que la fuente Tiene dos personajes, ¿cierto? que de ellos sale el agua. O sea, el bosque es algo vivo. No solamente... por la combinación entre agua y elementos minerales que producen toda la vida y todo el bosque, sino en las primeras representaciones de la vida. Ese es un punto súper importante y esas representaciones se mantienen a lo largo de los siglos. Esta fuente no es tan antigua, tiene una forma ancestral de mirar a cómo nació todo eso. Entonces quien pasaba por aquí veía eso y después miraba y tal, se decía, ah, claro, es así. o sea que quien sigue esta línea de la montaña arriba en el medio camino o abajo va a poder construir una aldea. No vas a poder vivir si no estás cerca del agua. Entonces, el primer mapeo cuando tú caminas en un bosque es... es dónde está el agua, ¿no? O sea, lo llamamos hidrografía, le damos todos los nombres del mundo pero realmente es el camino del agua. que determina la forma del bosque y el camino de la vida de los humanos también. Esa es la primer mapa de nuestros ojos, tiene que ir con eso. Y además, no es tampoco la tierra, porque esa tierra que vemos, Eso que se llama humus realmente es gente muerta. O sea, esos son árboles que han muerto. Estamos caminando encima de los árboles. muertos, de lo que queda del cementerio de los árboles. Entonces la ley que hace funcionar todo eso no solamente es el sol, y la temperatura, que en este caso es estacional, en la presencia de agua.",
+      "verbatimLang": "es"
+    },
+    {
+      "node_id": 23,
+      "landmark": "santa_marta",
+      "placement": "cloud",
+      "lat": 45.9525649,
+      "lon": 8.9281906,
+      "nseg": 13,
+      "score": 0.402,
+      "title": "Holly's Growth, Adaptation, Survival",
+      "hasAudio": true,
+      "audioUrls": {
+        "it": {
+          "m": "audio_route/node_23.it.m.mp3",
+          "f": "audio_route/node_23.it.f.mp3"
+        },
+        "en": {
+          "m": "audio_route/node_23.en.m.mp3",
+          "f": "audio_route/node_23.en.f.mp3"
+        }
+      },
+      "narrative": {
+        "it": "Questi fanno piccole bacche rosse — forse le vedremo più avanti. Quando sono in basso hanno molte spine per difendersi dagli animali; man mano che crescono le perdono e si arrotondano, e ognuno è unico nella sua crescita. In basso lo vedrai sempre ultra-spinato, ancora nella fase in cui combatte; ma è molto probabile che ce la faccia.",
+        "en": "These bear little red berries — perhaps we'll see them further on. When they're low they have many thorns to defend themselves from animals; as they grow they lose them and round out, and each is unique in its growth. Down low you'll always see it ultra-thorned, still in the phase where it fights; but it's very likely it'll make it."
+      },
+      "expertVerbatim": "Questi fanno delle piccole bacche rosse, forse le vediamo anche più avanti. Quando sono in basso, quando stanno a basso? hanno molta spina per difendersi dagli animali, a medida che crescono perdono le punte e vivono necesitan luchar contra alguien y se van volviendo más redondeados. Y cada uno de ellos es como único en su crecimiento. Siempre lo vas a ver en la parte baja. ultra con espinas y a medida que sobrevive. Si no sobrevive, ese tato todavía en la fase de que está luchando, Y no tiene nada más alto. Pero es muy probable que lo logre. Y aquí está un castaño de helado. e il fatto che",
+      "verbatimLang": "mixed"
+    },
+    {
+      "node_id": 189,
+      "landmark": "santa_marta",
+      "placement": "cloud",
+      "lat": 45.9528069,
+      "lon": 8.9280146,
+      "nseg": 10,
+      "score": 0.347,
+      "title": "Industrial vs. Natural Footprint",
+      "hasAudio": true,
+      "audioUrls": {
+        "it": {
+          "m": "audio_route/node_189.it.m.mp3",
+          "f": "audio_route/node_189.it.f.mp3"
+        },
+        "en": {
+          "m": "audio_route/node_189.en.m.mp3",
+          "f": "audio_route/node_189.en.f.mp3"
+        }
+      },
+      "narrative": {
+        "it": "Nel sentiero antico gli arbusti possono crescere, possono fare il loro lavoro; qui il passaggio dei carri no. E non c'è solo una frammentazione spaziale dell'habitat, ce n'è anche una acustica: se passi cento volte con un motore, l'erbetta non cresce più. Guardate: lì c'è tutto il muschio, e qui no — e non è una questione di temperatura. È una diversa impronta umana: là l'impronta industriale motorizzata, qui il sentiero naturale.",
+        "en": "On the old path the shrubs can grow, they can do their work; here the passage of carts cannot. And there isn't only a spatial fragmentation of the habitat, there's an acoustic one too: pass a hundred times with an engine and the little grass no longer grows. Look: there's all the moss there, and none here — and it isn't a matter of temperature. It's a different human footprint: there the motorized industrial one, here the natural path."
+      },
+      "expertVerbatim": "O sea, en el viejo, en el antiguo, los arbustos pueden crecer. pueden hacer su trabajo. Aquí el movimiento de los carros No hay solamente una fragmentación del hábitat desde el punto de vista espacial, es también acústico. O sea, si tú pasas con un motor 100 veces, ya la hierbita no va Mira, por ejemplo, ahí hay todo el musgo y acá no hay. Y no es un problema de temperatura. Es una huella humana diferente. Esa es la huella industrial motorizada y eso es el sendero natural.",
+      "verbatimLang": "es"
+    },
+    {
+      "node_id": 14,
+      "landmark": "santa_marta",
+      "placement": "cloud",
+      "lat": 45.9530199,
+      "lon": 8.9284246,
+      "nseg": 14,
+      "score": 0.308,
+      "title": "The Versatile Chestnut Tree",
+      "hasAudio": true,
+      "audioUrls": {
+        "it": {
+          "m": "audio_route/node_14.it.m.mp3",
+          "f": "audio_route/node_14.it.f.mp3"
+        },
+        "en": {
+          "m": "audio_route/node_14.en.m.mp3",
+          "f": "audio_route/node_14.en.f.mp3"
+        }
+      },
+      "narrative": {
+        "it": "Il castagno cresce davvero ovunque, non gli importa; e fa le castagne. Prima dell'arrivo del mais — americano — la castagna è stata la farina della montagna: i gnocchi, tutto si faceva con le castagne. Anche la corteccia si usa benissimo: è l'albero più utile di tutti, e definisce una topografia sacra, perché i celti lo trasformano in divinità. Comunità native come i Walser lo chiamavano semplicemente «l'albero».",
+        "en": "The chestnut truly grows everywhere, it doesn't care; and it makes chestnuts. Before maize arrived — American — the chestnut was the flour of the mountain: the gnocchi, everything was made with chestnuts. Even the bark is wonderfully useful: it's the most useful tree of all, and it defines a sacred topography, because the Celts turned it into a divinity. Native communities like the Walser called it simply 'the tree.'"
+      },
+      "expertVerbatim": "Può avere un tronco così, ma lui... He doesn't care. He literally grows everywhere. E lui fa ovviamente le castagne. ok queste prima dell'avvento del mais che è americano Non si sa se è messicano o peruviano, però noi diciamo peruviano ovviamente. Prima dell'arrivo di tante cose la castagna è stata veramente la farina di montagne, i gnocchi, tutto si fa con le castagne e l'albero è stato chiamato da molte comunità native come per esempio i Walser, addirittura viene chiamato l'albero. Un albero multicentenario è perfetto per costruire, è perfetto per mangiare, La corteccia si usa anche molto bene, quindi è proprio l'albero più più utilizzabile di tutti gli alberi e definisce una topografia anche più sacra perché i celti lo trasformano in una divinità e lui è dappertutto. In questo bosco particolare sostiene una",
+      "verbatimLang": "mixed"
+    },
+    {
+      "node_id": 196,
+      "landmark": "santa_marta",
+      "placement": "cloud",
+      "lat": 45.9529489,
+      "lon": 8.9281736,
+      "nseg": 10,
+      "score": 0.276,
+      "title": "Critiquing Unnecessary Flower Barrier",
+      "hasAudio": true,
+      "audioUrls": {
+        "it": {
+          "m": "audio_route/node_196.it.m.mp3",
+          "f": "audio_route/node_196.it.f.mp3"
+        },
+        "en": {
+          "m": "audio_route/node_196.en.m.mp3",
+          "f": "audio_route/node_196.en.f.mp3"
+        }
+      },
+      "narrative": {
+        "it": "Mi fa ridere questa barriera: l'ape passa comunque, qualunque animale passa di qui — non c'è modo di impedire all'ape o alla volpe di attraversare. Eppure culturalmente sentiamo il bisogno di delimitare, di dire «questo è il disegno umano, quello è il disordine». E questo è un errore gigantesco nella conservazione del patrimonio bioculturale: non tanto per la scelta dei fiori, ma per il fatto stesso di mettere la barriera.",
+        "en": "This barrier makes me laugh: the bee passes anyway, any animal crosses here — there's no way to stop the bee or the fox from getting through. And yet, culturally, we feel the need to fence things off, to say 'this is human design, that is disorder.' And that is a gigantic mistake in the conservation of biocultural heritage: not so much for the choice of flowers, but for the very act of putting up the barrier."
+      },
+      "expertVerbatim": "of making flowers, it's this, right? O sea, tenemos que ponerle una barrera que me da risa porque la abeja va a pasar. O sea, cualquier animal puede pasar de acá. o sea no hay ninguna forma de impedir a la abeja al zorro a cualquiera de destrozar todo eso o de ayudarlo Pero nosotros culturalmente estamos como... nos sentimos en la necesidad de delimitar un Como para decir, eso es el diseño humano, eso es el desorden. Y esa cosa es un error gigante en la conservación del patrimonio biocultural. Es gigante y no es tanto por la elección de las flores, no es tanto eso, es el hecho de ponerle la barrera.",
+      "verbatimLang": "mixed"
+    },
+    {
+      "node_id": 190,
+      "landmark": "santa_marta",
+      "placement": "cloud",
+      "lat": 45.9527909,
+      "lon": 8.9280286,
+      "nseg": 13,
+      "score": 0.2,
+      "title": "Two Roads Diverged — Robert Frost at the Fork",
+      "hasAudio": true,
+      "audioUrls": {
+        "it": {
+          "m": "audio_route/node_190.it.m.mp3",
+          "f": "audio_route/node_190.it.f.mp3"
+        },
+        "en": {
+          "m": "audio_route/node_190.en.m.mp3",
+          "f": "audio_route/node_190.en.f.mp3"
+        }
+      },
+      "narrative": {
+        "it": "Non so se riuscite a riprenderlo, ma spero si capisca — lo vedete? Non avrei potuto spiegarlo senza trovarmi davanti a un bivio. Ogni volta nella vita, quando vedrete due sentieri… C'è una bellissima poesia di Robert Frost — non era certo qui, è un poeta americano — ma è proprio questa immagine:\n\n«Two roads diverged in a yellow wood,\nAnd sorry I could not travel both…\nI took the one less traveled by,\nAnd that has made all the difference.»\n\nPrima di Paul Simon, Frost era uno che conosceva i boschi intimamente. E questo è letteralmente qui — proprio questa biforcazione. Andiamo: purtroppo torniamo alla civiltà.",
+        "en": "I don't know if you can record it, but I hope it comes across — do you see it? I couldn't have explained this without standing at one first. Each time in your life, when you see two paths… There's a beautiful poem by Robert Frost — he was certainly never here, he's an American poet — but it's exactly this image:\n\n'Two roads diverged in a yellow wood,\nAnd sorry I could not travel both…\nI took the one less traveled by,\nAnd that has made all the difference.'\n\nBefore Paul Simon, Frost was someone who knew the woods intimately. And this is literally it — right here, this fork. Let's go: unfortunately, we return to civilization."
+      },
+      "expertVerbatim": "No sé si logran grabarlo, pero espero que se pueda entender, ¿no? ¿Se entiende? ustedes lo ven. Yo no hubiera podido explicarlo sin hacer antes uno, sin decirlo. Cada vez en su vida, cuando van a ver dos senderos, hay un lindísimo poema de Robert Frost, que nunca estaba acá, porque es un poeta de Estados Unidos, pero es como esa imagen dice: two roads diverged in a wood and I, I took the one less traveled by. But before Paul Simon, this Robert Frost was someone who knew the woods very well. It's literally this. Let's go. Unfortunately, we return to civilization.",
+      "verbatimLang": "mixed"
+    },
+    {
+      "node_id": 418,
+      "landmark": "village",
+      "placement": "cloud",
+      "lat": 45.9573169,
+      "lon": 8.9345545,
+      "nseg": 74,
+      "score": 0.428,
+      "title": "Sacred Corner's Artistic Magnetism",
+      "hasAudio": true,
+      "audioUrls": {
+        "it": {
+          "m": "audio_route/node_418.it.m.mp3",
+          "f": "audio_route/node_418.it.f.mp3"
+        },
+        "en": {
+          "m": "audio_route/node_418.en.m.mp3",
+          "f": "audio_route/node_418.en.f.mp3"
+        }
+      },
+      "narrative": {
+        "it": "Sono architetta e antropologa, e ho una figlia che si chiama Costanza. Stamattina avevo preparato tutto sull'architettura sacra e la montagna sacra; ma prendendo l'autobus ho aperto una rivista, Lu — ho un'amica che si chiama Luisella — e c'era proprio questo: ho pensato fosse un segnale, che dovevo venire qui. Ho parlato del caduceo, delle piante medicinali, del simbolismo della salute che attraversa le mitografie fino a oggi. E sono una grande ammiratrice dei Solari, che hanno costruito Milano: ancestralmente sono di Milano, anche se sono svizzera.",
+        "en": "I'm an architect and anthropologist, and I have a daughter called Costanza. This morning I'd prepared everything about sacred architecture and the sacred mountain; but taking the bus I opened a magazine, Lu — I have a friend called Luisella — and there was just this: I thought it was a sign that I had to come here. I spoke of the caduceus, of medicinal plants, of the symbolism of health that runs through the mythographies to today. And I'm a great admirer of the Solari, who built Milan: by lineage I'm from Milan, even though I'm Swiss."
+      },
+      "expertVerbatim": "io sono architetto antropologo Ho una figlia che si chiama Costanza e questa mattina avevo fatto tutta una preparazione su tutta l'architettura sacra e la relazione con la montagna sacra però questa mattina prendendo l'autobus ho preso una rivista che si chiama ma Lu perché ho un'amica che si chiama Luisella ho detto guarda lo apro e c'era questo e ho detto magari è un segnale che bisogna che io venga qui e vi conosca Se volete dire qualcosa di questo angolo che per me è davvero meraviglioso. Io ho parlato un pochino del caduceo. delle piante medicinali, delle montagne, del simbolismo della salute che attraversa le mitografie e arriva fino ad oggi. Ma magari voi volete dire qualcosa, sono una grande ammiratrice dei solari che hanno costruito milano sono ancestralmente di milano anche se sono svizzera e Vabbè, se volete dire qualcosa. Voi siete gli indigeni di questa casa. Se volete dirci qualcosa. Sì. questa settimana e la settimana prossima c'è il corso sugli aprile che appunto facevano parte di tutte queste famiglie soprattutto scultori poi solario anche per le pitture E qui, beh, che dire, fra l'altro questa qui, la fontana è di Meret Oppenheim. Che ha vissuto... Questa è la casa di famiglia degli occidentali. Ecco. Magari per lei non era tanto per le piante quanto per l'Hermes. che è il mercurio che porta si, ermete mercurio questa mattina e vi ho visto qua Sì, c'è l'intervista per la Casa Aprile. Molto bella. Perché c'era quella splendida mostra. Sulla comunità di artisti che vivevano qua negli anni 70. Perché questo luogo ha chiamato tanti artisti, secondo voi? Io ho una idea, ma vorrei sentire da voi. Perché? Allora non è da stupirsi che attrae artisti E così, questa è l'unica ragione che io posso vedere. perché questa carica, comunque il luogo, questo ottoma, questo come... Nel Rinascimento e anche prima c'erano appunto tanti tanti ceppi di famiglia che erano scultori stuccatori architetti venivano da Carona che ho imparato era in pratica tutto all'arbostro, tutto questa cosa. Era tale da Carona. Da Carona, certo. e poi io penso anche che perché c'erano tanti artisti sia svizzeri tedeschi che tedeschi Ok. vengano qui come ancora oggi, il tempo, il sole, la luce. che è molto particolare per chi è artista. E poi comunque io penso che questa piazza in sé è talmente un abbraccio che attira ecco cioè non solo artisti visivi c'erano scrittori C'erano architetti, musicisti, di tutto, sempre qui ancora oggi. Noi abbiamo cominciato misurando la quantità di edifici che esprimesse un patrimonio monumentale e fossero dedicati al sacro. e abbiamo misurato sul Monte San Giorgio e sull'Arbostora che esprimono una particolare biodiversità e anche una ricchezza mineralogica non comune. per varie ragioni e abbiamo scoperto che la misura è circa 100 volte più alta del normale. Cioè, normalmente noi abbiamo un edificio dedicato al Sacro ogni 2000 abitanti in Lombardia. e nel Largo Alpino ogni 3000 e qui ogni 23. Questo vuol dire che durante la storia della cristianità, ma anche dei Celti, ma anche dei Romani, ma anche di Neandertal, perché abbiamo delle importanti evidenze. neandertal sul monte san giorgio non solo generoso anche su san giorgio abbiamo neandertal qualcuno ha sentito la necessità di stabilire una relazione con il sacro attraverso un monumento un gesto artistico e questo ha anche un secondo noi un significato che nasce con la geomorfologia, la composizione dell'acqua e la biodiversità. Il sacro nasce lì. e con la relazione con i moti eliaci. Quando queste cose si combinano in un certo modo, Qualcuno ha esperienza del sacro lì e questo crea la concentrazione degli artisti. Voi oltre che essere molto carini ed eleganti siete anche molto fortunati. Molto fortunati. Anch'io. Anche noi. Anche noi. Anche noi perché dobbiamo essere a San Giorgio prima dell'UNAP. Per vedere il sole a mezzogiorno sulla montagna. Grazie. Scusate l'assoluta improvvisata.",
+      "verbatimLang": "it"
+    },
+    {
+      "node_id": 411,
+      "landmark": "village",
+      "placement": "cloud",
+      "lat": 45.9572819,
+      "lon": 8.9345805,
+      "nseg": 48,
+      "score": 0.316,
+      "title": "Observing Art, House Inquiry",
+      "hasAudio": true,
+      "audioUrls": {
+        "it": {
+          "m": "audio_route/node_411.it.m.mp3",
+          "f": "audio_route/node_411.it.f.mp3"
+        },
+        "en": {
+          "m": "audio_route/node_411.en.m.mp3",
+          "f": "audio_route/node_411.en.f.mp3"
+        }
+      },
+      "narrative": {
+        "it": "Ci sono altri due guacamayo sulla facciata di Santa Maria del Sasso a Morcote — ne ho trovati tre finora. Perché un'ara amazzonica arrivi fin qui, qualcuno deve averla vista e copiata: è una domanda importante. Le decorazioni furono rifatte nel Settecento, ma la casa è molto più antica, perché qui vissero i Solari. È la mia casa preferita, il mio angolo preferito: perché qui la combinazione di esseri umani, piante, idee e simboli è tutta in ordine. E se insegniamo alle persone com'era, se ne ricorderanno quando andranno a comprare casa o a fare un giardino.",
+        "en": "There are two other macaws on the facade of Santa Maria del Sasso in Morcote — I've found three so far. For an Amazonian macaw to reach this far, someone must have seen it and copied it: it's an important question. The decorations were redone in the 1700s, but the house is far older, because the Solari lived here. It's my favorite house, my favorite corner: because here the combination of human beings, plants, ideas and symbols is all in order. And if we teach people how it was, they'll remember it when they go to buy a house or make a garden."
+      },
+      "expertVerbatim": "Y hay otros dos guacamayos en la fachada de Santa María del Sasso en Morcote. He encontrado tres hasta ahora. O sea, para que llegue un guacamayo. ¿Alguien tiene que haberlo visto, dibujado, copiado? Ya, es una pregunta importante, o sea, Sí, han sido rehechas en 1700, pero la casa es mucho más antigua, porque aquí vivió la familia Solari. Esa es como mi casa favorita, mi esquina favorita. ¿Por qué me gusta tanto? Porque la combinación entre seres humanos, plantas, ideas, símbolos, es todo en orden, ¿cierto? Es todo en orden. Eso es, así es como fue. Y si nosotros logramos enseñar a las personas cómo fue ellos cuando van a comprar una casa o cuando van a hacer un jardín. van a tener una memoria de eso, ¿no? O sea, van como a saber cómo hacer. Ya, bueno, la casa, la casa April es abierta, pero no me atrevo a entrar. Le voy solo a preguntar. Mi scusi, posso fare una domanda? Sì, sì. Non so, potrebbero dirci no. Solo un attimo. Sì, sì, sì, sì. Sì, buongiorno. Faccio parte di una cattedra UNESCO. Stiamo facendo un circuito per registrare le cose più importanti e più significative del patrimonio. di Carona e stavo spiegando un pochino della storia della famiglia Solari e poi questa mattina quando ho preso l'autobus per venire qua c'è una rivista che si chiama Lu e l'ho aperta e si è aperta su questo E ho pensato magari c'è qualcuno che ci può dire qualcosa della casa. Lisa! Scusate, completamente fuori programma. Completamente fuori programma. Perché ho spiegato qualche cosa del sistema armonico che governa questo spazio, che è così importante da registrare e trasformare. Ecco. Sì. Grazie. Buongiorno, rappresento una cattedra UNESCO dell'Università della Svizzera Italiana. Ho questi strani occhiali indosso perché stiamo facendo un registro degli aspetti del patrimonio dal punto di vista naturale e culturale. io sono architetto antropologo Ho una figlia che si chiama Costanza e questa mattina avevo fatto tutta una preparazione su tutta l'architettura sacra e la relazione con la montagna sacra però questa mattina prendendo l'autobus ho preso una rivista che si chiama ma Lu perché ho un'amica che si chiama Luisella ho detto guarda lo apro e c'era questo e ho detto magari è un segnale che bisogna che io venga qui e vi conosca Se volete dire qualcosa di questo angolo che per me è davvero meraviglioso. Io ho parlato un pochino del caduceo. delle piante medicinali, delle montagne, del simbolismo della salute che attraversa le mitografie e arriva fino ad oggi.",
+      "verbatimLang": "mixed"
+    },
+    {
+      "node_id": 403,
+      "landmark": "village",
+      "placement": "cloud",
+      "lat": 45.9571409,
+      "lon": 8.9345575,
+      "nseg": 14,
+      "score": 0.206,
+      "title": "Historic Plaza, Art, Solari Legacy",
+      "hasAudio": true,
+      "audioUrls": {
+        "it": {
+          "m": "audio_route/node_403.it.m.mp3",
+          "f": "audio_route/node_403.it.f.mp3"
+        },
+        "en": {
+          "m": "audio_route/node_403.en.m.mp3",
+          "f": "audio_route/node_403.en.f.mp3"
+        }
+      },
+      "narrative": {
+        "it": "Vedete che è rappresentata in forma bella, non conflittuale? È questo che mi piace. Qui vissero i Solari, i famosi Solari — Bonifacio, Antonio — che costruirono metà della Milano del Quattrocento: le chiese più importanti, perfino il Duomo. Furono tra i primi architetti, e vivevano qui; c'è una casa che si chiama Aprile, dove ho appena visto quel bell'articolo della rivista che ho preso sul bus. Per questo ho pensato: dobbiamo passare di qui.",
+        "en": "See how it's shown in a beautiful form, not a conflicted one? That's what I love. The Solari lived here, the famous Solari — Bonifacio, Antonio — who built half of fifteenth-century Milan: the most important churches, even the Duomo. They were among the first architects, and they lived here; there's a house called Aprile, where I've just seen that lovely magazine article I picked up on the bus. That's why I thought: we have to come this way."
+      },
+      "expertVerbatim": "Pero ves que está representada en forma bonita. No es representada en forma conflictiva. Eso es lo que a mí me gusta. Acá vivieron la familia Solari, los famosos Solari. Bueniforte Antonio, ellos construyen la mitad de la Milán de 1400. O sea, las iglesias más importantes, incluso el Duomo de Milán. Incluso ellos son los primeros arquitectos. Y acá vivían, aquí hay una casa que se llama Aprile, donde acabo de ver un lindo artículo en la revista esta luz de ahora que lo vi en el bus. Por eso pensé, tenemos que pasar de acá. Y ya. A ver, ¿por qué me gusta tanto esa plaza?",
+      "verbatimLang": "es"
+    },
+    {
+      "node_id": 501,
+      "landmark": "Santa Marta",
+      "placement": "map",
+      "lat": 45.955874,
+      "lon": 8.933152999999999,
+      "nseg": 1,
+      "score": 0.72,
+      "title": "Santa Marta: Cemetery Before the Church",
+      "hasAudio": false,
+      "audioUrls": {
+        "en": {
+          "f": "audio_route/node_501.en.f.mp3",
+          "m": "audio_route/node_501.en.m.mp3"
+        },
+        "it": {
+          "f": "audio_route/node_501.it.f.mp3",
+          "m": "audio_route/node_501.it.m.mp3"
+        }
+      },
+      "narrative": {
+        "en": "Here there's a church that fascinates me. The first thing you'll notice is that the cemetery is in front — in ninety-five percent of Catholic churches on the planet, the cemetery is behind. When the cemetery is in front, something is happening: the ancestors are placed in contact with something more important than the normal orientation. This disposition of the dead in front of the temple is very typical of the Celts — the warriors defending the sacred space. The Christians came and said, look, those ancestors were already here, we'll explain them with our narrative. It's an integration: gentle, respectful, progressive. The Christianization of this region has a sweetness to it.",
+        "it": "C'è una chiesa qui che mi affascina. La prima cosa che noterete è che il cimitero è davanti — nel novantacinque per cento delle chiese cattoliche del pianeta, il cimitero è dietro. Quando il cimitero è davanti, succede qualcosa: gli antenati sono messi a contatto con qualcosa di più importante dell'orientamento normale. Questa disposizione dei morti davanti al tempio è molto tipica dei Celti — i guerrieri che difendono lo spazio sacro. I cristiani sono arrivati e hanno detto, guardate, quegli antenati erano già qui, li spieghiamo con la nostra narrativa. È un'integrazione: dolce, rispettosa, progressiva. La cristianizzazione di questa regione ha una dolcezza."
+      },
+      "expertVerbatim": "Aquí hay una iglesia que a mí me fascina. El primer punto de este ascenso es que van a notar que la iglesia tiene un cementerio delante. Su propio cementerio está delante. Está atrás en el 95 por ciento de las iglesias católicas del planeta el cementerio está atrás. Cuando el cementerio está adelante, sucede algo. O sea, los antepasados están ahí puestos a contacto con algo que por alguna razón es más importante y más relevante de la orientación normal. El hecho de que los muertos estén adelante es muy celta. Es muy probable que eso era celta. Y ellos dicen, bueno, ya. Los muertitos estaban acá. Ahora que ha llegado la historia de los cristianos, lo explicamos con esa narrativa. O sea, aglutinamos y lo convertimos a una historia que es la vigente. La única explicación que yo he encontrado es la disposición de los muertos en los templos celtas: es muy típico, los muertos están como los guerreros que están ahí delante del templo, defendiendo. Y esos son los antepasados que están delante del templo defendiendo. El proceso de cristianización de esta región tiene su dulzura.",
+      "verbatimLang": "es"
+    },
+    {
+      "node_id": 502,
+      "landmark": "Santa Marta",
+      "placement": "map",
+      "lat": 45.956123999999996,
+      "lon": 8.932972999999999,
+      "nseg": 1,
+      "score": 0.75,
+      "title": "Santa Marta: Church Oriented to the Sacred Mountain",
+      "hasAudio": false,
+      "audioUrls": {
+        "en": {
+          "f": "audio_route/node_502.en.f.mp3",
+          "m": "audio_route/node_502.en.m.mp3"
+        },
+        "it": {
+          "f": "audio_route/node_502.it.f.mp3",
+          "m": "audio_route/node_502.it.m.mp3"
+        }
+      },
+      "narrative": {
+        "en": "Look at the orientation between the peak of the mountain and the roof of the cemetery and this church. You see? It's almost noon. I have a little app that lets me simulate the sun's orientation by the hour — it rose behind that mountain, went up like this, and at one o'clock, which is solar noon because we're on legal time, it will be exactly at the peak of the mountain. The people who built this church, who put the door here, who oriented it here, who placed their ancestors in front — they put it facing the most sacred thing, exactly south, facing the mountain. Isn't that incredibly interesting? They knew that orienting sacred spaces connected you to what transcends.",
+        "it": "Guardate l'orientamento tra la punta della montagna e il tetto del cimitero e questa chiesa. Lo vedete? È quasi mezzogiorno. Ho una piccola app che mi permette di simulare l'orientamento del sole per ora — è salito dietro quella montagna, è andato così, e all'una, che sarà il mezzogiorno solare perché siamo con l'ora legale, sarà esattamente alla punta della montagna. La gente che ha costruito questa chiesa, che ha messo la porta qui, che l'ha orientata qui, che ha messo davanti gli antenati — l'ha messa davanti alla cosa più sacra, esattamente a sud, di fronte alla montagna. Non è incredibilmente interessante? Loro sapevano che orientare gli spazi sacri ti metteva in connessione con ciò che trascende."
+      },
+      "expertVerbatim": "Mira la orientación entre la punta de la montaña y el techo del cementerio y esta iglesia. ¿Lo ves? Es casi mediodía. Tengo una pequeña app que trabajar con los fotógrafos me obliga a conocer, para simular la orientación del sol con las horas. Ha subido acá, ha subido detrás de esa montaña, ha ido así. A la una, que va a ser el mediodía solar porque estamos con hora legal, va a ser exactamente aquí. O sea, la gente que ha construido esa iglesia y le ha puesto la puerta acá y la ha orientado acá y le ha puesto delante los antepasados, su familia, lo ha puesto delante a lo más sagrado. Y lo puso para que estuviera exactamente al sur delante de la montaña. ¿No es ultra interesante esta cosa? Ellos sabían que orientar los espacios sagrados te ponía en conexión con lo que trasciende.",
+      "verbatimLang": "es"
+    },
+    {
+      "node_id": 503,
+      "landmark": "Santa Marta",
+      "placement": "map",
+      "lat": 45.956174,
+      "lon": 8.932882999999999,
+      "nseg": 1,
+      "score": 0.71,
+      "title": "Santa Marta: The Elevated Foundation",
+      "hasAudio": false,
+      "audioUrls": {
+        "en": {
+          "f": "audio_route/node_503.en.f.mp3",
+          "m": "audio_route/node_503.en.m.mp3"
+        },
+        "it": {
+          "f": "audio_route/node_503.it.f.mp3",
+          "m": "audio_route/node_503.it.m.mp3"
+        }
+      },
+      "narrative": {
+        "en": "Look where the floor is — see the windows? All of that is a base platform. No one in the world needs to build a foundation that high for a building this size. They could have perfectly well built on the ground level. If they didn't, it's because in that rock, inside what they're encapsulating, there must be something more — perhaps an altar or an area already levelled, already used. They placed themselves on top. It can't be empty in there. What they've done is surely encapsulate something we don't know why. There's no archaeological project here, but what we do know is this: it clearly reveals that there is something inside that justifies the exaggerated height of the church.",
+        "it": "Guardate dov'è il pavimento — vedete le finestre? Tutto quello è un basamento. Nessuno al mondo ha bisogno di costruire un basamento di quell'altezza per un edificio di queste dimensioni. Avrebbero potuto tranquillamente costruire a livello del suolo. Se non l'hanno fatto, è perché in quella roccia, dentro quello che stanno incapsulando, deve esserci qualcosa di più — forse un altare o una zona già livellata, già utilizzata. Si sono messi sopra. Non può essere vuoto lì dentro. Quello che hanno fatto è sicuramente incapsulare qualcosa di cui non sappiamo il perché. Non c'è un progetto archeologico qui, ma quello che sappiamo è questo: rivela chiaramente che c'è qualcosa dentro che giustifica l'altezza esagerata della chiesa."
+      },
+      "expertVerbatim": "La iglesia que es ahí. ¿Ven las ventanas? Entonces, todo eso es un basamento. Ninguna persona del mundo necesita hacer un basamento de esa altura para hacer un edificio. Ellos hubieran tranquilamente podido haber construido acá. Si no lo han hecho, es porque en esa roca y adentro de esa cosa que ellos están encapsulando debe haber algo más. Ha habido algo que quizá era un altar o una zona ya allanada, ya utilizada. Ellos se ponen encima porque no hay ninguna necesidad de construir ahí arriba para sostener un edificio de esa altura. Podría estar tranquilamente en el piso, pero ellos no. O sea, no puede ser vacío ahí. Lo que ellos han hecho es seguramente encapsular algo que no sabemos por qué. No hay un proyecto arqueológico acá, pero lo que sí sabemos es eso. Eso delata clarísimamente que hay alguna cosa acá adentro que justifica la altura exagerada de la Iglesia.",
+      "verbatimLang": "es"
+    }
+  ]
+}

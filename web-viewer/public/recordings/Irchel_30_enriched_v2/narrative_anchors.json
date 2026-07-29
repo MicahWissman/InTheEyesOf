@@ -1,0 +1,46 @@
+[
+    {
+        "cluster_ids": [
+            0
+        ],
+        "cluster_id": 0,
+        "start_ts": 591160171,
+        "end_ts": 598060171,
+        "start_sec": 517.600012188,
+        "duration": 6.899999999999977,
+        "relative_time": "517.6s - 524.5s",
+        "transcript_slice": "This probably this is more here, out of here which is here, as well as convenient because on the sides of the city you have the trams going towards the Schwamendingen and they go underground. Visually: at the water's edge of the northern stream / Bachlauf, now looking along its channel northward. The stream is calm and shallow here, perhaps 3-4m wide \u2014 broadening into a small informal pond. The water surface reflects sky and trees. On the left bank, large flat granite stepping-stone slabs extend to the water edge \u2014 the same landscape stone motif used throughout the park. The far bank shows dense marginal reed and sedge vegetation. The surrounding lawn and path are very close. This is a popular spot for children to observe aquatic insects, tadpoles, and small fish. The park's ecological management ensures no herbicide use in this zone, meaning the marginal vegetation is rich and diverse. So you have this tunnel in which actually the tracks switch sides and they need to basically go quickly underground. Here we have again like this path for running, this circle path which goes around the park for running with the wood pavement. Visually: pulling back from the water edge, now on the main path at the junction between the water feature area and the Finnenbahn circuit, approaching the base of the Monte Diggelmann from the south. The path ahead is the smooth asphalt version of the perimeter path. To the right, the hill rises steeply covered in dense woodland. A slim grey metal bollard is at the path edge. The sky opens overhead \u2014 the canopy thins before the hill. The afternoon sun is very low now; the light on the path and grass is warm golden. A walker is visible far ahead on the path. The transition from the open lake and meadow zones back into the enclosed hill corridor is clearly felt.",
+        "gx": -98.1201876126803,
+        "gy": 37.29353537926307,
+        "gz": 0.5552609241925753,
+        "clip_rel_path": "cluster_00/event_000_cluster_0.mp4",
+        "narrative_title": "Junction: Stream, Path, Hill",
+        "narrative_description": "The expert's gaze centers on a significant junction where a calm, ecologically managed stream, popular for observing aquatic life, meets the park's main running path. Granite stepping stones extend to the water's edge, contrasting with dense marginal vegetation, while the path itself transitions from wood to asphalt. From this vantage, the expert details the path leading towards the steeply rising, wooded Monte Diggelmann, marked by a metal bollard under the warm afternoon sun. This location clearly acts as a transition point within the park, blending natural water features with key recreational routes and urban connections.",
+        "objects": [
+            "stream",
+            "pond",
+            "water",
+            "sky",
+            "trees",
+            "granite stepping-stone slabs",
+            "reed vegetation",
+            "sedge vegetation",
+            "lawn",
+            "path",
+            "hill",
+            "woodland",
+            "metal bollard",
+            "walker"
+        ],
+        "actions": [
+            "observing (aquatic life)",
+            "reflecting (water surface)",
+            "walking (on path)"
+        ],
+        "spatial_props": {
+            "elevation": "ground_level",
+            "proximity_to_water": "near_water",
+            "proximity_to_path": "on_path"
+        }
+    }
+]

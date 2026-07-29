@@ -1,0 +1,1489 @@
+{
+  "gazeOverlays": [
+    {
+      "anchorId": 69,
+      "gazeTarget": [
+        -113.5,
+        3.0,
+        138.8
+      ],
+      "gazeSpread": 0.11,
+      "gazeDepth": 4.0,
+      "bodyState": "dwelling",
+      "confidence": "high",
+      "_note": "The House of Loreto — visited by Polish princes at the start of the 1500s, captivated by Italian heritage. They asked for the architect but found only the guardian, a laborer who pretended to be the architect. That lie spread an architectural form across half of Europe.",
+      "frameUrl": "bubbles_lite/img/node_69_0120.jpg",
+      "_note_it": "La Casa di Loreto — visitata da principi polacchi all'inizio del Cinquecento, affascinati dal patrimonio italiano. Chiesero dell'architetto, ma trovarono solo il custode, un operaio che si finse l'architetto. Quella bugia diffuse una forma architettonica in mezza Europa."
+    },
+    {
+      "anchorId": 69,
+      "gazeTarget": [
+        -114.3,
+        3.6,
+        137.5
+      ],
+      "gazeSpread": 0.1,
+      "gazeDepth": 4.0,
+      "bodyState": "scanning",
+      "confidence": "high",
+      "_note": "The shape of the mountain itself decided the building's position. The reproduction of the Holy House brought here carries a story born at Loreto, made alive by the specific geography of this place.",
+      "frameUrl": "bubbles_lite/img/node_69_0110.jpg",
+      "_note_it": "La forma della montagna stessa decise la posizione dell'edificio. La riproduzione della Santa Casa portata qui porta una storia nata a Loreto, resa viva dalla geografia specifica di questo luogo."
+    },
+    {
+      "anchorId": 69,
+      "gazeTarget": [
+        -111.5,
+        2.2,
+        137.7
+      ],
+      "gazeSpread": 0.12,
+      "gazeDepth": 2.0,
+      "bodyState": "dwelling",
+      "confidence": "high",
+      "_note": "In the floor — quite important because it gives us the cardinal directions. It's an orienter. When there was no compass, there were these. Forgive me for not mentioning it earlier, but I'll take this chance to tell you now.",
+      "frameUrl": "bubbles_lite/img/node_69_0000.jpg",
+      "_note_it": "Nel pavimento — molto importante perché ci dà le direzioni cardinali. È un orientatore. Quando non c'era la bussola, c'erano questi. Perdonatemi se non l'ho detto prima, ma colgo l'occasione per dirvelo ora."
+    },
+    {
+      "anchorId": 450,
+      "gazeTarget": [
+        545.5,
+        -14.2,
+        -398.8
+      ],
+      "gazeSpread": 0.03,
+      "gazeDepth": 80,
+      "bodyState": "dwelling",
+      "confidence": "high",
+      "_note": "A line through the altar pierces toward the mountain — San Giorgio placed looking at himself in Monte San Giorgio. The sacred geometry of the altar encodes the same orientation principle found at Santa Marta.",
+      "_realGazeTs": 8266902387,
+      "_connectionGroup": "mountain_orientation",
+      "frameUrl": "bubbles_lite/img/node_450_0105.jpg",
+      "_note_it": "Una linea attraverso l'altare trafigge verso la montagna — San Giorgio posto a guardare sé stesso nel Monte San Giorgio. La geometria sacra dell'altare codifica lo stesso principio di orientamento trovato a Santa Marta."
+    },
+    {
+      "anchorId": 112,
+      "gazeTarget": [
+        -383.1,
+        14.4,
+        363.9
+      ],
+      "gazeSpread": 0.03,
+      "gazeDepth": 80,
+      "bodyState": "dwelling",
+      "confidence": "high",
+      "_note": "Monte San Giorgio stands on the other side — the town's coat of arms reflects this position between two watersheds. The expert identifies the consistent sacred orientation that threads through every church in the region.",
+      "_realGazeTs": 2512509637,
+      "_connectionGroup": "mountain_orientation",
+      "frameUrl": "bubbles_lite/img/node_112_0028.jpg",
+      "_note_it": "Il Monte San Giorgio si erge dall'altro lato — lo stemma del paese riflette questa posizione tra due bacini idrografici. L'esperta identifica l'orientamento sacro coerente che attraversa ogni chiesa della regione."
+    },
+    {
+      "anchorId": 239,
+      "gazeTarget": [
+        74.2,
+        2.0,
+        43.2
+      ],
+      "gazeSpread": 0.1,
+      "gazeDepth": 3,
+      "bodyState": "dwelling",
+      "confidence": "synthetic",
+      "frameUrl": "bubbles_lite/img/node_239_0020.jpg",
+      "objectLabel": "Holly lower leaves — bristling with defensive spines",
+      "_note": "Vedi qui sotto? Non è una giovinezza della foglia. È una decisione della pianta. Down low, where the predator reaches, it bristles with spines.",
+      "_note_it": "Vedi qui sotto? Non è una giovinezza della foglia. È una decisione della pianta. In basso, dove il predatore arriva, è irta di spine."
+    },
+    {
+      "anchorId": 239,
+      "gazeTarget": [
+        73.2,
+        9.0,
+        42.2
+      ],
+      "gazeSpread": 0.12,
+      "gazeDepth": 5,
+      "bodyState": "dwelling",
+      "confidence": "synthetic",
+      "frameUrl": "bubbles_lite/img/node_239_0010.jpg",
+      "objectLabel": "Holly upper canopy — smooth leaves, no thorns needed above browsing height",
+      "_note": "Guardala da là in alto. Non ne hai più una sola. Look up there — not a single spine left. Above 2.5m, where deer can't reach, the plant decides: enough.",
+      "_note_it": "Guardala da là in alto. Non ne hai più una sola. Sopra 2,5 m, dove il cervo non arriva, la pianta decide: basta."
+    },
+    {
+      "anchorId": 234,
+      "gazeTarget": [
+        -151.3,
+        4.5,
+        143.2
+      ],
+      "gazeSpread": 0.12,
+      "gazeDepth": 2.0,
+      "bodyState": "dwelling",
+      "confidence": "high",
+      "frameUrl": "bubbles_lite/img/node_234_0005.jpg",
+      "objectLabel": "Holly (agrifoglio) lower leaves with spines — expert pointing to identify",
+      "_note": "Si vamos arriba las espinas ya no van a hacer tanto. The expert distinguishes holly from nocciolo (hazelnut) growing nearby.",
+      "_note_it": "Le spine diminuiscono salendo. L'esperta distingue l'agrifoglio dal nocciolo che cresce nelle vicinanze."
+    },
+    {
+      "anchorId": 234,
+      "gazeTarget": [
+        -151.2,
+        4.9,
+        143.5
+      ],
+      "gazeSpread": 0.11,
+      "gazeDepth": 2.0,
+      "bodyState": "scanning",
+      "confidence": "high",
+      "frameUrl": "bubbles_lite/img/node_234_0025.jpg",
+      "objectLabel": "Nocciolo (Corylus avellana / hazelnut) — not holly, the expert warns",
+      "_note": "Esto es un nocciolo. Hazelnut. Expert identifies the hazelnut tree mixed in among the holly, teaching how to distinguish them.",
+      "_note_it": "Questo è un nocciolo. L'esperta identifica il nocciolo mescolato tra gli agrifogli, insegnando a distinguerli."
+    },
+    {
+      "anchorId": 135,
+      "gazeTarget": [
+        -344.5,
+        -0.4099999999999999,
+        268.0
+      ],
+      "gazeSpread": 0.22,
+      "gazeDepth": 2.0,
+      "bodyState": "dwelling",
+      "confidence": "synthetic",
+      "frameUrl": "bubbles_lite/img/node_135_0024.jpg",
+      "objectLabel": "Floor compass — anticoorientatore",
+      "_note": "Medieval cardinal-direction marker embedded in the floor — used before magnetic compasses were available. Adine points it out as an important navigational artifact from the archive.",
+      "_note_it": "Indicatore medievale delle direzioni cardinali incorporato nel pavimento — usato prima della disponibilità delle bussole magnetiche. Adine lo indica come un importante artefatto di navigazione dall'archivio."
+    },
+    {
+      "anchorId": 94,
+      "gazeTarget": [
+        -401.7,
+        7.3,
+        307.3
+      ],
+      "gazeSpread": 0.15,
+      "gazeDepth": 3.0,
+      "bodyState": "scanning",
+      "confidence": "high",
+      "frameUrl": "bubbles_lite/img/node_94_0351.jpg",
+      "objectLabel": "Full Baroque interior: altar, frescoes, marble columns",
+      "_note": "Full Baroque interior: altar, frescoes, marble columns",
+      "_note_it": "Interno barocco completo: altare, affreschi, colonne di marmo"
+    },
+    {
+      "anchorId": 24,
+      "gazeTarget": [
+        -159.7,
+        5.3,
+        203.0
+      ],
+      "gazeSpread": 0.15,
+      "gazeDepth": 5.0,
+      "bodyState": "scanning",
+      "confidence": "high",
+      "frameUrl": "bubbles_lite/img/node_24_0000.jpg",
+      "objectLabel": "Beech trees with smooth gray bark and green canopy",
+      "_note": "Beech trees with smooth gray bark and green canopy",
+      "_note_it": "Faggi con corteccia grigia liscia e chioma verde"
+    },
+    {
+      "anchorId": 105,
+      "gazeTarget": [
+        -163.2,
+        6.4,
+        199.0
+      ],
+      "gazeSpread": 0.12,
+      "gazeDepth": 2.0,
+      "bodyState": "scanning",
+      "confidence": "high",
+      "frameUrl": "bubbles_lite/img/node_105_0060.jpg",
+      "objectLabel": "Quartz-bearing stone column, crystalline mineral texture",
+      "_note": "Quartz-bearing stone column, crystalline mineral texture",
+      "_note_it": "Colonna in pietra quarzosa, struttura minerale cristallina"
+    },
+    {
+      "anchorId": 403,
+      "gazeTarget": [
+        279.7,
+        -6.9,
+        -215.3
+      ],
+      "gazeSpread": 0.09,
+      "gazeDepth": 2.0,
+      "bodyState": "scanning",
+      "confidence": "high",
+      "frameUrl": "bubbles_lite/img/node_403_0027.jpg",
+      "objectLabel": "Carona historic plaza with pink/yellow buildings",
+      "_note": "Carona historic plaza with pink/yellow buildings",
+      "_note_it": "Piazza storica di Carona con edifici rosa e gialli"
+    },
+    {
+      "anchorId": 458,
+      "gazeTarget": [
+        530.0,
+        -22.2,
+        -471.3
+      ],
+      "gazeSpread": 0.15,
+      "gazeDepth": 3.1,
+      "bodyState": "scanning",
+      "confidence": "high",
+      "frameUrl": "bubbles_lite/img/node_458_0000.jpg",
+      "objectLabel": "Church vault ceiling with Latin inscriptions",
+      "_note": "Church vault ceiling with Latin inscriptions",
+      "_note_it": "Volta della chiesa con iscrizioni in latino"
+    },
+    {
+      "anchorId": 450,
+      "gazeTarget": [
+        534.2,
+        -22.3,
+        -475.1
+      ],
+      "gazeSpread": 0.15,
+      "gazeDepth": 3.1,
+      "bodyState": "scanning",
+      "confidence": "high",
+      "frameUrl": "bubbles_lite/img/node_450_0064.jpg",
+      "objectLabel": "Altar/sanctuary with frescoed dome and marble",
+      "_note": "Altar/sanctuary with frescoed dome and marble",
+      "_note_it": "Altare/santuario con cupola affrescata e marmo"
+    },
+    {
+      "anchorId": 411,
+      "gazeTarget": [
+        345.3,
+        -16.2,
+        -343.3
+      ],
+      "gazeSpread": 0.1,
+      "gazeDepth": 3.0,
+      "bodyState": "dwelling",
+      "confidence": "high",
+      "frameUrl": "bubbles_lite/img/node_411_0024.jpg",
+      "objectLabel": "Historic houses with frescoes and balconies",
+      "_note": "Historic houses with frescoes and balconies",
+      "_note_it": "Case storiche con affreschi e balconi"
+    },
+    {
+      "anchorId": 71,
+      "gazeTarget": [
+        -348.7,
+        0.7,
+        276.0
+      ],
+      "gazeSpread": 0.15,
+      "gazeDepth": 5.8,
+      "bodyState": "scanning",
+      "confidence": "high",
+      "frameUrl": "bubbles_lite/img/node_71_0000.jpg",
+      "objectLabel": "Via Crucis station shrine with painted scene",
+      "_note": "Via Crucis station shrine with painted scene",
+      "_note_it": "Stazione della Via Crucis con scena dipinta"
+    },
+    {
+      "anchorId": 148,
+      "gazeTarget": [
+        -299.0,
+        -3.0,
+        252.8
+      ],
+      "gazeSpread": 0.15,
+      "gazeDepth": 4.2,
+      "bodyState": "scanning",
+      "confidence": "medium",
+      "frameUrl": "bubbles_lite/img/node_148_0000.jpg",
+      "objectLabel": "Wide road through forest canopy",
+      "_note": "Wide road through forest canopy",
+      "_note_it": "Ampia strada attraverso la volta degli alberi"
+    },
+    {
+      "anchorId": 85,
+      "gazeTarget": [
+        -387.9,
+        3.5,
+        294.3
+      ],
+      "gazeSpread": 0.15,
+      "gazeDepth": 9.2,
+      "bodyState": "scanning",
+      "confidence": "high",
+      "frameUrl": "bubbles_lite/img/node_85_0011.jpg",
+      "objectLabel": "Via Crucis station XI with path receding",
+      "_note": "Via Crucis station XI with path receding",
+      "_note_it": "Stazione XI della Via Crucis con sentiero che si allontana"
+    },
+    {
+      "anchorId": 439,
+      "gazeTarget": [
+        506.0,
+        -22.9,
+        -462.3
+      ],
+      "gazeSpread": 0.08,
+      "gazeDepth": 3.4,
+      "bodyState": "dwelling",
+      "confidence": "high",
+      "frameUrl": "bubbles_lite/img/node_439_0009.jpg",
+      "objectLabel": "Arcaded loggia with frescoed facade and church",
+      "_note": "Arcaded loggia with frescoed facade and church",
+      "_note_it": "Loggiato ad archi con facciata affrescata e chiesa"
+    },
+    {
+      "anchorId": 196,
+      "gazeTarget": [
+        -151.7,
+        2.0,
+        145.8
+      ],
+      "gazeSpread": 0.15,
+      "gazeDepth": 6.1,
+      "bodyState": "scanning",
+      "confidence": "high",
+      "frameUrl": "bubbles_lite/img/node_196_0022.jpg",
+      "objectLabel": "Shrine with flower barrier at base",
+      "_note": "Shrine with flower barrier at base",
+      "_note_it": "Edicola con barriera di fiori alla base"
+    },
+    {
+      "anchorId": 34,
+      "gazeTarget": [
+        -203.9,
+        10.0,
+        266.9
+      ],
+      "gazeSpread": 0.15,
+      "gazeDepth": 4.7,
+      "bodyState": "scanning",
+      "confidence": "high",
+      "frameUrl": "bubbles_lite/img/node_34_0027.jpg",
+      "objectLabel": "Forest path with beech trees and dappled sunlight",
+      "_note": "Forest path with beech trees and dappled sunlight",
+      "_note_it": "Sentiero nel bosco con faggi e luce filtrata"
+    },
+    {
+      "anchorId": 14,
+      "gazeTarget": [
+        -132.9,
+        2.3,
+        136.2
+      ],
+      "gazeSpread": 0.15,
+      "gazeDepth": 3.9,
+      "bodyState": "scanning",
+      "confidence": "high",
+      "frameUrl": "bubbles_lite/img/node_14_0000.jpg",
+      "objectLabel": "Chestnut trunk with bark texture and lichen",
+      "_note": "Chestnut trunk with bark texture and lichen",
+      "_note_it": "Tronco di castagno con corteccia e licheni"
+    },
+    {
+      "anchorId": 190,
+      "gazeTarget": [
+        -165.1,
+        1.9,
+        164.0
+      ],
+      "gazeSpread": 0.15,
+      "gazeDepth": 6.2,
+      "bodyState": "scanning",
+      "confidence": "high",
+      "frameUrl": "bubbles_lite/img/node_190_0004.jpg",
+      "objectLabel": "Forest path fork — two paths ahead",
+      "_note": "Forest path fork — two paths ahead",
+      "_note_it": "Bivio del sentiero nel bosco — due percorsi davanti"
+    },
+    {
+      "anchorId": 189,
+      "gazeTarget": [
+        -166.1,
+        1.8,
+        162.2
+      ],
+      "gazeSpread": 0.15,
+      "gazeDepth": 6.2,
+      "bodyState": "scanning",
+      "confidence": "high",
+      "frameUrl": "bubbles_lite/img/node_189_0008.jpg",
+      "objectLabel": "Forest path with person pointing at canopy",
+      "_note": "Forest path with person pointing at canopy",
+      "_note_it": "Sentiero nel bosco con persona che indica la chioma"
+    },
+    {
+      "anchorId": 1,
+      "gazeTarget": [
+        -82.3,
+        -0.9,
+        158.1
+      ],
+      "gazeSpread": 0.1,
+      "gazeDepth": 3.0,
+      "bodyState": "dwelling",
+      "confidence": "high",
+      "frameUrl": "bubbles_lite/img/node_1_0060.jpg",
+      "objectLabel": "Stone fountain visible with hillside behind",
+      "_note": "Stone fountain visible with hillside behind",
+      "_note_it": "Fontana in pietra visibile con pendio sullo sfondo"
+    },
+    {
+      "anchorId": 87,
+      "gazeTarget": [
+        -378.3,
+        3.25,
+        291.32
+      ],
+      "gazeDepth": 11.6,
+      "gazeSpread": 0.18,
+      "confidence": "medium",
+      "bodyState": "scanning",
+      "objectLabel": "The full Via Crucis processional avenue lined with painted shrine stations on both sides, showing th",
+      "frameUrl": "bubbles_lite/img/node_87_0015.jpg",
+      "_note_it": "L'intero viale processionale della Via Crucis fiancheggiato da edicole dipinte su entrambi i lati, mostrando il percorso accessibile"
+    },
+    {
+      "anchorId": 94,
+      "gazeTarget": [
+        -399.8,
+        7.12,
+        306.58
+      ],
+      "gazeDepth": 3.7,
+      "gazeSpread": 0.18,
+      "confidence": "medium",
+      "bodyState": "scanning",
+      "objectLabel": "The sanctuary interior with its marble communion rail, historic floor tile pattern, and baroque wall",
+      "frameUrl": "bubbles_lite/img/node_94_0039.jpg",
+      "_note_it": "L'interno del santuario con la balaustra in marmo, il pavimento storico a piastrelle e le pareti barocche"
+    },
+    {
+      "anchorId": 94,
+      "gazeTarget": [
+        -399.33,
+        7.12,
+        305.41
+      ],
+      "gazeDepth": 3.7,
+      "gazeSpread": 0.18,
+      "confidence": "medium",
+      "bodyState": "scanning",
+      "objectLabel": "The soaring baroque interior of the Loreto sanctuary showing the full height of the nave, the fresco",
+      "frameUrl": "bubbles_lite/img/node_94_0269.jpg",
+      "_note_it": "L'imponente interno barocco del santuario del Loreto, che mostra l'intera altezza della navata, gli affreschi"
+    },
+    {
+      "anchorId": 94,
+      "gazeTarget": [
+        -399.28,
+        7.12,
+        304.16
+      ],
+      "gazeDepth": 3.7,
+      "gazeSpread": 0.18,
+      "confidence": "medium",
+      "bodyState": "scanning",
+      "objectLabel": "The main altar composition of the Loreto sanctuary with the altarpiece painting, flanking narrative ",
+      "frameUrl": "bubbles_lite/img/node_94_0116.jpg",
+      "_note_it": "La composizione dell'altare maggiore del santuario del Loreto con la pala d'altare, i pannelli narrativi e le cornici decorative"
+    },
+    {
+      "anchorId": 418,
+      "gazeTarget": [
+        347.41,
+        -19.07,
+        -344.48
+      ],
+      "gazeDepth": 6.1,
+      "gazeSpread": 0.18,
+      "confidence": "medium",
+      "bodyState": "scanning",
+      "objectLabel": "Pink-rendered facade of the Solari house with three arched upper windows, ornamental balcony railing",
+      "frameUrl": "bubbles_lite/img/node_418_0037.jpg",
+      "_note_it": "Facciata rosa della casa Solari con tre finestre ad arco, ringhiera ornamentale del balcone"
+    },
+    {
+      "anchorId": 450,
+      "gazeTarget": [
+        537.97,
+        -22.64,
+        -476.72
+      ],
+      "gazeDepth": 3.8,
+      "gazeSpread": 0.18,
+      "confidence": "medium",
+      "bodyState": "scanning",
+      "objectLabel": "The octagonal dome interior with its coffered rosette pattern, encircled by a continuous band of lar",
+      "frameUrl": "bubbles_lite/img/node_450_0081.jpg",
+      "_note_it": "L'interno della cupola ottagonale con il motivo a rosone a cassettoni, circondato da una fascia continua di grandi lunette"
+    },
+    {
+      "anchorId": 450,
+      "gazeTarget": [
+        538.11,
+        -22.64,
+        -477.88
+      ],
+      "gazeDepth": 3.8,
+      "gazeSpread": 0.18,
+      "confidence": "medium",
+      "bodyState": "scanning",
+      "objectLabel": "The full longitudinal axis of the nave -- classical columns, ribbed vaulting, suspended wooden pulpi",
+      "frameUrl": "bubbles_lite/img/node_450_0114.jpg",
+      "_note_it": "L'intero asse longitudinale della navata — colonne classiche, volte a crociera, pulpito ligneo sospeso"
+    },
+    {
+      "anchorId": 458,
+      "gazeTarget": [
+        532.39,
+        -22.59,
+        -471.07
+      ],
+      "gazeDepth": 3.8,
+      "gazeSpread": 0.18,
+      "confidence": "medium",
+      "bodyState": "scanning",
+      "objectLabel": "The vault inscription system -- Latin text runs along every structural rib of the groin vault, with ",
+      "frameUrl": "bubbles_lite/img/node_458_0001.jpg",
+      "_note_it": "Il sistema di iscrizioni della volta — il testo latino corre lungo ogni nervatura strutturale della volta a crociera"
+    },
+    {
+      "anchorId": 458,
+      "gazeTarget": [
+        533.25,
+        -22.59,
+        -471.87
+      ],
+      "gazeDepth": 3.8,
+      "gazeSpread": 0.18,
+      "confidence": "medium",
+      "bodyState": "scanning",
+      "objectLabel": "Panoramic view of the nave vault system -- multiple bays of inscribed ribs converging toward the dom",
+      "frameUrl": "bubbles_lite/img/node_458_0009.jpg",
+      "_note_it": "Vista panoramica del sistema di volte della navata — molteplici campate con nervature iscritte che convergono verso la cupola"
+    },
+    {
+      "anchorId": 23,
+      "gazeTarget": [
+        -151.09,
+        4.74,
+        187.81
+      ],
+      "gazeDepth": 5.0,
+      "gazeSpread": 0.18,
+      "confidence": "medium",
+      "bodyState": "dwelling",
+      "objectLabel": "Young holly plants emerging from leaf litter on the forest floor, with characteristic glossy green l",
+      "frameUrl": "bubbles_lite/img/node_23_0006.jpg",
+      "_note_it": "Giovani piante di agrifoglio che emergono dalla lettiera di foglie sul suolo del bosco, con foglie caratteristiche lucide verdi"
+    },
+    {
+      "anchorId": 24,
+      "gazeTarget": [
+        -158.84,
+        4.89,
+        204.08
+      ],
+      "gazeDepth": 6.3,
+      "gazeSpread": 0.18,
+      "confidence": "medium",
+      "bodyState": "scanning",
+      "objectLabel": "Moss-covered beech tree base with surface roots radiating outward into the leaf litter, illustrating",
+      "frameUrl": "bubbles_lite/img/node_24_0026.jpg",
+      "_note_it": "Base di faggio coperta di muschio con radici superficiali che si irradiano nella lettiera, illustrando il sistema radicale"
+    },
+    {
+      "anchorId": 24,
+      "gazeTarget": [
+        -156.98,
+        4.89,
+        203.27
+      ],
+      "gazeDepth": 6.3,
+      "gazeSpread": 0.18,
+      "confidence": "medium",
+      "bodyState": "scanning",
+      "objectLabel": "Beech forest canopy viewed from below, with characteristic smooth gray trunks rising to a dense gree",
+      "frameUrl": "bubbles_lite/img/node_24_0038.jpg",
+      "_note_it": "Chioma di faggeta vista dal basso, con i caratteristici tronchi grigi lisci che si innalzano verso una chioma verde densa"
+    },
+    {
+      "anchorId": 314,
+      "gazeTarget": [
+        272.9,
+        -9.18,
+        -219.21
+      ],
+      "gazeDepth": 8.9,
+      "gazeSpread": 0.18,
+      "confidence": "medium",
+      "bodyState": "scanning",
+      "objectLabel": "Stone wall along a Carona street overtaken by climbing vegetation, illustrating how invasive and opp",
+      "frameUrl": "bubbles_lite/img/node_314_0000.jpg",
+      "_note_it": "Muro in pietra lungo una strada di Carona invaso dalla vegetazione rampicante, illustrando come piante invasive e opportuniste"
+    },
+    {
+      "anchorId": 314,
+      "gazeTarget": [
+        275.96,
+        -9.18,
+        -219.5
+      ],
+      "gazeDepth": 8.9,
+      "gazeSpread": 0.18,
+      "confidence": "medium",
+      "bodyState": "scanning",
+      "objectLabel": "Trachycarpus palm and mixed exotic ornamental plants in a Carona garden. The palm is a key indicator",
+      "frameUrl": "bubbles_lite/img/node_314_0082.jpg",
+      "_note_it": "Palma Trachycarpus e piante ornamentali esotiche miste in un giardino di Carona. La palma è un indicatore chiave di specie invasive"
+    },
+    {
+      "anchorId": 14,
+      "gazeTarget": [
+        -133.18,
+        1.98,
+        137.16
+      ],
+      "gazeDepth": 4.9,
+      "gazeSpread": 0.18,
+      "confidence": "medium",
+      "bodyState": "scanning",
+      "objectLabel": "Massive chestnut trunk viewed from close range looking upward, showing the deeply furrowed bark text",
+      "frameUrl": "bubbles_lite/img/node_14_0004.jpg",
+      "_note_it": "Imponente tronco di castagno visto da vicino verso l'alto, mostrando la corteccia profondamente solcata"
+    },
+    {
+      "anchorId": 105,
+      "gazeTarget": [
+        -164.9,
+        7.1,
+        200.0
+      ],
+      "gazeDepth": 4.0,
+      "gazeSpread": 0.11,
+      "confidence": "high",
+      "bodyState": "scanning",
+      "objectLabel": "Quartz-bearing granite pillar of the church portico -- mineral grain texture, weathering holes, and ",
+      "frameUrl": "bubbles_lite/img/node_105_0061.jpg",
+      "_note_it": "Pilastro in granito quarzifero del portico della chiesa — grana minerale, fori d'erosione e struttura cristallina"
+    },
+    {
+      "anchorId": 116,
+      "gazeTarget": [
+        -413.48,
+        5.71,
+        294.25
+      ],
+      "gazeDepth": 11.3,
+      "gazeSpread": 0.18,
+      "confidence": "medium",
+      "bodyState": "scanning",
+      "objectLabel": "Panoramic landscape from the belvedere lookout -- distant mountains, lake glimpse through trees, wit",
+      "frameUrl": "bubbles_lite/img/node_116_0004.jpg",
+      "_note_it": "Paesaggio panoramico dal belvedere — montagne lontane, scorcio del lago tra gli alberi"
+    },
+    {
+      "anchorId": 116,
+      "gazeTarget": [
+        -409.67,
+        5.71,
+        294.96
+      ],
+      "gazeDepth": 11.3,
+      "gazeSpread": 0.18,
+      "confidence": "medium",
+      "bodyState": "scanning",
+      "objectLabel": "Stone border wall of the belvedere walkway -- rough-cut stone construction with distant mountain lan",
+      "frameUrl": "bubbles_lite/img/node_116_0021.jpg",
+      "_note_it": "Muro di confine in pietra della passeggiata del belvedere — costruzione in pietra grezza con paesaggio montano in lontananza"
+    },
+    {
+      "anchorId": 411,
+      "gazeTarget": [
+        345.4,
+        -16.8,
+        -343.5
+      ],
+      "gazeDepth": 3.0,
+      "gazeSpread": 0.11,
+      "confidence": "high",
+      "bodyState": "dwelling",
+      "objectLabel": "Two characteristic Carona village houses -- yellow-ochre facade with wrought-iron balcony and climbi",
+      "frameUrl": "bubbles_lite/img/node_411_0022.jpg",
+      "_note_it": "Due tipiche case del villaggio di Carona — facciata giallo-ocra con balcone in ferro battuto e rampicanti"
+    },
+    {
+      "anchorId": 411,
+      "gazeTarget": [
+        345.0,
+        -16.0,
+        -343.4
+      ],
+      "gazeDepth": 3.0,
+      "gazeSpread": 0.1,
+      "confidence": "high",
+      "bodyState": "dwelling",
+      "objectLabel": "Pink heritage building facade from below -- arched triple window bays, decorative iron balcony, and ",
+      "frameUrl": "bubbles_lite/img/node_411_0100.jpg",
+      "_note_it": "Facciata di edificio storico rosa dal basso — aperture ad arco tripartito, balcone decorativo in ferro"
+    },
+    {
+      "anchorId": 403,
+      "gazeTarget": [
+        279.8,
+        -7.8,
+        -214.9
+      ],
+      "gazeDepth": 1.4,
+      "gazeSpread": 0.11,
+      "confidence": "high",
+      "bodyState": "scanning",
+      "objectLabel": "Historic Carona plaza panorama -- multiple heritage building facades (yellow, pink, stone) surroundi",
+      "frameUrl": "bubbles_lite/img/node_403_0009.jpg",
+      "_note_it": "Panorama della piazza storica di Carona — molteplici facciate di edifici storici (giallo, rosa, pietra) intorno alla piazza acciottolata"
+    },
+    {
+      "anchorId": 403,
+      "gazeTarget": [
+        280.0,
+        -7.9,
+        -215.5
+      ],
+      "gazeDepth": 2.0,
+      "gazeSpread": 0.11,
+      "confidence": "high",
+      "bodyState": "scanning",
+      "objectLabel": "Full plaza ensemble view -- the complete ring of historic buildings around the cobblestone square, s",
+      "frameUrl": "bubbles_lite/img/node_403_0024.jpg",
+      "_note_it": "Vista d'insieme della piazza — l'anello completo di edifici storici intorno alla piazza acciottolata"
+    },
+    {
+      "anchorId": 71,
+      "gazeTarget": [
+        -344.59,
+        0.44,
+        276.64
+      ],
+      "gazeDepth": 7.3,
+      "gazeSpread": 0.18,
+      "confidence": "medium",
+      "bodyState": "scanning",
+      "objectLabel": "Via Crucis station shrine set among large trees on the cobblestone pilgrimage path, with dappled for",
+      "frameUrl": "bubbles_lite/img/node_71_0055.jpg",
+      "_note_it": "Stazione della Via Crucis tra grandi alberi sul percorso acciottolato del pellegrinaggio, con luce filtrata del bosco"
+    },
+    {
+      "anchorId": 71,
+      "gazeTarget": [
+        -342.62,
+        0.44,
+        275.1
+      ],
+      "gazeDepth": 7.3,
+      "gazeSpread": 0.18,
+      "confidence": "medium",
+      "bodyState": "scanning",
+      "objectLabel": "Close view of Via Crucis station niche with painted religious scene, adjacent to a large tree trunk ",
+      "frameUrl": "bubbles_lite/img/node_71_0061.jpg",
+      "_note_it": "Vista ravvicinata della nicchia della stazione della Via Crucis con scena religiosa dipinta, accanto a un grande tronco d'albero"
+    },
+    {
+      "anchorId": 85,
+      "gazeTarget": [
+        -379.97,
+        2.77,
+        294.97
+      ],
+      "gazeDepth": 11.6,
+      "gazeSpread": 0.18,
+      "confidence": "medium",
+      "bodyState": "scanning",
+      "objectLabel": "Station XI of the Via Crucis with its painted panel, the wide accessible pilgrimage path stretching ",
+      "frameUrl": "bubbles_lite/img/node_85_0009.jpg",
+      "_note_it": "Stazione XI della Via Crucis con il pannello dipinto, l'ampio sentiero accessibile del pellegrinaggio che si estende"
+    },
+    {
+      "anchorId": 85,
+      "gazeTarget": [
+        -377.19,
+        2.77,
+        292.36
+      ],
+      "gazeDepth": 11.6,
+      "gazeSpread": 0.18,
+      "confidence": "medium",
+      "bodyState": "scanning",
+      "objectLabel": "Arcaded stone building (likely sanctuary or chapel) with loggia arches, a Via Crucis station shrine ",
+      "frameUrl": "bubbles_lite/img/node_85_0007.jpg",
+      "_note_it": "Edificio in pietra con loggiato ad archi (probabilmente santuario o cappella), una stazione della Via Crucis"
+    },
+    {
+      "anchorId": 135,
+      "gazeTarget": [
+        -342.59,
+        -0.92,
+        275.15
+      ],
+      "gazeDepth": 7.7,
+      "gazeSpread": 0.18,
+      "confidence": "medium",
+      "bodyState": "scanning",
+      "objectLabel": "The ancient stone floor orienter -- a circular compass mosaic set into the ground at a junction on t",
+      "frameUrl": "bubbles_lite/img/node_135_0012.jpg",
+      "_note_it": "L'antico orientatore nel pavimento in pietra — un mosaico circolare a bussola incastonato nel terreno a un incrocio"
+    },
+    {
+      "anchorId": 135,
+      "gazeTarget": [
+        -340.24,
+        -0.92,
+        274.05
+      ],
+      "gazeDepth": 7.7,
+      "gazeSpread": 0.18,
+      "confidence": "medium",
+      "bodyState": "scanning",
+      "objectLabel": "View toward the sanctuary compound with church tower visible through the tree canopy, a Via Crucis s",
+      "frameUrl": "bubbles_lite/img/node_135_0010.jpg",
+      "_note_it": "Vista verso il complesso del santuario con il campanile visibile attraverso la chioma degli alberi, una stazione della Via Crucis"
+    },
+    {
+      "anchorId": 439,
+      "gazeTarget": [
+        505.5,
+        -22.5,
+        -461.0
+      ],
+      "gazeDepth": 3.0,
+      "gazeSpread": 0.12,
+      "confidence": "medium",
+      "bodyState": "dwelling",
+      "objectLabel": "The historical political building facade with frescoed decoration including figurative and heraldic ",
+      "frameUrl": "bubbles_lite/img/node_439_0005.jpg",
+      "_note_it": "La facciata dell'edificio politico storico con decorazione affrescata inclusi motivi figurativi e araldici"
+    },
+    {
+      "anchorId": 439,
+      "gazeTarget": [
+        505.6,
+        -21.8,
+        -461.1
+      ],
+      "gazeDepth": 1.8,
+      "gazeSpread": 0.1,
+      "confidence": "medium",
+      "bodyState": "dwelling",
+      "objectLabel": "Full view of the historical political building with frescoed facade and arcaded ground floor beside ",
+      "frameUrl": "bubbles_lite/img/node_439_0012.jpg",
+      "_note_it": "Vista completa dell'edificio politico storico con facciata affrescata e piano terra porticato accanto alla chiesa"
+    }
+  ],
+  "touchOverlays": [
+    {
+      "pos": [
+        -344.5,
+        -0.4099999999999999,
+        268.0
+      ],
+      "label": "Anticoorientatore — medieval floor compass showing cardinal directions",
+      "ephemeral": false,
+      "anchorId": 135,
+      "frameUrl": "bubbles_lite/img/node_135_0024.jpg",
+      "label_it": "Anticoorientatore — bussola pavimentale medievale che indica le direzioni cardinali"
+    },
+    {
+      "pos": [
+        -411.7,
+        7.4,
+        290.4
+      ],
+      "label": "Pointing at chapel entrance",
+      "ephemeral": false,
+      "anchorId": 112,
+      "frameUrl": "bubbles_lite/img/node_112_0008.jpg",
+      "label_it": "Indica l'ingresso della cappella"
+    },
+    {
+      "pos": [
+        -133.4,
+        3.1,
+        134.1
+      ],
+      "label": "Touching chestnut bark",
+      "ephemeral": false,
+      "anchorId": 14,
+      "frameUrl": "bubbles_lite/img/node_14_0021.jpg",
+      "label_it": "Tocca la corteccia del castagno"
+    },
+    {
+      "pos": [
+        -160.0,
+        6.6,
+        199.9
+      ],
+      "label": "Touching beech bark",
+      "ephemeral": false,
+      "anchorId": 24,
+      "frameUrl": "bubbles_lite/img/node_24_0024.jpg",
+      "label_it": "Tocca la corteccia del faggio"
+    },
+    {
+      "pos": [
+        -152.8,
+        3.9,
+        141.9
+      ],
+      "label": "Pointing at flower barrier",
+      "ephemeral": false,
+      "anchorId": 196,
+      "frameUrl": "bubbles_lite/img/node_196_0008.jpg",
+      "label_it": "Indica la barriera di fiori"
+    },
+    {
+      "pos": [
+        51.5,
+        5.1,
+        76.2
+      ],
+      "label": "Pointing at holly spines",
+      "ephemeral": false,
+      "anchorId": 234,
+      "frameUrl": "bubbles_lite/img/node_234_0000.jpg",
+      "label_it": "Indica le spine dell'agrifoglio"
+    },
+    {
+      "pos": [
+        73.7,
+        4.8,
+        44.2
+      ],
+      "label": "Touching holly leaves",
+      "ephemeral": false,
+      "anchorId": 239,
+      "frameUrl": "bubbles_lite/img/node_239_0000.jpg",
+      "label_it": "Tocca le foglie dell'agrifoglio"
+    },
+    {
+      "pos": [
+        -203.4,
+        10.8,
+        263.9
+      ],
+      "label": "Touching trail marker on beech tree",
+      "ephemeral": false,
+      "anchorId": 34,
+      "frameUrl": "bubbles_lite/img/node_34_0000.jpg",
+      "label_it": "Tocca il segnavia sull'albero di faggio"
+    },
+    {
+      "pos": [
+        -409.0,
+        7.5,
+        285.2
+      ],
+      "label": "Pointing at stone walkway border",
+      "ephemeral": false,
+      "anchorId": 116,
+      "frameUrl": "bubbles_lite/img/node_116_0016.jpg",
+      "label_it": "Indica il bordo in pietra della passeggiata"
+    },
+    {
+      "pos": [
+        -82.4,
+        0.1,
+        157.2
+      ],
+      "label": "Gesturing at water fountain structure",
+      "ephemeral": false,
+      "anchorId": 1,
+      "frameUrl": "bubbles_lite/img/node_1_0040.jpg",
+      "label_it": "Indica la struttura della fontana"
+    },
+    {
+      "pos": [
+        -348.1,
+        1.5,
+        271.8
+      ],
+      "label": "Pointing at Via Crucis shrines",
+      "ephemeral": false,
+      "anchorId": 71,
+      "frameUrl": "bubbles_lite/img/node_71_0066.jpg",
+      "label_it": "Indica le edicole della Via Crucis"
+    },
+    {
+      "pos": [
+        -299.7,
+        -2.1,
+        250.4
+      ],
+      "label": "Gesturing at road through forest",
+      "ephemeral": false,
+      "anchorId": 148,
+      "frameUrl": "bubbles_lite/img/node_148_0002.jpg",
+      "label_it": "Indica la strada attraverso il bosco"
+    },
+    {
+      "pos": [
+        -165.6,
+        3.0,
+        157.7
+      ],
+      "label": "Pointing along forest path",
+      "ephemeral": false,
+      "anchorId": 189,
+      "frameUrl": "bubbles_lite/img/node_189_0018.jpg",
+      "label_it": "Indica lungo il sentiero nel bosco"
+    },
+    {
+      "pos": [
+        -164.6,
+        3.0,
+        159.5
+      ],
+      "label": "Gesturing at forest path fork",
+      "ephemeral": false,
+      "anchorId": 190,
+      "frameUrl": "bubbles_lite/img/node_190_0011.jpg",
+      "label_it": "Indica il bivio nel bosco"
+    },
+    {
+      "pos": [
+        -152.1,
+        6.0,
+        184.6
+      ],
+      "label": "Pointing at ground holly vegetation",
+      "ephemeral": false,
+      "anchorId": 23,
+      "frameUrl": "bubbles_lite/img/node_23_0027.jpg",
+      "label_it": "Indica la vegetazione di agrifoglio al suolo"
+    },
+    {
+      "pos": [
+        -415.5,
+        7.2,
+        291.1
+      ],
+      "label": "Pointing at geographic panorama",
+      "ephemeral": false,
+      "anchorId": 110,
+      "frameUrl": "bubbles_lite/img/node_110_0011.jpg",
+      "label_it": "Indica il panorama geografico"
+    },
+    {
+      "pos": [
+        -341.22,
+        0.64,
+        271.65
+      ],
+      "label": "Pointing toward heritage site feature in wooded clearing",
+      "ephemeral": false,
+      "anchorId": 69,
+      "frameUrl": "bubbles_lite/img/node_69_0109.jpg",
+      "label_it": "Indica un elemento del patrimonio nella radura boschiva"
+    },
+    {
+      "pos": [
+        -388.79,
+        6.65,
+        289.66
+      ],
+      "label": "Gesturing toward Via Crucis stations while explaining",
+      "ephemeral": false,
+      "anchorId": 87,
+      "frameUrl": "bubbles_lite/img/node_87_0033.jpg",
+      "label_it": "Indica le stazioni della Via Crucis mentre spiega"
+    },
+    {
+      "pos": [
+        -402.86,
+        7.69,
+        306.14
+      ],
+      "label": "Hands touching marble balustrade surface",
+      "ephemeral": false,
+      "anchorId": 94,
+      "frameUrl": "bubbles_lite/img/node_94_0077.jpg",
+      "label_it": "Mani che toccano la balaustra in marmo"
+    },
+    {
+      "pos": [
+        341.58,
+        -17.6,
+        -343.57
+      ],
+      "label": "Showing reference document about facade art",
+      "ephemeral": false,
+      "anchorId": 418,
+      "frameUrl": "bubbles_lite/img/node_418_0071.jpg",
+      "label_it": "Mostra documento di riferimento sull'arte della facciata"
+    },
+    {
+      "pos": [
+        534.75,
+        -21.12,
+        -476.2
+      ],
+      "label": "Touching the marble altar rail",
+      "ephemeral": false,
+      "anchorId": 450,
+      "frameUrl": "bubbles_lite/img/node_450_0048.jpg",
+      "label_it": "Tocca la balaustra dell'altare in marmo"
+    },
+    {
+      "pos": [
+        535.47,
+        -21.12,
+        -476.39
+      ],
+      "label": "Pointing up at the dome and vault frescoes",
+      "ephemeral": false,
+      "anchorId": 450,
+      "frameUrl": "bubbles_lite/img/node_450_0104.jpg",
+      "label_it": "Indica la cupola e gli affreschi della volta"
+    },
+    {
+      "pos": [
+        -151.14,
+        6.18,
+        184.46
+      ],
+      "label": "Pointing at holly growth",
+      "ephemeral": false,
+      "anchorId": 23,
+      "frameUrl": "bubbles_lite/img/node_23_0009.jpg",
+      "label_it": "Indica la crescita dell'agrifoglio"
+    },
+    {
+      "pos": [
+        273.61,
+        -7.94,
+        -226.5
+      ],
+      "label": "Showing plant specimen",
+      "ephemeral": false,
+      "anchorId": 314,
+      "frameUrl": "bubbles_lite/img/node_314_0246.jpg",
+      "label_it": "Mostra un campione di pianta"
+    },
+    {
+      "pos": [
+        -132.99,
+        3.31,
+        133.92
+      ],
+      "label": "Hand on chestnut bark",
+      "ephemeral": false,
+      "anchorId": 14,
+      "frameUrl": "bubbles_lite/img/node_14_0001.jpg",
+      "label_it": "Mano sulla corteccia del castagno"
+    },
+    {
+      "pos": [
+        -132.45,
+        3.31,
+        133.41
+      ],
+      "label": "Holding chestnut burr",
+      "ephemeral": false,
+      "anchorId": 14,
+      "frameUrl": "bubbles_lite/img/node_14_0013.jpg",
+      "label_it": "Tiene un riccio di castagno"
+    },
+    {
+      "pos": [
+        -418.96,
+        7.29,
+        294.62
+      ],
+      "label": "Hand on quartz stone pillar",
+      "ephemeral": false,
+      "anchorId": 105,
+      "frameUrl": "bubbles_lite/img/node_105_0059.jpg",
+      "label_it": "Mano sul pilastro in pietra quarzosa"
+    },
+    {
+      "pos": [
+        341.8,
+        -17.34,
+        -323.99
+      ],
+      "label": "Pointing at plaza building with turret",
+      "ephemeral": false,
+      "anchorId": 403,
+      "frameUrl": "bubbles_lite/img/node_403_0015.jpg",
+      "label_it": "Indica l'edificio della piazza con la torretta"
+    },
+    {
+      "pos": [
+        -385.95,
+        6.17,
+        287.3
+      ],
+      "label": "Gesturing toward sanctuary loggia",
+      "ephemeral": false,
+      "anchorId": 85,
+      "frameUrl": "bubbles_lite/img/node_85_0007.jpg",
+      "label_it": "Indica il loggiato del santuario"
+    },
+    {
+      "pos": [
+        -385.23,
+        6.17,
+        287.12
+      ],
+      "label": "Hands explaining Via Crucis station",
+      "ephemeral": false,
+      "anchorId": 85,
+      "frameUrl": "bubbles_lite/img/node_85_0010.jpg",
+      "label_it": "Mani che spiegano la stazione della Via Crucis"
+    },
+    {
+      "pos": [
+        -343.8,
+        0.69,
+        269.28
+      ],
+      "label": "Pointing up at monumental tree",
+      "ephemeral": false,
+      "anchorId": 135,
+      "frameUrl": "bubbles_lite/img/node_135_0008.jpg",
+      "label_it": "Indica l'albero monumentale"
+    },
+    {
+      "pos": [
+        504.71,
+        -22.32,
+        -458.07
+      ],
+      "label": "Pointing at frescoed facade and arcades",
+      "ephemeral": false,
+      "anchorId": 439,
+      "frameUrl": "bubbles_lite/img/node_439_0010.jpg",
+      "label_it": "Indica la facciata affrescata e i portici"
+    },
+    {
+      "pos": [
+        505.43,
+        -22.32,
+        -458.25
+      ],
+      "label": "Gesturing at building and church ensemble",
+      "ephemeral": false,
+      "anchorId": 439,
+      "frameUrl": "bubbles_lite/img/node_439_0012.jpg",
+      "label_it": "Indica l'insieme dell'edificio e della chiesa"
+    }
+  ],
+  "connections": [
+    {
+      "id": "mountain_orientation",
+      "label": "Sacred Mountain Orientation",
+      "description": "Three churches independently oriented toward Monte San Giorgio — a pattern spanning centuries",
+      "style": "solid",
+      "anchorIds": [
+        502,
+        450,
+        112
+      ]
+    },
+    {
+      "id": "santa_marta_approach",
+      "label": "Approaching Santa Marta",
+      "description": "The path from the approach to the Santa Marta church cluster",
+      "style": "solid",
+      "anchorIds": [
+        281,
+        501,
+        502,
+        503,
+        344
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "trigger": "anchor_play",
+      "anchorId": 281,
+      "effects": [
+        {
+          "type": "connection_lines",
+          "anchorIds": [
+            281,
+            501,
+            502,
+            503,
+            344
+          ],
+          "color": "#ff6644",
+          "style": "dotted",
+          "glowPulse": true
+        },
+        {
+          "type": "compass_arrow",
+          "fromAnchorId": 281,
+          "toAnchorId": 502,
+          "color": "#ff6644"
+        }
+      ],
+      "duration": "audio+2s",
+      "fadeIn": 1.0,
+      "fadeOut": 2.0
+    },
+    {
+      "trigger": "anchor_play",
+      "anchorId": 112,
+      "effects": [
+        {
+          "type": "connection_lines",
+          "anchorIds": [
+            502,
+            112,
+            450
+          ],
+          "color": "#ff4444",
+          "style": "dotted",
+          "glowPulse": true
+        }
+      ],
+      "duration": "audio+2s",
+      "fadeIn": 1.0,
+      "fadeOut": 2.0
+    },
+    {
+      "trigger": "anchor_play",
+      "anchorId": 450,
+      "effects": [
+        {
+          "type": "connection_lines",
+          "anchorIds": [
+            502,
+            112,
+            450
+          ],
+          "color": "#ff4444",
+          "style": "dotted",
+          "glowPulse": true
+        }
+      ],
+      "duration": "audio+2s",
+      "fadeIn": 1.0,
+      "fadeOut": 2.0
+    },
+    {
+      "trigger": "anchor_play",
+      "anchorId": 502,
+      "effects": [
+        {
+          "type": "connection_lines",
+          "anchorIds": [
+            502,
+            112,
+            450
+          ],
+          "color": "#ff4444",
+          "style": "dotted",
+          "glowPulse": true
+        }
+      ],
+      "duration": "audio+2s",
+      "fadeIn": 1.0,
+      "fadeOut": 2.0
+    },
+    {
+      "trigger": "anchor_play",
+      "anchorId": 114,
+      "effects": [
+        {
+          "type": "connection_lines",
+          "anchorIds": [
+            502,
+            112,
+            450,
+            114
+          ],
+          "color": "#ff4444",
+          "style": "dotted",
+          "glowPulse": true
+        }
+      ],
+      "duration": "audio+2s",
+      "fadeIn": 1.0,
+      "fadeOut": 2.0
+    },
+    {
+      "trigger": "anchor_play",
+      "anchorId": 290,
+      "effects": [
+        {
+          "type": "connection_lines",
+          "anchorIds": [
+            281,
+            501,
+            502,
+            503,
+            344,
+            290
+          ],
+          "color": "#ff6644",
+          "style": "dotted",
+          "glowPulse": true
+        },
+        {
+          "type": "compass_arrow",
+          "fromAnchorId": 290,
+          "toAnchorId": 502,
+          "color": "#ff6644"
+        }
+      ],
+      "duration": "audio+2s",
+      "fadeIn": 1.0,
+      "fadeOut": 2.0
+    },
+    {
+      "trigger": "anchor_play",
+      "anchorId": 344,
+      "effects": [
+        {
+          "type": "connection_lines",
+          "anchorIds": [
+            112,
+            502,
+            450
+          ],
+          "color": "#ff4444",
+          "style": "dotted",
+          "glowPulse": true
+        }
+      ],
+      "duration": "audio+2s",
+      "fadeIn": 1.0,
+      "fadeOut": 2.0
+    },
+    {
+      "trigger": "anchor_play",
+      "anchorId": 501,
+      "effects": [
+        {
+          "type": "connection_lines",
+          "anchorIds": [
+            501,
+            502,
+            503
+          ],
+          "color": "#ff6644",
+          "style": "dotted",
+          "glowPulse": true
+        }
+      ],
+      "duration": "audio+2s",
+      "fadeIn": 1.0,
+      "fadeOut": 2.0
+    }
+  ]
+}

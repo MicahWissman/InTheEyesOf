@@ -1,0 +1,677 @@
+{
+  "count": 29,
+  "candidates": [
+    {
+      "node_id": 600,
+      "original_id": "adine3_0258",
+      "lat": 45.957616,
+      "lon": 8.935438,
+      "score": 0.29,
+      "title": "The Old Stoves, Aging Gracefully",
+      "verbatimLang": "it",
+      "expertVerbatim": "Sì. Sì. Loro erano come la casa. Erano stufe indipendenti. Ma c'erano bellissimi. Io ero così che li guardavo incantata. Dicevo, voglio arrivare alla loro età così. Ups. Voglio arrivare alla loro età così. Allora sì. E magari ci riesco.",
+      "narrative": {
+        "en": "These old free-standing stoves were beautiful — as elegant as the house itself, each one its own small piece of craft. I'd stand and look at them, enchanted; they were so lovely. And I'd think to myself: I want to reach their age like that — to grow old the way they have, still graceful, still standing, still belonging completely to the place. Maybe, if I'm lucky, I will.",
+        "it": "Queste vecchie stufe indipendenti erano bellissime — eleganti come la casa stessa, ognuna un piccolo capolavoro a sé. Le guardavo incantata; erano così belle. E pensavo tra me: voglio arrivare alla loro età così — invecchiare come hanno fatto loro, ancora aggraziate, ancora in piedi, ancora del tutto parte di questo luogo. Forse, se sarò fortunata, ci riuscirò."
+      },
+      "audioUrls": {
+        "en": {
+          "m": "audio_route/node_600.en.m.mp3",
+          "f": "audio_route/node_600.en.f.mp3"
+        },
+        "it": {
+          "m": "audio_route/node_600.it.m.mp3",
+          "f": "audio_route/node_600.it.f.mp3"
+        }
+      }
+    },
+    {
+      "node_id": 601,
+      "original_id": "adine3_0269",
+      "lat": 45.958019,
+      "lon": 8.935937,
+      "score": 0.28,
+      "title": "Sgraffito: Knowledge Without Space",
+      "verbatimLang": "it",
+      "expertVerbatim": "Anche questo carino, no? Questa capacità di... Quando non hai lo spazio per... Quando non hai lo spazio per fare il balcone ma hai la conoscenza. Quando non hai lo spazio ma hai la conoscenza fai questa cosa prodigiosa. Hai",
+      "narrative": {
+        "en": "Look how lovely this is too. When you don't have the room to build a balcony, but you do have the knowledge, you make something prodigious instead — you carve the wall itself into ornament. It's the intelligence of people who couldn't expand outward, so they worked the surface they had with extraordinary care. Constraint didn't impoverish them; it concentrated their skill into something finer.",
+        "it": "Guardate com'è bello anche questo. Quando non hai lo spazio per fare un balcone, ma hai la conoscenza, fai invece una cosa prodigiosa — incidi il muro stesso, lo trasformi in ornamento. È l'intelligenza di chi non poteva espandersi verso l'esterno, e allora ha lavorato la superficie che aveva con una cura straordinaria. Il limite non li ha impoveriti: ha concentrato la loro abilità in qualcosa di più raffinato."
+      },
+      "audioUrls": {
+        "en": {
+          "m": "audio_route/node_601.en.m.mp3",
+          "f": "audio_route/node_601.en.f.mp3"
+        },
+        "it": {
+          "m": "audio_route/node_601.it.m.mp3",
+          "f": "audio_route/node_601.it.f.mp3"
+        }
+      }
+    },
+    {
+      "node_id": 182,
+      "original_id": "c182",
+      "lat": 45.95251,
+      "lon": 8.927743,
+      "score": 0.24,
+      "title": "Who Cannot Cross the Barrier",
+      "verbatimLang": "es",
+      "expertVerbatim": "quizás una ardilla, quizás unos collátulos, un poco más grande, pero debajo de una cierta dimensión,",
+      "narrative": {
+        "en": "Think of who can't get past this: maybe a squirrel, maybe something a little larger — but below a certain size, an animal simply can't cross. The barrier doesn't look like much to us, yet for the small creatures it's an absolute edge. That's how a habitat fragments — not with a wall, but with a threshold that quietly sorts which lives may pass and which are cut off from the rest.",
+        "it": "Pensate a chi non riesce a passare di qui: forse uno scoiattolo, forse qualcosa di poco più grande — ma sotto una certa dimensione, un animale semplicemente non attraversa. A noi la barriera sembra poca cosa, eppure per le creature piccole è un confine assoluto. È così che un habitat si frammenta — non con un muro, ma con una soglia che in silenzio decide chi può passare e chi resta tagliato fuori dal resto."
+      },
+      "audioUrls": {
+        "en": {
+          "m": "audio_route/node_182.en.m.mp3",
+          "f": "audio_route/node_182.en.f.mp3"
+        },
+        "it": {
+          "m": "audio_route/node_182.it.m.mp3",
+          "f": "audio_route/node_182.it.f.mp3"
+        }
+      }
+    },
+    {
+      "node_id": 254,
+      "original_id": "c254",
+      "lat": 45.954362,
+      "lon": 8.931939,
+      "score": 0.23,
+      "title": "A Park Built on a Felled Beech Wood",
+      "verbatimLang": "it",
+      "expertVerbatim": "Non è gentile dirlo però è stato costruito disintegrando una faggeta.",
+      "narrative": {
+        "en": "It isn't a kind thing to say, but it's true: this was built by tearing apart a beech wood. The park we admire stands where an ancient faggeta once was — and that happened before the world recognized beech forests as a heritage worth protecting. So the beauty in front of us carries a wound underneath it, a reminder that what we choose to value, and when, decides what survives.",
+        "it": "Non è gentile dirlo, ma è così: questo è stato costruito disintegrando una faggeta. Il parco che ammiriamo sorge dove un tempo c'era un bosco di faggi antico — e accadde prima che il mondo riconoscesse le faggete come un patrimonio da proteggere. Così la bellezza che abbiamo davanti porta sotto di sé una ferita, e ci ricorda che ciò che scegliamo di avere caro, e quando, decide ciò che sopravvive."
+      },
+      "audioUrls": {
+        "en": {
+          "m": "audio_route/node_254.en.m.mp3",
+          "f": "audio_route/node_254.en.f.mp3"
+        },
+        "it": {
+          "m": "audio_route/node_254.it.m.mp3",
+          "f": "audio_route/node_254.it.f.mp3"
+        }
+      }
+    },
+    {
+      "node_id": 290,
+      "original_id": "c290",
+      "lat": 45.955357,
+      "lon": 8.933548,
+      "score": 0.23,
+      "title": "Cemetery Walls Facing the Mountain",
+      "verbatimLang": "it",
+      "expertVerbatim": "Questi sono i muri esterni del cimitero, anche lui guarda la montagna. adesso andiamo a vedere santa marta il cimitero e poi",
+      "narrative": {
+        "en": "These are the outer walls of the cemetery — and notice, it too faces the mountain, oriented like everything else here toward Monte San Giorgio. Nothing was placed by accident. From here our way goes on: we'll visit Santa Marta, then the cemetery itself, and after that we'll climb toward San Giorgio and Sant'Andrea. The whole route is a single thought laid across the slope.",
+        "it": "Questi sono i muri esterni del cimitero — e notate, anche lui guarda la montagna, orientato come tutto il resto qui verso il Monte San Giorgio. Niente è stato messo a caso. Da qui il cammino prosegue: andiamo a vedere Santa Marta, poi il cimitero stesso, e dopo saliremo verso San Giorgio e Sant'Andrea. L'intero percorso è un unico pensiero disteso lungo il pendio."
+      },
+      "audioUrls": {
+        "en": {
+          "m": "audio_route/node_290.en.m.mp3",
+          "f": "audio_route/node_290.en.f.mp3"
+        },
+        "it": {
+          "m": "audio_route/node_290.it.m.mp3",
+          "f": "audio_route/node_290.it.f.mp3"
+        }
+      }
+    },
+    {
+      "node_id": 58,
+      "original_id": "c58",
+      "lat": 45.951437,
+      "lon": 8.926359,
+      "score": 0.23,
+      "title": "The Leaf-Bed That Hides the Ground",
+      "verbatimLang": "it",
+      "expertVerbatim": "che non aiuta a capire com'è sotto.",
+      "narrative": {
+        "en": "This thick bed of leaves doesn't help you understand what lies beneath — it hides the true surface of the ground completely. You can't read the path, you can't feel the slope; the earth's own shape is muffled under all of it. And that matters more than it seems, because to know a place you have to be able to sense what's under your feet, and here that knowledge is gently taken away.",
+        "it": "Questo fitto letto di foglie non ti aiuta a capire com'è sotto — nasconde del tutto la vera superficie del terreno. Non riesci a leggere il sentiero, non senti la pendenza; la forma stessa della terra è ovattata sotto a tutto questo. E conta più di quanto sembri, perché per conoscere un luogo devi poter percepire cosa hai sotto i piedi, e qui quella conoscenza ti viene dolcemente tolta."
+      },
+      "audioUrls": {
+        "en": {
+          "m": "audio_route/node_58.en.m.mp3",
+          "f": "audio_route/node_58.en.f.mp3"
+        },
+        "it": {
+          "m": "audio_route/node_58.it.m.mp3",
+          "f": "audio_route/node_58.it.f.mp3"
+        }
+      }
+    },
+    {
+      "node_id": 172,
+      "original_id": "c172",
+      "lat": 45.952317,
+      "lon": 8.927431,
+      "score": 0.22,
+      "title": "How Seeing One Tree Changes the Walk",
+      "verbatimLang": "es",
+      "expertVerbatim": "de ver un árbol, aunque sea solo por un metro o dos metros, varía.",
+      "narrative": {
+        "en": "Even seeing a single tree — just for a meter or two as you pass — changes the whole experience of walking. On a narrow path the trees come close, and you notice them, one by one; you can stop, look, recognize. Widen the way and that intimacy is lost: the trees retreat to the edges and become scenery. The scale of the path quietly decides how much of the living world you're allowed to meet.",
+        "it": "Anche solo vedere un albero — appena per un metro o due mentre passi — cambia tutta l'esperienza del camminare. Su un sentiero stretto gli alberi si avvicinano, e li noti, a uno a uno; puoi fermarti, guardare, riconoscere. Allarga il cammino e quell'intimità si perde: gli alberi si ritirano ai margini e diventano scenario. La scala del sentiero decide in silenzio quanto del mondo vivo ti è concesso incontrare."
+      },
+      "audioUrls": {
+        "en": {
+          "m": "audio_route/node_172.en.m.mp3",
+          "f": "audio_route/node_172.en.f.mp3"
+        },
+        "it": {
+          "m": "audio_route/node_172.it.m.mp3",
+          "f": "audio_route/node_172.it.f.mp3"
+        }
+      }
+    },
+    {
+      "node_id": 57,
+      "original_id": "c57",
+      "lat": 45.95142,
+      "lon": 8.926407,
+      "score": 0.22,
+      "title": "The Body Disoriented by Leaves",
+      "verbatimLang": "it",
+      "expertVerbatim": "il tutto il corpo è disorientato intanto vedi che c'è un letto di c'è un letto di foglie",
+      "narrative": {
+        "en": "Here the whole body grows disoriented. You see this bed of leaves covering everything, and without a clear surface beneath you, you lose the thread of where the path goes. It's a strange, almost forgotten feeling — the realization that we no longer quite know how to read the ground. The forest hasn't hidden the way to trick us; it's simply revealed how much of that old instinct we've let fall asleep.",
+        "it": "Qui tutto il corpo si disorienta. Vedi questo letto di foglie che copre ogni cosa, e senza una superficie chiara sotto di te perdi il filo di dove vada il sentiero. È una sensazione strana, quasi dimenticata — accorgersi che non sappiamo più bene leggere il terreno. Il bosco non ha nascosto la via per ingannarci; ha solo rivelato quanto di quell'antico istinto abbiamo lasciato addormentare."
+      },
+      "audioUrls": {
+        "en": {
+          "m": "audio_route/node_57.en.m.mp3",
+          "f": "audio_route/node_57.en.f.mp3"
+        },
+        "it": {
+          "m": "audio_route/node_57.it.m.mp3",
+          "f": "audio_route/node_57.it.f.mp3"
+        }
+      }
+    },
+    {
+      "node_id": 174,
+      "original_id": "c174",
+      "lat": 45.952331,
+      "lon": 8.927474,
+      "score": 0.22,
+      "title": "No Longer a Path, Now a Road",
+      "verbatimLang": "es",
+      "expertVerbatim": "y no puede ser en un bosque, por ejemplo. un camino así. Esto ya no es un camino, es ya una carretera.",
+      "narrative": {
+        "en": "In a forest there simply can't be a way like this. Look at it: this is no longer a path — it's already a road. A path is something the land and the walkers shaped together over time; a road is imposed, made for volume and speed. The difference isn't only width. It's a whole way of moving through a place, and with the road we trade the slow, attentive walk for mere passage.",
+        "it": "In un bosco non può esserci, per esempio, una via così. Guardatela: questo non è più un sentiero — è ormai una strada. Un sentiero è qualcosa che la terra e chi cammina hanno plasmato insieme nel tempo; una strada è imposta, fatta per il volume e la velocità. La differenza non è solo la larghezza. È un intero modo di attraversare un luogo, e con la strada barattiamo il cammino lento e attento con il semplice transito."
+      },
+      "audioUrls": {
+        "en": {
+          "m": "audio_route/node_174.en.m.mp3",
+          "f": "audio_route/node_174.en.f.mp3"
+        },
+        "it": {
+          "m": "audio_route/node_174.it.m.mp3",
+          "f": "audio_route/node_174.it.f.mp3"
+        }
+      }
+    },
+    {
+      "node_id": 170,
+      "original_id": "c170",
+      "lat": 45.952273,
+      "lon": 8.927343,
+      "score": 0.22,
+      "title": "A Way Built for Volume, Not Noticing",
+      "verbatimLang": "es",
+      "expertVerbatim": "Ese camino está hecho para que volúmenes más grandes de nosotros recorran eso entonces mi posibilidad de reconocer una flor",
+      "narrative": {
+        "en": "This path was made so that larger volumes of us could move through — more people, faster, with carts and machines. But that very design takes something from me: my chance of recognizing a single flower drops away. When the way is built for throughput, the small things become invisible. You pass them at a distance and a pace that make noticing impossible, and the forest stops being a place you read and becomes only a place you cross.",
+        "it": "Questo sentiero è stato fatto perché volumi più grandi di noi lo percorrano — più gente, più in fretta, con carri e macchine. Ma proprio quel disegno mi toglie qualcosa: la mia possibilità di riconoscere un singolo fiore si dissolve. Quando la via è fatta per la quantità, le piccole cose diventano invisibili. Le superi a una distanza e a un ritmo che rendono impossibile notarle, e il bosco smette di essere un luogo da leggere e diventa solo un luogo da attraversare."
+      },
+      "audioUrls": {
+        "en": {
+          "m": "audio_route/node_170.en.m.mp3",
+          "f": "audio_route/node_170.en.f.mp3"
+        },
+        "it": {
+          "m": "audio_route/node_170.it.m.mp3",
+          "f": "audio_route/node_170.it.f.mp3"
+        }
+      }
+    },
+    {
+      "node_id": 281,
+      "original_id": "c281",
+      "lat": 45.955165,
+      "lon": 8.933325,
+      "score": 0.21,
+      "title": "Approaching the Church",
+      "verbatimLang": "it",
+      "expertVerbatim": "Stiamo andando a quella chiesa, adesso giriamo e ci arriviamo.",
+      "narrative": {
+        "en": "We're heading now to that church up ahead — just there. We turn here, and in a moment we'll have reached it. Keep your eyes on the way it sits against the slope as we approach; how a building meets you, from how far and from what angle, is part of what it was meant to make you feel. The arrival itself is a designed moment, not just the destination.",
+        "it": "Stiamo andando ora verso quella chiesa più avanti — proprio lì. Giriamo qui, e tra un attimo ci saremo arrivati. Tenete d'occhio come si pone contro il pendio mentre ci avviciniamo; come un edificio ti viene incontro, da quanto lontano e da quale angolazione, fa parte di ciò che doveva farti sentire. L'arrivo stesso è un momento progettato, non solo la meta."
+      },
+      "audioUrls": {
+        "en": {
+          "m": "audio_route/node_281.en.m.mp3",
+          "f": "audio_route/node_281.en.f.mp3"
+        },
+        "it": {
+          "m": "audio_route/node_281.it.m.mp3",
+          "f": "audio_route/node_281.it.f.mp3"
+        }
+      }
+    },
+    {
+      "node_id": 163,
+      "original_id": "c163",
+      "lat": 45.952085,
+      "lon": 8.92691,
+      "score": 0.21,
+      "title": "The Unfashionable, Reliable Mule",
+      "verbatimLang": "es",
+      "expertVerbatim": "Quizás no es tan elegante, no es tan flaca, no es tan todo. No es tan fashion.",
+      "narrative": {
+        "en": "Perhaps it isn't so elegant — not so slender, not so much of anything, not very fashionable, this mule. But that's exactly the point. It's solid, dependable, completely steady; it knows the paths better than we do, because many of them were drawn by mules in the first place. If you'd rather not walk the climb, this unglamorous, reliable companion is a perfectly good way up the mountain.",
+        "it": "Forse non è così elegante — non così snella, non così tutto, non molto alla moda, questa mula. Ma è proprio questo il punto. È solida, affidabile, di una stabilità totale; conosce i sentieri meglio di noi, perché molti di essi furono tracciati proprio dalle mule. Se preferite non fare la salita a piedi, questo compagno senza fronzoli e fidato è un modo ottimo per salire la montagna."
+      },
+      "audioUrls": {
+        "en": {
+          "m": "audio_route/node_163.en.m.mp3",
+          "f": "audio_route/node_163.en.f.mp3"
+        },
+        "it": {
+          "m": "audio_route/node_163.it.m.mp3",
+          "f": "audio_route/node_163.it.f.mp3"
+        }
+      }
+    },
+    {
+      "node_id": 59,
+      "original_id": "c59",
+      "lat": 45.951444,
+      "lon": 8.926333,
+      "score": 0.21,
+      "title": "Free to Go Anywhere",
+      "verbatimLang": "it",
+      "expertVerbatim": "e poi puoi andare ovunque. Adesso qui fortunatamente puoi andare ovunque senza pericolo.",
+      "narrative": {
+        "en": "And then you can go anywhere. Here, fortunately, you can wander freely, in any direction, without danger — the forest is open and gentle. That freedom is rare and precious: a place where you're not funneled along a single corridor but trusted to find your own way among the trees. To move without a fixed route is to meet a wood on its own terms, the way people did long before paths were paved for us.",
+        "it": "E poi puoi andare ovunque. Qui, per fortuna, puoi vagare liberamente, in qualsiasi direzione, senza pericolo — il bosco è aperto e mite. Quella libertà è rara e preziosa: un luogo in cui non sei incanalato in un solo corridoio, ma a cui è affidato il compito di trovare la propria strada tra gli alberi. Muoversi senza un percorso fisso è incontrare un bosco alle sue condizioni, come faceva la gente molto prima che i sentieri venissero lastricati per noi."
+      },
+      "audioUrls": {
+        "en": {
+          "m": "audio_route/node_59.en.m.mp3",
+          "f": "audio_route/node_59.en.f.mp3"
+        },
+        "it": {
+          "m": "audio_route/node_59.it.m.mp3",
+          "f": "audio_route/node_59.it.f.mp3"
+        }
+      }
+    },
+    {
+      "node_id": 42,
+      "original_id": "c42",
+      "lat": 45.951531,
+      "lon": 8.927267,
+      "score": 0.21,
+      "title": "The Forest Directs the Animals",
+      "verbatimLang": "it",
+      "expertVerbatim": "il bosco che attrae gli animali e li dirige concentra le piante in certe zone.",
+      "narrative": {
+        "en": "The forest attracts the animals and directs their movement, and where they go, the plants gather and concentrate in certain zones. It's a quiet collaboration: the creatures carry seeds, clear ground, fertilize the soil, and so they help compose the very pattern of the vegetation. What looks like wild disorder is in fact an organized thing — a vegetal city shaped, in part, by the comings and goings of those who live in it.",
+        "it": "Il bosco attira gli animali e ne guida il movimento, e dove vanno, le piante si raccolgono e si concentrano in certe zone. È una collaborazione silenziosa: le creature portano semi, liberano il terreno, concimano il suolo, e così aiutano a comporre il disegno stesso della vegetazione. Ciò che sembra disordine selvaggio è in realtà una cosa organizzata — una città vegetale plasmata, in parte, dall'andirivieni di chi la abita."
+      },
+      "audioUrls": {
+        "en": {
+          "m": "audio_route/node_42.en.m.mp3",
+          "f": "audio_route/node_42.en.f.mp3"
+        },
+        "it": {
+          "m": "audio_route/node_42.it.m.mp3",
+          "f": "audio_route/node_42.it.f.mp3"
+        }
+      }
+    },
+    {
+      "node_id": 44,
+      "original_id": "c44",
+      "lat": 45.951501,
+      "lon": 8.927185,
+      "score": 0.2,
+      "title": "The Vegetal City and the Soil",
+      "verbatimLang": "it",
+      "expertVerbatim": "questa città vegetale che cresce intorno a noi ma anche grazie alla composizione del terreno.",
+      "narrative": {
+        "en": "This vegetal city growing all around us rises, yes, through the animals and the forest — but above all through the composition of the ground beneath it. The soil here is immensely concentrated in its materials, and it's that richness that decides which plants can take hold and thrive. So the green city we walk through isn't only the work of life; it's the direct expression of the rock and earth that life is rooted in.",
+        "it": "Questa città vegetale che cresce tutt'intorno a noi si leva, sì, grazie agli animali e al bosco — ma soprattutto grazie alla composizione del terreno che sta sotto. Qui il suolo è immensamente concentrato nei suoi materiali, ed è quella ricchezza a decidere quali piante possano attecchire e prosperare. Così la città verde che attraversiamo non è solo opera della vita; è l'espressione diretta della roccia e della terra in cui la vita affonda le radici."
+      },
+      "audioUrls": {
+        "en": {
+          "m": "audio_route/node_44.en.m.mp3",
+          "f": "audio_route/node_44.en.f.mp3"
+        },
+        "it": {
+          "m": "audio_route/node_44.it.m.mp3",
+          "f": "audio_route/node_44.it.f.mp3"
+        }
+      }
+    },
+    {
+      "node_id": 213,
+      "original_id": "c213",
+      "lat": 45.952934,
+      "lon": 8.929381,
+      "score": 0.2,
+      "title": "Leaving the Ground Unpaved, on Purpose",
+      "verbatimLang": "es",
+      "expertVerbatim": "Es una idea que ha funcionado. en la mente de los constructores de esta montaña porque no le costaba nada empedrarlo",
+      "narrative": {
+        "en": "It's an idea that worked — and worked deliberately, in the minds of the people who built this mountain. They could so easily have paved this ground with stone; it would have cost them almost nothing. And yet they chose to leave it as it is, unpaved, because the bare earth was part of the experience they wanted you to have. Even the absence of paving here is a decision, a piece of the design.",
+        "it": "È un'idea che ha funzionato — e ha funzionato di proposito, nella mente di chi ha costruito questa montagna. Avrebbero potuto facilmente lastricare questo terreno con la pietra; non sarebbe costato loro quasi nulla. Eppure scelsero di lasciarlo com'è, non lastricato, perché la terra nuda faceva parte dell'esperienza che volevano farti vivere. Anche l'assenza di pavimentazione qui è una scelta, un pezzo del progetto."
+      },
+      "audioUrls": {
+        "en": {
+          "m": "audio_route/node_213.en.m.mp3",
+          "f": "audio_route/node_213.en.f.mp3"
+        },
+        "it": {
+          "m": "audio_route/node_213.it.m.mp3",
+          "f": "audio_route/node_213.it.f.mp3"
+        }
+      }
+    },
+    {
+      "node_id": 602,
+      "original_id": "adine3_0280",
+      "lat": 45.958356,
+      "lon": 8.936339,
+      "score": 0.2,
+      "title": "Roses, Sage, and Local Knowledge",
+      "verbatimLang": "it",
+      "expertVerbatim": "Queste rose sono tutte... Non sono... Non sono naturali. Però è già meglio. Vedi? Qui c'è una salvia. Cioè, è gente che",
+      "narrative": {
+        "en": "These roses aren't wild — they've been planted — but even so, it's already better this way. And look, here's a sage, and this one is local, truly of this place. You can tell these are people who know how to use plants, who choose them with some understanding rather than for mere decoration. The smallest choices in a garden reveal whether a place is being lived with knowledge or just arranged for show.",
+        "it": "Queste rose non sono spontanee — sono state piantate — ma anche così va già meglio. E guardate, qui c'è una salvia, e questa è locale, davvero di questo luogo. Si capisce che sono persone che sanno usare le piante, che le scelgono con una certa cognizione e non per semplice decorazione. Le scelte più piccole in un giardino rivelano se un luogo è abitato con sapere o solo allestito per apparire."
+      },
+      "audioUrls": {
+        "en": {
+          "m": "audio_route/node_602.en.m.mp3",
+          "f": "audio_route/node_602.en.f.mp3"
+        },
+        "it": {
+          "m": "audio_route/node_602.it.m.mp3",
+          "f": "audio_route/node_602.it.f.mp3"
+        }
+      }
+    },
+    {
+      "node_id": 216,
+      "original_id": "c216",
+      "lat": 45.953005,
+      "lon": 8.929525,
+      "score": 0.2,
+      "title": "Not the Oldest Church",
+      "verbatimLang": "es",
+      "expertVerbatim": "Esta no es la más antigua, la más antigua es la que vamos a ver ahora.",
+      "narrative": {
+        "en": "This one isn't the oldest — keep that in mind. The most ancient of them is the church we're about to see now, just ahead. It helps to hold the order in your head as we go, because the way these buildings relate to one another, in age and in alignment, is part of the story. We're not visiting separate monuments; we're reading a sequence the builders laid out across the mountain.",
+        "it": "Questa non è la più antica — tenetelo a mente. La più antica di tutte è la chiesa che stiamo per vedere ora, proprio più avanti. Aiuta a tenere in testa l'ordine mentre andiamo, perché il modo in cui questi edifici si relazionano tra loro, per età e per allineamento, fa parte del racconto. Non stiamo visitando monumenti separati; stiamo leggendo una sequenza che i costruttori hanno disteso sulla montagna."
+      },
+      "audioUrls": {
+        "en": {
+          "m": "audio_route/node_216.en.m.mp3",
+          "f": "audio_route/node_216.en.f.mp3"
+        },
+        "it": {
+          "m": "audio_route/node_216.it.m.mp3",
+          "f": "audio_route/node_216.it.f.mp3"
+        }
+      }
+    },
+    {
+      "node_id": 603,
+      "original_id": "adine3_0001",
+      "lat": 45.956714,
+      "lon": 8.934417,
+      "score": 0.2,
+      "title": "Plants Not From Here",
+      "verbatimLang": "es",
+      "expertVerbatim": "Son plantas que no son de acá. Si pasamos de ahí es más bonito y se ve una cosa de la revista que recogí hoy. Ahora,",
+      "narrative": {
+        "en": "Notice that these plants aren't from here — they don't belong to this mountain village. If we move on a little it gets lovelier, and you'll see the very thing from the magazine I picked up this morning. That's part of why we came this way: a small printed image sent me looking for the real place. Sometimes a village reveals itself first through what's out of place in it, and then through what is truly its own.",
+        "it": "Notate che queste piante non sono di qui — non appartengono a questo villaggio di montagna. Se proseguiamo un poco diventa più bello, e vedrete proprio la cosa della rivista che ho raccolto stamattina. È anche per questo che siamo passati di qui: una piccola immagine stampata mi ha spinta a cercare il luogo vero. A volte un villaggio si rivela prima attraverso ciò che vi è fuori posto, e poi attraverso ciò che è davvero suo."
+      },
+      "audioUrls": {
+        "en": {
+          "m": "audio_route/node_603.en.m.mp3",
+          "f": "audio_route/node_603.en.f.mp3"
+        },
+        "it": {
+          "m": "audio_route/node_603.it.m.mp3",
+          "f": "audio_route/node_603.it.f.mp3"
+        }
+      }
+    },
+    {
+      "node_id": 604,
+      "original_id": "adine3_0246",
+      "lat": 45.957401,
+      "lon": 8.934603,
+      "score": 0.34,
+      "title": "Why We Ask Consent Only After",
+      "verbatimLang": "it",
+      "expertVerbatim": "diffidenza. Quindi per noi è espressamente vietato chiedere permessi prima dell'intervista. Solo dopo. Se l'intervista è veramente utile e interessante, se l'intervista è diagnostica, e se si pensa di pubblicarla, eccetera, allora dopo si chiede. Mai prima. Perché rovini... rovini l'80% della spontaneità.",
+      "narrative": {
+        "en": "For us there's a rule: we never ask permission before an interview, only after. If the conversation turns out to be truly useful, diagnostic, something we might publish — then we ask. Never beforehand. Because the moment you ask first, you ruin it: you destroy perhaps eighty percent of the spontaneity. People begin performing instead of speaking, and the living, unguarded truth of the encounter slips away before it's even begun.",
+        "it": "Per noi c'è una regola: non chiediamo mai il permesso prima di un'intervista, solo dopo. Se la conversazione si rivela davvero utile, diagnostica, qualcosa che potremmo pubblicare — allora lo chiediamo. Mai prima. Perché nel momento in cui chiedi prima, la rovini: distruggi forse l'ottanta per cento della spontaneità. Le persone cominciano a recitare invece di parlare, e la verità viva e indifesa dell'incontro svanisce ancor prima di cominciare."
+      },
+      "audioUrls": {
+        "en": {
+          "m": "audio_route/node_604.en.m.mp3",
+          "f": "audio_route/node_604.en.f.mp3"
+        },
+        "it": {
+          "m": "audio_route/node_604.it.m.mp3",
+          "f": "audio_route/node_604.it.f.mp3"
+        }
+      }
+    },
+    {
+      "node_id": 121,
+      "original_id": "c121",
+      "lat": 45.951571,
+      "lon": 8.925161,
+      "score": 0.26,
+      "title": "The Saint Who Knew the Plants",
+      "verbatimLang": "es",
+      "expertVerbatim": "Hace todos los milagros del mundo porque conoce las plantas, pero también porque conoce mucho mejor que yo",
+      "narrative": {
+        "en": "They say he works every miracle in the world — and he does it because he knows the plants, knows them far better than I ever could. His holiness and his healing aren't separate from his knowledge of the living world; they're the same thing. To understand the mountain's herbs, their virtues and their dangers, was itself a kind of sacred power. The saint and the herbalist, here, are one and the same figure.",
+        "it": "Dicono che faccia tutti i miracoli del mondo — e li fa perché conosce le piante, le conosce molto meglio di quanto potrei io. La sua santità e la sua capacità di guarire non sono separate dal suo sapere sul mondo vivente; sono la stessa cosa. Conoscere le erbe della montagna, le loro virtù e i loro pericoli, era esso stesso una forma di potere sacro. Il santo e l'erborista, qui, sono un'unica e medesima figura."
+      },
+      "audioUrls": {
+        "en": {
+          "m": "audio_route/node_121.en.m.mp3",
+          "f": "audio_route/node_121.en.f.mp3"
+        },
+        "it": {
+          "m": "audio_route/node_121.it.m.mp3",
+          "f": "audio_route/node_121.it.f.mp3"
+        }
+      }
+    },
+    {
+      "node_id": 114,
+      "original_id": "c114",
+      "lat": 45.951531,
+      "lon": 8.924973,
+      "score": 0.25,
+      "title": "Midday Light on San Giorgio and Sant'Andrea",
+      "verbatimLang": "es",
+      "expertVerbatim": "ilumina San Giorgio y San Andrea. ellos no solamente están mirando la montaña que está detrás de nosotros, ellos van a ser iluminados por la ventana que está puesta ahí. Esa es la razón por la cual la iglesia ha sido orientada así.",
+      "narrative": {
+        "en": "That midday light illuminates San Giorgio and Sant'Andrea. They aren't only looking out at the mountain behind us — they themselves will be lit, struck directly by the light from the window placed exactly there. That is the reason the whole church was oriented this way. Nothing is incidental: the building turns to catch the sun on its saints at noon, so the figures, the mountain and the light become a single, deliberate act.",
+        "it": "Quella luce di mezzogiorno illumina San Giorgio e Sant'Andrea. Non stanno soltanto guardando la montagna dietro di noi — saranno loro stessi illuminati, colpiti direttamente dalla luce della finestra collocata esattamente lì. È questa la ragione per cui l'intera chiesa è stata orientata così. Niente è casuale: l'edificio si volge per cogliere il sole sui suoi santi a mezzogiorno, così che le figure, la montagna e la luce diventino un unico, deliberato gesto."
+      },
+      "audioUrls": {
+        "en": {
+          "m": "audio_route/node_114.en.m.mp3",
+          "f": "audio_route/node_114.en.f.mp3"
+        },
+        "it": {
+          "m": "audio_route/node_114.it.m.mp3",
+          "f": "audio_route/node_114.it.f.mp3"
+        }
+      }
+    },
+    {
+      "node_id": 605,
+      "original_id": "adine3_0109",
+      "lat": 45.957366,
+      "lon": 8.934592,
+      "score": 0.25,
+      "title": "The Caduceus and the Symbolism of Health",
+      "verbatimLang": "it",
+      "expertVerbatim": "meraviglioso. Io ho parlato un pochino del caduceo, delle piante medicinali, delle montagne, del simbolismo della salute che attraversa... Le mitografie arriva fino a oggi, no? Ma",
+      "narrative": {
+        "en": "I spoke a little of the caduceus, of the medicinal plants, of the mountains — of that symbolism of health that runs all the way through the old mythographies and reaches right up to today. It's marvelous to follow: the serpent, the spring, the healing herb, the sacred peak, all bound together across thousands of years. What we treat as separate — medicine, myth, landscape — was once a single, continuous understanding of how to stay well.",
+        "it": "Ho parlato un poco del caduceo, delle piante medicinali, delle montagne — di quel simbolismo della salute che attraversa tutte le antiche mitografie e arriva fino a oggi. È meraviglioso seguirlo: il serpente, la sorgente, l'erba che guarisce, la cima sacra, tutti legati insieme attraverso migliaia di anni. Ciò che noi trattiamo come separato — medicina, mito, paesaggio — era un tempo un'unica, continua comprensione di come restare in salute."
+      },
+      "audioUrls": {
+        "en": {
+          "m": "audio_route/node_605.en.m.mp3",
+          "f": "audio_route/node_605.en.f.mp3"
+        },
+        "it": {
+          "m": "audio_route/node_605.it.m.mp3",
+          "f": "audio_route/node_605.it.f.mp3"
+        }
+      }
+    },
+    {
+      "node_id": 344,
+      "original_id": "c344",
+      "lat": 45.95595,
+      "lon": 8.933055,
+      "score": 0.24,
+      "title": "What One Church Withholds, the Next Reveals",
+      "verbatimLang": "es",
+      "expertVerbatim": "O sea, la garra, lo que no hemos visto adentro en la Madonna del Longaro lo vamos a ver a",
+      "narrative": {
+        "en": "What we couldn't see inside the Madonna dell'Ongaro, we'll come upon further along the way — the thread doesn't end at one door. These places speak to each other; a detail withheld at one church is answered at the next. So hold what you've noticed here, and carry it forward; the meaning isn't contained in any single building but unfolds across the whole route, one site completing what another only suggested.",
+        "it": "Ciò che non abbiamo potuto vedere dentro la Madonna dell'Ongaro lo ritroveremo più avanti lungo il cammino — il filo non si interrompe a una sola porta. Questi luoghi si parlano tra loro; un dettaglio negato in una chiesa trova risposta nella successiva. Quindi tenete a mente ciò che avete notato qui, e portatelo con voi; il senso non è racchiuso in un singolo edificio, ma si dispiega lungo l'intero percorso, un luogo a completare ciò che un altro aveva solo accennato."
+      },
+      "audioUrls": {
+        "en": {
+          "m": "audio_route/node_344.en.m.mp3",
+          "f": "audio_route/node_344.en.f.mp3"
+        },
+        "it": {
+          "m": "audio_route/node_344.it.m.mp3",
+          "f": "audio_route/node_344.it.f.mp3"
+        }
+      }
+    },
+    {
+      "node_id": 129,
+      "original_id": "c129",
+      "lat": 45.951662,
+      "lon": 8.925522,
+      "score": 0.23,
+      "title": "A Roman Floor Underfoot",
+      "verbatimLang": "es",
+      "expertVerbatim": "Y aquí hay un piso romano, la gente caminando, qué horror, ¿no? Y fui a buscar el cura.",
+      "narrative": {
+        "en": "And here there's a Roman floor — ancient, precious — with people simply walking across it, treading on it as if it were nothing. How awful, isn't it? It made me wince. So I went and found the priest, to say something, to ask whether it could be protected. We move over the deep past every day without seeing it; sometimes care for heritage begins with one small refusal to let the irreplaceable be worn away underfoot.",
+        "it": "E qui c'è un pavimento romano — antico, prezioso — con la gente che ci cammina sopra, calpestandolo come se fosse nulla. Che orrore, no? Mi ha fatto trasalire. Così sono andata a cercare il parroco, per dire qualcosa, per chiedere se si potesse proteggerlo. Camminiamo sul passato profondo ogni giorno senza vederlo; a volte la cura del patrimonio comincia da un piccolo rifiuto: non lasciare che l'insostituibile venga consumato sotto i piedi."
+      },
+      "audioUrls": {
+        "en": {
+          "m": "audio_route/node_129.en.m.mp3",
+          "f": "audio_route/node_129.en.f.mp3"
+        },
+        "it": {
+          "m": "audio_route/node_129.it.m.mp3",
+          "f": "audio_route/node_129.it.f.mp3"
+        }
+      }
+    },
+    {
+      "node_id": 12,
+      "original_id": "c12",
+      "lat": 45.952883,
+      "lon": 8.928887,
+      "score": 0.23,
+      "title": "Beech Roots Embracing the Stones",
+      "verbatimLang": "it",
+      "expertVerbatim": "radici che sono tutte così attorcigliate abbracciate alle pietre vedete questi qui sono i faggi",
+      "narrative": {
+        "en": "Look at these roots — all twisted, knotted, embracing the stones as if they'd grown to hold them. These are the beeches, the Faggi. Their roots don't just anchor the tree; they bind the whole slope together, clasping rock and earth into one stable fabric. A beech wood is among the most ancient and ancestral forests of Europe, and you can read that age right here, in the patient way the wood has wrapped itself around the mountain's bones.",
+        "it": "Guardate queste radici — tutte attorcigliate, annodate, che abbracciano le pietre come se fossero cresciute per tenerle. Questi sono i faggi, i Faggi. Le loro radici non ancorano soltanto l'albero; legano insieme l'intero pendio, stringendo roccia e terra in un'unica trama stabile. Una faggeta è tra i boschi più antichi e ancestrali d'Europa, e quell'età la si legge proprio qui, nel modo paziente in cui il legno si è avvolto attorno alle ossa della montagna."
+      },
+      "audioUrls": {
+        "en": {
+          "m": "audio_route/node_12.en.m.mp3",
+          "f": "audio_route/node_12.en.f.mp3"
+        },
+        "it": {
+          "m": "audio_route/node_12.it.m.mp3",
+          "f": "audio_route/node_12.it.f.mp3"
+        }
+      }
+    },
+    {
+      "node_id": 2,
+      "original_id": "c2",
+      "lat": 45.952747,
+      "lon": 8.929204,
+      "score": 0.23,
+      "title": "Water and Mountain Generate the Forest",
+      "verbatimLang": "es",
+      "expertVerbatim": "y la combinación entre la caída del agua y la forma de la montaña genera",
+      "narrative": {
+        "en": "It's the combination of two things — the fall of the water and the shape of the mountain — that generates everything you see. The slope decides where the water runs; the water, running, carves and feeds the ground; and out of that meeting the basic plan of the whole forest is drawn, the structure from which all the life here rises. Remember that and you understand the place; forget where the water comes from, and you couldn't even build a village.",
+        "it": "È la combinazione di due cose — la caduta dell'acqua e la forma della montagna — a generare tutto ciò che vedete. Il pendio decide dove scorre l'acqua; l'acqua, scorrendo, scava e nutre il terreno; e da quell'incontro si traccia il disegno fondamentale di tutto il bosco, la struttura da cui si leva tutta la vita che c'è qui. Ricordatelo e capirete il luogo; dimenticate da dove viene l'acqua, e non potreste nemmeno costruire un villaggio."
+      },
+      "audioUrls": {
+        "en": {
+          "m": "audio_route/node_2.en.m.mp3",
+          "f": "audio_route/node_2.en.f.mp3"
+        },
+        "it": {
+          "m": "audio_route/node_2.it.m.mp3",
+          "f": "audio_route/node_2.it.f.mp3"
+        }
+      }
+    },
+    {
+      "node_id": 606,
+      "original_id": "adine3_0093",
+      "lat": 45.957333,
+      "lon": 8.934561,
+      "score": 0.23,
+      "title": "The Glasses That Record the Gaze",
+      "verbatimLang": "it",
+      "expertVerbatim": "Italiana. Ho questi strani occhiali indosso perché stiamo facendo un registro degli aspetti del patrimonio, dal punto di vista naturale e culturale.",
+      "narrative": {
+        "en": "Yes — Italian. I'm wearing these strange glasses because we're making a record of the heritage here, seen from both sides at once: the natural and the cultural, treated as one. The glasses capture what I see and where I look, so that the way a person actually reads a place — what catches the eye, what's passed over — becomes part of the archive. We're not just describing Carona; we're recording how it's experienced.",
+        "it": "Sì — italiana. Porto questi strani occhiali perché stiamo facendo un registro del patrimonio di qui, visto da entrambi i lati insieme: il naturale e il culturale, trattati come una cosa sola. Gli occhiali catturano ciò che vedo e dove guardo, così che il modo in cui una persona legge davvero un luogo — ciò che attira lo sguardo, ciò che viene tralasciato — diventi parte dell'archivio. Non stiamo solo descrivendo Carona; stiamo registrando come la si vive."
+      },
+      "audioUrls": {
+        "en": {
+          "m": "audio_route/node_606.en.m.mp3",
+          "f": "audio_route/node_606.en.f.mp3"
+        },
+        "it": {
+          "m": "audio_route/node_606.it.m.mp3",
+          "f": "audio_route/node_606.it.f.mp3"
+        }
+      }
+    }
+  ]
+}

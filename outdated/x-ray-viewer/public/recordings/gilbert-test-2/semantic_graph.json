@@ -1,0 +1,170 @@
+{
+    "metadata": {
+        "alpha": 0.8,
+        "beta": 0.2,
+        "gamma": 0.5,
+        "threshold": 0.3,
+        "model": "all-MiniLM-L6-v2"
+    },
+    "nodes": [
+        {
+            "id": 0,
+            "cluster_id": 0,
+            "title": "Exploration Start & Glitch Check",
+            "pos": [
+                -16.536674627399258,
+                -7.063999555321596,
+                3.761179099451455
+            ],
+            "time": "5.3s - 46.7s"
+        },
+        {
+            "id": 1,
+            "cluster_id": 1,
+            "title": "Tour Endpoint, Recording Concerns",
+            "pos": [
+                -16.01893706928483,
+                -5.781132952282379,
+                2.4003536938845302
+            ],
+            "time": "31.8s - 535.6s"
+        },
+        {
+            "id": 2,
+            "cluster_id": 2,
+            "title": "Gilbert's Unique Structural Overhang",
+            "pos": [
+                1.5914891967162579,
+                15.089822518424938,
+                4.006556785325275
+            ],
+            "time": "69.5s - 106.4s"
+        },
+        {
+            "id": 3,
+            "cluster_id": 3,
+            "title": "Introducing Surge Lab Space",
+            "pos": [
+                111.86875021188101,
+                -34.36942589963559,
+                -4.279828363002538
+            ],
+            "time": "248.4s - 262.7s"
+        },
+        {
+            "id": 4,
+            "cluster_id": 5,
+            "title": "Engineering Education Project Hub",
+            "pos": [
+                93.86905942718634,
+                -44.3054052269776,
+                -4.3132104856476365
+            ],
+            "time": "304.0s - 321.3s"
+        },
+        {
+            "id": 5,
+            "cluster_id": 8,
+            "title": "Evaluating Natural Environment Interaction",
+            "pos": [
+                76.39669963372735,
+                14.790588738030976,
+                -1.3685059862397988
+            ],
+            "time": "401.7s - 441.5s"
+        },
+        {
+            "id": 6,
+            "cluster_id": 6,
+            "title": "Old Stumps, Tour Context",
+            "pos": [
+                75.6628431565325,
+                13.475170231666871,
+                -2.6196625942537
+            ],
+            "time": "405.6s - 431.1s"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 1,
+            "weight": 0.5294958373690377,
+            "semantic_sim": 0.5671240091323853,
+            "spatial_prox": 0.37898318011797,
+            "type": "convergence"
+        },
+        {
+            "source": 0,
+            "target": 3,
+            "weight": 0.4189363420009613,
+            "semantic_sim": 0.5236704349517822,
+            "spatial_prox": 2.7556742088381025e-29,
+            "type": "convergence"
+        },
+        {
+            "source": 0,
+            "target": 5,
+            "weight": 0.3443892002105713,
+            "semantic_sim": 0.4304865002632141,
+            "spatial_prox": 1.7352966833184337e-21,
+            "type": "convergence"
+        },
+        {
+            "source": 0,
+            "target": 6,
+            "weight": 0.36914360523223877,
+            "semantic_sim": 0.46142950654029846,
+            "spatial_prox": 2.76453158697746e-21,
+            "type": "convergence"
+        },
+        {
+            "source": 1,
+            "target": 5,
+            "weight": 0.44932737946510315,
+            "semantic_sim": 0.5616592168807983,
+            "spatial_prox": 2.659134885537401e-21,
+            "type": "convergence"
+        },
+        {
+            "source": 1,
+            "target": 6,
+            "weight": 0.4772312343120575,
+            "semantic_sim": 0.5965390205383301,
+            "spatial_prox": 4.2460388432072285e-21,
+            "type": "convergence"
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "weight": 0.32696884870529175,
+            "semantic_sim": 0.4087110459804535,
+            "spatial_prox": 4.9412482687750655e-27,
+            "type": "convergence"
+        },
+        {
+            "source": 2,
+            "target": 4,
+            "weight": 0.36931508779525757,
+            "semantic_sim": 0.46164384484291077,
+            "spatial_prox": 1.2641617225351972e-24,
+            "type": "convergence"
+        },
+        {
+            "source": 3,
+            "target": 4,
+            "weight": 0.4892164250401436,
+            "semantic_sim": 0.6115119457244873,
+            "spatial_prox": 3.431250044648737e-05,
+            "type": "convergence"
+        },
+        {
+            "source": 5,
+            "target": 6,
+            "weight": 0.7617061473144104,
+            "semantic_sim": 0.8582170009613037,
+            "spatial_prox": 0.3756626135175475,
+            "type": "convergence"
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 260"
+     font-family="Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="arr" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto">
+      <path d="M0,0 L0,9 L9,4.5 z" fill="#000"/>
+    </marker>
+    <marker id="arrg" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto">
+      <path d="M0,0 L0,9 L9,4.5 z" fill="#555"/>
+    </marker>
+  </defs>
+
+  <!-- ============================================================
+       STRICT 20-px GRID
+         outer margin   : 20
+         authoring row  : y =  76, h = 64
+         cloud box      : y =  20, h = 40, centered above Stages 2-3
+         runtime row    : y = 168, h = 64
+         caption        : y = 250
+         box columns (authoring, w=232):
+            20 - 272 - 524 - 776 - 1028 - 1260
+         box columns (runtime):
+            Edge   x =  20  w = 480
+            Phone  x = 520  w = 360
+            Tablet x = 900  w = 360
+       ============================================================ -->
+
+  <!-- AUTHORING band label -->
+  <text x="20" y="18" font-size="12" font-weight="bold" letter-spacing="2" fill="#000">
+    AUTHORING   ·   offline, once per site
+  </text>
+
+  <!-- Cloud VLM (dashed, top of authoring band) -->
+  <rect x="684" y="20" width="196" height="40" rx="3"
+        fill="#fff" stroke="#000" stroke-width="1.5" stroke-dasharray="6,3"/>
+  <text x="782" y="46" text-anchor="middle" font-size="18" font-weight="bold">VLM cloud</text>
+
+  <!-- Dashed arrows from cloud to Stages 2 and 3 -->
+  <line x1="740" y1="60" x2="800" y2="74"
+        stroke="#555" stroke-width="1.2" stroke-dasharray="4,3" marker-end="url(#arrg)"/>
+  <line x1="820" y1="60" x2="1060" y2="74"
+        stroke="#555" stroke-width="1.2" stroke-dasharray="4,3" marker-end="url(#arrg)"/>
+
+  <!-- ============ AUTHORING ROW ============ -->
+
+  <!-- Box 1: Aria -->
+  <rect x="20" y="76" width="232" height="64" rx="3"
+        fill="#fff" stroke="#000" stroke-width="1.5"/>
+  <text x="136" y="115" text-anchor="middle" font-size="22" font-weight="bold">Aria capture</text>
+
+  <line x1="252" y1="108" x2="272" y2="108" stroke="#000" stroke-width="1.5" marker-end="url(#arr)"/>
+
+  <!-- Box 2: MPS -->
+  <rect x="272" y="76" width="232" height="64" rx="3"
+        fill="#fff" stroke="#000" stroke-width="1.5"/>
+  <text x="388" y="115" text-anchor="middle" font-size="22" font-weight="bold">MPS + Whisper</text>
+
+  <line x1="504" y1="108" x2="524" y2="108" stroke="#000" stroke-width="1.5" marker-end="url(#arr)"/>
+
+  <!-- Box 3: Stage 1 -->
+  <rect x="524" y="76" width="232" height="64" rx="3"
+        fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="640" y="100" text-anchor="middle" font-size="11" letter-spacing="1.5" fill="#555">STAGE 1</text>
+  <text x="640" y="128" text-anchor="middle" font-size="20" font-weight="bold">Multimodal</text>
+
+  <line x1="756" y1="108" x2="776" y2="108" stroke="#000" stroke-width="1.5" marker-end="url(#arr)"/>
+
+  <!-- Box 4: Stage 2 -->
+  <rect x="776" y="76" width="232" height="64" rx="3"
+        fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="892" y="100" text-anchor="middle" font-size="11" letter-spacing="1.5" fill="#555">STAGE 2</text>
+  <text x="892" y="128" text-anchor="middle" font-size="20" font-weight="bold">Synthesis</text>
+
+  <line x1="1008" y1="108" x2="1028" y2="108" stroke="#000" stroke-width="1.5" marker-end="url(#arr)"/>
+
+  <!-- Box 5: Stage 3 -->
+  <rect x="1028" y="76" width="232" height="64" rx="3"
+        fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="1144" y="100" text-anchor="middle" font-size="11" letter-spacing="1.5" fill="#555">STAGE 3</text>
+  <text x="1144" y="128" text-anchor="middle" font-size="20" font-weight="bold">KG + points</text>
+
+  <!-- Down arrow: authoring → runtime -->
+  <line x1="1144" y1="140" x2="1144" y2="166"
+        stroke="#000" stroke-width="1.5" stroke-dasharray="4,3" marker-end="url(#arr)"/>
+
+  <!-- RUNTIME band label -->
+  <text x="20" y="162" font-size="12" font-weight="bold" letter-spacing="2" fill="#000">
+    RUNTIME   ·   edge only, no inference, no uplink
+  </text>
+
+  <!-- ============ RUNTIME ROW ============ -->
+
+  <!-- Edge node -->
+  <rect x="20" y="168" width="480" height="64" rx="3"
+        fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="260" y="207" text-anchor="middle" font-size="24" font-weight="bold">Edge node (Pi 5)</text>
+
+  <!-- WS arrows Edge ↔ Phone -->
+  <line x1="500" y1="190" x2="520" y2="190" stroke="#000" stroke-width="1.5" marker-end="url(#arr)"/>
+  <line x1="520" y1="210" x2="500" y2="210" stroke="#000" stroke-width="1.5" marker-end="url(#arr)"/>
+
+  <!-- GPS phone -->
+  <rect x="520" y="168" width="360" height="64" rx="3"
+        fill="#fff" stroke="#000" stroke-width="1.5"/>
+  <text x="700" y="207" text-anchor="middle" font-size="22" font-weight="bold">GPS phone</text>
+
+  <!-- WS arrows Edge → Tablet -->
+  <line x1="880" y1="190" x2="900" y2="190" stroke="#000" stroke-width="1.5" marker-end="url(#arr)"/>
+  <line x1="900" y1="210" x2="880" y2="210" stroke="#000" stroke-width="1.5" marker-end="url(#arr)"/>
+
+  <!-- Tablet -->
+  <rect x="900" y="168" width="360" height="64" rx="3"
+        fill="#fff" stroke="#000" stroke-width="1.5"/>
+  <text x="1080" y="207" text-anchor="middle" font-size="22" font-weight="bold">Tablet / wearable</text>
+
+  <!-- Caption -->
+  <text x="640" y="252" text-anchor="middle" font-size="11" font-style="italic" fill="#555">
+    Cloud VLM is invoked only during authoring. The runtime node serves the deterministic playback over a self-hosted Wi-Fi network.
+  </text>
+</svg>

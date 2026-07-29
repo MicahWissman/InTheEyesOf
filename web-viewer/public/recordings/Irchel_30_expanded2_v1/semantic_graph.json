@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "alpha": 0.5,
+        "beta": 0.5,
+        "gamma": 0.5,
+        "threshold": 0.6,
+        "model": "all-MiniLM-L6-v2"
+    },
+    "nodes": [
+        {
+            "id": 0,
+            "cluster_id": 0,
+            "title": "Ecological Stream and Park Transition",
+            "pos": [
+                -97.95480346679688,
+                37.80025863647461,
+                -0.18891799449920654
+            ],
+            "time": "518.4s - 524.4s"
+        }
+    ],
+    "links": []
+}

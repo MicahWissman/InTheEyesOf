@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "alpha": 0.5,
+        "beta": 0.5,
+        "gamma": 0.5,
+        "threshold": 0.3,
+        "model": "all-MiniLM-L6-v2",
+        "weights": {
+            "semantic": 0.5,
+            "tag_overlap": 0.5,
+            "spatial": 0.5
+        }
+    },
+    "nodes": [
+        {
+            "id": 0,
+            "cluster_id": 0,
+            "title": "Junction: Stream, Path, Hill",
+            "pos": [
+                -98.1201876126803,
+                37.29353537926307,
+                0.5552609241925753
+            ],
+            "time": "517.6s - 524.5s"
+        }
+    ],
+    "links": []
+}

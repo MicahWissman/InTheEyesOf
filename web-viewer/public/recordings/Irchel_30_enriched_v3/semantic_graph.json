@@ -1,0 +1,836 @@
+{
+    "metadata": {
+        "alpha": 0.5,
+        "beta": 0.5,
+        "gamma": 0.5,
+        "threshold": 0.6,
+        "model": "all-MiniLM-L6-v2",
+        "weights": {
+            "semantic": 0.5,
+            "tag_overlap": 0.5,
+            "spatial": 0.5
+        }
+    },
+    "nodes": [
+        {
+            "id": 0,
+            "cluster_id": 0,
+            "title": "Point of Interest",
+            "pos": [
+                61.141624450683594,
+                91.48210906982422,
+                -5.468430995941162
+            ],
+            "time": "0.8s - 3.7s"
+        },
+        {
+            "id": 1,
+            "cluster_id": 2,
+            "title": "Approaching Walkers on Park Path",
+            "pos": [
+                63.422874450683594,
+                84.76060485839844,
+                -5.242494106292725
+            ],
+            "time": "8.1s - 9.1s"
+        },
+        {
+            "id": 2,
+            "cluster_id": 6,
+            "title": "Boardwalk, Lake, and Campus Ascent",
+            "pos": [
+                27.583833694458008,
+                8.591888427734375,
+                0.8988639712333679
+            ],
+            "time": "123.8s - 125.5s"
+        },
+        {
+            "id": 3,
+            "cluster_id": 7,
+            "title": "Point of Interest",
+            "pos": [
+                30.2414493560791,
+                11.587824821472168,
+                1.979570984840393
+            ],
+            "time": "127.6s - 130.3s"
+        },
+        {
+            "id": 4,
+            "cluster_id": 8,
+            "title": "Riviera Steps and Boardwalk Vantage",
+            "pos": [
+                33.343536376953125,
+                13.108667373657227,
+                2.7642080783843994
+            ],
+            "time": "132.6s - 133.8s"
+        },
+        {
+            "id": 5,
+            "cluster_id": 9,
+            "title": "Iconic Campus Entrance Panorama",
+            "pos": [
+                -10.109939575195312,
+                -9.49677562713623,
+                0.15393200516700745
+            ],
+            "time": "171.4s - 172.8s"
+        },
+        {
+            "id": 6,
+            "cluster_id": 1,
+            "title": "Iconic Campus Entrance Panorama",
+            "pos": [
+                -12.745900683932835,
+                -11.241744677225748,
+                -0.05120266560051176
+            ],
+            "time": "173.3s - 174.6s"
+        },
+        {
+            "id": 7,
+            "cluster_id": 10,
+            "title": "Reflection Pool's Designed Habitat",
+            "pos": [
+                -17.225963592529297,
+                -15.871258735656738,
+                0.33777299523353577
+            ],
+            "time": "178.4s - 179.8s"
+        },
+        {
+            "id": 8,
+            "cluster_id": 11,
+            "title": "Contextualizing Park Features",
+            "pos": [
+                -18.806930541992188,
+                -17.173324584960938,
+                0.13344399631023407
+            ],
+            "time": "180.1s - 181.2s"
+        },
+        {
+            "id": 9,
+            "cluster_id": 1,
+            "title": "Green Barrier Shields Park",
+            "pos": [
+                -25.074602672031947,
+                -21.80424690246582,
+                0.5740862706942218
+            ],
+            "time": "185.5s - 186.4s"
+        },
+        {
+            "id": 10,
+            "cluster_id": 12,
+            "title": "Southern Park Entry, Event Remnants",
+            "pos": [
+                -64.00010750510476,
+                -33.68680329756303,
+                0.05518163774501194
+            ],
+            "time": "216.3s - 218.0s"
+        },
+        {
+            "id": 11,
+            "cluster_id": 1,
+            "title": "Point of Interest",
+            "pos": [
+                -66.23858837593518,
+                -38.2676231073145,
+                0.17510502922706636
+            ],
+            "time": "219.3s - 223.7s"
+        },
+        {
+            "id": 12,
+            "cluster_id": 13,
+            "title": "Park Junction Towards Campus",
+            "pos": [
+                -70.5978012084961,
+                -44.223575592041016,
+                0.0689840018749237
+            ],
+            "time": "227.6s - 229.5s"
+        },
+        {
+            "id": 13,
+            "cluster_id": 1,
+            "title": "Interpreting a Natural Junction",
+            "pos": [
+                -70.31837209065755,
+                -50.346717834472656,
+                0.3382056653499603
+            ],
+            "time": "231.2s - 233.0s"
+        },
+        {
+            "id": 14,
+            "cluster_id": 1,
+            "title": "Integrated Junction Landscape Features",
+            "pos": [
+                -70.76746121023109,
+                -59.40373764320107,
+                0.35018358966433677
+            ],
+            "time": "240.0s - 242.0s"
+        },
+        {
+            "id": 15,
+            "cluster_id": 14,
+            "title": "Path Junction and Integrated Features",
+            "pos": [
+                -72.50806427001953,
+                -60.881858825683594,
+                1.5153900384902954
+            ],
+            "time": "242.7s - 244.7s"
+        },
+        {
+            "id": 16,
+            "cluster_id": 1,
+            "title": "Park's Quiet Integrated Buffer",
+            "pos": [
+                -75.0865306854248,
+                -66.96430206298828,
+                1.3691077828407288
+            ],
+            "time": "248.2s - 249.7s"
+        },
+        {
+            "id": 17,
+            "cluster_id": 15,
+            "title": "Lake's Edge Integration and Calm",
+            "pos": [
+                -77.60088348388672,
+                -72.88762664794922,
+                3.643030881881714
+            ],
+            "time": "253.2s - 254.1s"
+        },
+        {
+            "id": 18,
+            "cluster_id": 16,
+            "title": "Park Features Around Timber Jetty",
+            "pos": [
+                -86.84318542480469,
+                -97.53943634033203,
+                9.17397403717041
+            ],
+            "time": "280.3s - 281.6s"
+        },
+        {
+            "id": 19,
+            "cluster_id": 17,
+            "title": "Timber Jetty, Park Features, Access",
+            "pos": [
+                -82.68946075439453,
+                -102.31099700927734,
+                8.8631010055542
+            ],
+            "time": "284.9s - 287.6s"
+        },
+        {
+            "id": 20,
+            "cluster_id": 18,
+            "title": "Picnic Meadow and Waterways",
+            "pos": [
+                -77.18839645385742,
+                -97.60700225830078,
+                8.098818302154541
+            ],
+            "time": "294.6s - 298.0s"
+        },
+        {
+            "id": 21,
+            "cluster_id": 20,
+            "title": "Meadow, Water, and Picnics",
+            "pos": [
+                -76.88033294677734,
+                -94.1514892578125,
+                7.7724409103393555
+            ],
+            "time": "300.8s - 301.7s"
+        },
+        {
+            "id": 22,
+            "cluster_id": 21,
+            "title": "Allmendsee Waterfront Features",
+            "pos": [
+                -74.2510757446289,
+                -88.41377258300781,
+                7.3258562088012695
+            ],
+            "time": "305.9s - 307.0s"
+        },
+        {
+            "id": 23,
+            "cluster_id": 22,
+            "title": "Segmented Park's Naturalistic Corridor",
+            "pos": [
+                -66.02527618408203,
+                -76.19530487060547,
+                3.2541909217834473
+            ],
+            "time": "329.9s - 331.2s"
+        },
+        {
+            "id": 24,
+            "cluster_id": 23,
+            "title": "Stream Feature at Hill Base",
+            "pos": [
+                -40.699737548828125,
+                -86.217041015625,
+                4.142279148101807
+            ],
+            "time": "349.0s - 350.1s"
+        },
+        {
+            "id": 25,
+            "cluster_id": 24,
+            "title": "Approaching Park Stream Features",
+            "pos": [
+                -37.95578661831942,
+                -87.24690628051758,
+                3.4642219001596626
+            ],
+            "time": "350.2s - 353.0s"
+        },
+        {
+            "id": 26,
+            "cluster_id": 26,
+            "title": "Finnenbahn Running Path Markings",
+            "pos": [
+                -21.982690811157227,
+                -81.94110870361328,
+                2.254633903503418
+            ],
+            "time": "365.7s - 366.9s"
+        },
+        {
+            "id": 27,
+            "cluster_id": 27,
+            "title": "Finnenbahn Path and Race Markings",
+            "pos": [
+                -19.4626407623291,
+                -76.92963409423828,
+                1.5086270570755005
+            ],
+            "time": "370.2s - 371.6s"
+        },
+        {
+            "id": 28,
+            "cluster_id": 28,
+            "title": "Tram Tunnel Entrance Explained",
+            "pos": [
+                -17.255661010742188,
+                -72.03602600097656,
+                1.0963460206985474
+            ],
+            "time": "374.1s - 375.5s"
+        },
+        {
+            "id": 29,
+            "cluster_id": 1,
+            "title": "Park-Urban Transition and Infrastructure History",
+            "pos": [
+                -17.33429055081896,
+                -67.87033710678672,
+                0.5194729285333134
+            ],
+            "time": "375.9s - 381.0s"
+        },
+        {
+            "id": 30,
+            "cluster_id": 29,
+            "title": "Finnenbahn to Urban Transition",
+            "pos": [
+                -16.590608596801758,
+                -64.1790771484375,
+                0.6648510098457336
+            ],
+            "time": "381.1s - 382.0s"
+        },
+        {
+            "id": 31,
+            "cluster_id": 30,
+            "title": "Park's Urban Infrastructure Boundary",
+            "pos": [
+                -9.38197135925293,
+                -54.724422454833984,
+                0.6632699966430664
+            ],
+            "time": "388.3s - 390.1s"
+        },
+        {
+            "id": 32,
+            "cluster_id": 31,
+            "title": "Tram Tunnel and Urban Interface",
+            "pos": [
+                -6.335463047027588,
+                -49.673240661621094,
+                0.6221809983253479
+            ],
+            "time": "392.9s - 394.6s"
+        },
+        {
+            "id": 33,
+            "cluster_id": 32,
+            "title": "Urban Edge Path Return",
+            "pos": [
+                -2.388036012649536,
+                -40.883811950683594,
+                0.4462279975414276
+            ],
+            "time": "400.3s - 401.9s"
+        },
+        {
+            "id": 34,
+            "cluster_id": 33,
+            "title": "Urban-Park Exit Transition",
+            "pos": [
+                -1.3206386749561017,
+                -35.53074352557842,
+                0.2959454563947824
+            ],
+            "time": "404.2s - 406.1s"
+        },
+        {
+            "id": 35,
+            "cluster_id": 34,
+            "title": "Park Exit to Urban Hub",
+            "pos": [
+                -2.2266321182250977,
+                -31.82622528076172,
+                0.2806839942932129
+            ],
+            "time": "408.0s - 408.9s"
+        },
+        {
+            "id": 36,
+            "cluster_id": 35,
+            "title": "Northern Exit Transition",
+            "pos": [
+                -3.201503038406372,
+                -28.8225154876709,
+                -0.2698639929294586
+            ],
+            "time": "409.9s - 411.9s"
+        },
+        {
+            "id": 37,
+            "cluster_id": 1,
+            "title": "Park Edge Urban Transition",
+            "pos": [
+                -3.4157922616176393,
+                -24.209890745878198,
+                0.09580926662829468
+            ],
+            "time": "412.0s - 416.6s"
+        },
+        {
+            "id": 38,
+            "cluster_id": 1,
+            "title": "Northern Exit Urban Interface",
+            "pos": [
+                -4.533607718177209,
+                -16.393169538065813,
+                0.40145157583940466
+            ],
+            "time": "418.9s - 421.2s"
+        },
+        {
+            "id": 39,
+            "cluster_id": 36,
+            "title": "Park-City Interface: Northern Exit",
+            "pos": [
+                -5.21461820602417,
+                -14.038081169128418,
+                0.2874099910259247
+            ],
+            "time": "421.4s - 422.4s"
+        },
+        {
+            "id": 40,
+            "cluster_id": 37,
+            "title": "Meadow Transition, Picnic Spot",
+            "pos": [
+                -8.645859909057616,
+                -13.09764347076416,
+                -1.4489879846572875
+            ],
+            "time": "425.3s - 426.2s"
+        },
+        {
+            "id": 41,
+            "cluster_id": 1,
+            "title": "Meadow Picnic Spot Transition",
+            "pos": [
+                -14.712410679046156,
+                -3.3006192228916933,
+                -1.3035320556684782
+            ],
+            "time": "431.3s - 434.3s"
+        },
+        {
+            "id": 42,
+            "cluster_id": 38,
+            "title": "Lake Edge Interaction and Tranquility",
+            "pos": [
+                -14.188337326049805,
+                -0.9089630246162415,
+                -0.18978999555110931
+            ],
+            "time": "434.4s - 436.5s"
+        },
+        {
+            "id": 43,
+            "cluster_id": 39,
+            "title": "Tranquil Irchel Lakeside Features",
+            "pos": [
+                -24.73257064819336,
+                14.621715545654297,
+                -0.32385000586509705
+            ],
+            "time": "449.3s - 450.9s"
+        },
+        {
+            "id": 44,
+            "cluster_id": 40,
+            "title": "Woodland Path Junction",
+            "pos": [
+                -42.68929672241211,
+                26.913185119628906,
+                0.9101089835166931
+            ],
+            "time": "466.8s - 468.2s"
+        },
+        {
+            "id": 45,
+            "cluster_id": 1,
+            "title": "Park's Naturalistic Segmented Design",
+            "pos": [
+                -49.64737883079162,
+                31.752780942400047,
+                1.3377251382136761
+            ],
+            "time": "473.3s - 475.0s"
+        },
+        {
+            "id": 46,
+            "cluster_id": 41,
+            "title": "Woodland Path Junction & Barbecue",
+            "pos": [
+                -51.651851654052734,
+                33.962646484375,
+                0.8678640127182007
+            ],
+            "time": "476.1s - 477.2s"
+        },
+        {
+            "id": 47,
+            "cluster_id": 1,
+            "title": "Woodland Path Features & Design",
+            "pos": [
+                -64.00016388288125,
+                38.041403016549985,
+                1.0720702760680945
+            ],
+            "time": "482.0s - 491.5s"
+        },
+        {
+            "id": 48,
+            "cluster_id": 42,
+            "title": "Naturalistic Path and Water Feature",
+            "pos": [
+                -76.16627035766024,
+                40.22800718202514,
+                0.5772291403917047
+            ],
+            "time": "496.0s - 499.1s"
+        },
+        {
+            "id": 49,
+            "cluster_id": 43,
+            "title": "Stream, Deck, and Education",
+            "pos": [
+                -79.53230285644531,
+                40.56478500366211,
+                1.3521900177001953
+            ],
+            "time": "499.8s - 500.7s"
+        },
+        {
+            "id": 50,
+            "cluster_id": 44,
+            "title": "Northern Stream Observation Point",
+            "pos": [
+                -87.91842651367188,
+                39.8828239440918,
+                -0.09224200248718262
+            ],
+            "time": "505.9s - 506.9s"
+        },
+        {
+            "id": 51,
+            "cluster_id": 45,
+            "title": "Point of Interest",
+            "pos": [
+                -97.58177403041294,
+                38.21682412283761,
+                0.28633308708667754
+            ],
+            "time": "517.8s - 523.9s"
+        },
+        {
+            "id": 52,
+            "cluster_id": 47,
+            "title": "Naturalistic Woodland Gateway Transition",
+            "pos": [
+                -95.268310546875,
+                3.821017026901245,
+                0.04825900122523308
+            ],
+            "time": "566.0s - 567.5s"
+        },
+        {
+            "id": 53,
+            "cluster_id": 48,
+            "title": "Park Northern Exit Transition",
+            "pos": [
+                -87.81411743164062,
+                -3.055811882019043,
+                0.06019800156354904
+            ],
+            "time": "574.6s - 575.5s"
+        },
+        {
+            "id": 54,
+            "cluster_id": 49,
+            "title": "Outer Edge Vegetation Barrier",
+            "pos": [
+                -85.58242797851562,
+                -4.477743148803711,
+                0.3191629946231842
+            ],
+            "time": "575.6s - 577.4s"
+        },
+        {
+            "id": 55,
+            "cluster_id": 50,
+            "title": "Park Infrastructure and Marathon Path",
+            "pos": [
+                -42.963191986083984,
+                -19.235084533691406,
+                0.33253100514411926
+            ],
+            "time": "624.2s - 625.2s"
+        },
+        {
+            "id": 56,
+            "cluster_id": 51,
+            "title": "Irchelpark's Buried Metro Infrastructure",
+            "pos": [
+                -40.493797302246094,
+                -18.603439331054688,
+                0.36766698956489563
+            ],
+            "time": "626.1s - 627.0s"
+        },
+        {
+            "id": 57,
+            "cluster_id": 52,
+            "title": "Tram Tunnel: Park-City Threshold",
+            "pos": [
+                -37.35663604736328,
+                -18.721731185913086,
+                0.3794279992580414
+            ],
+            "time": "628.0s - 629.1s"
+        },
+        {
+            "id": 58,
+            "cluster_id": 1,
+            "title": "Tram Tunnel: Urban Transition Point",
+            "pos": [
+                -33.24204310503873,
+                -17.49229476668618,
+                -0.3511197413741188
+            ],
+            "time": "630.0s - 632.8s"
+        },
+        {
+            "id": 59,
+            "cluster_id": 1,
+            "title": "Tram Tunnel Portal Transition",
+            "pos": [
+                -29.846255662175654,
+                -17.931015624108614,
+                0.9106284987658232
+            ],
+            "time": "632.9s - 634.0s"
+        },
+        {
+            "id": 60,
+            "cluster_id": 54,
+            "title": "Irchelpark's Hidden Infrastructure Gateway",
+            "pos": [
+                -27.90640640258789,
+                -18.132259368896484,
+                0.3546670079231262
+            ],
+            "time": "634.1s - 635.8s"
+        },
+        {
+            "id": 61,
+            "cluster_id": 1,
+            "title": "Point of Interest",
+            "pos": [
+                -22.999452096377908,
+                -16.79890490172553,
+                0.6042177171870903
+            ],
+            "time": "637.0s - 641.8s"
+        },
+        {
+            "id": 62,
+            "cluster_id": 56,
+            "title": "Path Junction, Landmark Oak",
+            "pos": [
+                -10.02420425415039,
+                -7.047133922576904,
+                0.31395599246025085
+            ],
+            "time": "649.8s - 650.7s"
+        },
+        {
+            "id": 63,
+            "cluster_id": 57,
+            "title": "Exit Path, Buffer, and Signs",
+            "pos": [
+                -6.497529983520508,
+                -4.918426036834717,
+                -0.28001898527145386
+            ],
+            "time": "653.8s - 655.0s"
+        },
+        {
+            "id": 64,
+            "cluster_id": 58,
+            "title": "Ecological Buffer at Junction",
+            "pos": [
+                -4.5712735414505,
+                -1.9580297470092773,
+                -0.11940370083320886
+            ],
+            "time": "655.8s - 658.8s"
+        },
+        {
+            "id": 65,
+            "cluster_id": 60,
+            "title": "Northern Park Exit & Urban Return",
+            "pos": [
+                67.99674115862165,
+                0.252470280442919,
+                2.2454655851636613
+            ],
+            "time": "710.3s - 712.2s"
+        },
+        {
+            "id": 66,
+            "cluster_id": 61,
+            "title": "Hirschwiesenstrasse: Suburban Street Character",
+            "pos": [
+                73.75434112548828,
+                23.110092163085938,
+                1.5496289730072021
+            ],
+            "time": "732.1s - 733.0s"
+        },
+        {
+            "id": 67,
+            "cluster_id": 62,
+            "title": "Walk's End, Urban Boundary",
+            "pos": [
+                72.53538513183594,
+                54.96571350097656,
+                -2.2697789669036865
+            ],
+            "time": "756.6s - 757.8s"
+        }
+    ],
+    "links": [
+        {
+            "source": 5,
+            "target": 6,
+            "weight": 0.8205319136723095,
+            "semantic_sim": 0.8974342942237854,
+            "tag_overlap": 0.5384615384615384,
+            "spatial_prox": 0.20516799465929517,
+            "rationale": "These observations detail the University of Zurich Irchel Campus entrance from a consistent elevated vantage point, emphasizing prominent architectural and landscape features. Both descriptions highlight the iconic \"Sonnennadeln\" sculptures, the monolithic concrete campus, and the tiered Riviera staircase descending to the Allmendsee, establishing crucial visual anchors and spatial relationships. The expert's intent is to characterize this significant access point and its dynamic context, including temporary elements like relay run fences, which is valuable for environmental understanding and potential SLAM-based localization.",
+            "type": "convergence"
+        },
+        {
+            "source": 7,
+            "target": 8,
+            "weight": 0.6640133087332274,
+            "semantic_sim": 0.8278582096099854,
+            "tag_overlap": 0.14285714285714285,
+            "spatial_prox": 0.3573112649993266,
+            "rationale": "The expert consistently identifies and describes the same core landscape features, specifically a shallow, rough-hewn water channel with aquatic vegetation, a functional green barrier mitigating traffic noise, and distinctive sculptures. Both observations further contextualize the environment by mentioning temporary fences from a recent relay run and share a common navigational intent toward a nearby meadow. This demonstrates a sustained focus on both permanent design elements and transient environmental details within the shared park space.",
+            "type": "convergence"
+        },
+        {
+            "source": 34,
+            "target": 35,
+            "weight": 0.6244473845711231,
+            "semantic_sim": 0.8503491878509521,
+            "tag_overlap": 0.25,
+            "spatial_prox": 0.14854558129129408,
+            "rationale": "These observations meticulously detail the specific characteristics of the park's northern exit, emphasizing the narrow perimeter path's sharp transition from a vegetated bank to the urban edge. Both accounts consistently highlight critical infrastructure like concrete retaining walls and mesh fencing for the tram cutting, as well as the immediate connection to Hirschwiesenstrasse and the Milchbuck transport hub. This shared focus reveals an expert intent to precisely document a complex urban-nature interface and a key navigational portal.",
+            "type": "convergence"
+        },
+        {
+            "source": 35,
+            "target": 37,
+            "weight": 0.6344980877874962,
+            "semantic_sim": 0.8033868670463562,
+            "tag_overlap": 0.4444444444444444,
+            "spatial_prox": 0.02116486408419172,
+            "rationale": "The observations meticulously detail the same distinctive urban-natural interface at the park's northern exit, characterized by a narrow path, concrete retaining wall, steep vegetated bank, and a prominent steel mesh tram fence. This location serves as a critical navigational gateway, marking the functional transition from the park's environment to the urban street level and the Milchbuck transport hub. The expert's consistent focus on these fixed structural elements provides essential environmental cues for precise localization and mapping in this challenging transition zone.",
+            "type": "convergence"
+        },
+        {
+            "source": 48,
+            "target": 49,
+            "weight": 0.7741725516914832,
+            "semantic_sim": 0.7529386878013611,
+            "tag_overlap": 0.6190476190476191,
+            "spatial_prox": 0.17635879653398642,
+            "rationale": "Both observations detail the expert's focus on a \"naturalistic\" park design, specifically identifying a soft Finnenbahn path, granite boulders serving as informal seating and play, and a clear stream with an educational information board. This consistent emphasis on these particular objects highlights their shared functional purpose in creating an immersive, educational experience that successfully isolates visitors from urban distractions, a key evaluative criterion for the expert's assessment.",
+            "type": "convergence"
+        },
+        {
+            "source": 57,
+            "target": 58,
+            "weight": 0.6283536301549911,
+            "semantic_sim": 0.9161689877510071,
+            "tag_overlap": 0.22727272727272727,
+            "spatial_prox": 0.11326554528624785,
+            "rationale": "The expert consistently examines the disused tram tunnel portal, a concrete archway, as a singular object that powerfully illustrates Irchelpark's central design feat of burying infrastructure. This specific location serves as a critical navigational junction, deliberately observed to highlight the abrupt and instantaneous transition from the park's dense, enclosed greenery to the bustling urban streetscape. The focus on observable tracks within the dark tunnel emphasizes the buried infrastructure and the stark contrast between engineered urban elements and natural vegetation at this distinct boundary.",
+            "type": "convergence"
+        },
+        {
+            "source": 59,
+            "target": 60,
+            "weight": 0.6677027716019903,
+            "semantic_sim": 0.8673694729804993,
+            "tag_overlap": 0.10526315789473684,
+            "spatial_prox": 0.36277291232874453,
+            "rationale": "The expert consistently uses the discontinued tram tunnel portal as a focal point to demonstrate Irchelpark's core design feat: seamlessly burying significant infrastructure beneath a convincing green canopy. They meticulously highlight the instantaneous shift from dense park vegetation to the urban street, contrasting visible engineered elements like track gauges and tram catenary with the surrounding natural flora. This location serves as a powerful illustration of the park's innovative urban integration.",
+            "type": "convergence"
+        }
+    ]
+}

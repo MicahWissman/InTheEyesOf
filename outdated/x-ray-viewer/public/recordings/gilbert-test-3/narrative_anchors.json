@@ -1,0 +1,145 @@
+[
+    {
+        "cluster_id": 0,
+        "start_ts": 1300563661,
+        "end_ts": 1305962797,
+        "transcript_slice": "It's a pretty common thing. Having like seeing like big bikes like these gas or not gas powered electric ones that have like baskets and stuff, you'll see a lot of students, especially professors with those. And then day travelers like people who live close to campus, which is have more general smaller bikes like these, just to work around with. Gilbert has a lot of empty spaces in it. This is one of them.",
+        "ai_summary": "The user is analyzing the spatial layout of \"Gilbert,\" pointing out that it contains numerous empty spaces. They are specifically highlighting one such empty area within the architectural model or structure.",
+        "relative_time": "42.1s - 47.5s",
+        "start_sec": 42.1266793,
+        "duration": 5.399135999999999,
+        "gx": 2.8510033419771497,
+        "gy": 53.282251861495894,
+        "gz": -0.3217098867549941,
+        "clip_rel_path": "cluster_00/event_000_cluster_0.mp4",
+        "id": 0,
+        "narrative_title": "Gilbert's Empty Bike Space",
+        "narrative_description": "The expert highlights an empty space, explicitly stating it is one of many within the location identified as 'Gilbert'. This observation is prefaced by a description of diverse campus bike types, differentiating between large electric models with baskets used by professors and smaller bikes favored by daily commuters. The expert's focus on this vacant spot, immediately after discussing bike prevalence, suggests an implicit commentary on the campus's spatial utilization for bike parking or general open areas."
+    },
+    {
+        "cluster_ids": [
+            1,
+            2
+        ],
+        "cluster_id": 2,
+        "start_ts": 1346089709,
+        "end_ts": 1368752749,
+        "start_sec": 87.6527273,
+        "duration": 22.66304000000001,
+        "relative_time": "87.7s - 110.3s",
+        "transcript_slice": "This is where a lot of labs and like senior design spaces will be located. Also computer science, arrow and mechanical also have a lot of their offices based out of here. So fairly, it's a pretty huge building. I know the slam might not fully get that, but the building's massive. [...] of here. So fairly, it's a pretty huge building. I know the slam might not fully get that, but the building's massive. But yeah, I'm not going to do an inside recording of this just because I'm trying to prioritize [...] But yeah, I'm not going to do an inside recording of this just because I'm trying to prioritize just getting around the space instead of last time where I went inside to scan it. So now I'm just going to do the outside of it, try and get as much context as I can for",
+        "gx": 0.3537009149058393,
+        "gy": 14.224035932250747,
+        "gz": 0.017554738654970536,
+        "clip_rel_path": "cluster_02/event_001_cluster_2.mp4",
+        "narrative_title": "Massive Interdisciplinary Building",
+        "narrative_description": "The expert identifies a substantial building as the location for numerous labs, senior design spaces, and offices for Computer Science, Aerospace, and Mechanical Engineering departments. They highlight its immense scale, describing it as \"pretty huge\" and \"massive,\" acknowledging the recording's potential to underrepresent its true size. The expert explains their current intent is to record only the building's exterior to gather comprehensive spatial context, differing from prior internal scans. This central engineering facility is significant enough to warrant careful external documentation during their survey of the area."
+    },
+    {
+        "cluster_ids": [
+            3
+        ],
+        "cluster_id": 3,
+        "start_ts": 1379551021,
+        "end_ts": 1402747309,
+        "start_sec": 121.1140393,
+        "duration": 23.19628800000001,
+        "relative_time": "121.1s - 144.3s",
+        "transcript_slice": "just getting around the space instead of last time where I went inside to scan it. So now I'm just going to do the outside of it, try and get as much context as I can for like a centered area like this. Once again, just to repeat it that this is the main entrance to Gilbert place. [...] like a centered area like this. Once again, just to repeat it that this is the main entrance to Gilbert place. I'll have much else to say. And also, uh, cook counseling and like the undergraduate research center is based on [...] like a centered area like this. Once again, just to repeat it that this is the main entrance to Gilbert place. I'll have much else to say. And also, uh, cook counseling and like the undergraduate research center is based on the second floor on top of this. Yeah, but not much else to say about Gilbert.",
+        "gx": -1.6261181927476254,
+        "gy": 8.662748711028973,
+        "gz": 0.43295773563654494,
+        "clip_rel_path": "cluster_03/event_008_cluster_3.mp4",
+        "narrative_title": "Gilbert Place Main Entrance",
+        "narrative_description": "The expert focuses on the main entrance of Gilbert Place, explicitly identifying it as a central and significant entry point. They explain that Cook Counseling and the Undergraduate Research Center are situated on the second floor directly above this entrance. This attention highlights the building's primary access and functional layout within the larger campus. The expert is documenting the exterior context to gain a comprehensive spatial understanding."
+    },
+    {
+        "cluster_id": 4,
+        "start_ts": 1422477485,
+        "end_ts": 1427609997,
+        "transcript_slice": "Substation is sort of like a mix between like a subway and a Penn station. It's not that good. I've had food from there before. It's not that great. I got a like Philly cheese steak there with bacon, not good, not it didn't taste very good. And then over here, I thought was going to be part of substation. I don't know what this is going to be. That could be another restaurant. It could be a part of the empty space over here, but it hasn't been dedicated to anything",
+        "ai_summary": "The user describes \"Substation\" as a mixed-use space reminiscent of a subway and Penn Station, primarily criticizing its food quality. They then inquire about an adjacent, undeveloped area, speculating it could become another restaurant or remain an unassigned empty space.",
+        "relative_time": "164.0s - 169.2s",
+        "start_sec": 164.0405033,
+        "duration": 5.132511999999991,
+        "gx": -1.9922873781934098,
+        "gy": -10.870389849656123,
+        "gz": 0.5923815224442067,
+        "clip_rel_path": "cluster_04/event_009_cluster_4.mp4",
+        "id": 9,
+        "narrative_title": "Substation Review, Adjacent Vacancy",
+        "narrative_description": "The expert critically evaluates the 'Substation' eatery, describing its food quality as poor based on a negative past experience with a Philly cheesesteak. Their attention then shifts to an adjacent, undeveloped space they initially believed was part of Substation. They speculate this unassigned area could become another restaurant or remain part of a larger empty zone. This reveals the expert's curiosity about the area's future development and its relationship to the existing eatery."
+    },
+    {
+        "cluster_ids": [
+            5,
+            6
+        ],
+        "cluster_id": 6,
+        "start_ts": 1478001933,
+        "end_ts": 1495799085,
+        "start_sec": 219.5649513,
+        "duration": 17.79715200000001,
+        "relative_time": "219.6s - 237.4s",
+        "transcript_slice": "This is sort of where a lot of students for like mechanical and not electrical and mechanical and CS hang out. A lot of these senior design teams also use this as like a common space. Sometimes there's a kitchen up there as well. Sometimes there's events for students held up there that are outside of the department, but usually it's just for engineers. And there's a huge patio up there. [...] and CS hang out. A lot of these senior design teams also use this as like a common space. Sometimes there's a kitchen up there as well. Sometimes there's events for students held up there that are outside of the department, but usually it's just for engineers. And there's a huge patio up there. I'm assuming for one of the sweets. I don't know who's based out of there, but someone is. This is another huge empty space. You also see these ginormous pillars holding up the building.",
+        "gx": -16.880603046893164,
+        "gy": -40.97823835583986,
+        "gz": 0.7149433710759361,
+        "clip_rel_path": "cluster_06/event_011_cluster_6.mp4",
+        "narrative_title": "Pillars and Common Space",
+        "narrative_description": "The expert describes a large, open common area serving as a primary gathering spot for Mechanical and CS students and senior design teams. Adjacent amenities include an upstairs kitchen and a vast patio, often utilized for various student events. Their gaze then emphasizes the immediate space's expansive, \"huge empty\" volume and the prominent, ginormous pillars supporting the building. The expert's narrative seamlessly blends detailing the area's social function with highlighting its striking architectural and structural characteristics."
+    },
+    {
+        "cluster_ids": [
+            7
+        ],
+        "cluster_id": 7,
+        "start_ts": 1556056109,
+        "end_ts": 1573519981,
+        "start_sec": 297.6191273,
+        "duration": 17.46387199999998,
+        "relative_time": "297.6s - 315.1s",
+        "transcript_slice": "This is part of the parking garage. Students can park here ever so often. I don't think it's supposed to park here, but I've never gone ticket in, so I'm going to keep that streak and hope that I don't get ticketed when I park in here in the future. But yeah, usually just park in the front area. It bends around and down, so there's way more parking for the stores and stuff that aren't a part of tack. [...] This is part of the parking garage. Students can park here ever so often. I don't think it's supposed to park here, but I've never gone ticket in, so I'm going to keep that streak and hope that I don't get ticketed when I park in here in the future. But yeah, usually just park in the front area. It bends around and down, so there's way more parking for the stores and stuff that aren't a part of tack. (silence) Okay, RGB cameras having issues again?",
+        "gx": -44.1789053626336,
+        "gy": -34.99730592623166,
+        "gz": -3.4481066523219153,
+        "clip_rel_path": "cluster_07/event_013_cluster_7.mp4",
+        "narrative_title": "Parking Garage Unofficial Spot",
+        "narrative_description": "The expert describes a winding, descending section of a parking garage, highlighting its capacity for vehicles. They reveal this specific area is unofficially used by students, despite potential rule violations. This spot contrasts with primary student parking and also serves other external stores. Their personal account illustrates a calculated approach to utilizing available, albeit unsanctioned, parking options."
+    },
+    {
+        "cluster_ids": [
+            8
+        ],
+        "cluster_id": 8,
+        "start_ts": 1609514221,
+        "end_ts": 1631843981,
+        "start_sec": 351.0772393,
+        "duration": 22.32976000000002,
+        "relative_time": "351.1s - 373.4s",
+        "transcript_slice": "Both of them are restaurants that got installed on here. One of my professors actually owns Jensy this building. He owns the franchise. He's done a lot of work to get things done with it. And also, he sold different businesses like this at different college campuses, but this is the one he currently owns. I think you can see the authentic Chinese rice bowls noodle bar standard. [...] He owns the franchise. He's done a lot of work to get things done with it. And also, he sold different businesses like this at different college campuses, but this is the one he currently owns. I think you can see the authentic Chinese rice bowls noodle bar standard. Then move on. This is the opposite entrance to the start of Gilbert.",
+        "gx": -40.02747302328966,
+        "gy": 2.0745053677388503,
+        "gz": 0.3777108643622572,
+        "clip_rel_path": "cluster_08/event_015_cluster_8.mp4",
+        "narrative_title": "Professor-Owned Campus Restaurant",
+        "narrative_description": "The expert focuses on a specific restaurant named Jensy, identifying it as an \"authentic Chinese rice bowls noodle bar standard.\" They explain its notable ownership by their professor, who has developed and sold similar campus-based businesses, emphasizing the significant work invested in this particular franchise. This unique connection to academic life and the professor's personal history is highlighted. The active left hand likely indicates a gesture towards this establishment, which is also noted to be opposite the entrance to Gilbert."
+    },
+    {
+        "cluster_id": 9,
+        "start_ts": 1682102605,
+        "end_ts": 1685901997,
+        "transcript_slice": "And then, yeah, out here takes you to the rest of campus. Or not takes you to off campus. Sorry. Takes you off campus. There's some restaurants and stuff down there. But this is sort of where the text campus kind of ends. This is the last bit of Gilbert. Nothing important over here.",
+        "ai_summary": "The user is describing the boundary of the \"text campus,\" indicating where it transitions off-campus towards an area with restaurants. They specify a section called \"Gilbert\" as the last part of the campus, noting its relative unimportance.",
+        "relative_time": "423.7s - 427.5s",
+        "start_sec": 423.6656233,
+        "duration": 3.7993920000000116,
+        "gx": -41.767053559758864,
+        "gy": 53.689193145011295,
+        "gz": 0.6751495436890956,
+        "clip_rel_path": "cluster_09/event_016_cluster_9.mp4",
+        "id": 16,
+        "narrative_title": "Gilbert Campus End Point",
+        "narrative_description": "The expert identifies this location as the campus boundary, specifically marking the end of the Gilbert section. This point serves as an exit, transitioning directly off-campus towards areas with restaurants and amenities. While providing access to external locations, the expert notes the immediate area itself lacks significant internal campus features. Their active left hand likely gestures towards this transitional zone, emphasizing its role as the campus edge."
+    }
+]

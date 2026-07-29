@@ -1,0 +1,20 @@
+[
+    {
+        "cluster_ids": [
+            0
+        ],
+        "cluster_id": 0,
+        "start_ts": 591960171,
+        "end_ts": 597960171,
+        "start_sec": 518.400012188,
+        "duration": 6.0,
+        "relative_time": "518.4s - 524.4s",
+        "transcript_slice": "This probably this is more here, out of here which is here, as well as convenient because on the sides of the city you have the trams going towards the Schwamendingen and they go underground. Visually: at the water's edge of the northern stream / Bachlauf, now looking along its channel northward. The stream is calm and shallow here, perhaps 3-4m wide \u2014 broadening into a small informal pond. The water surface reflects sky and trees. On the left bank, large flat granite stepping-stone slabs extend to the water edge \u2014 the same landscape stone motif used throughout the park. The far bank shows dense marginal reed and sedge vegetation. The surrounding lawn and path are very close. This is a popular spot for children to observe aquatic insects, tadpoles, and small fish. The park's ecological management ensures no herbicide use in this zone, meaning the marginal vegetation is rich and diverse. So you have this tunnel in which actually the tracks switch sides and they need to basically go quickly underground. Here we have again like this path for running, this circle path which goes around the park for running with the wood pavement. Visually: pulling back from the water edge, now on the main path at the junction between the water feature area and the Finnenbahn circuit, approaching the base of the Monte Diggelmann from the south. The path ahead is the smooth asphalt version of the perimeter path. To the right, the hill rises steeply covered in dense woodland. A slim grey metal bollard is at the path edge. The sky opens overhead \u2014 the canopy thins before the hill. The afternoon sun is very low now; the light on the path and grass is warm golden. A walker is visible far ahead on the path. The transition from the open lake and meadow zones back into the enclosed hill corridor is clearly felt.",
+        "gx": -97.95480346679688,
+        "gy": 37.80025863647461,
+        "gz": -0.18891799449920654,
+        "clip_rel_path": "cluster_00/event_000_cluster_0.mp4",
+        "narrative_title": "Ecological Stream and Park Transition",
+        "narrative_description": "The expert meticulously describes a calm, shallow northern stream (Bachlauf) and its immediate surroundings. This area, featuring granite stepping stones and diverse marginal vegetation, serves as a popular ecological spot for children to observe aquatic life. Functionally, it's a key transition point where multiple park paths converge, including the Finnenbahn circuit and the main asphalt path, near an underground tram tunnel and the base of Monte Diggelmann. The expert's detailed explanation highlights both the area's rich biodiversity and its crucial role as a multi-functional hub within the park's landscape."
+    }
+]

@@ -1,0 +1,20 @@
+{
+  "generated_at": "2026-06-12T00:34:34.964267",
+  "pipeline": "InTheEyesOf Semantic Pipeline",
+  "stage": {
+    "graph_builder": {
+      "alpha": 0.5,
+      "beta": 0.5,
+      "gamma": 0.5,
+      "lam": 0.05,
+      "threshold": 0.6,
+      "tau_spatial": 0.4,
+      "tau_referential": 0.25,
+      "tau_thematic": 0.7,
+      "edge_method": "typed_edges_with_convergence_degree",
+      "model": "BAAI/bge-m3",
+      "edge_count": 8363,
+      "node_count": 466
+    }
+  }
+}

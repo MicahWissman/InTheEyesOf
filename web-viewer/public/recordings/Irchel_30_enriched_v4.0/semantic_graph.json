@@ -1,0 +1,1127 @@
+{
+    "metadata": {
+        "alpha": 0.7,
+        "beta": 0.1,
+        "gamma": 0.05,
+        "threshold": 0.55,
+        "model": "BAAI/bge-m3",
+        "weights": {
+            "semantic": 0.7,
+            "tag_overlap": 0.1,
+            "spatial": 0.05
+        }
+    },
+    "nodes": [
+        {
+            "id": 0,
+            "cluster_id": 1,
+            "title": "Point of Interest",
+            "pos": [
+                61.52144979095645,
+                90.39472912387774,
+                -5.564347471676024
+            ],
+            "time": "1.6s - 5.4s"
+        },
+        {
+            "id": 1,
+            "cluster_id": 3,
+            "title": "Underground Indicator at Park Entry",
+            "pos": [
+                64.3718032836914,
+                83.37893676757812,
+                -5.235354900360107
+            ],
+            "time": "8.9s - 10.3s"
+        },
+        {
+            "id": 2,
+            "cluster_id": 4,
+            "title": "Ecological Ponds & Campus Ascent",
+            "pos": [
+                26.574777603149414,
+                7.724274516105652,
+                1.1654519885778427
+            ],
+            "time": "123.9s - 124.8s"
+        },
+        {
+            "id": 3,
+            "cluster_id": 6,
+            "title": "Campus Entry, Diverse Park Spaces",
+            "pos": [
+                -10.594024658203125,
+                -10.025651931762695,
+                0.41354799270629883
+            ],
+            "time": "171.3s - 428.0s"
+        },
+        {
+            "id": 4,
+            "cluster_id": 7,
+            "title": "Sculptures, Forecourt, Park Vista",
+            "pos": [
+                -18.55095672607422,
+                -17.148359298706055,
+                0.3609369993209839
+            ],
+            "time": "179.6s - 181.1s"
+        },
+        {
+            "id": 5,
+            "cluster_id": 8,
+            "title": "Reflection Pool Design Details",
+            "pos": [
+                -20.95823860168457,
+                -19.75601577758789,
+                -0.0014909999445080757
+            ],
+            "time": "181.8s - 183.4s"
+        },
+        {
+            "id": 6,
+            "cluster_id": 2,
+            "title": "Park Transition and Ecological Role",
+            "pos": [
+                -66.27306016368475,
+                -38.30150357583524,
+                0.5569550744234009
+            ],
+            "time": "219.9s - 223.7s"
+        },
+        {
+            "id": 7,
+            "cluster_id": 9,
+            "title": "Junction, Interpretation, Naturalistic Park",
+            "pos": [
+                -71.31768798828125,
+                -44.407169342041016,
+                0.030448000878095627
+            ],
+            "time": "228.0s - 229.5s"
+        },
+        {
+            "id": 8,
+            "cluster_id": 10,
+            "title": "Path Junction Ecology & Use",
+            "pos": [
+                -71.50167846679688,
+                -47.57667541503906,
+                0.09920100122690201
+            ],
+            "time": "230.2s - 231.3s"
+        },
+        {
+            "id": 9,
+            "cluster_id": 12,
+            "title": "Multi-functional Junction & Landscape",
+            "pos": [
+                -72.41957473754883,
+                -59.82736778259277,
+                1.4681954979896545
+            ],
+            "time": "240.3s - 244.6s"
+        },
+        {
+            "id": 10,
+            "cluster_id": 13,
+            "title": "Spacious Meadow and Boulder Playground",
+            "pos": [
+                -84.20813751220703,
+                -101.85652160644531,
+                8.786823272705078
+            ],
+            "time": "285.0s - 286.0s"
+        },
+        {
+            "id": 11,
+            "cluster_id": 14,
+            "title": "Broad Meadow, Boulders, Path",
+            "pos": [
+                -80.83836364746094,
+                -103.49488067626953,
+                8.678567886352539
+            ],
+            "time": "288.5s - 289.5s"
+        },
+        {
+            "id": 12,
+            "cluster_id": 17,
+            "title": "Expansive Meadow, Boulders, Water",
+            "pos": [
+                -77.18012178861179,
+                -97.60692948561449,
+                8.246686385228085
+            ],
+            "time": "294.5s - 298.2s"
+        },
+        {
+            "id": 13,
+            "cluster_id": 18,
+            "title": "Recreational Meadow, Boulders, Lake Approach",
+            "pos": [
+                -77.14585876464844,
+                -93.85954284667969,
+                7.450171947479248
+            ],
+            "time": "298.8s - 301.6s"
+        },
+        {
+            "id": 14,
+            "cluster_id": 19,
+            "title": "Allmendsee Deck and Park Features",
+            "pos": [
+                -73.76871032714844,
+                -81.59388885498046,
+                4.592424726486206
+            ],
+            "time": "315.8s - 316.7s"
+        },
+        {
+            "id": 15,
+            "cluster_id": 2,
+            "title": "Segmented Park's Naturalistic Character",
+            "pos": [
+                -62.534578326272324,
+                -77.98085618573754,
+                2.8803092541594837
+            ],
+            "time": "331.3s - 333.6s"
+        },
+        {
+            "id": 16,
+            "cluster_id": 20,
+            "title": "Stream and Natural Park Design",
+            "pos": [
+                -46.50852584838867,
+                -84.8828353881836,
+                3.5748939514160156
+            ],
+            "time": "344.3s - 346.0s"
+        },
+        {
+            "id": 17,
+            "cluster_id": 21,
+            "title": "Diverse Paths and Watercourse",
+            "pos": [
+                -43.167667388916016,
+                -86.42782592773438,
+                3.590632915496826
+            ],
+            "time": "347.0s - 348.4s"
+        },
+        {
+            "id": 18,
+            "cluster_id": 22,
+            "title": "Wooded Path, Stream, Park Design",
+            "pos": [
+                -39.26036834716797,
+                -87.16496276855469,
+                3.962496042251587
+            ],
+            "time": "349.4s - 350.8s"
+        },
+        {
+            "id": 19,
+            "cluster_id": 23,
+            "title": "Engineered Landscape, Path, Tunnel",
+            "pos": [
+                -32.331905364990234,
+                -86.07660675048828,
+                3.333380937576294
+            ],
+            "time": "355.0s - 356.1s"
+        },
+        {
+            "id": 20,
+            "cluster_id": 2,
+            "title": "Finnenbahn Race Marking",
+            "pos": [
+                -17.272883301787623,
+                -70.01900891173861,
+                0.8808242461987483
+            ],
+            "time": "375.5s - 377.1s"
+        },
+        {
+            "id": 21,
+            "cluster_id": 24,
+            "title": "Point of Interest",
+            "pos": [
+                -16.81489372253418,
+                -65.26484680175781,
+                0.7433154881000519
+            ],
+            "time": "379.3s - 382.0s"
+        },
+        {
+            "id": 22,
+            "cluster_id": 26,
+            "title": "Tram Tunnel and Park Boundary",
+            "pos": [
+                -10.947296142578125,
+                -56.84524917602539,
+                0.6707540154457092
+            ],
+            "time": "387.2s - 388.2s"
+        },
+        {
+            "id": 23,
+            "cluster_id": 29,
+            "title": "Urban Interface, Infrastructure Contrast",
+            "pos": [
+                -6.721014022827148,
+                -50.44328308105469,
+                0.4501760005950928
+            ],
+            "time": "392.8s - 393.8s"
+        },
+        {
+            "id": 24,
+            "cluster_id": 30,
+            "title": "Retracing Urban Park Perimeter",
+            "pos": [
+                -2.2018039226531982,
+                -40.62191645304362,
+                0.32332182427247363
+            ],
+            "time": "400.3s - 402.1s"
+        },
+        {
+            "id": 25,
+            "cluster_id": 31,
+            "title": "Urban Exit Approach and Transition",
+            "pos": [
+                -1.4189549684524536,
+                -34.95041275024414,
+                0.2822659909725189
+            ],
+            "time": "405.1s - 406.4s"
+        },
+        {
+            "id": 26,
+            "cluster_id": 2,
+            "title": "Park's Enclosed Finnenbahn Path",
+            "pos": [
+                -3.281918491997226,
+                -24.962458144930086,
+                0.06537589495707907
+            ],
+            "time": "411.3s - 417.6s"
+        },
+        {
+            "id": 27,
+            "cluster_id": 32,
+            "title": "Vegetated Tunnel, Urban Boundary",
+            "pos": [
+                -4.258210182189941,
+                -17.201616287231445,
+                0.3857699930667877
+            ],
+            "time": "419.2s - 420.1s"
+        },
+        {
+            "id": 28,
+            "cluster_id": 33,
+            "title": "Secluded Finnenbahn Canopy Path",
+            "pos": [
+                -5.570769786834717,
+                -13.903356552124023,
+                0.2864980101585388
+            ],
+            "time": "421.4s - 422.7s"
+        },
+        {
+            "id": 29,
+            "cluster_id": 2,
+            "title": "Path Transition to Open Meadow",
+            "pos": [
+                -13.765814089245206,
+                -4.675932674097808,
+                -0.5661050823710576
+            ],
+            "time": "430.3s - 433.8s"
+        },
+        {
+            "id": 30,
+            "cluster_id": 35,
+            "title": "Segmented Naturalistic Park Design",
+            "pos": [
+                -41.92720985412598,
+                26.061944007873535,
+                0.6027389913797379
+            ],
+            "time": "464.8s - 468.3s"
+        },
+        {
+            "id": 31,
+            "cluster_id": 2,
+            "title": "Naturalistic Park Recreation Area",
+            "pos": [
+                -49.40895909846754,
+                30.870213203114677,
+                1.121664174999809
+            ],
+            "time": "468.8s - 477.9s"
+        },
+        {
+            "id": 32,
+            "cluster_id": 37,
+            "title": "Point of Interest",
+            "pos": [
+                -57.31825256347656,
+                36.62202835083008,
+                0.1375039964914322
+            ],
+            "time": "480.2s - 482.0s"
+        },
+        {
+            "id": 33,
+            "cluster_id": 2,
+            "title": "Naturalistic Urban Park Design",
+            "pos": [
+                -66.16636666159388,
+                38.66561284646219,
+                0.7781821667718383
+            ],
+            "time": "485.4s - 490.8s"
+        },
+        {
+            "id": 34,
+            "cluster_id": 2,
+            "title": "Northern Stream Educational Zone",
+            "pos": [
+                -79.78725451433307,
+                40.69378395412198,
+                0.34606656278994447
+            ],
+            "time": "498.6s - 502.2s"
+        },
+        {
+            "id": 35,
+            "cluster_id": 39,
+            "title": "Northern Stream's Educational Habitat",
+            "pos": [
+                -88.0516128540039,
+                40.36943817138672,
+                0.6738830208778381
+            ],
+            "time": "506.0s - 506.9s"
+        },
+        {
+            "id": 36,
+            "cluster_id": 40,
+            "title": "Ecological Stream to Running Track",
+            "pos": [
+                -91.7099494934082,
+                39.31094487508138,
+                -0.00824358236665527
+            ],
+            "time": "509.3s - 533.3s"
+        },
+        {
+            "id": 37,
+            "cluster_id": 42,
+            "title": "Stream's Edge, Children's Eco-Spot",
+            "pos": [
+                -98.1212371826172,
+                38.33368148803711,
+                0.18953925839492253
+            ],
+            "time": "518.0s - 528.2s"
+        },
+        {
+            "id": 38,
+            "cluster_id": 47,
+            "title": "Woodland Path Portal Transition",
+            "pos": [
+                -87.75522994995117,
+                -2.46256160736084,
+                0.9291160106658936
+            ],
+            "time": "573.2s - 575.6s"
+        },
+        {
+            "id": 39,
+            "cluster_id": 48,
+            "title": "Park Boundary, Path Transition, City Screen",
+            "pos": [
+                -84.24322073800224,
+                -5.25353343146188,
+                0.3041217156818935
+            ],
+            "time": "577.6s - 578.9s"
+        },
+        {
+            "id": 40,
+            "cluster_id": 49,
+            "title": "Park Boundary Vegetation and Facilities",
+            "pos": [
+                -78.06968180338542,
+                -8.288607279459635,
+                0.47277165452639264
+            ],
+            "time": "582.6s - 583.9s"
+        },
+        {
+            "id": 41,
+            "cluster_id": 50,
+            "title": "Running Path and Relay Marker",
+            "pos": [
+                -46.01235580444336,
+                -20.131725311279297,
+                0.502564013004303
+            ],
+            "time": "622.0s - 622.9s"
+        },
+        {
+            "id": 42,
+            "cluster_id": 52,
+            "title": "Irchelpark's Buried Tram Infrastructure",
+            "pos": [
+                -43.218345642089844,
+                -18.931915283203125,
+                0.5580885112285614
+            ],
+            "time": "623.1s - 625.4s"
+        },
+        {
+            "id": 43,
+            "cluster_id": 2,
+            "title": "Tunnel Portal and Urban Transition",
+            "pos": [
+                -36.891984173906366,
+                -18.518058543710687,
+                0.5584604589664157
+            ],
+            "time": "627.1s - 630.3s"
+        },
+        {
+            "id": 44,
+            "cluster_id": 2,
+            "title": "Tunnel Portal: Park to City",
+            "pos": [
+                -31.502763216480137,
+                -17.62263685668122,
+                0.6060962965179518
+            ],
+            "time": "630.8s - 633.7s"
+        },
+        {
+            "id": 45,
+            "cluster_id": 2,
+            "title": "Point of Interest",
+            "pos": [
+                -23.7069760485303,
+                -17.014453110154026,
+                0.5118105521941687
+            ],
+            "time": "635.9s - 639.8s"
+        },
+        {
+            "id": 46,
+            "cluster_id": 55,
+            "title": "Hirschwiesenstrasse Park Edge Overview",
+            "pos": [
+                72.4695053100586,
+                16.0959415435791,
+                1.910851001739502
+            ],
+            "time": "726.7s - 727.6s"
+        },
+        {
+            "id": 47,
+            "cluster_id": 56,
+            "title": "Hirschwiesenstrasse: Park, Street, Buildings",
+            "pos": [
+                74.11646881103516,
+                28.300546646118164,
+                0.4341367095708847
+            ],
+            "time": "735.7s - 737.1s"
+        },
+        {
+            "id": 48,
+            "cluster_id": 2,
+            "title": "Concluding Park-Street Transition",
+            "pos": [
+                72.71969095865886,
+                55.700599670410156,
+                -1.495271344979604
+            ],
+            "time": "757.5s - 758.9s"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 1,
+            "weight": 0.5675400405298668,
+            "semantic_sim": 0.7618750333786011,
+            "tag_overlap": 0.0,
+            "spatial_prox": 0.6845508201340792,
+            "rationale": "Both observations meticulously document the northern park entry, using a ventilation/utility access hatch as a focal point to illustrate the presence of significant underground infrastructure. This visible feature, situated along the narrow asphalt path between a two-lane road and a steep embankment, highlights the expert's interest in the interface between urban engineering and green spaces. The approaching people and dog provide context for human circulation at this critical transition point.",
+            "type": "convergence"
+        },
+        {
+            "source": 3,
+            "target": 29,
+            "weight": 0.5561391769531585,
+            "semantic_sim": 0.7423462867736816,
+            "tag_overlap": 0.0,
+            "spatial_prox": 0.7299352858130485,
+            "rationale": "The expert meticulously describes a specific environmental transition, guiding the viewer from an enclosed, tunnel-like Finnenbahn path, dense with vegetation, to the expansive, open Allmendwiese picnic spot. This consistent narrative highlights the abrupt lifting of the canopy and the functional importance of a shared informational or wayfinding sign at a critical path junction where different surfaces converge. The shared intent is to articulate the distinct spatial characteristics and connectivity between diverse park environments.",
+            "type": "convergence"
+        },
+        {
+            "source": 6,
+            "target": 8,
+            "weight": 0.5641893993363147,
+            "semantic_sim": 0.7542096376419067,
+            "tag_overlap": 0.06896551724137931,
+            "spatial_prox": 0.5869227405125799,
+            "rationale": "These observations are united by the expert's focus on documenting critical navigational points within the park's network, specifically a \"significant path fork\" and \"significant path junction,\" both featuring \"information boards.\" Both moments consistently describe the surrounding naturalistic landscape, noting \"birch groves\" and \"meadows\" as defining features of the park's \"ecological corridor.\" This underscores an expert intent to map and characterize key waypoints and their immediate ecological context within an active pedestrian space.",
+            "type": "convergence"
+        },
+        {
+            "source": 7,
+            "target": 8,
+            "weight": 0.6827984561560806,
+            "semantic_sim": 0.8472577333450317,
+            "tag_overlap": 0.47058823529411764,
+            "spatial_prox": 0.8531846241215102,
+            "rationale": "The expert consistently focuses on a critical path junction, leveraging prominent information and directional signage as key navigational aids pointing towards the Irchel Campus. Both observations highlight the surrounding naturalistic landscape and active pedestrian use, emphasizing this area's dual role as a wayfinding hub and a defining zone for the park's ecological character.",
+            "type": "convergence"
+        },
+        {
+            "source": 7,
+            "target": 9,
+            "weight": 0.5652025580367752,
+            "semantic_sim": 0.7245679497718811,
+            "tag_overlap": 0.35,
+            "spatial_prox": 0.46009998313845696,
+            "rationale": "The expert focuses on a specific three-way path junction serving as a key navigational hub, where interpretive signage and distinct path systems (like gravel and Finnenbahn) direct diverse park users towards the campus. Both observations highlight the intentional integration of naturalistic landscaping elements with functional infrastructure, such as seating and an underlying highway, creating a multi-purpose urban green space. This location is also noted for its aesthetic qualities, particularly the sensory experience of paths and the visual impact of afternoon light and sunset.",
+            "type": "convergence"
+        },
+        {
+            "source": 8,
+            "target": 9,
+            "weight": 0.5998578181862582,
+            "semantic_sim": 0.770821213722229,
+            "tag_overlap": 0.3333333333333333,
+            "spatial_prox": 0.5389924665287126,
+            "rationale": "The expert consistently documents a critical multi-functional path junction leading to the Irchel Campus, characterized by distinct path materials like gravel and stone steps, and offering scenic views. This focus highlights how the park's integrated design accommodates diverse user groups through varied infrastructure and informational signage, such as information boards and interpretive signs. These moments capture a key navigational point where naturalistic landscaping converges with designed pathways to facilitate movement and interaction.",
+            "type": "convergence"
+        },
+        {
+            "source": 9,
+            "target": 34,
+            "weight": 0.5592957266432416,
+            "semantic_sim": 0.7932404279708862,
+            "tag_overlap": 0.037037037037037035,
+            "spatial_prox": 0.006474705616931138,
+            "rationale": "The expert consistently documents multi-functional park nodes, emphasizing visitor amenities like the specialized Finnenbahn path and naturally integrated seating elements (rough rocks, granite boulders). Both scenes feature dedicated interpretive or information signage, highlighting the park's intent to combine recreational functionality with ecological education at key access points.",
+            "type": "convergence"
+        },
+        {
+            "source": 10,
+            "target": 11,
+            "weight": 0.6885986504287319,
+            "semantic_sim": 0.8887773156166077,
+            "tag_overlap": 0.25,
+            "spatial_prox": 0.8290909475699997,
+            "rationale": "The expert consistently highlights the expansive Allmendwiese meadow, focusing on its iconic \"Mor\u00e4nen-Burg\" granite boulders for seating and play, and the visible mown or Finnenbahn paths. Both observations emphasize the meadow's generous scale, open sky, and its strategic functional role as a key transitional crossing point connecting city and university areas.",
+            "type": "convergence"
+        },
+        {
+            "source": 10,
+            "target": 12,
+            "weight": 0.6030347752380798,
+            "semantic_sim": 0.7855758666992188,
+            "tag_overlap": 0.2,
+            "spatial_prox": 0.6626336093911112,
+            "rationale": "Both observations centrally describe an expansive meadow, highlighting its distinctive granite boulder formations used for seating and play. This area consistently emerges as a pivotal recreational space and a key navigational nexus, evidenced by its network of paths, strategic crossing points, and park signage.",
+            "type": "convergence"
+        },
+        {
+            "source": 10,
+            "target": 13,
+            "weight": 0.619925460640756,
+            "semantic_sim": 0.8314613699913025,
+            "tag_overlap": 0.08695652173913043,
+            "spatial_prox": 0.584136870249336,
+            "rationale": "The expert consistently focuses on the *Allmendwiese picnic lawn*, detailing its characteristics as a significant, open recreational space. Both observations highlight the distinctive \"Mor\u00e4nen-Burg\" boulder structure and emphasize the area's dual function as a naturalistic play space and a key navigational intersection within the park. This shared perspective outlines the diverse features and public utility of this central landscape element.",
+            "type": "convergence"
+        },
+        {
+            "source": 11,
+            "target": 12,
+            "weight": 0.595561199487756,
+            "semantic_sim": 0.7697167992591858,
+            "tag_overlap": 0.21428571428571427,
+            "spatial_prox": 0.7066179676015366,
+            "rationale": "The expert consistently documents a prominent, expansive meadow, highlighting its generous scale and function as a key recreational zone within the park. Both observations specifically detail the distinctive granite boulder formations used as informal seating and play structures, along with visible park signage under the golden afternoon light. This shared focus indicates an intent to characterize a significant, naturally-featured hub for visitor activities.",
+            "type": "convergence"
+        },
+        {
+            "source": 11,
+            "target": 13,
+            "weight": 0.6125019857226506,
+            "semantic_sim": 0.819532036781311,
+            "tag_overlap": 0.09090909090909091,
+            "spatial_prox": 0.5947732561150552,
+            "rationale": "These observations are united by the expert's focus on the Allmendwiese as a vast, accessible recreational landscape, highlighting its impressive scale and usability. Both describe the prominent \"Mor\u00e4nen-Burg\" boulder formation as a key play and seating feature, underscoring the area's social function under the golden afternoon sun. The common thread is documenting this central, open space and its defining landmarks to illustrate ease of navigation and public engagement.",
+            "type": "convergence"
+        },
+        {
+            "source": 12,
+            "target": 13,
+            "weight": 0.6077253554882467,
+            "semantic_sim": 0.7913457155227661,
+            "tag_overlap": 0.125,
+            "spatial_prox": 0.8256678077019457,
+            "rationale": "The expert consistently details a singular, prominent open recreational area, specifically focusing on its distinctive boulder playground and the integrated natural hydrology of creeks and ponds fed from an uphill source. This location is highlighted as a popular family picnic spot and an ecologically rich zone, characterized by accessible paths and observed under consistent golden afternoon light.",
+            "type": "convergence"
+        },
+        {
+            "source": 12,
+            "target": 15,
+            "weight": 0.5503387675326955,
+            "semantic_sim": 0.7603099942207336,
+            "tag_overlap": 0.038461538461538464,
+            "spatial_prox": 0.28551295068700916,
+            "rationale": "Both observations showcase the expert's focus on interpreting the park's recreational design and varied naturalistic environments. They specifically highlight common park infrastructure such as paths, park signs, and diverse seating options like granite boulders, benches, and picnic tables. This demonstrates an overarching intent to explain how different zones are equipped with physical elements to support various visitor activities and leisure experiences.",
+            "type": "convergence"
+        },
+        {
+            "source": 12,
+            "target": 31,
+            "weight": 0.5516417648164712,
+            "semantic_sim": 0.7879607677459717,
+            "tag_overlap": 0.0,
+            "spatial_prox": 0.0013852631415576307,
+            "rationale": "The expert consistently analyzes popular, naturalistic recreational zones, detailing the deliberate integration of diverse natural features like slopes, meadows, and water bodies with designed infrastructure such as paths, picnic facilities, and granite boulder seating. These observations highlight the expert's focus on understanding how specific objects and topographical elements contribute to functional gathering spots and shape the overall park experience, often informing subsequent navigational planning towards other significant park features.",
+            "type": "convergence"
+        },
+        {
+            "source": 15,
+            "target": 16,
+            "weight": 0.5678928171201625,
+            "semantic_sim": 0.7725158333778381,
+            "tag_overlap": 0.0625,
+            "spatial_prox": 0.4176352711599647,
+            "rationale": "The expert consistently analyzes the park's \"segmented, naturalistic design,\" detailing how elements like gravel paths, mixed woodland, and various amenities create immersive, tranquil recreational spaces. They explain how specific features, from sunbathing slopes to stream features and picnic areas, are intentionally designed to mimic a natural landscape and offer diverse, private escapes within an urban environment. This shared focus reveals an intent to explicate the park's deliberate design for optimal user experience and functional amenity placement, utilizing common objects like gravel paths.",
+            "type": "convergence"
+        },
+        {
+            "source": 15,
+            "target": 31,
+            "weight": 0.5976387329216633,
+            "semantic_sim": 0.8534726500511169,
+            "tag_overlap": 0.0,
+            "spatial_prox": 0.004158153764075438,
+            "rationale": "These observations both detail the park's deliberate, naturalistic design, specifically highlighting segmented recreational areas equipped with barbecue and picnic facilities. The expert consistently emphasizes how these zones are meticulously crafted to recreate natural landscapes for public use and gathering, often within varied terrain like slopes. This characterization of functional park design also outlines navigational intent towards other park features, such as utility facilities.",
+            "type": "convergence"
+        },
+        {
+            "source": 16,
+            "target": 17,
+            "weight": 0.634241702819967,
+            "semantic_sim": 0.8466380834579468,
+            "tag_overlap": 0.0,
+            "spatial_prox": 0.8319008879880848,
+            "rationale": "The expert consistently observes a meticulously designed naturalistic stream with clear water over pebbles, co-located with diverse paths and Monte Diggelmann hill. This focus underscores the park's primary design intent: creating an immersive, sensory-rich natural escape by deliberately obscuring urban sights and sounds. The integration of such water features and varied pathways serves to guide visitors through a reconstructed natural landscape, enhancing the feeling of profound isolation.",
+            "type": "convergence"
+        },
+        {
+            "source": 16,
+            "target": 18,
+            "weight": 0.6481749787729032,
+            "semantic_sim": 0.8771385550498962,
+            "tag_overlap": 0.0,
+            "spatial_prox": 0.6835599239688065,
+            "rationale": "Both observations detail the expert's analysis of a meticulously designed stream feature, complete with clear, pebble-bedded water and stepping stones, situated at the base of Monte Diggelmann hill. This shared focus underscores the park's intentional landscape architecture, aiming to create an immersive, naturalistic environment that successfully conceals urban infrastructure for recreational tranquility.",
+            "type": "convergence"
+        },
+        {
+            "source": 16,
+            "target": 19,
+            "weight": 0.5717889335339642,
+            "semantic_sim": 0.7762800455093384,
+            "tag_overlap": 0.038461538461538464,
+            "spatial_prox": 0.4909356718812081,
+            "rationale": "The expert consistently focuses on the *engineered landscape*, detailing how naturalistic elements such as streams with stepping stones are purposefully designed for immersive recreation. A core intent is revealing how this landscape integrates with or conceals urban infrastructure, whether explicit like the tram tunnel or implicit in obscuring city views. Both observations also use specific paths and the landmark of Monte Diggelmann to orient the observer within this meticulously crafted environment.",
+            "type": "convergence"
+        },
+        {
+            "source": 17,
+            "target": 18,
+            "weight": 0.7255199950464751,
+            "semantic_sim": 0.9017671346664429,
+            "tag_overlap": 0.5333333333333333,
+            "spatial_prox": 0.8189938257697934,
+            "rationale": "The expert consistently observes a critical transitional junction on the path to Monte Diggelmann, marked by a prominent oak tree at a path division. Their attention is drawn to the meticulous landscape design of a reconstructed stream, detailing its features from clear water to specific vegetation. Both observations underscore the park's success in using these elements to conceal urban infrastructure and cultivate a profound sense of natural immersion.",
+            "type": "convergence"
+        },
+        {
+            "source": 17,
+            "target": 19,
+            "weight": 0.5824965336540752,
+            "semantic_sim": 0.7841120362281799,
+            "tag_overlap": 0.045454545454545456,
+            "spatial_prox": 0.581452955768605,
+            "rationale": "The expert consistently details their navigation along the Finnenbahn path towards Monte Diggelmann, drawing attention to the reconstructed stream as a key sensory and environmental landmark within an engineered landscape. This shared focus highlights the intentional design strategy of integrating natural features while simultaneously concealing nearby urban infrastructure like tram lines, demonstrating a sophisticated blend of environmental immersion and hidden functionality.",
+            "type": "convergence"
+        },
+        {
+            "source": 17,
+            "target": 26,
+            "weight": 0.5642887294350329,
+            "semantic_sim": 0.8043031692504883,
+            "tag_overlap": 0.0,
+            "spatial_prox": 0.02553093444956107,
+            "rationale": "Both observations highlight how the park's design, particularly the Finnenbahn path and strategic vegetation, actively creates a profound sense of natural isolation while skillfully concealing adjacent urban infrastructure. The expert's analysis emphasizes the functional purpose of these landscape features in transforming the urban edge into a secluded natural escape, despite its proximity to city transport hubs. This reveals a consistent navigational goal of guiding users into an immersive natural experience that effectively masks the urban surroundings.",
+            "type": "convergence"
+        },
+        {
+            "source": 18,
+            "target": 19,
+            "weight": 0.6206774439088364,
+            "semantic_sim": 0.8289330005645752,
+            "tag_overlap": 0.05263157894736842,
+            "spatial_prox": 0.7032244276336762,
+            "rationale": "Ascending towards Monte Diggelmann, both experts meticulously detail a reconstructed stream with clear water and stepping stones, a central feature of the site's engineered landscape. The expert intent across both observations is to highlight the successful concealment of urban and tram infrastructure within this carefully designed natural park environment while simultaneously orienting the observer.",
+            "type": "convergence"
+        },
+        {
+            "source": 20,
+            "target": 41,
+            "weight": 0.5678496635341248,
+            "semantic_sim": 0.7962101101875305,
+            "tag_overlap": 0.07692307692307693,
+            "spatial_prox": 0.05620593183878512,
+            "rationale": "Both observations detail the expert's identification of a temporary, biodegradable line of sand or wood dust intentionally placed on a running path. This ephemeral feature's specific functional purpose was to serve as a navigational aid, guiding participants during a recent marathon relay. The expert is documenting how transient, environmentally conscious markings adapt permanent outdoor infrastructure for event-specific navigational requirements.",
+            "type": "convergence"
+        },
+        {
+            "source": 21,
+            "target": 32,
+            "weight": 0.5589341990450384,
+            "semantic_sim": 0.7981802821159363,
+            "tag_overlap": 0.0,
+            "spatial_prox": 0.004160150486948946,
+            "rationale": "These observations detail the expert's traversal of recreational paths around Monte Diggelmann, focusing on significant environmental transitions and navigational markers. While one captures a dense woodland recreation hub with specific flora and amenities like barbecue installations, the other precisely describes the stark boundary where natural parkland gives way to urban infrastructure such as sunken roadways and apartment buildings. The overarching intent is to document the evolving landscape and its functional context for urban recreation, highlighting key points of interest and navigational cues along the route.",
+            "type": "convergence"
+        },
+        {
+            "source": 22,
+            "target": 23,
+            "weight": 0.6242454037692019,
+            "semantic_sim": 0.8205567598342896,
+            "tag_overlap": 0.15789473684210525,
+            "spatial_prox": 0.68132467927551,
+            "rationale": "These observations specifically delineate the interface where a natural park environment abruptly meets significant, often sunken, urban transportation infrastructure, centered on the entry of a discontinued tramway tunnel. A prominent mesh fence consistently defines this sharp boundary, framing the transition from dense vegetation to visible tram infrastructure and apartment buildings. This common focus highlights a complex, multi-layered urban-natural boundary likely targeted as a key navigational or historical point of interest, presenting challenges for comprehensive data capture and environmental segmentation.",
+            "type": "convergence"
+        },
+        {
+            "source": 22,
+            "target": 43,
+            "weight": 0.5669410081117042,
+            "semantic_sim": 0.7957121133804321,
+            "tag_overlap": 0.05,
+            "spatial_prox": 0.09885033648945585,
+            "rationale": "These observations converge on a specific navigational landmark: a disused tram tunnel portal from a cancelled metro project, serving as an abrupt interface between the natural park environment and dense urban infrastructure. The expert's intent is to highlight this dramatic transition, contrasting the integrated concrete engineering and multi-storey buildings with lush park vegetation, while underscoring the tunnel's discontinued status.",
+            "type": "convergence"
+        },
+        {
+            "source": 22,
+            "target": 44,
+            "weight": 0.558649868006595,
+            "semantic_sim": 0.7902677655220032,
+            "tag_overlap": 0.0,
+            "spatial_prox": 0.10924876203314397,
+            "rationale": "The expert consistently identifies the visible interface where a discontinued tram tunnel, part of a cancelled metro project, creates a stark boundary between dense parkland and urban infrastructure. Both observations emphasize this dramatic transition from natural green spaces to surrounding city elements like apartment buildings and street environments, often revealing hidden historical pathways or infrastructure within the landscape. The shared intent is to document these points where concealed urban development defines park edges, serving as critical navigational markers or points of historical interest.",
+            "type": "convergence"
+        },
+        {
+            "source": 23,
+            "target": 24,
+            "weight": 0.5665330465556085,
+            "semantic_sim": 0.7677329182624817,
+            "tag_overlap": 0.0,
+            "spatial_prox": 0.5823997178095583,
+            "rationale": "The expert consistently documents a complex urban-park perimeter, focusing on the specific \"urban interface\" where a narrow asphalt path, mesh fence, and dense vegetation define the boundary with active and disused tram infrastructure. This detailed observation of shared features like the fence and tram elements serves to delineate the character of this transitional zone and confirm navigational progress within a challenging environment for spatial understanding.",
+            "type": "convergence"
+        },
+        {
+            "source": 23,
+            "target": 42,
+            "weight": 0.5704297722970476,
+            "semantic_sim": 0.8084902763366699,
+            "tag_overlap": 0.0,
+            "spatial_prox": 0.08973181564615183,
+            "rationale": "The expert consistently examines the ingenious integration and concealment of a discontinued metro/tramway tunnel within an urban park landscape. Both observations highlight how design elements, particularly dense vegetation, create an \"urban interface\" that blends significant engineered infrastructure with natural elements and adjacent urban contexts. This focus underscores the challenge of accurately capturing and segmenting diverse, interwoven environments during data capture, especially in identifying the transition zones between natural screening and hard infrastructure.",
+            "type": "convergence"
+        },
+        {
+            "source": 24,
+            "target": 25,
+            "weight": 0.6376687190964754,
+            "semantic_sim": 0.8573082685470581,
+            "tag_overlap": 0.0,
+            "spatial_prox": 0.7510588606892722,
+            "rationale": "Both observations meticulously document the expert's navigational progression along the Hirschwiesenstrasse perimeter path, detailing its transition from a natural park boundary to a structured urban interface. The consistent identification of specific fixed landmarks\u2014including the narrow asphalt path, concrete structures, screening vegetation, and glimpsed public transport infrastructure\u2014serves to confirm current location and provides critical visual cues for simultaneous localization and mapping towards the designated exit portal.",
+            "type": "convergence"
+        },
+        {
+            "source": 24,
+            "target": 47,
+            "weight": 0.5791911769631911,
+            "semantic_sim": 0.8269982933998108,
+            "tag_overlap": 0.0,
+            "spatial_prox": 0.005847789294340396,
+            "rationale": "These observations collectively detail the expert's systematic characterization of the Hirschwiesenstrasse park-urban interface, meticulously documenting distinguishing physical elements from perimeter vegetation and path materials to residential architecture and tram infrastructure. This shared intent articulates both the visual characteristics and functional layout of this boundary zone, confirming navigational progress along the specified route.",
+            "type": "convergence"
+        },
+        {
+            "source": 24,
+            "target": 48,
+            "weight": 0.5943661009356175,
+            "semantic_sim": 0.8424410820007324,
+            "tag_overlap": 0.045454545454545456,
+            "spatial_prox": 0.002238018211584088,
+            "rationale": "These observations are intrinsically linked by the expert's navigational goal of precisely documenting the transition from a park environment to an urban edge along the Hirschwiesenstrasse perimeter. Both moments emphasize the boundary zone's specific physical features, such as vegetation, infrastructure (lamp posts, tram, residential buildings), and light conditions, which are critical for confirming location and spatial context within an egocentric recording. This detailed capture of sequential environmental shifts provides essential data for understanding the journey's progress and the interface between natural and built worlds.",
+            "type": "convergence"
+        },
+        {
+            "source": 25,
+            "target": 47,
+            "weight": 0.5544602362309488,
+            "semantic_sim": 0.7915678024291992,
+            "tag_overlap": 0.0,
+            "spatial_prox": 0.0072552521916079355,
+            "rationale": "These observations detail the expert's systematic documentation of the Hirschwiesenstrasse perimeter path, specifically focusing on its dynamic interface with the adjacent park and the urban streetscape. They meticulously describe key transition points, from an informal park entrance marked by dense vegetation to a defined exit portal revealing city elements and a transport hub. This reflects a navigational goal to comprehensively map and characterize the evolving natural-urban boundary and functional layout of this specific area.",
+            "type": "convergence"
+        },
+        {
+            "source": 25,
+            "target": 48,
+            "weight": 0.5924719140055394,
+            "semantic_sim": 0.8461840152740479,
+            "tag_overlap": 0.0,
+            "spatial_prox": 0.002862543111276634,
+            "rationale": "Both observations critically document the definitive endpoint of a route, marking the transition from the park's natural perimeter into the urban environment of Hirschwiesenstrasse. They capture the sharp visual contrast between natural vegetation and built infrastructure, signaling the expert's concluding assessment of the journey and the navigational goal of returning to a transport hub.",
+            "type": "convergence"
+        },
+        {
+            "source": 26,
+            "target": 27,
+            "weight": 0.6853701832642702,
+            "semantic_sim": 0.8593795299530029,
+            "tag_overlap": 0.5,
+            "spatial_prox": 0.6760904843619427,
+            "rationale": "Both expert observations meticulously detail the tunnel-like enclosure of a Finnenbahn path by dense vegetation and a complete tree canopy, consistently emphasizing the resulting profound sense of isolation from the surrounding urban environment. This shared focus highlights the park's intricate design of secluded natural corridors that starkly contrast with, yet are directly adjacent to, city infrastructure like transport hubs and street elements, presenting a specific navigational challenge for mapping these transitional and visually obscured interfaces.",
+            "type": "convergence"
+        },
+        {
+            "source": 26,
+            "target": 28,
+            "weight": 0.6131116161651209,
+            "semantic_sim": 0.8352677226066589,
+            "tag_overlap": 0.0,
+            "spatial_prox": 0.5684840875999034,
+            "rationale": "These observations consistently describe a Finnenbahn path's unique micro-environment: a tunnel-like corridor formed by a near-complete tree canopy and dense flanking vegetation. The expert highlights how this specific configuration, with a screening hedge and wooded slope, profoundly isolates the user from the adjacent urban infrastructure, creating a distinct natural sanctuary within the city. This detailed focus underscores the park's dual function as both a natural escape and a managed interface with its bustling surroundings.",
+            "type": "convergence"
+        },
+        {
+            "source": 26,
+            "target": 29,
+            "weight": 0.5649644983030836,
+            "semantic_sim": 0.784298300743103,
+            "tag_overlap": 0.0,
+            "spatial_prox": 0.3191142324953867,
+            "rationale": "These observations detail the Finnenbahn path's transformation, from an initially enclosed, \"tunnel-like\" segment defined by a dense canopy and isolating vegetation to an open meadow where the canopy lifts. The expert's intent is to characterize the park's diverse environments and connectivity, specifically noting a path junction with an informational sign that marks the transition between secluded woodland and accessible recreational areas. This progression also implicitly highlights potential navigational or data capture challenges, such as maintaining GPS signal within the heavily vegetated, tunnel-like sections.",
+            "type": "convergence"
+        },
+        {
+            "source": 26,
+            "target": 40,
+            "weight": 0.5745669354544867,
+            "semantic_sim": 0.8192611336708069,
+            "tag_overlap": 0.0,
+            "spatial_prox": 0.021682480070569173,
+            "rationale": "These observations reveal the expert's focus on how specific vegetation \u2013 from the Finnenbahn's dense canopy to pioneer plant screens \u2013 deliberately creates and maintains a strong sense of natural seclusion. This design actively manages the park's critical interface with the urban environment, effectively masking city infrastructure and noise. The expert is thus analyzing the park's spatial design, particularly at its edges and transition zones, to understand its non-urban character and how internal pathways connect to external routes.",
+            "type": "convergence"
+        },
+        {
+            "source": 27,
+            "target": 28,
+            "weight": 0.6428361156538077,
+            "semantic_sim": 0.8585294485092163,
+            "tag_overlap": 0.0,
+            "spatial_prox": 0.8373097955285472,
+            "rationale": "The expert consistently details a specific Finnenbahn path section, meticulously describing its tunnel-like enclosure formed by a dense, varied tree canopy and shrubbery, which filters light into dappled fragments. This shared focus highlights the profound sense of isolation and unique sensory experience created by the intricate botanical design, effectively buffering the park from the adjacent city. These observations underscore an expert interest in understanding how specific vegetation compositions define micro-environments and their experiential qualities.",
+            "type": "convergence"
+        },
+        {
+            "source": 30,
+            "target": 31,
+            "weight": 0.5662289572316949,
+            "semantic_sim": 0.7547419667243958,
+            "tag_overlap": 0.058823529411764705,
+            "spatial_prox": 0.640544909296696,
+            "rationale": "The expert's observations consistently analyze the park's deliberate, segmented, and naturalistic design, highlighting how its layout creates distinct recreational nodes and varied experiences for visitors and wildlife. This includes identifying specific functional amenities like benches, boardwalks, barbecue, and picnic facilities, crucial for understanding the park's spatial configuration and informing the expert's ongoing navigational goals within its complex boundaries.",
+            "type": "convergence"
+        },
+        {
+            "source": 31,
+            "target": 33,
+            "weight": 0.5557762366731481,
+            "semantic_sim": 0.7497482299804688,
+            "tag_overlap": 0.1111111111111111,
+            "spatial_prox": 0.39682800676991553,
+            "rationale": "Both observations consistently detail the deliberate design and multi-functional purpose of a central recreational zone, highlighting barbecue and picnic facilities along a significant slope. The expert analyzes how specific elements, such as Finnenbahn paths and granite boulders, contribute to a naturalistic, immersive experience that effectively isolates visitors from the city while promoting diverse community activities.",
+            "type": "convergence"
+        },
+        {
+            "source": 33,
+            "target": 34,
+            "weight": 0.5902215255122626,
+            "semantic_sim": 0.8073070645332336,
+            "tag_overlap": 0.0,
+            "spatial_prox": 0.5021322028264295,
+            "rationale": "The observations consistently emphasize the park's naturalistic design, evidenced by the pervasive soft Finnenbahn path and multi-functional granite boulders. These recurring elements are highlighted for their dual purpose, providing informal seating and wildlife habitats, underscoring the expert's intent to showcase integrated user experience with ecological education. This reflects a navigational focus on identifying signature design elements that define the park's adaptable, immersive character.",
+            "type": "convergence"
+        },
+        {
+            "source": 34,
+            "target": 35,
+            "weight": 0.6038652070709706,
+            "semantic_sim": 0.8154436349868774,
+            "tag_overlap": 0.0,
+            "spatial_prox": 0.6610930131845487,
+            "rationale": "The expert consistently documents the northern stream, focusing on its design as an educational and recreational feature. Both observations detail the prominent blue information board and rustic structures facilitating water access, along with specific granite elements, underscoring the expert's intent to capture functional and interactive components of this aquatic habitat.",
+            "type": "convergence"
+        },
+        {
+            "source": 34,
+            "target": 36,
+            "weight": 0.6548187992496493,
+            "semantic_sim": 0.8894672393798828,
+            "tag_overlap": 0.047619047619047616,
+            "spatial_prox": 0.5485963000179517,
+            "rationale": "The expert consistently documents the northern stream's ecological role, highlighted by an educational board and rustic access structures, alongside the adjacent Finnenbahn. Both observations detail specific features like granite elements and natural tree cover, emphasizing the park's blended functional design of natural and recreational spaces. The expert's intent is to capture the characteristics and interrelationship of these primary zones, from aquatic habitat to running track.",
+            "type": "convergence"
+        },
+        {
+            "source": 34,
+            "target": 40,
+            "weight": 0.561015457071447,
+            "semantic_sim": 0.7952907085418701,
+            "tag_overlap": 0.0,
+            "spatial_prox": 0.08623898342417871,
+            "rationale": "The expert observes how specific park infrastructure, including the Finnenbahn and various path markers, guides user navigation and enhances engagement within the landscape. Both moments highlight the integration of functional elements\u2014like footbridges, information boards, and directional posts\u2014with natural settings, reflecting the park's blended purpose of recreation, education, and ecological design. This focus reveals an expert intent to understand the park's overall user experience and functional utility.",
+            "type": "convergence"
+        },
+        {
+            "source": 35,
+            "target": 36,
+            "weight": 0.6147451149023405,
+            "semantic_sim": 0.8193422555923462,
+            "tag_overlap": 0.0,
+            "spatial_prox": 0.8241111965911209,
+            "rationale": "The expert consistently details the northern stream's ecological role and recreational offerings, using specific objects like granite stepping stones, rustic platforms, and educational boards to illustrate its design. These elements function as both points of interest and navigational cues, highlighting the transition and interconnectedness between the park's diverse natural and managed zones.",
+            "type": "convergence"
+        },
+        {
+            "source": 35,
+            "target": 37,
+            "weight": 0.5708265289664154,
+            "semantic_sim": 0.7727553248405457,
+            "tag_overlap": 0.0,
+            "spatial_prox": 0.5979561507699577,
+            "rationale": "These observations consistently detail a specific location: the northern stream's transition into a pond, characterized by granite stepping stones and rich marginal vegetation. The expert's focus in both instances is to highlight this area's ecological management and its primary function as a popular, accessible educational and recreational zone for children to observe aquatic life. This shared emphasis points to the area being a key navigational or informational waypoint within the park's design.",
+            "type": "convergence"
+        },
+        {
+            "source": 38,
+            "target": 39,
+            "weight": 0.5696608547412076,
+            "semantic_sim": 0.7257919311523438,
+            "tag_overlap": 0.21739130434782608,
+            "spatial_prox": 0.7973481652514256,
+            "rationale": "The expert consistently analyzes park boundary zones, focusing on how carefully engineered vegetation, particularly pioneer species, screens the urban environment to maintain natural immersion. Both moments detail a path transition or junction, prominently featuring a directional marker post as a key navigational and wayfinding element. This reveals an expert intent to understand deliberate design strategies for sensory masking at park perimeters.",
+            "type": "convergence"
+        },
+        {
+            "source": 38,
+            "target": 40,
+            "weight": 0.5743566149723872,
+            "semantic_sim": 0.7570794820785522,
+            "tag_overlap": 0.16,
+            "spatial_prox": 0.5680197887665926,
+            "rationale": "Both observations highlight the expert's focus on how deliberately engineered *pioneer vegetation* at the park's outer edge serves as a *visual barrier*, effectively screening urban elements and creating an immersive naturalistic experience despite proximity to city facilities and traffic. A shared emphasis is placed on *directional marker posts* and *recreational facilities* like barbecues and picnic tables found at these transitional path junctions, which facilitate navigation towards exits or outer loops.",
+            "type": "convergence"
+        },
+        {
+            "source": 39,
+            "target": 40,
+            "weight": 0.6009678492703603,
+            "semantic_sim": 0.7840815782546997,
+            "tag_overlap": 0.16666666666666666,
+            "spatial_prox": 0.7088817949266544,
+            "rationale": "The expert consistently scrutinizes a crucial path junction at the park's boundary, where pioneering vegetation like elder and buddleia forms a vital screen against urban facilities and traffic. At this transitional point, a directional marker highlights the path's change and guides navigation towards a wider circuit or exit. This shared focus reveals the expert's intent to analyze how specific natural and artificial elements at a boundary zone preserve the park's distinct non-urban feel and facilitate wayfinding.",
+            "type": "convergence"
+        },
+        {
+            "source": 42,
+            "target": 43,
+            "weight": 0.6044560568784692,
+            "semantic_sim": 0.797199010848999,
+            "tag_overlap": 0.1,
+            "spatial_prox": 0.7283349856833969,
+            "rationale": "The expert consistently highlights a disused tram tunnel portal as the focal object, using it to exemplify Irchelpark's unique design principle: the ingenious concealment and integration of significant concrete infrastructure within a vibrant natural parkland. Both observations emphasize the dramatic juxtaposition of engineered urban elements and dense vegetation, showcasing the park's success in blending development with landscape.",
+            "type": "convergence"
+        },
+        {
+            "source": 42,
+            "target": 44,
+            "weight": 0.5690955081361891,
+            "semantic_sim": 0.7733762264251709,
+            "tag_overlap": 0.0,
+            "spatial_prox": 0.5546429927713913,
+            "rationale": "Both observations scrutinize the specific location of a discontinued tram tunnel portal, focusing on its concrete archway and the historical context of a cancelled metro project. The expert's consistent intent is to demonstrate the park's ingenious design, effectively concealing significant urban infrastructure with dense vegetation and highlighting the dramatic contrast or successful blend between engineered and natural landscapes.",
+            "type": "convergence"
+        },
+        {
+            "source": 43,
+            "target": 44,
+            "weight": 0.6971814193036403,
+            "semantic_sim": 0.9416186809539795,
+            "tag_overlap": 0.0,
+            "spatial_prox": 0.7609668527170941,
+            "rationale": "The expert consistently observes the disused tram tunnel portal as a prime example of Irchelpark's successful integration of significant concrete infrastructure beneath a convincing parkland surface. This landmark distinctly marks a dramatic transition from the park's dense green canopy to the bustling Z\u00fcrich street environment. The analysis repeatedly emphasizes the stark visual contrast between urban elements like apartment buildings and the growing vegetation, underscoring the park's innovative design in concealing urban features.",
+            "type": "convergence"
+        },
+        {
+            "source": 46,
+            "target": 47,
+            "weight": 0.6085005805943218,
+            "semantic_sim": 0.8308686017990112,
+            "tag_overlap": 0.0,
+            "spatial_prox": 0.5378516635374366,
+            "rationale": "These observations meticulously establish the initial streetscape and the informal, vegetative park interface along Hirschwiesenstrasse, detailing characteristic elements like apartment blocks, tram wires, and a quiet suburban atmosphere. The expert's intent is to comprehensively describe the visual characteristics and functional layout of this urban-park boundary, providing critical contextual information for subsequent navigation or environmental analysis. This foundational description highlights the blend of natural and urban features defining the recording's starting point.",
+            "type": "convergence"
+        },
+        {
+            "source": 47,
+            "target": 48,
+            "weight": 0.5901435177870343,
+            "semantic_sim": 0.825005292892456,
+            "tag_overlap": 0.0,
+            "spatial_prox": 0.2527967320834591,
+            "rationale": "These observations document the critical urban-natural interface along Hirschwiesenstrasse, detailing the spatial transition from a dense park boundary to an urban streetscape. The expert's consistent intent is to characterize this functional boundary, mapping its visual elements from initial vegetative markers and footpaths to the full integration of suburban infrastructure and residential buildings. This shared focus highlights the systematic analysis of how natural and built environments meet and transform.",
+            "type": "convergence"
+        }
+    ]
+}

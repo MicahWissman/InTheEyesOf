@@ -1,0 +1,284 @@
+{
+  "count": 31,
+  "anchors": [
+    {
+      "node_id": 314,
+      "lat": 45.9562639,
+      "lon": 8.9336775,
+      "title": "Invasive Plants vs Local Flora",
+      "score": 0.28,
+      "isLead": false,
+      "leadId": null
+    },
+    {
+      "node_id": 450,
+      "lat": 45.9585099,
+      "lon": 8.9370465,
+      "title": "The Altar Line: Marble, Light, and Landscape",
+      "score": 0.85,
+      "isLead": true,
+      "leadId": null
+    },
+    {
+      "node_id": 239,
+      "lat": 45.9538279,
+      "lon": 8.9310996,
+      "title": "Holly's Adaptive Thorn Loss",
+      "score": 0.384,
+      "isLead": false,
+      "leadId": null
+    },
+    {
+      "node_id": 234,
+      "lat": 45.9535399,
+      "lon": 8.9308066,
+      "title": "Holly's Spines and Christmas Tradition",
+      "score": 0.365,
+      "isLead": false,
+      "leadId": null
+    },
+    {
+      "node_id": 458,
+      "lat": 45.9584759,
+      "lon": 8.9369925,
+      "title": "Interpreting Sacred Inscription",
+      "score": 0.307,
+      "isLead": false,
+      "leadId": 450
+    },
+    {
+      "node_id": 439,
+      "lat": 45.9583469,
+      "lon": 8.9366585,
+      "title": "Historical Political Building",
+      "score": 0.235,
+      "isLead": false,
+      "leadId": null
+    },
+    {
+      "node_id": 71,
+      "lat": 45.9517809,
+      "lon": 8.9256616,
+      "title": "Interpreting Heritage: Architecture, Nature",
+      "score": 0.38,
+      "isLead": false,
+      "leadId": 69
+    },
+    {
+      "node_id": 148,
+      "lat": 45.9519729,
+      "lon": 8.9262776,
+      "title": "Huge Road Destroys Surprise",
+      "score": 0.364,
+      "isLead": false,
+      "leadId": null
+    },
+    {
+      "node_id": 69,
+      "lat": 45.9517819,
+      "lon": 8.9257486,
+      "title": "Loreto's Legacy: Heritage, Philosophy, and an Accidental Architect",
+      "score": 0.78,
+      "isLead": true,
+      "leadId": null
+    },
+    {
+      "node_id": 34,
+      "lat": 45.9518519,
+      "lon": 8.9275286,
+      "title": "Natural Paths, Lost Instincts",
+      "score": 0.25,
+      "isLead": false,
+      "leadId": null
+    },
+    {
+      "node_id": 135,
+      "lat": 45.9518019,
+      "lon": 8.9257056,
+      "title": "Ancient Floor Orienter's Enduring Use",
+      "score": 0.242,
+      "isLead": false,
+      "leadId": 69
+    },
+    {
+      "node_id": 94,
+      "lat": 45.9514719,
+      "lon": 8.9249536,
+      "title": "Loreto's Artistic and Historical Significance",
+      "score": 0.8,
+      "isLead": true,
+      "leadId": null
+    },
+    {
+      "node_id": 105,
+      "lat": 45.9515759,
+      "lon": 8.9247456,
+      "title": "Quartz and Local Architecture",
+      "score": 0.458,
+      "isLead": false,
+      "leadId": 112
+    },
+    {
+      "node_id": 112,
+      "lat": 45.9516109,
+      "lon": 8.9248496,
+      "title": "Loreto Square: Stone, Orientation, and Sacred Geography",
+      "score": 0.75,
+      "isLead": true,
+      "leadId": null
+    },
+    {
+      "node_id": 116,
+      "lat": 45.9516589,
+      "lon": 8.9248666,
+      "title": "Border, Walkway, and Legend",
+      "score": 0.342,
+      "isLead": false,
+      "leadId": 112
+    },
+    {
+      "node_id": 87,
+      "lat": 45.9516199,
+      "lon": 8.9251346,
+      "title": "The Accessible Via Crucis",
+      "score": 0.65,
+      "isLead": true,
+      "leadId": null
+    },
+    {
+      "node_id": 110,
+      "lat": 45.9516069,
+      "lon": 8.9247896,
+      "title": "Geographic Significance and Emblem",
+      "score": 0.242,
+      "isLead": false,
+      "leadId": 112
+    },
+    {
+      "node_id": 85,
+      "lat": 45.9516409,
+      "lon": 8.9251716,
+      "title": "Accessible Via Crucis Figures",
+      "score": 0.234,
+      "isLead": false,
+      "leadId": 87
+    },
+    {
+      "node_id": 24,
+      "lat": 45.9524279,
+      "lon": 8.9280826,
+      "title": "The Beech Forest: Underground Cities and Silent Mayors",
+      "score": 0.7,
+      "isLead": true,
+      "leadId": null
+    },
+    {
+      "node_id": 1,
+      "lat": 45.9528119,
+      "lon": 8.9290846,
+      "title": "Water's Path Shapes Life",
+      "score": 0.7,
+      "isLead": true,
+      "leadId": null
+    },
+    {
+      "node_id": 23,
+      "lat": 45.9525649,
+      "lon": 8.9281906,
+      "title": "Holly's Growth, Adaptation, Survival",
+      "score": 0.402,
+      "isLead": false,
+      "leadId": null
+    },
+    {
+      "node_id": 189,
+      "lat": 45.9528069,
+      "lon": 8.9280146,
+      "title": "Industrial vs. Natural Footprint",
+      "score": 0.347,
+      "isLead": false,
+      "leadId": 190
+    },
+    {
+      "node_id": 14,
+      "lat": 45.9530199,
+      "lon": 8.9284246,
+      "title": "The Versatile Chestnut Tree",
+      "score": 0.308,
+      "isLead": false,
+      "leadId": null
+    },
+    {
+      "node_id": 196,
+      "lat": 45.9529489,
+      "lon": 8.9281736,
+      "title": "Critiquing Unnecessary Flower Barrier",
+      "score": 0.276,
+      "isLead": false,
+      "leadId": null
+    },
+    {
+      "node_id": 190,
+      "lat": 45.9527909,
+      "lon": 8.9280286,
+      "title": "Two Paths: Footprint and Choice",
+      "score": 0.6,
+      "isLead": true,
+      "leadId": null
+    },
+    {
+      "node_id": 418,
+      "lat": 45.9573169,
+      "lon": 8.9345545,
+      "title": "Sacred Corner: Art, Magnetism, and the Solari Legacy",
+      "score": 0.82,
+      "isLead": true,
+      "leadId": null
+    },
+    {
+      "node_id": 411,
+      "lat": 45.9572819,
+      "lon": 8.9345805,
+      "title": "Observing Art, House Inquiry",
+      "score": 0.316,
+      "isLead": false,
+      "leadId": 418
+    },
+    {
+      "node_id": 403,
+      "lat": 45.9571409,
+      "lon": 8.9345575,
+      "title": "Historic Plaza, Art, Solari Legacy",
+      "score": 0.206,
+      "isLead": false,
+      "leadId": null
+    },
+    {
+      "node_id": 501,
+      "lat": 45.955874,
+      "lon": 8.933152999999999,
+      "title": "Santa Marta: Cemetery Before the Church",
+      "score": 0.72,
+      "isLead": false,
+      "leadId": 502
+    },
+    {
+      "node_id": 502,
+      "lat": 45.956123999999996,
+      "lon": 8.932972999999999,
+      "title": "Santa Marta: Ancestors, Orientation, and the Hidden Foundation",
+      "score": 0.8,
+      "isLead": true,
+      "leadId": null
+    },
+    {
+      "node_id": 503,
+      "lat": 45.956174,
+      "lon": 8.932882999999999,
+      "title": "Santa Marta: The Elevated Foundation",
+      "score": 0.71,
+      "isLead": false,
+      "leadId": 502
+    }
+  ]
+}

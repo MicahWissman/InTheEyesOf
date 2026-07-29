@@ -1,0 +1,146 @@
+{
+    "metadata": {
+        "alpha": 0.8,
+        "beta": 0.2,
+        "gamma": 0.5,
+        "threshold": 0.45,
+        "model": "all-MiniLM-L6-v2"
+    },
+    "nodes": [
+        {
+            "id": 0,
+            "cluster_id": 0,
+            "title": "Gilbert's Empty Bike Space",
+            "pos": [
+                2.8510033419771497,
+                53.282251861495894,
+                -0.3217098867549941
+            ],
+            "time": "42.1s - 47.5s"
+        },
+        {
+            "id": 1,
+            "cluster_id": 2,
+            "title": "Massive Interdisciplinary Building",
+            "pos": [
+                0.3537009149058393,
+                14.224035932250747,
+                0.017554738654970536
+            ],
+            "time": "87.7s - 110.3s"
+        },
+        {
+            "id": 2,
+            "cluster_id": 3,
+            "title": "Gilbert Place Main Entrance",
+            "pos": [
+                -1.6261181927476254,
+                8.662748711028973,
+                0.43295773563654494
+            ],
+            "time": "121.1s - 144.3s"
+        },
+        {
+            "id": 3,
+            "cluster_id": 4,
+            "title": "Substation Review, Adjacent Vacancy",
+            "pos": [
+                -1.9922873781934098,
+                -10.870389849656123,
+                0.5923815224442067
+            ],
+            "time": "164.0s - 169.2s"
+        },
+        {
+            "id": 4,
+            "cluster_id": 6,
+            "title": "Pillars and Common Space",
+            "pos": [
+                -16.880603046893164,
+                -40.97823835583986,
+                0.7149433710759361
+            ],
+            "time": "219.6s - 237.4s"
+        },
+        {
+            "id": 5,
+            "cluster_id": 7,
+            "title": "Parking Garage Unofficial Spot",
+            "pos": [
+                -44.1789053626336,
+                -34.99730592623166,
+                -3.4481066523219153
+            ],
+            "time": "297.6s - 315.1s"
+        },
+        {
+            "id": 6,
+            "cluster_id": 8,
+            "title": "Professor-Owned Campus Restaurant",
+            "pos": [
+                -40.02747302328966,
+                2.0745053677388503,
+                0.3777108643622572
+            ],
+            "time": "351.1s - 373.4s"
+        },
+        {
+            "id": 7,
+            "cluster_id": 9,
+            "title": "Gilbert Campus End Point",
+            "pos": [
+                -41.767053559758864,
+                53.689193145011295,
+                0.6751495436890956
+            ],
+            "time": "423.7s - 427.5s"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 5,
+            "weight": 0.4690285623073578,
+            "semantic_sim": 0.5862857103347778,
+            "spatial_prox": 1.8584045820979267e-22,
+            "rationale": "These observations center on the expert's identification and functional interpretation of specific locations dedicated to, or appropriated for, personal vehicle parking and storage. Both instances detail how various user groups navigate and utilize environmental resources\u2014ranging from formal bike spaces to unsanctioned garage sections\u2014to meet their transportation needs. This suggests an expert intent to map and analyze the practical utilization patterns and resource availability within complex, multi-user environments.",
+            "type": "convergence"
+        },
+        {
+            "source": 0,
+            "target": 7,
+            "weight": 0.45199665431277264,
+            "semantic_sim": 0.5649958252906799,
+            "spatial_prox": 2.034657638806063e-10,
+            "rationale": "The expert systematically evaluates the \"Gilbert\" campus section, first assessing its internal spatial resources like potential bike parking (Observation A), then precisely defining its external boundary and functional role as a transition point to off-campus amenities (Observation B). This combined focus reveals a detailed navigational goal: understanding both the available capacity and the precise geographical limits of a specific campus zone.",
+            "type": "convergence"
+        },
+        {
+            "source": 1,
+            "target": 4,
+            "weight": 0.5700125098229007,
+            "semantic_sim": 0.7125155925750732,
+            "spatial_prox": 2.7634751519263335e-13,
+            "rationale": "These observations are intrinsically linked by the expert's effort to survey a single, exceptionally large engineering building, a central hub for Computer Science and Mechanical Engineering. Both instances emphasize the structure's immense scale\u2014from its \"massive\" exterior documented for comprehensive spatial context to its \"huge empty\" internal common areas and \"ginormous pillars\"\u2014underscoring the data capture challenges inherent in accurately representing such a monumental facility. This consistent focus on the sheer size and functional importance of this specific building drives the expert's detailed documentation strategy.",
+            "type": "convergence"
+        },
+        {
+            "source": 2,
+            "target": 4,
+            "weight": 0.49798631668196497,
+            "semantic_sim": 0.6224828958511353,
+            "spatial_prox": 5.283907391754937e-12,
+            "rationale": "The expert consistently identifies and articulates the functional and architectural significance of key structural and spatial elements, whether highlighting a \"main entrance\" and its upper-floor functions or describing a \"huge empty\" common area with \"ginormous pillars\" and its social purpose. This methodical approach establishes a comprehensive spatial understanding, crucial for navigation and contextual mapping. Both observations contribute critical semantic and structural information necessary for robust environment modeling.",
+            "type": "convergence"
+        },
+        {
+            "source": 2,
+            "target": 7,
+            "weight": 0.5606899261474769,
+            "semantic_sim": 0.7008624076843262,
+            "spatial_prox": 7.966388395337429e-14,
+            "rationale": "The expert systematically documents critical ingress and egress points, mapping the functional interfaces between the campus, its buildings, and the external environment. This involves identifying primary entryways leading into specific structures like Gilbert Place, alongside overall campus boundaries that transition to off-campus areas. The overarching goal is to construct a comprehensive spatial understanding of how movement occurs into, within, and out of the defined academic zone.",
+            "type": "convergence"
+        }
+    ]
+}
