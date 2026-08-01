@@ -1,0 +1,82 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "In The Eyes Of"
+abstract: "An offline-first system for geolocalized expert narration in heritage interpretation. An expert wearing egocentric capture glasses walks a site once while narrating; an authoring-time pipeline analyzes speech and gaze to build a geolocalized knowledge graph of the site; the resulting experience is served to visitors entirely offline from a battery-powered on-site node."
+type: software
+version: "1.0.0"
+license: MIT
+repository-code: "https://github.com/MicahWissman/InTheEyesOf"
+keywords:
+  - offline-first systems
+  - egocentric perception
+  - cultural heritage
+  - geolocalized narration
+  - edge deployment
+  - wearable AI
+authors:
+  - family-names: Borunda
+    given-names: Luis
+    orcid: "https://orcid.org/0000-0001-9987-2914"
+    affiliation: "School of Architecture, Virginia Tech"
+  - family-names: "Argota Sánchez-Vaquerizo"
+    given-names: Javier
+    orcid: "https://orcid.org/0000-0001-9389-6616"
+    affiliation: "Computational Social Science, ETH Zürich"
+  - family-names: Wissman
+    given-names: Micah
+    orcid: "https://orcid.org/0009-0003-6414-7685"
+    affiliation: "Computer Engineering, Virginia Tech"
+  - family-names: Lamoureux
+    given-names: Kristin
+    orcid: "https://orcid.org/0000-0002-6662-5594"
+    affiliation: "Pamplin College of Business, Virginia Tech"
+  - family-names: Zhu
+    given-names: Meng
+    orcid: "https://orcid.org/0009-0002-4707-8801"
+    affiliation: "Pamplin College of Business, Virginia Tech"
+  - family-names: Marchiori
+    given-names: Elena
+    affiliation: "Lugano Living Lab, City of Lugano"
+  - family-names: Gavazzi
+    given-names: Adine
+    orcid: "https://orcid.org/0000-0002-1876-7299"
+    affiliation: "UNESCO Chair in Anthropology of Health, University of Genoa"
+  - family-names: Cantoni
+    given-names: Lorenzo
+    orcid: "https://orcid.org/0000-0001-5644-6501"
+    affiliation: "UNESCO Chair in ICT to Develop and Promote Sustainable Tourism in World Heritage Sites, Università della Svizzera italiana"
+preferred-citation:
+  type: conference-paper
+  title: "In The Eyes Of: An Offline-First System for Geolocalized Expert Narration in Heritage Interpretation"
+  collection-title: "Proceedings of NGEN-AI 2026"
+  conference:
+    name: "NGEN-AI 2026"
+    city: "Trento"
+    country: IT
+  publisher:
+    name: "Springer"
+  year: 2026
+  authors:
+    - family-names: Borunda
+      given-names: Luis
+      orcid: "https://orcid.org/0000-0001-9987-2914"
+    - family-names: "Argota Sánchez-Vaquerizo"
+      given-names: Javier
+      orcid: "https://orcid.org/0000-0001-9389-6616"
+    - family-names: Wissman
+      given-names: Micah
+      orcid: "https://orcid.org/0009-0003-6414-7685"
+    - family-names: Lamoureux
+      given-names: Kristin
+      orcid: "https://orcid.org/0000-0002-6662-5594"
+    - family-names: Zhu
+      given-names: Meng
+      orcid: "https://orcid.org/0009-0002-4707-8801"
+    - family-names: Marchiori
+      given-names: Elena
+    - family-names: Gavazzi
+      given-names: Adine
+      orcid: "https://orcid.org/0000-0002-1876-7299"
+    - family-names: Cantoni
+      given-names: Lorenzo
+      orcid: "https://orcid.org/0000-0001-5644-6501"

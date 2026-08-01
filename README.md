@@ -368,7 +368,6 @@ Until corpus files exist, the ASK button is hidden for that anchor. Visitors wil
 
 ---
 
->>>>>>> main
 ## Engineering Standards
 
 ### The Snap Rule
@@ -379,3 +378,13 @@ Maintain the relationship between tracking_timestamp_us and world-space coordina
 
 ### Compatibility
 Ensure that spatial outputs (JSON/PLY) remain compatible with both the Python visualization scripts and the React-based viewers.
+
+---
+
+## Citation
+
+If you use this software, please cite the accompanying paper:
+
+> Borunda, L., Argota Sánchez-Vaquerizo, J., Wissman, M., Lamoureux, K., Zhu, M., Marchiori, E., Gavazzi, A., Cantoni, L. In The Eyes Of: An Offline-First System for Geolocalized Expert Narration in Heritage Interpretation. Proceedings of NGEN-AI 2026, University of Trento, Italy. Springer.
+
+See `CITATION.cff` for machine-readable citation metadata.
