@@ -4,6 +4,9 @@ title: "In The Eyes Of"
 abstract: "An offline-first system for geolocalized expert narration in heritage interpretation. An expert wearing egocentric capture glasses walks a site once while narrating; an authoring-time pipeline analyzes speech and gaze to build a geolocalized knowledge graph of the site; the resulting experience is served to visitors entirely offline from a battery-powered on-site node."
 type: software
 version: "1.0.0"
+date-released: "2026-08-02"
+doi: "10.5281/zenodo.21749725"
+url: "https://github.com/MicahWissman/InTheEyesOf"
 license: MIT
 repository-code: "https://github.com/MicahWissman/InTheEyesOf"
 keywords:

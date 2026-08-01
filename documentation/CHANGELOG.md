@@ -4,6 +4,24 @@ All notable changes to the InTheEyesOf pipeline are documented here.
 
 ---
 
+## [v1.0.0] — 2026-08-02 — Zenodo Release
+
+First public release accompanying the NGEN-AI 2026 paper. Consolidates all pipeline stages (ingestion, semantic analysis, narrative synthesis, graphing, web viewer) into a reproducible, documented system.
+
+### Added
+- `CITATION.cff` with full author metadata, DOI, and preferred citation
+- Zenodo DOI badge in README
+
+### Changed
+- LICENSE simplified to standard MIT
+- `.gitignore` expanded with standard patterns (`.DS_Store`, global `node_modules/`, `.env.*`, `.vscode/`)
+- README updated with License and Changelog sections
+
+### Removed
+- `AUTHORS` file (redundant with CITATION.cff)
+
+---
+
 ## [v0.5-beta] — 2026-06-10 — Multilingual Transcription, Cross-Device Alignment & Multimodal Fusion
 
 ### Added

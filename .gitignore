@@ -1,20 +1,31 @@
 # Ignore dependency and cache directories
 __pycache__/
+*.pyc
 lib/
 site-packages/
 venv/
 .venv/
+node_modules/
+dist/
+build/
 ORB_SLAM3/
 Pangolin/
 semantic_report_output/
+
+# Secrets and environment
 secrets.json
 .env
-pipeline_results/
+.env.*
 backend/conversation-service/data/
-backend/conversation-service/.env
-backend/conversation-service/node_modules/
-server/node_modules/
-web-viewer/public/tiles/web-viewer/public/recordings/carona_adine/bubbles_lite.zip
 
+# IDE and OS
+.vscode/
+.DS_Store
+
+# Pipeline outputs
+pipeline_results/
 pipeline_results_*
 reccordings_aria/
+
+# Misc
+web-viewer/public/tiles/web-viewer/public/recordings/carona_adine/bubbles_lite.zip
