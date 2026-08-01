@@ -1,5 +1,3 @@
-[![DOI](https://zenodo.org/badge/1316129246.svg)](https://doi.org/10.5281/zenodo.21749725)
-
 # In The Eyes Of: Expert Intent Pipeline
 
 In The Eyes Of is a research-driven infrastructure designed to operationalize expert visual attention using Meta Project Aria egocentric data. This pipeline transforms raw .vrs recordings and Machine Perception Services (MPS) outputs into semantically grounded 3D narratives and interactive visualizations.
