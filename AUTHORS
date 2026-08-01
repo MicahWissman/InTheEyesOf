@@ -1,0 +1,22 @@
+# In The Eyes Of, contributors
+#
+# This file lists the contributors who hold copyright in the software.
+# Each contributor retains copyright in their own contributions.
+#
+# For how to cite the accompanying research paper and its full author list,
+# see CITATION.cff.
+
+Micah Wissman <micahwissman@vt.edu>
+    Computer Engineering, Virginia Tech
+    Initial pipeline, VRS and MPS processing, narrative synthesis orchestration,
+    web viewer.
+
+Luis Borunda <lborunda@vt.edu>
+    School of Architecture, Virginia Tech
+    Georeferencing pipeline, AR street-view and map integration, offline runtime
+    and edge deployment, multi-device positioning.
+
+Javier Argota Sánchez-Vaquerizo
+    Computational Social Science, ETH Zürich
+    Semantic layer: typed-edge convergence model, discourse classification, and
+    knowledge-graph construction.
