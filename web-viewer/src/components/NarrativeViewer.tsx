@@ -37,10 +37,10 @@ import { NarrativeBubble } from './NarrativeBubble';
 import type { NearbyAnchorInfo } from './NarrativeBubble';
 
 // ── AR Sense tuning constants ──────────────────────────────────────────────────
-const AR_DEFAULT_PITCH_DEG   = -20;
-const AR_EYE_HEIGHT_M        = 1.6;  // default eye height above medianWy (ImmersiveCamera)
-const AR_IDLE_TIMEOUT_MS     = 60000;
-const AR_IDLE_COUNTDOWN_MS   = 5000;
+const AR_DEFAULT_PITCH_DEG = -20;
+const AR_EYE_HEIGHT_M = 1.6;  // default eye height above medianWy (ImmersiveCamera)
+const AR_IDLE_TIMEOUT_MS = 60000;
+const AR_IDLE_COUNTDOWN_MS = 5000;
 const AR_MOTION_THRESHOLD_DEG = 2;
 
 // GPS glide: EMA factor on lat/lon — lower = more inertia / longer glide
@@ -55,18 +55,18 @@ const AR_GPS_MAX_ACCURACY_M = 50;
 // AR_RAIL_SNAP_ENABLED = false → free GPS follow; true → blend toward recorded path.
 // Radius reduced to 3 m so re-enabling gives a gentle assist rather than a hard pin.
 const AR_RAIL_SNAP_ENABLED = false;
-const AR_RAIL_RADIUS_M     = 3.0;
+const AR_RAIL_RADIUS_M = 3.0;
 
 // Orientation: yaw follows phone turn ~1:1; pitch is horizon-biased to avoid floor-dives
-const AR_YAW_FACTOR              = -1.0; // negated to match ImmersiveCamera Euler(pitch, -yaw, 0)
-const AR_PITCH_FACTOR            = 0.25;
+const AR_YAW_FACTOR = -1.0; // negated to match ImmersiveCamera Euler(pitch, -yaw, 0)
+const AR_PITCH_FACTOR = 0.25;
 // ORIENTATION_SMOOTHING_ALPHA = 0.15 lives inside useDampedDeviceOrientation
 
 // ── AR Horizon Lock (experimental) ───────────────────────────────────────────
 // When true: yaw-only camera — tilting phone up/down does NOT move camera, no pitch flicker.
 // When false: falls back to the existing yaw+pitch path (AR_PITCH_FACTOR in use).
 // Flip to false to compare against the full pitch-tracking behaviour.
-const AR_HORIZON_LOCK      = true;
+const AR_HORIZON_LOCK = true;
 const AR_HORIZON_PITCH_DEG = 0;    // fixed camera pitch from horizon (degrees, tunable)
 
 // Static initial camera quaternion: looking along -Z with 20° downward tilt.
@@ -80,7 +80,7 @@ const CAM_INITIAL_Q = new THREE.Quaternion();
 // ── ISO/MAP camera geometry (mirrors TopDownPointCloud constants) ──────────────
 const ISO_H = 80;   // camera height above target (world units)
 const ISO_D = 60;   // camera offset south of target
-const COLOR_HEARD   = '#666666';
+const COLOR_HEARD = '#666666';
 
 // ── AR vertical swipe — eye height ───────────────────────────────────────────
 // Tap: vertical travel < threshold → falls through to R3F click (anchor selection)
@@ -105,7 +105,7 @@ function haversineDist(lat1: number, lon1: number, lat2: number, lon2: number): 
 
 // ── Proximity auto-play thresholds ─────────────────────────────────────────────
 const PROX_ENTER_M = 4;   // metres — fires auto-play on enter
-const PROX_EXIT_M  = 8;   // metres — must leave before hysteresis re-arm
+const PROX_EXIT_M = 8;   // metres — must leave before hysteresis re-arm
 
 // Synthesise a brief soft chime via Web Audio (no audio file needed)
 function playSoftChime() {
@@ -295,11 +295,11 @@ const FLY_IN_DURATION = 2.5;
 const FLY_IN_HOLD = 0;
 const FLY_IN_ARC_HEIGHT = 0;
 const FLY_IN_FOV_START = 25;  // narrow FOV at start ≈ ortho-like
-const FLY_IN_FOV_END   = 70;  // normal persp FOV at landing
+const FLY_IN_FOV_END = 70;  // normal persp FOV at landing
 
 const FOLLOW_CAM_DISTANCE = 8;
-const FOLLOW_CAM_HEIGHT   = 5;
-const FOLLOW_CAM_LERP     = 0.04;
+const FOLLOW_CAM_HEIGHT = 5;
+const FOLLOW_CAM_LERP = 0.04;
 
 function OrbitFlyIn({
   active,
@@ -696,15 +696,15 @@ function AnchorMarker({
 
   const color = isPlaying ? '#00ff88'
     : (selected || proximity === 'in_range') ? '#00ff88'
-    : isHeard ? COLOR_HEARD
-    : markerColor(anchor.source);
+      : isHeard ? COLOR_HEARD
+        : markerColor(anchor.source);
   const opacity = (isHeard && !selected && !isPlaying) ? 0.4
     : proximity === 'distant' ? 0.35 : 1;
   const isMajor = (anchor.score ?? 0) >= 0.35 || anchor.hasAudio;
   const baseSize = isMajor ? 0.35 : 0.25;
   const size = isPlaying ? 0.65 : selected ? 0.6
     : proximity === 'in_range' ? baseSize + 0.2
-    : proximity === 'discoverable' ? baseSize + 0.1 : baseSize;
+      : proximity === 'discoverable' ? baseSize + 0.1 : baseSize;
 
   return (
     <group ref={groupRef} position={[anchor.gx, anchor.gy + 0.5, anchor.gz]}>
@@ -860,7 +860,7 @@ function ImmersiveCamera({
       }
       camera.updateProjectionMatrix();
     }
-  // eslint-disable-next-line react-hooks/exhaustive-deps
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [recenterSignal, camera]);
 
   useFrame(() => {
@@ -988,7 +988,7 @@ export const NarrativeViewer = ({ title: _title, anchorsUrl, pointCloudUrl, sema
   const prevSmoothedRef = useRef<{ alpha: number; beta: number; gamma: number } | null>(null);
   // ISO gesture state: drag → Leaflet.panBy, pinch → Leaflet.setZoom
   const isoPointerRef = useRef<{ x: number; y: number } | null>(null);
-  const isoPinchRef   = useRef<{ dist: number } | null>(null);
+  const isoPinchRef = useRef<{ dist: number } | null>(null);
 
   const rawOrientation = useDeviceOrientation();
   const {
@@ -1054,13 +1054,13 @@ export const NarrativeViewer = ({ title: _title, anchorsUrl, pointCloudUrl, sema
   const swipeGestureRef = useRef<{ startY: number; startHeight: number; isDrag: boolean } | null>(null);
 
   useEffect(() => {
-    try { localStorage.setItem('eyesof:ar-autoreturn', String(arAutoReturn)); } catch {}
+    try { localStorage.setItem('eyesof:ar-autoreturn', String(arAutoReturn)); } catch { }
   }, [arAutoReturn]);
   useEffect(() => {
-    try { localStorage.setItem('eyesof:proximityAutoPlay', String(proximityAutoPlay)); } catch {}
+    try { localStorage.setItem('eyesof:proximityAutoPlay', String(proximityAutoPlay)); } catch { }
   }, [proximityAutoPlay]);
   useEffect(() => {
-    try { localStorage.setItem('eyesof:last3dmode', preferredThreeDMode); } catch {}
+    try { localStorage.setItem('eyesof:last3dmode', preferredThreeDMode); } catch { }
   }, [preferredThreeDMode]);
 
   const arSense = useDampedDeviceOrientation(
@@ -1135,9 +1135,9 @@ export const NarrativeViewer = ({ title: _title, anchorsUrl, pointCloudUrl, sema
 
     const syncIso = () => {
       const center = leafletMap.getCenter();
-      const slam   = geoReg.toSlam(center.lat, center.lng);
+      const slam = geoReg.toSlam(center.lat, center.lng);
       const bounds = leafletMap.getBounds();
-      const mc     = leafletMap.getCenter();
+      const mc = leafletMap.getCenter();
       const groundWidthM = leafletMap.distance(
         { lat: mc.lat, lng: bounds.getWest() },
         { lat: mc.lat, lng: bounds.getEast() },
@@ -1149,15 +1149,15 @@ export const NarrativeViewer = ({ title: _title, anchorsUrl, pointCloudUrl, sema
       };
     };
 
-    leafletMap.on('move',    syncIso);
-    leafletMap.on('zoom',    syncIso);
+    leafletMap.on('move', syncIso);
+    leafletMap.on('zoom', syncIso);
     leafletMap.on('moveend', syncIso);
     leafletMap.on('zoomend', syncIso);
     syncIso(); // seed on first attach
 
     return () => {
-      leafletMap.off('move',    syncIso);
-      leafletMap.off('zoom',    syncIso);
+      leafletMap.off('move', syncIso);
+      leafletMap.off('zoom', syncIso);
       leafletMap.off('moveend', syncIso);
       leafletMap.off('zoomend', syncIso);
     };
@@ -1372,7 +1372,7 @@ export const NarrativeViewer = ({ title: _title, anchorsUrl, pointCloudUrl, sema
         }
         setBubbleMap(map);
       })
-      .catch(() => {});
+      .catch(() => { });
   }, [recordingBaseUrl]);
 
   // Assign each touch overlay to its nearest anchor once both datasets are loaded
@@ -1425,7 +1425,7 @@ export const NarrativeViewer = ({ title: _title, anchorsUrl, pointCloudUrl, sema
           }
         } catch { /* ignore malformed frames */ }
       };
-      ws.onerror = () => {};
+      ws.onerror = () => { };
       ws.onclose = () => { reconnectTimer = setTimeout(connectWs, 3000); };
     }
     connectWs();
@@ -1648,7 +1648,7 @@ export const NarrativeViewer = ({ title: _title, anchorsUrl, pointCloudUrl, sema
       setArIdleCountdown(null);
       if (threeDMode === 'arSense') setThreeDMode('orbit');
     }
-  // eslint-disable-next-line react-hooks/exhaustive-deps
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [viewMode]);
 
   // Skip flex transition when leaving CAM — useLayoutEffect so transition:none
@@ -1674,7 +1674,7 @@ export const NarrativeViewer = ({ title: _title, anchorsUrl, pointCloudUrl, sema
     setNowPlayingTitle(selectedAnchor.narrative_titles?.[lang || 'en'] ?? selectedAnchor.narrative_title);
     playAnchorWithUnlock(selectedAnchor.id, `${recordingBaseUrl}/${aUrl}`);
     recordVisit(selectedAnchor.id);
-  // eslint-disable-next-line react-hooks/exhaustive-deps
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [selectedAnchor?.id]);
 
   // ── Audio: proximity-triggered playback with hysteresis ──
@@ -1753,7 +1753,7 @@ export const NarrativeViewer = ({ title: _title, anchorsUrl, pointCloudUrl, sema
       }
     }
   }, [proximityMap, audioEnabled, proximityAutoPlay, geoReg, userSlamPos, devicePos, viewMode, anchors, recordingBaseUrl,
-      sessionMemory.visitedAnchorIds, fireProximityAnchor]);
+    sessionMemory.visitedAnchorIds, fireProximityAnchor]);
 
   useEffect(() => {
     if (lastEndedId === null || !queuedAnchorRef.current) return;
@@ -1778,7 +1778,7 @@ export const NarrativeViewer = ({ title: _title, anchorsUrl, pointCloudUrl, sema
       const a = anchors.find(x => x.id === q.id);
       if (a) setSelectedAnchor(a);
     }
-  // eslint-disable-next-line react-hooks/exhaustive-deps
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [lastEndedId]);
 
   // ── ISO map gesture handlers (drag → Leaflet.panBy, pinch → Leaflet.setZoom) ──
@@ -2022,7 +2022,7 @@ export const NarrativeViewer = ({ title: _title, anchorsUrl, pointCloudUrl, sema
   }, [handleRetryGps]);
 
   // ISO camera is now Leaflet-driven; recenter is handled by TopDownMap internally.
-  const handleRecenterPointCloud = useCallback(() => {}, []);
+  const handleRecenterPointCloud = useCallback(() => { }, []);
 
 
   const handleCloudLoaded = useCallback(() => {
@@ -2067,8 +2067,8 @@ export const NarrativeViewer = ({ title: _title, anchorsUrl, pointCloudUrl, sema
     for (const eff of narrativeAnim.activeEffects) {
       if (eff.type !== 'connection_lines') continue;
       const pts = eff.anchorIds
-        .map(id => anchors.find(a => a.id === id))
-        .filter((a): a is AnchorType => !!a && a.gps != null);
+        .map((id: number) => anchors.find((a: AnchorType) => a.id === id))
+        .filter((a: AnchorType | undefined): a is AnchorType => !!a && a.gps != null);
       for (let i = 0; i < pts.length; i++) {
         for (let j = i + 1; j < pts.length; j++) {
           lines.push([pts[i].gps!, pts[j].gps!]);
@@ -2109,7 +2109,7 @@ export const NarrativeViewer = ({ title: _title, anchorsUrl, pointCloudUrl, sema
   // won't re-fire for already-heard anchors after a page refresh.
   useEffect(() => {
     heardIds.forEach(id => recordVisit(id));
-  // eslint-disable-next-line react-hooks/exhaustive-deps
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const nearbyAnchors = useMemo((): NearbyAnchorInfo[] => {
@@ -2221,13 +2221,13 @@ export const NarrativeViewer = ({ title: _title, anchorsUrl, pointCloudUrl, sema
             title="Settings"
             aria-label="Settings"
             aria-expanded={settingsOpen}
-        >
-          <svg width="18" height="18" viewBox="0 0 18 18" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round">
-            <line x1="3" y1="4.5" x2="15" y2="4.5" />
-            <line x1="3" y1="9" x2="15" y2="9" />
-            <line x1="3" y1="13.5" x2="15" y2="13.5" />
-          </svg>
-        </button>
+          >
+            <svg width="18" height="18" viewBox="0 0 18 18" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round">
+              <line x1="3" y1="4.5" x2="15" y2="4.5" />
+              <line x1="3" y1="9" x2="15" y2="9" />
+              <line x1="3" y1="13.5" x2="15" y2="13.5" />
+            </svg>
+          </button>
         </div>
       </div>
 
