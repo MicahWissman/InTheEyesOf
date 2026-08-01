@@ -70,13 +70,14 @@ lower layer for a higher one, never hide provenance.
       fixed-depth projection.
     </critical_rule>
   </stage>
-  <stage id="3" name="Spatial Narrative Synthesis and Graphing">
-    Narrative anchors combining AI-summarized intent, 3D coords, hand-interaction signals.
-    <tools>scripts/gaze/semantic/hand_interaction_extractor.py, scripts/gaze/semantic/semantic_network_builder.py</tools>
+  <stage id="3" name="Spatial Narrative Synthesis, Discourse & Typed-Edge Graphing">
+    Narrative anchors combining AI-summarized intent, 3D coords, hand-interaction signals, discourse classification (L1/L2/L3), and prosody/SER.
+    Typed-edge graph builder with intent-gated referential channels and hyperparameter ablation study.
+    <tools>scripts/gaze/semantic/semantic_network_builder.py, scripts/gaze/semantic/classify_discourse.py, scripts/gaze/semantic/ablation_study.py, scripts/gaze/semantic/plot_ablation.py</tools>
   </stage>
-  <stage id="4" name="Multimodal Validation and Alignment">
-    React/Three.js frontends for visualizing gaze and validating registration.
-    <tools>web-viewer/, x-ray-viewer/, scripts/export_trajectory_latlon.py</tools>
+  <stage id="4" name="Multimodal Validation and Web Runtime">
+    React/Three.js web viewer for visualizing gaze, trajectory, and validating 3D scene registration.
+    <tools>web-viewer/, scripts/export_trajectory_latlon.py</tools>
   </stage>
 </pipeline>
 
@@ -106,12 +107,10 @@ lower layer for a higher one, never hide provenance.
     (Open3D). Do not revert under any circumstances.
   </mandate>
   <mandate id="3" name="Data Integrity & Registration">
-    Protect the tracking_timestamp_us ↔ world-space relationship. Validate/nudge with the X-Ray
-    Viewer if drift appears. Never introduce arbitrary transforms.
+    Protect the tracking_timestamp_us ↔ world-space relationship. Validate trajectory and point cloud registration. Never introduce arbitrary transforms.
   </mandate>
   <mandate id="4" name="Output Compatibility">
-    Spatial outputs (JSON/PLY) must stay compatible with the Python viz scripts AND the
-    Web/X-Ray viewers after any change.
+    Spatial outputs (JSON/PLY) must stay compatible with the Python viz scripts AND the Web Viewer after any change.
   </mandate>
 </mandates>
 
@@ -150,7 +149,7 @@ lower layer for a higher one, never hide provenance.
 <workflow>
   <phase name="Research">Reproduce the issue and map the research implication before writing code.</phase>
   <phase name="Strategy">Frame the change against the Research Mission / which relevance model it serves; for runtime work, against the offline-first ethos.</phase>
-  <phase name="Validation">Confirm spatial outputs (JSON/PLY) stay compatible with the Python viz scripts and both viewers.</phase>
+  <phase name="Validation">Confirm spatial outputs (JSON/PLY) stay compatible with the Python viz scripts and the Web Viewer.</phase>
 </workflow>
 
 - Run agent sessions inside `tmux` (an SSH/cable drop kills a foreground agent mid-build).
@@ -164,13 +163,17 @@ lower layer for a higher one, never hide provenance.
 ---
 
 ## Key File Map
-scripts/gaze/semantic/     # Core intent, hand interaction, networking logic
+scripts/gaze/semantic/     # Core intent, discourse classification, prosody/SER, typed-edge networking, and ablation study
 scripts/ingestion/         # .vrs processing and MPS output handling
 web-viewer/                # React/Three.js runtime viewer (MAP/AR/3D) + expert review
-x-ray-viewer/              # Spatial alignment and inspection tool
 server/                    # Node /ask proxy (Gemini key server-side)
-documentation/             # Pipeline usage guides and operational references
+documentation/             # Pipeline usage guides, changelog, and operational references
+ablation_results/          # Parameter grid sweep output JSON, plots, and CSV (ignored by git)
 pipeline_results/          # Output artifacts (JSON, PLY, etc.)
+CITATION.cff               # Machine-readable author and citation metadata
+
+---
+
 ## Register
 Be a skeptical collaborator: ground fixes in evidence, sequence honestly, flag scope/deadline
 tradeoffs, prefer one definitive fix anchored to a known-good reference over repeated guessing.
