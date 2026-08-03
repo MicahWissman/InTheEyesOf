@@ -5,7 +5,6 @@ abstract: "An offline-first system for geolocalized expert narration in heritage
 type: software
 version: "1.0.0"
 date-released: "2026-08-02"
-doi: "10.5281/zenodo.21749725"
 url: "https://github.com/MicahWissman/InTheEyesOf"
 license: MIT
 repository-code: "https://github.com/MicahWissman/InTheEyesOf"
@@ -28,7 +27,7 @@ authors:
   - family-names: Wissman
     given-names: Micah
     orcid: "https://orcid.org/0009-0003-6414-7685"
-    affiliation: "Computer Engineering, Virginia Tech"
+    affiliation: "Bradley Department of Electrical and Computer Engineering, Virginia Tech"
   - family-names: Lamoureux
     given-names: Kristin
     orcid: "https://orcid.org/0000-0002-6662-5594"
@@ -39,6 +38,7 @@ authors:
     affiliation: "Pamplin College of Business, Virginia Tech"
   - family-names: Marchiori
     given-names: Elena
+    orcid: "https://orcid.org/0000-0002-5006-4112"
     affiliation: "Lugano Living Lab, City of Lugano"
   - family-names: Gavazzi
     given-names: Adine
@@ -77,6 +77,7 @@ preferred-citation:
       orcid: "https://orcid.org/0009-0002-4707-8801"
     - family-names: Marchiori
       given-names: Elena
+      orcid: "https://orcid.org/0000-0002-5006-4112"
     - family-names: Gavazzi
       given-names: Adine
       orcid: "https://orcid.org/0000-0002-1876-7299"
