@@ -214,6 +214,10 @@ def main() -> None:
         help="Which text to synthesise (default: both, same voice)",
     )
     parser.add_argument("--voice-id", help="ElevenLabs voice ID (overrides .env ELEVENLABS_VOICE_ID; default Rachel)")
+    parser.add_argument(
+        "--speaker",
+        help="Only process anchors whose source_speaker matches (combined experiences, one voice per speaker)",
+    )
     parser.add_argument("--model-id", default=DEFAULT_MODEL_ID, help=f"ElevenLabs model (default {DEFAULT_MODEL_ID})")
     parser.add_argument("--api-key", help="ElevenLabs API key (overrides .env ELEVENLABS_API_KEY)")
     parser.add_argument(
@@ -253,6 +257,10 @@ def main() -> None:
         sys.exit(1)
 
     anchors = json.loads(anchors_path.read_text())
+    selected = [a for a in anchors if not args.speaker or a.get("source_speaker") == args.speaker]
+    if args.speaker and not selected:
+        print(f"ERROR: no anchors with source_speaker {args.speaker!r}", file=sys.stderr)
+        sys.exit(1)
     tracks = list(TRACKS) if args.track == "both" else [args.track]
 
     env = load_env(project_root)
@@ -284,7 +292,7 @@ def main() -> None:
     changed = False
     source_cache: dict = {}
 
-    for anchor in anchors:
+    for anchor in selected:
         anchor_id = anchor.get("id", anchor.get("cluster_id", "?"))
         title = anchor.get("narrative_title", f"anchor_{anchor_id}")
 

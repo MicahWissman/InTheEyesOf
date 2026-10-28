@@ -48,7 +48,10 @@
     "source_end_ts": 3649647869,
     "world_gx": -1.7010063409805298,
     "world_gy": 3.8689910650253294,
-    "world_gz": -0.40477692782878877
+    "world_gz": -0.40477692782878877,
+    "audioUrl": "audio/anchor_000.mp3",
+    "audioCaption": "The expert's active left hand and focused gaze highlight a specific architectural element or spatial configuration at ground level. They are explaining how this particular feature embodies core design principles from the school of architecture. This design aims to create new opportunities for engagement, enhance safety, and promote inclusivity within the built environment. Their attention underscores the significance of thoughtful architectural choices in shaping user experience and social interaction.",
+    "audioTranscriptUrl": "audio/anchor_000.transcript.mp3"
   },
   {
     "cluster_id": 1,
@@ -97,7 +100,10 @@
     "source_end_ts": 3653447869,
     "world_gx": -1.515331961891868,
     "world_gy": 4.240343321453441,
-    "world_gz": -0.46173968504775653
+    "world_gz": -0.46173968504775653,
+    "audioUrl": "audio/anchor_001.mp3",
+    "audioCaption": "The expert is intently observing specific design elements within the built environment. They are explaining how these features, innovated by the school of architecture, are engineered to create new opportunities for engagement, safety, and inclusivity. This observation highlights the purposeful application of design to enhance social interaction and accessibility. The expert emphasizes the recent development and functional intent behind these architectural components.",
+    "audioTranscriptUrl": "audio/anchor_001.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -146,7 +152,10 @@
     "world_gx": -1.9065397862715356,
     "world_gy": 3.8545990913809236,
     "world_gz": -0.5013286662960036,
-    "id": 2
+    "id": 2,
+    "audioUrl": "audio/anchor_002.mp3",
+    "audioCaption": "The expert details innovative 3D-printed building elements, including handrails and specialized floor finishes, emphasizing their role in inclusivity and safety. They highlight the floor's subtle grooves, precisely engineered to guide white canes for vision-impaired users. These advanced material applications, leveraging the precision of 3D printing, showcase the lab's capability in creating functional accessibility solutions. The discussion reveals a focus on enhancing user experience for diverse needs, making the space more navigable and inclusive. The expert's active left hand likely gestures towards these specific features on the ground level, underscoring their importance.",
+    "audioTranscriptUrl": "audio/anchor_002.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -199,7 +208,10 @@
     "world_gx": -1.9904909451380783,
     "world_gy": 4.164181029458473,
     "world_gz": -0.5532410258176463,
-    "id": 3
+    "id": 3,
+    "audioUrl": "audio/anchor_003.mp3",
+    "audioCaption": "The expert observes and demonstrates various innovative floor-mounted design elements, including a student-made plaque and a 3D-printed wayfinding tool. They explain how these integrate accessible finishes, such as beveled edges and directional suggestions, into the ground surface. The intent is to showcase how these designs enhance inclusivity and safety by communicating spatial ideas and aiding cane users. This focus highlights the significance of thoughtful floor design in improving user experience and navigation.",
+    "audioTranscriptUrl": "audio/anchor_003.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -253,7 +265,10 @@
     "world_gx": -1.8575627941294723,
     "world_gy": 4.2680232562264715,
     "world_gz": -0.499060075871456,
-    "id": 4
+    "id": 4,
+    "audioUrl": "audio/anchor_004.mp3",
+    "audioCaption": "The expert showcases a display of innovative accessible design elements developed within their lab, focusing on handrails, tactile signage, and floor finishes. Specific examples include 3D-printed handrails, QR codes with braille details for information access, and a 3D-printed wayfinding tool embedded in floor surfaces. These designs demonstrate how advanced 3D printing technologies create more inclusive and navigable environments for people with vision impairment. The collection represents collaborative efforts, including student thesis projects and community partnerships.",
+    "audioTranscriptUrl": "audio/anchor_004.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -302,7 +317,10 @@
     "world_gx": -1.7537236322959264,
     "world_gy": 4.1287982352905805,
     "world_gz": -0.5759841711777779,
-    "id": 5
+    "id": 5,
+    "audioUrl": "audio/anchor_005.mp3",
+    "audioCaption": "The expert focuses on a floor surface, detailing subtle grooves embedded within it as an innovative design element. These grooves are specifically engineered to assist white cane users by allowing their cane to catch and slide for tactile guidance. The precision of the lab's 3D printing capabilities is highlighted as crucial for creating such detailed accessibility features. This explanation underscores the lab's contribution to developing practical, inclusive building elements for the visually impaired.",
+    "audioTranscriptUrl": "audio/anchor_005.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -352,7 +370,10 @@
     "world_gx": -2.121535326871977,
     "world_gy": 4.109276206327764,
     "world_gz": -0.5519115544146943,
-    "id": 6
+    "id": 6,
+    "audioUrl": "audio/anchor_006.mp3",
+    "audioCaption": "The expert describes specific accessible design elements, focusing on a tactile floor plaque and a 3D-printed wayfinding tool. They explain how these details enhance inclusivity by providing directional cues and information underfoot, particularly when incorporated into floor designs with specific parameters like a beveled edge. The expert evaluates the designs, emphasizing the plaque's potential for engaging communication and highlighting its origin from a student thesis project. This demonstrates the lab's contribution to developing innovative, accessible architectural details at ground level.",
+    "audioTranscriptUrl": "audio/anchor_006.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -408,7 +429,10 @@
     "world_gx": -1.6441410427909504,
     "world_gy": 4.66088624318946,
     "world_gz": -0.38708112119040755,
-    "id": 7
+    "id": 7,
+    "audioUrl": "audio/anchor_007.mp3",
+    "audioCaption": "The expert highlights several innovative building elements, focusing on advanced handrails, signage, and floor finishes. They describe 3D printed handrails that reimagine ADA compliance for grip and integrate user information like braille or indicators. These elements represent new material applications utilizing advanced lab technologies. The expert explains how these features enhance the user experience by providing contextual information, such as the location of a bench or wall sign.",
+    "audioTranscriptUrl": "audio/anchor_007.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -459,7 +483,10 @@
     "world_gx": -1.512384976807714,
     "world_gy": 4.532862377113649,
     "world_gz": -0.506905965088169,
-    "id": 8
+    "id": 8,
+    "audioUrl": "audio/anchor_008.mp3",
+    "audioCaption": "The expert showcases innovative 3D-printed building elements, specifically reimagined handrails and tactile QR codes. The handrails exceed ADA standards by integrating ergonomics and braille for comprehensive user engagement. Adjacent, 3D-printed QR codes with braille details are presented as tools for visually impaired individuals to access information via smartphones. This area highlights advanced material applications that significantly enhance accessibility and inclusivity within the built environment.",
+    "audioTranscriptUrl": "audio/anchor_008.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -506,7 +533,10 @@
     "world_gx": -1.2572677374956451,
     "world_gy": 4.786225747641642,
     "world_gz": -0.4569963460274762,
-    "id": 9
+    "id": 9,
+    "audioUrl": "audio/anchor_009.mp3",
+    "audioCaption": "The expert details ADA standards for handrail grip diameters, requiring them to be between 1.5 and 2 inches. This specific sizing ensures a user's hand can comfortably grasp and securely hold onto the building's handrail. They also refer to prior work with students designing handrails that align with these profile requirements. The discussion emphasizes accessibility and practical human-centered design within architectural contexts.",
+    "audioTranscriptUrl": "audio/anchor_009.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -556,7 +586,10 @@
     "world_gx": -1.6880911463152166,
     "world_gy": 4.454222708656675,
     "world_gz": -0.5161724373619392,
-    "id": 10
+    "id": 10,
+    "audioUrl": "audio/anchor_010.mp3",
+    "audioCaption": "The expert is focused on a section of floor containing embedded 3D-printed QR codes with braille details, designed for vision-impaired individuals. This tactile signage offers comprehensive information access. Subtle grooves integrated into the floor surface assist white cane users in detecting and navigating the information point. The expert highlights the inclusive design, explaining how the surface helps a cane user 'catch' and identify the precise location of these embedded details. This specialized floor treatment demonstrates a commitment to accessibility in the physical environment.",
+    "audioTranscriptUrl": "audio/anchor_010.transcript.mp3"
   },
   {
     "cluster_id": 14,
@@ -604,7 +637,10 @@
     "source_end_ts": 3905947869,
     "world_gx": 2.3069284439086903,
     "world_gy": 4.204934120178223,
-    "world_gz": -0.6116041898727417
+    "world_gz": -0.6116041898727417,
+    "audioUrl": "audio/anchor_011.mp3",
+    "audioCaption": "The expert expresses gratitude, acknowledging a recently completed event or task. They evaluate the duration, noting it was 'five minutes' and deeming it 'perfect,' then clarifying 'four minutes.' The active left hand suggests interaction with a device or a gestural emphasis on this timing. This indicates a focus on efficiency and time management within the current activity.",
+    "audioTranscriptUrl": "audio/anchor_011.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -659,7 +695,10 @@
     "world_gx": 0.98198498681874,
     "world_gy": 0.7494173127514498,
     "world_gz": -0.5773343912513496,
-    "id": 12
+    "id": 12,
+    "audioUrl": "audio/anchor_012.mp3",
+    "audioCaption": "The expert meticulously explains the principles of robotic digital fabrication by referencing a drawing or display. They detail how digital curves are translated into precise coordinate points that guide a robot's tool, such as a pen, for sub-millimeter accurate movements on paper. The discussion highlights varying tool tips, pressure, and multi-color plotting, demonstrating how students learn to visualize space as a system of indexed instructions for automated tasks. This illustrates the fundamental mechanism connecting digital design with physical output and the evolution of computational power.",
+    "audioTranscriptUrl": "audio/anchor_012.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -710,7 +749,10 @@
     "world_gx": -1.3491471894250968,
     "world_gy": 1.3096336937422262,
     "world_gz": -0.20902196632035083,
-    "id": 13
+    "id": 13,
+    "audioUrl": "audio/anchor_013.mp3",
+    "audioCaption": "The expert details a robotic foam cutter workstation within the lab, emphasizing its role in architecture and design. This setup employs an ABB robotic arm with an electrified wire that heats to precisely cut foam into various geometries. The explanation highlights both uncut foam and intricately shaped examples, such as a hyperbolic paraboloid, demonstrating the capabilities of digital fabrication. This process facilitates the creation of complex parametric designs and their physical realization for models or formwork.",
+    "audioTranscriptUrl": "audio/anchor_013.transcript.mp3"
   },
   {
     "cluster_id": 13,
@@ -760,7 +802,10 @@
     "source_end_ts": 3969216613,
     "world_gx": 0.48368665575981123,
     "world_gy": 1.874149362246195,
-    "world_gz": 0.1461716666817682
+    "world_gz": 0.1461716666817682,
+    "audioUrl": "audio/anchor_014.mp3",
+    "audioCaption": "The expert focuses their gaze at a ground-level industrial machine component, likely part of an exhibit demonstrating numerical control. Their intent is to explain this foundational technology, detailing its role in precise machine positioning since rudimentary 1950s systems. They highlight its enduring relevance by connecting it to current innovations like 3D printers. The active left hand suggests gesturing towards specific features of the component or accompanying display graphics.",
+    "audioTranscriptUrl": "audio/anchor_014.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -807,7 +852,10 @@
     "world_gx": 0.550173766858928,
     "world_gy": 0.7181106576552752,
     "world_gz": -0.17911057901028113,
-    "id": 15
+    "id": 15,
+    "audioUrl": "audio/anchor_015.mp3",
+    "audioCaption": "The expert describes modern robotic arms, highlighting their six-axis, arm-like movement capabilities as a significant technological advancement. They detail a precise sequence where the robot manipulates and operates various colored pens (red, blue, black, yellow) one after another. This process serves an educational purpose, teaching students to visualize spatial coordinates and execute indexed instructions. The demonstration illustrates practical robot control and its foundational role in understanding automated systems.",
+    "audioTranscriptUrl": "audio/anchor_015.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -855,7 +903,10 @@
     "world_gx": 0.720139375991292,
     "world_gy": 1.0554245904088013,
     "world_gz": -0.30112147318820065,
-    "id": 16
+    "id": 16,
+    "audioUrl": "audio/anchor_016.mp3",
+    "audioCaption": "The expert focuses on a modern six-axis robotic arm, contrasting its advanced movement capabilities with rudimentary 1950s machines and simpler three-axis 3D printers. They explain how this robotic arm can execute digitally designed instructions, detailing a sequence of using different colored pens. This process teaches students to visualize space through indexed coordinates, emphasizing the robot's precise control over physical construction via simulation. The area highlights cutting-edge automated fabrication technology and its educational applications.",
+    "audioTranscriptUrl": "audio/anchor_016.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -909,7 +960,10 @@
     "world_gx": 1.1648413081036328,
     "world_gy": 1.2084692041610585,
     "world_gz": -0.20325681756435116,
-    "id": 17
+    "id": 17,
+    "audioUrl": "audio/anchor_017.mp3",
+    "audioCaption": "The expert focuses on a robotic cell, likely a multi-axis robotic arm, situated at the front of their lab. They explain its function in mimicking human arm movements and its critical role in connecting digital design with physical fabrication through sub-millimeter precision. The system is used for educational purposes, teaching students about numerical control, safety protocols, and the process of translating 3D models designed in software like Rhino into robotic actions. This demonstrates the practical application of physical computing and advanced control mechanisms.",
+    "audioTranscriptUrl": "audio/anchor_017.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -970,7 +1024,10 @@
     "world_gx": 1.0001452492382343,
     "world_gy": 0.9863039121546657,
     "world_gz": -0.34712514130888567,
-    "id": 18
+    "id": 18,
+    "audioUrl": "audio/anchor_018.mp3",
+    "audioCaption": "The expert is explaining the advanced capabilities of robotic arms for digital fabrication, using a specific robotic cell in their lab as a key example. They detail the \"bits to atoms\" process, where digital designs from 3D modeling software are translated into precise coordinates to control six-axis robots. This enables tasks such as drawing intricate curves with sub-millimeter precision and 3D printing. The location serves as a demonstration point for teaching students these high-precision robotic applications.",
+    "audioTranscriptUrl": "audio/anchor_018.transcript.mp3"
   },
   {
     "cluster_id": 0,
@@ -1021,7 +1078,10 @@
     "source_end_ts": 3998616613,
     "world_gx": 0.6486543317635859,
     "world_gy": 1.446815192699432,
-    "world_gz": -0.19713033487399292
+    "world_gz": -0.19713033487399292,
+    "audioUrl": "audio/anchor_019.mp3",
+    "audioCaption": "The expert gazes at a ground-level area, likely a physical model or interface, while explaining how digital tools integrate with the physical world. They articulate the concept of achieving significant control over physical outcomes through simulation and virtual design. With their left hand active, they emphasize how virtualization and simulation enable the construction of digitally conceived designs. This focus highlights a critical juncture where abstract digital models translate into tangible physical realities.",
+    "audioTranscriptUrl": "audio/anchor_019.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -1074,7 +1134,10 @@
     "world_gx": 0.7365310657162198,
     "world_gy": 0.5128773646759186,
     "world_gz": -0.6122010149107058,
-    "id": 20
+    "id": 20,
+    "audioUrl": "audio/anchor_020.mp3",
+    "audioCaption": "The expert focuses on a visual example to their right, demonstrating a robotic drawing process. They detail how a robot creates intricate patterns by precisely varying pen pressure and coordinates to draw dots. The composition is built up by sequentially running a script for different colored pens, such as red, blue, black, and yellow. This example serves to teach students how to visualize spatial systems through indexed, robotic instructions.",
+    "audioTranscriptUrl": "audio/anchor_020.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -1120,7 +1183,10 @@
     "world_gx": -1.7427145370870405,
     "world_gy": 1.6025457330137283,
     "world_gz": -0.3663885315049092,
-    "id": 21
+    "id": 21,
+    "audioUrl": "audio/anchor_021.mp3",
+    "audioCaption": "The expert examines a foam model used to create a concrete mold of a hyperbolic paraboloid, noting its distinctive texture and how it imprints into cement. They explain that this 'ruled surface' can be defined by straight lines, a characteristic exemplified by the patterned surface. This complex geometry highlights the efficiency of digital fabrication over manual craft, enabling intricate shapes without additional manufacturing costs. The object serves as a prime example of robotic construction and advanced fabrication techniques.",
+    "audioTranscriptUrl": "audio/anchor_021.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -1165,7 +1231,10 @@
     "world_gx": -0.8686381782922475,
     "world_gy": 0.5197869802307751,
     "world_gz": -0.4995341625685515,
-    "id": 22
+    "id": 22,
+    "audioUrl": "audio/anchor_022.mp3",
+    "audioCaption": "The expert elucidates the shift from traditional mass fabrication to digital manufacturing, emphasizing the latter's capacity for individualized production. They contrast the reliance on large, reusable molds for identical components in industrial methods with the modern ability to create unique objects. The expert highlights a centrally located shoe as a tangible illustration of a product uniquely achievable through digital fabrication. This focal point underscores the innovative changes in contemporary construction and design. Their active left hand likely gestures towards the shoe while explaining its significance.",
+    "audioTranscriptUrl": "audio/anchor_022.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -1215,7 +1284,10 @@
     "world_gx": -0.6518682650499161,
     "world_gy": -0.41996878285851247,
     "world_gz": -0.509695030865877,
-    "id": 23
+    "id": 23,
+    "audioUrl": "audio/anchor_023.mp3",
+    "audioCaption": "The expert focuses on 3D printed shoes displayed at ground level, contrasting their customizable nature with traditional mass fabrication. He highlights how digital fabrication allows for individualized tailoring, showcasing specific features like ventilation surfaces, sole grip, and visible \"rigged lines\" from the layer-by-layer printing process. This technology, exemplified by the shoes, represents a shift towards mass customization, utilizing materials like TPU deposited by robotic arms. The discussion underscores the significance of personalized manufacturing over large-scale, uniform production.",
+    "audioTranscriptUrl": "audio/anchor_023.transcript.mp3"
   },
   {
     "cluster_id": 14,
@@ -1265,7 +1337,10 @@
     "source_end_ts": 4594916613,
     "world_gx": -0.8724269221226371,
     "world_gy": -0.13539458081747144,
-    "world_gz": -0.44576508055130926
+    "world_gz": -0.44576508055130926,
+    "audioUrl": "audio/anchor_024.mp3",
+    "audioCaption": "The expert highlights a specialized digital robotic arm, located on the other corner of the robotic lab. This advanced equipment is specifically configured for high-precision 3D printing, enabling rapid prototyping and customized fabrication. This setup exemplifies the lab's capability to utilize advanced digital fabrication techniques for in-house construction. The discussion underscores the facility's self-sufficiency and cutting-edge manufacturing processes.",
+    "audioTranscriptUrl": "audio/anchor_024.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -1327,7 +1402,10 @@
     "world_gx": -2.1809114771242624,
     "world_gy": 2.589623927242025,
     "world_gz": -0.2536320803587924,
-    "id": 25
+    "id": 25,
+    "audioUrl": "audio/anchor_025.mp3",
+    "audioCaption": "The expert observes a robotic 3D printing cell, emphasizing its flexible production capabilities. They explain the interchangeable end-of-arm tools, specifically a blue barrel for clay extrusion and a mechanism for plastic pellets. Examples of printed objects, including a semi-hexagonal clay piece and plastic parts, are presented on a nearby table to demonstrate material versatility. The discussion highlights the robot's adaptable wrist motions and numerical control, which provide increased flexibility in additive manufacturing. This innovative digital fabrication approach offers significant advantages for industrial applications.",
+    "audioTranscriptUrl": "audio/anchor_025.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -1378,7 +1456,10 @@
     "world_gx": -1.9906180457968374,
     "world_gy": 2.5933102298413973,
     "world_gz": -0.06273903857466048,
-    "id": 26
+    "id": 26,
+    "audioUrl": "audio/anchor_026.mp3",
+    "audioCaption": "The expert details a digital robotic arm specifically designed for additive manufacturing, contrasting its six-axis numerical control and advanced wrist motions with simpler three-axis printers. They point out a mounted blue barrel, explaining it's a clay additive manufacturing mechanism that can also process thermoplastics. The expert highlights the system's flexible design, noting the interchangeable end-of-arm tools that allow material changes from clay to plastic. This adaptable robotic fabrication cell is presented as a sophisticated solution gaining increasing industrial use due to its versatile capabilities.",
+    "audioTranscriptUrl": "audio/anchor_026.transcript.mp3"
   },
   {
     "cluster_id": 77,
@@ -1427,7 +1508,10 @@
     "source_end_ts": 4636916613,
     "world_gx": -0.6056609087520178,
     "world_gy": 2.68382011519538,
-    "world_gz": 0.15632466806305864
+    "world_gz": 0.15632466806305864,
+    "audioUrl": "audio/anchor_027.mp3",
+    "audioCaption": "The expert's gaze and left hand focus on a six-axis robotic arm situated at ground level. They explain its advanced numerical control, highlighting its superior movement capabilities, especially \"wrist motions.\" This is contrasted with 3D printers, which typically require only three axes for planar movements. The detailed explanation emphasizes the specialized function of the robotic arm, designed for complex spatial manipulation rather than simple linear movements.",
+    "audioTranscriptUrl": "audio/anchor_027.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -1483,7 +1567,10 @@
     "world_gx": -2.350625083238457,
     "world_gy": 2.7524180186200224,
     "world_gz": -0.17541719037988027,
-    "id": 28
+    "id": 28,
+    "audioUrl": "audio/anchor_028.mp3",
+    "audioCaption": "The expert details a robotic arm's advanced motion capabilities, contrasting its flexibility with simpler 3D printers. They explain a mounted clay additive manufacturing mechanism, featuring a blue barrel with an infinite screw fed by a pipe from a pressurized aluminum tank. This mechanism extrudes soft clay through the barrel as the robot moves, building objects layer by layer. Examples on the table, made from a porcelainic mix, demonstrate forms morphing from semi-hexagonal to circular shapes. The expert emphasizes the robot's enhanced dexterity and adaptable end-of-arm tooling for production versatility.",
+    "audioTranscriptUrl": "audio/anchor_028.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -1535,7 +1622,10 @@
     "world_gx": -1.765783900917259,
     "world_gy": 2.040733743091865,
     "world_gz": -0.6039453195685482,
-    "id": 29
+    "id": 29,
+    "audioUrl": "audio/anchor_029.mp3",
+    "audioCaption": "The expert describes digital fabrication techniques, highlighting a robotic arm's adaptability for 3D printing. They compare clay-based fabrication with plastic extrusion, where an infinite screw processes thermoplastic pellets. The crucial element is the robotic arm's interchangeable \"end of arm tool,\" allowing it to switch between materials like clay and plastic. This demonstrates the versatility and advanced modularity of the robotic system for diverse manufacturing processes. The discussion reveals the technical sophistication present in this dedicated fabrication space.",
+    "audioTranscriptUrl": "audio/anchor_029.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -1584,7 +1674,10 @@
     "world_gx": -2.130414134546642,
     "world_gy": 4.118061701700954,
     "world_gz": -0.5576162970188213,
-    "id": 30
+    "id": 30,
+    "audioUrl": "audio/anchor_030.mp3",
+    "audioCaption": "The expert details various digital fabrication methods, demonstrating their application for accessibility, particularly for vision-impaired individuals. They point to a handrail as an example of custom-made elements and highlight a wood plate undergoing material extraction, illustrating subtractive techniques. The discussion encompasses additive and forming processes, emphasizing the customizability and robotic potential inherent in such manufacturing. This location showcases innovative architectural solutions designed to improve spatial navigability and user experience. The expert's active left hand likely assists in pointing out these technical demonstrations.",
+    "audioTranscriptUrl": "audio/anchor_030.transcript.mp3"
   },
   {
     "cluster_id": 86,
@@ -1632,7 +1725,10 @@
     "source_end_ts": 4818416613,
     "world_gx": -1.2605669796466823,
     "world_gy": 4.776215434074403,
-    "world_gz": -0.4042867571115477
+    "world_gz": -0.4042867571115477,
+    "audioUrl": "audio/anchor_031.mp3",
+    "audioCaption": "The expert focuses on a handrail, explaining its construction using advanced manufacturing techniques. This object exemplifies how digital fabrication can improve space navigability for vision-impaired individuals. Their active left hand likely gestures towards this handrail, emphasizing its role in promoting independent movement and overall accessibility.",
+    "audioTranscriptUrl": "audio/anchor_031.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -1679,7 +1775,10 @@
     "world_gx": -1.3760362136624584,
     "world_gy": 4.388342224458116,
     "world_gz": -0.5955351877647762,
-    "id": 32
+    "id": 32,
+    "audioUrl": "audio/anchor_032.mp3",
+    "audioCaption": "The expert focuses on a handrail featuring embedded Braille, explaining how digital fabrication enables uniquely customized and accessible designs. This technology significantly improves navigability and independence for individuals with vision impairment. They describe how robotic arms can bend and form such specialized elements into shape. The discussion underscores advanced manufacturing's potential for social benefit.",
+    "audioTranscriptUrl": "audio/anchor_032.transcript.mp3"
   },
   {
     "cluster_id": 91,
@@ -1727,7 +1826,10 @@
     "source_end_ts": 4887816613,
     "world_gx": 0.5313959866762168,
     "world_gy": 4.539957463741303,
-    "world_gz": -0.2902433797717052
+    "world_gz": -0.2902433797717052,
+    "audioUrl": "audio/anchor_033.mp3",
+    "audioCaption": "The expert focuses their gaze on a specific, likely malleable, component or raw material. They articulate a hypothetical scenario involving a robot bending this object into a desired shape using a specialized technique. This explanation reveals the expert's consideration of advanced automated manufacturing processes. Their attention highlights the significance of material manipulation within a robotic application.",
+    "audioTranscriptUrl": "audio/anchor_033.transcript.mp3"
   },
   {
     "cluster_id": 0,
@@ -1776,7 +1878,10 @@
     "source_end_ts": 4919222373,
     "world_gx": -1.8527647852897653,
     "world_gy": 4.44350004196167,
-    "world_gz": -0.628080010414124
+    "world_gz": -0.628080010414124,
+    "audioUrl": "audio/anchor_034.mp3",
+    "audioCaption": "At ground level, the expert identifies a unique 3D printed railing. They explain that this innovative example features integrated Braille, contrasting it with standard metal constructions. Their active left hand suggests they are gesturing towards or touching this novel design. The expert's detailed description highlights the functional significance of this tactile architectural element, showcasing a new application for information dissemination.",
+    "audioTranscriptUrl": "audio/anchor_034.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -1827,7 +1932,10 @@
     "world_gx": -1.3033734805704373,
     "world_gy": 4.522973177996549,
     "world_gz": -0.583669219320471,
-    "id": 35
+    "id": 35,
+    "audioUrl": "audio/anchor_035.mp3",
+    "audioCaption": "The expert's gaze focuses on a unique 3D printed railing, noting its innovative construction contrasting with typical metal railings. This specific example features integrated Braille, designed to provide custom information to visually impaired individuals. The railing's purpose is to enhance independent navigation and understanding within the room for these users. The expert also mentions an ABB three-axis robot utilizing pneumatics as another advanced feature within the broader space.",
+    "audioTranscriptUrl": "audio/anchor_035.transcript.mp3"
   },
   {
     "cluster_id": 3,
@@ -1881,7 +1989,10 @@
     "source_end_ts": 4941422373,
     "world_gx": -1.6410695115725202,
     "world_gy": 2.5795881748199463,
-    "world_gz": -0.20117149750391655
+    "world_gz": -0.20117149750391655,
+    "audioUrl": "audio/anchor_036.mp3",
+    "audioCaption": "The expert highlights an ABB three-axis robot as a notable feature within the space. They detail its technical composition, explaining the pneumatics, air tubes, electrical components, and wiring harness. The robot's mechanical structure is described by its three axes, each powered by a dedicated motor. The active left hand likely indicates the expert pointing to these specific robot parts during the explanation. This comprehensive description reveals the expert's intent to inform about the robot's engineering and functionality.",
+    "audioTranscriptUrl": "audio/anchor_036.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -1943,7 +2054,10 @@
     "world_gx": -2.0323590430046887,
     "world_gy": 2.580636779921091,
     "world_gz": -0.17681299815076515,
-    "id": 37
+    "id": 37,
+    "audioUrl": "audio/anchor_037.mp3",
+    "audioCaption": "The expert thoroughly describes an ABB three-axis robot, detailing its pneumatic and electrical components and three motors that enable precise manipulation. They highlight the tool end effector, identifying a \"Pulsar Atom\" tooltip capable of 3D printing in various materials like clay and plastic. Crucial safety features, including an emergency stop and the lab's secure environment, are explained as preventing accidents. The expert emphasizes the robot's advanced applications, such as manufacturing irregular shapes like the nearby foam.",
+    "audioTranscriptUrl": "audio/anchor_037.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -1995,7 +2109,10 @@
     "world_gx": -1.9049836392198238,
     "world_gy": 2.3036059768433623,
     "world_gz": -0.46822052684790694,
-    "id": 38
+    "id": 38,
+    "audioUrl": "audio/anchor_038.mp3",
+    "audioCaption": "The expert meticulously describes an ABB three-axis robot, pointing out its pneumatic tubes, electrical wiring, and multi-motor articulation for precise movement. They then detail its interchangeable tool end effectors, specifically mentioning the \"pulsar atom\" for advanced 3D printing in diverse materials like clay and custom plastics. Finally, the focus shifts to the robot's control systems, explaining motion controls, programming presets, and the role of languages like Python in its operation. This comprehensive overview highlights the robot's functional complexity and its critical role in advanced manufacturing and material exploration within the facility.",
+    "audioTranscriptUrl": "audio/anchor_038.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -2045,7 +2162,10 @@
     "world_gx": -0.02450244994834009,
     "world_gy": -0.20325235268101047,
     "world_gz": -0.19003638339539383,
-    "id": 39
+    "id": 39,
+    "audioUrl": "audio/anchor_039.mp3",
+    "audioCaption": "The expert describes various materials employed in custom packaging, specifically examining a rigid PLA structure and its durability. They then explain how robotic manufacturing enables the creation of unconventional and complex shapes, using styrofoam as an example for bespoke packaging solutions. This highlights the ability to tailor material forms not typically achieved through conventional methods.",
+    "audioTranscriptUrl": "audio/anchor_039.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -2095,7 +2215,10 @@
     "world_gx": -0.6817829454731607,
     "world_gy": -0.3298656534817479,
     "world_gz": -0.4175276332017451,
-    "id": 40
+    "id": 40,
+    "audioUrl": "audio/anchor_040.mp3",
+    "audioCaption": "The expert focuses on a packaging structure at ground level, likely made of rigid PLA, and potentially interacts with it using their left hand. They explain its robust nature, highlighting its resistance to crushing or bending. The discussion then expands to contrast PLA's rigidity with flexible materials like TPU, used for items such as shoes. This observation illustrates the functional properties of diverse custom plastics and their manufacturing applications.",
+    "audioTranscriptUrl": "audio/anchor_040.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -2144,7 +2267,10 @@
     "world_gx": -0.37556381650571036,
     "world_gy": -0.6169234971849763,
     "world_gz": -0.4946095266522055,
-    "id": 41
+    "id": 41,
+    "audioUrl": "audio/anchor_041.mp3",
+    "audioCaption": "The expert explains the lab's robotic manufacturing capabilities, showcasing different material properties like rigid PLA and flexible TPU for designs such as shoes. They highlight a three-axis ABB robot's ability to cut and develop intricate structures from styrofoam. This demonstrates how robotic manufacturing can handle less solid, irregular shapes for specialized applications like packaging. The overall focus is on the advanced fabrication techniques and material versatility available in the lab.",
+    "audioTranscriptUrl": "audio/anchor_041.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -2202,7 +2328,10 @@
     "world_gx": 1.1166772323894132,
     "world_gy": 1.1444802726284855,
     "world_gz": -0.29412217489665476,
-    "id": 42
+    "id": 42,
+    "audioUrl": "audio/anchor_042.mp3",
+    "audioCaption": "The expert details an ABB three-axis robot, explaining its capacity to draw designs for art and architecture with a pin tape. They highlight associated controllers used for motion control and note a disconnected air hose, indicating the robot is currently idle. The expert also points out specialized tables with tapped holes designed for mounting robots, clamps, and various machinery. This setup is presented as significant within the mechanical engineering space.",
+    "audioTranscriptUrl": "audio/anchor_042.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -2255,7 +2384,10 @@
     "world_gx": -2.5145206334298127,
     "world_gy": 3.0100958347648614,
     "world_gz": -0.5387027149701556,
-    "id": 43
+    "id": 43,
+    "audioUrl": "audio/anchor_043.mp3",
+    "audioCaption": "The expert describes robot controllers, detailing their capabilities for motion control, programming routines, and utilizing preset functions for various applications like manufacturing. They highlight crucial safety features, such as the E-stop, which enables immediate robot disengagement for a secure lab environment. The discussion further encompasses the versatility of robotic manufacturing for working with diverse material shapes, exemplified by foam samples.",
+    "audioTranscriptUrl": "audio/anchor_043.transcript.mp3"
   },
   {
     "cluster_id": 8,
@@ -2307,7 +2439,10 @@
     "source_end_ts": 5068222373,
     "world_gx": -2.304541892475553,
     "world_gy": 2.959739499621921,
-    "world_gz": -0.21780022316508837
+    "world_gz": -0.21780022316508837,
+    "audioUrl": "audio/anchor_044.mp3",
+    "audioCaption": "The expert is detailing the functionalities of a robot control panel, specifically highlighting its programming interface for routines running on Python. They point out four distinct presets designed to configure programs for various conical shapes or manufacturing facility applications. The expert also directs attention to the rear of the panel, indicating the presence of crucial safety features. This focus underscores the importance of both flexible programming and operational security for industrial robots.",
+    "audioTranscriptUrl": "audio/anchor_044.transcript.mp3"
   },
   {
     "cluster_id": 26,
@@ -2357,7 +2492,10 @@
     "source_end_ts": 5146422373,
     "world_gx": 0.8051892042160039,
     "world_gy": 4.348134994506836,
-    "world_gz": -0.46032719016075163
+    "world_gz": -0.46032719016075163,
+    "audioUrl": "audio/anchor_045.mp3",
+    "audioCaption": "The expert focuses on a disconnected air hose, identifying it as an essential part of the pneumatic system for an ABB robot. They explicitly state its current disconnected state, indicating the robotic system is not yet fully operational. This pneumatic involvement is presented as a key component of the exciting project they are developing. Their attention reveals a critical functional detail about the robot's setup.",
+    "audioTranscriptUrl": "audio/anchor_045.transcript.mp3"
   },
   {
     "cluster_id": 28,
@@ -2410,7 +2548,10 @@
     "source_end_ts": 5154622373,
     "world_gx": 1.2292986114819855,
     "world_gy": 0.7567731671863135,
-    "world_gz": -0.629016392760807
+    "world_gz": -0.629016392760807,
+    "audioUrl": "audio/anchor_046.mp3",
+    "audioCaption": "The expert first observes a disconnected air hose, indicating a robot system currently not in use at this ground-level location. They then highlight a controller and describe nearby tables equipped with crucial tapped holes. These holes are specifically designed for securely mounting various features, notably including robots, enabling flexible workspace configurations. The expert's intent is to thoroughly explain the practical functionality and infrastructure of this dedicated robotic setup to an audience.",
+    "audioTranscriptUrl": "audio/anchor_046.transcript.mp3"
   },
   {
     "cluster_id": 25,
@@ -2460,7 +2601,10 @@
     "source_end_ts": 5180022373,
     "world_gx": -0.0404756671956015,
     "world_gy": 4.792245917850071,
-    "world_gz": -0.3604486617777085
+    "world_gz": -0.3604486617777085,
+    "audioUrl": "audio/anchor_047.mp3",
+    "audioCaption": "The expert's gaze focuses on a collection of clamps and diverse machinery situated at ground level. They convey a shared enthusiasm for these particular items, emphasizing their captivating nature. This observation highlights the significance of such equipment within the mechanical engineering field. The commentary underscores the intrinsic value and appeal of these tools to the audience.",
+    "audioTranscriptUrl": "audio/anchor_047.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -2510,7 +2654,10 @@
     "world_gx": -0.42729042707567055,
     "world_gy": -0.5058383045257138,
     "world_gz": -0.47461634712199297,
-    "id": 48
+    "id": 48,
+    "audioUrl": "audio/anchor_048.mp3",
+    "audioCaption": "The expert meticulously analyzes a 3D-printed shoe model, identifying its strong, flexible TPU material and distinctive organic shape. They explain the manufacturing process likely involved Grasshopper coding and specific printing techniques, noting the thick filament and Croc-like resemblance. Significant attention is paid to printing flaws, such as messy filament on the edge and misaligned lines, attributing them to insufficient supports or removal issues. The expert evaluates the design's aesthetics and potential functional challenges of the sole, comparing it to a sandal's wearability. This detailed examination highlights the material properties, production intricacies, and design considerations of the footwear model.",
+    "audioTranscriptUrl": "audio/anchor_048.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -2561,7 +2708,10 @@
     "world_gx": -0.5072960452385424,
     "world_gy": -0.49238161418147003,
     "world_gz": -0.49963430253931285,
-    "id": 49
+    "id": 49,
+    "audioUrl": "audio/anchor_049.mp3",
+    "audioCaption": "The expert meticulously describes a 3D printed shoe model, highlighting its strong, close-knit TPU material and organic shape. They detail the intricate modeling process required, potentially involving Grasshopper or sculpting, and evaluate the challenges encountered during its printing, such as misaligned lines on the band and prominent layers due to support issues. The expert also assesses the object's texture, noting its untreated state, and classifies it as a covered sandal relevant to sportswear design. The visible layers indicate an absence of post-processing treatment.",
+    "audioTranscriptUrl": "audio/anchor_049.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -2610,7 +2760,10 @@
     "world_gx": -0.5077673880560476,
     "world_gy": -0.5794150381934237,
     "world_gz": -0.5660219272818314,
-    "id": 50
+    "id": 50,
+    "audioUrl": "audio/anchor_050.mp3",
+    "audioCaption": "The expert meticulously examines a 3D printed shoe model, focusing on its TPU-like material and complex organic shape. They explain the design's likely origin from Grasshopper coding and details of its printing process, noting specific material properties. With an active left hand, the expert points out manufacturing imperfections on the back and band, attributing them to printing supports or orientation challenges. This thorough evaluation highlights both the impressive organic design and the difficulties encountered during its fabrication.",
+    "audioTranscriptUrl": "audio/anchor_050.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -2657,7 +2810,10 @@
     "world_gx": -0.3899735389509215,
     "world_gy": -0.5645592567539512,
     "world_gz": -0.510816891510437,
-    "id": 51
+    "id": 51,
+    "audioUrl": "audio/anchor_051.mp3",
+    "audioCaption": "The expert intently examines a 3D-printed footwear model, marveling at its complex, organic shape and speculating on its Grasshopper-coded design. They evaluate the print quality, noting imperfections in the band likely caused by support issues, yet appreciate the smooth, shiny finish and closely spaced layers despite the difficulty of printing with TPU. The model's unique Crocs-like form, thick filament, and protective toe coverage are highlighted, along with distinct circular cutouts. This analysis reveals the significant effort involved in both designing and manufacturing such a challenging object.",
+    "audioTranscriptUrl": "audio/anchor_051.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -2705,7 +2861,10 @@
     "world_gx": -0.5549828235372077,
     "world_gy": -0.5051390209937479,
     "world_gz": -0.35494585199523987,
-    "id": 52
+    "id": 52,
+    "audioUrl": "audio/anchor_052.mp3",
+    "audioCaption": "The expert meticulously examines a unique, Croc-like 3D printed sandal, speculating its complex design originated from Grasshopper coding due to its precise line connections. They observe the object's thick filament and printing imperfections, specifically on the edge, indicating the back element floated during the printing process. The expert confidently identifies the material as TPU, based on its characteristics and lack of stringing. This detailed analysis, supported by active hand engagement, reveals an evaluation of the object's manufacturing method, material properties, and functional design as a covered sandal.",
+    "audioTranscriptUrl": "audio/anchor_052.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -2752,7 +2911,10 @@
     "world_gx": -0.6017751925877108,
     "world_gy": -0.578741515760369,
     "world_gz": -0.46935820499268377,
-    "id": 53
+    "id": 53,
+    "audioUrl": "audio/anchor_053.mp3",
+    "audioCaption": "The expert meticulously examines a 3D-printed shoe, noting its Croc-like shape, thick sole, and heavy weight indicative of high filament usage. They analyze the printing process, observing irregular filament at the back suggesting a non-standard print orientation, and the noticeable layers towards the end of circular sections. Despite a generally smooth and shiny finish on top, the prominent layers reveal no post-processing and a need for further finishing. The expert also assesses its design, comparing it to a sandal with enhanced toe protection, and praises the difficult TPU print for its unique form. This detailed evaluation highlights the object's complex manufacturing and design attributes.",
+    "audioTranscriptUrl": "audio/anchor_053.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -2799,7 +2961,10 @@
     "world_gx": -0.6042405645903187,
     "world_gy": -0.4285686225656729,
     "world_gz": -0.45854896881393653,
-    "id": 54
+    "id": 54,
+    "audioUrl": "audio/anchor_054.mp3",
+    "audioCaption": "The expert intently examines a 3D printed model, describing its organic, Croc-like shape as a covered sandal. They critique its rough, unfinished texture, noting it would require significant post-processing despite being an \"impressive print\" given the material. The expert speculates the thick sole indicates high filament usage and identifies the material as challenging TPU. This detailed technical and aesthetic evaluation highlights the prototype's unique design and manufacturing considerations.",
+    "audioTranscriptUrl": "audio/anchor_054.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -2848,7 +3013,10 @@
     "world_gx": -0.4868315230294758,
     "world_gy": -0.41159372107715037,
     "world_gz": -0.41285886247167214,
-    "id": 55
+    "id": 55,
+    "audioUrl": "audio/anchor_055.mp3",
+    "audioCaption": "The expert meticulously evaluates a 3D-printed shoe or sandal, focusing on its smooth finish, distinct edges, and overall print quality. They explain the challenges faced during its printing process, noting that the close layers resulted in a nice finish despite initial difficulties. The expert also assesses the design, describing it as a heavy, covered sandal with a thick sole. They further discuss its potential impact on user aesthetics and its context within sportswear.",
+    "audioTranscriptUrl": "audio/anchor_055.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -2895,7 +3063,10 @@
     "world_gx": -0.6854588438314622,
     "world_gy": -0.45930551338677467,
     "world_gz": -0.3833901107010219,
-    "id": 56
+    "id": 56,
+    "audioUrl": "audio/anchor_056.mp3",
+    "audioCaption": "The expert meticulously examines a 3D printed object, noting its smooth finish on top surfaces and distinct, potentially printable, edges. They observe and feel prominently visible and rough layers, especially thicker ones at the ends, explaining this as a common challenge when printing circular forms. Despite a seemingly nice finish, the layers are palpably distinct, indicating no post-processing like sanding has occurred, which is part of evaluating print quality. The object's material is confidently identified as TPU, and its 'Croc-like' shape with an opening suggests a specific design or prototype. With an active left hand, the expert is thoroughly evaluating the prototype's physical attributes, identifying both material and print process characteristics.",
+    "audioTranscriptUrl": "audio/anchor_056.transcript.mp3"
   },
   {
     "cluster_id": 0,
@@ -2945,7 +3116,10 @@
     "source_end_ts": 5334297995,
     "world_gx": -0.3294935524463654,
     "world_gy": -0.6026691330803766,
-    "world_gz": -0.273296998606788
+    "world_gz": -0.273296998606788,
+    "audioUrl": "audio/anchor_057.mp3",
+    "audioCaption": "The expert highlights prominent, thickened layers at the periphery of a 3D printed circular object. They explain this common manufacturing artifact arises from printing geometry, making layers rougher and more visible towards the end. While typically sandable, this specific object's roughness is severe, prompting a critical evaluation of its production quality. The active left hand likely points out these significant surface flaws, indicating their impact on the product's viability.",
+    "audioTranscriptUrl": "audio/anchor_057.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -2991,7 +3165,10 @@
     "world_gx": -0.6825199370089974,
     "world_gy": -0.44163335607374965,
     "world_gz": -0.4678550474009115,
-    "id": 58
+    "id": 58,
+    "audioUrl": "audio/anchor_058.mp3",
+    "audioCaption": "The expert closely examines a 3D-printed sandal, identifying its likely TPU material and Croc-like shape. They explain challenges in printing circular forms, observing rougher end layers that require extensive finishing. Despite the rough finishing, it's evaluated as an impressive quality print with minimal stringing, considering TPU's difficulty. The thick sole makes the covered sandal heavy but offers good protection.",
+    "audioTranscriptUrl": "audio/anchor_058.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -3038,7 +3215,10 @@
     "world_gx": -0.7062946889756454,
     "world_gy": -0.5272926100426251,
     "world_gz": -0.5539296016097073,
-    "id": 59
+    "id": 59,
+    "audioUrl": "audio/anchor_059.mp3",
+    "audioCaption": "The expert closely examines a unique Croc-like sandal, identifying it as being made from TPU material with distinctive circular cutouts. They evaluate its design as a 'covered sandal' that offers more protection for the toes than typical sandals, allowing for varied activities. The expert also notes the material's specific properties, emphasizing that TPU is hard to print and its intricate shape involved a challenging manufacturing process.",
+    "audioTranscriptUrl": "audio/anchor_059.transcript.mp3"
   },
   {
     "cluster_id": 22,
@@ -3088,6 +3268,9 @@
     "source_end_ts": 5452997995,
     "world_gx": 1.091891407966614,
     "world_gy": 1.274518179893494,
-    "world_gz": -0.015546800196170595
+    "world_gz": -0.015546800196170595,
+    "audioUrl": "audio/anchor_060.mp3",
+    "audioCaption": "The expert directs their gaze at a specific feature located at ground level, actively using their left hand to indicate or interact with it. They articulate a visual characteristic of this spot, noting it \"look[s] like this\" as if referencing a previous point or demonstrating. The expert then concludes with a positive aesthetic or functional assessment, describing the detail as \"pretty cool overall.\"",
+    "audioTranscriptUrl": "audio/anchor_060.transcript.mp3"
   }
 ]
