@@ -80,7 +80,7 @@ export const Sidebar = ({
   const inputFocusedRef = useRef(false);
 
   const {
-    currentAnchorId, isPlaying, currentTime, duration,
+    currentAnchorId, currentUrl, isPlaying, currentTime, duration,
     playAnchor, pauseAudio, resumeAudio, setNowPlayingTitle,
   } = useAudio();
   const { aiEnabled, isAskOnline, ask, recordVisit, recordQuestion } = useAI();
@@ -154,10 +154,14 @@ export const Sidebar = ({
 
   // Three-state toggle: play from 0 | pause | resume from position
   const anchorAudioUrl = selectedAnchor ? resolveAudioUrl(selectedAnchor, lang ?? 'en', gender ?? 'f') : null;
+  const transcriptAudioUrl = selectedAnchor?.audioTranscriptUrl ?? null;
+  // Both tracks share the anchor id in the audio channel; the src tells them apart
+  const isTranscriptTrack = !!transcriptAudioUrl && currentAnchorId === selectedAnchor?.id
+    && !!currentUrl?.endsWith(`/${transcriptAudioUrl}`);
 
   const handlePlayPauseToggle = () => {
     if (!selectedAnchor || !anchorAudioUrl) return;
-    const isThisAnchor = currentAnchorId === selectedAnchor.id;
+    const isThisAnchor = currentAnchorId === selectedAnchor.id && !isTranscriptTrack;
     if (isThisAnchor && isPlaying) {
       pauseAudio();
     } else if (isThisAnchor && !isPlaying && currentTime > 0) {
@@ -167,6 +171,20 @@ export const Sidebar = ({
       recordVisit(selectedAnchor.id);
       stopSpeaking();
       playAnchor(selectedAnchor.id, `${recordingBaseUrl}/${anchorAudioUrl}`);
+    }
+  };
+
+  const handleTranscriptPlayToggle = () => {
+    if (!selectedAnchor || !transcriptAudioUrl) return;
+    if (isTranscriptTrack && isPlaying) {
+      pauseAudio();
+    } else if (isTranscriptTrack && !isPlaying && currentTime > 0) {
+      resumeAudio();
+    } else {
+      const title = selectedAnchor.narrative_titles?.[lang || 'en'] ?? selectedAnchor.narrative_title;
+      setNowPlayingTitle(`${title} — Expert's words`);
+      stopSpeaking();
+      playAnchor(selectedAnchor.id, `${recordingBaseUrl}/${transcriptAudioUrl}`);
     }
   };
 
@@ -239,7 +257,8 @@ export const Sidebar = ({
   };
 
   // Progress for the slim bar
-  const isThisAnchor = currentAnchorId === selectedAnchor?.id;
+  const isThisAnchor = currentAnchorId === selectedAnchor?.id && !isTranscriptTrack;
+  const isTranscriptPlaying = isTranscriptTrack && isPlaying;
   const isThisPlaying = isThisAnchor && isPlaying;
   const displayTime = isThisAnchor ? currentTime : 0;
   const displayDuration = isThisAnchor
@@ -593,6 +612,28 @@ export const Sidebar = ({
                     </button>
                     {expertWordsOpen && (
                       <>
+                        {transcriptAudioUrl && (
+                          <button
+                            className={`expert-words-play${isTranscriptPlaying ? ' is-playing' : ''}`}
+                            onClick={handleTranscriptPlayToggle}
+                            aria-label={isTranscriptPlaying ? "Pause expert's words" : "Listen to expert's words"}
+                          >
+                            {isTranscriptPlaying ? (
+                              <svg width="10" height="10" viewBox="0 0 14 14" fill="currentColor">
+                                <rect x="2" y="1" width="4" height="12" rx="1" />
+                                <rect x="8" y="1" width="4" height="12" rx="1" />
+                              </svg>
+                            ) : (
+                              <svg width="10" height="10" viewBox="0 0 14 14" fill="currentColor">
+                                <polygon points="3,1 12,7 3,13" />
+                              </svg>
+                            )}
+                            <span>{isTranscriptPlaying ? 'Pause' : 'Listen'}</span>
+                            {isTranscriptTrack && duration > 0 && (
+                              <span className="expert-words-play__time">{formatTime(currentTime)} / {formatTime(duration)}</span>
+                            )}
+                          </button>
+                        )}
                         {isTranslated && translatedText && (
                           <blockquote className="transcript-box expert-quote">
                             "{translatedText}"

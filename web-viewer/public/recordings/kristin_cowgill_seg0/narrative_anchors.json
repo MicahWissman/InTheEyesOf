@@ -44,7 +44,10 @@
     "world_gx": 4.5019314774425085,
     "world_gy": 12.183941958458494,
     "world_gz": 0.03534995199956217,
-    "id": 0
+    "id": 0,
+    "audioUrl": "audio/anchor_000.mp3",
+    "audioCaption": "The expert describes Cowgill Plaza, highlighting four pyramid-shaped skylights that illuminate Burchard Hall below, home to architecture studios and desks. The plaza itself functions as an 'outdoor playground' where studios conduct mock-ups and full-scale space creations. These volumes also house elevators and stairs for access, connecting the various levels of the academic complex. The expert points out Hancock Hall, used for lectures, and Cowgill Hall, identified as the main space, forming the school of architecture's core buildings.",
+    "audioTranscriptUrl": "audio/anchor_000.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -87,7 +90,10 @@
     "world_gx": 6.423155374543055,
     "world_gy": 12.017991621397153,
     "world_gz": 0.16773642965684799,
-    "id": 1
+    "id": 1,
+    "audioUrl": "audio/anchor_001.mp3",
+    "audioCaption": "The expert focuses on Cowgill Hall, identifying it as the main architecture school building, primarily housing architecture students. They explain its distinctive modern facade, noting its simplicity, order, expressed concrete structure, and vast glazing. This contemporary style, preferred by architects, significantly contrasts with other traditional, Hokie stone buildings on campus like Hancock Hall. The expert anticipates walking towards its double doors before briefly looking at the space between Cowgill and adjacent Burchard Hall.",
+    "audioTranscriptUrl": "audio/anchor_001.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -131,7 +137,10 @@
     "world_gx": -1.4008980865021474,
     "world_gy": 2.8758653580079874,
     "world_gz": 0.0387460619210742,
-    "id": 2
+    "id": 2,
+    "audioUrl": "audio/anchor_002.mp3",
+    "audioCaption": "The expert's gaze is directed at a lower space situated between the Cowgill and Burchard buildings. This area features design studios, a wood shop with a loading dock, and a decorative bamboo installation providing greenery for the studios and offices beyond. The expert explains how this space connects to the Cowgill Lobby via a vestibule entrance. This description highlights various functional zones and aesthetic elements within this important central campus area.",
+    "audioTranscriptUrl": "audio/anchor_002.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -180,7 +189,10 @@
     "world_gx": -1.9396211737465558,
     "world_gy": -10.336837216849888,
     "world_gz": 0.20163654106232462,
-    "id": 3
+    "id": 3,
+    "audioUrl": "audio/anchor_003.mp3",
+    "audioCaption": "The expert describes the Cowgill Lobby as the school's dynamic \"beating heart,\" a critical space for students to publicly exhibit their work on wooden slat walls. They emphasize the importance of visual connections maintained through glass with the adjacent dean's and director's offices. The space is noted for its good lighting and internal division by an entry vestibule and a dividing wall with windows. Despite potential noise from pinning work on the slats, the overall design ensures visual flow between different areas of the building. This central hub serves as a constantly evolving environment for both student showcase and administrative connection.",
+    "audioTranscriptUrl": "audio/anchor_003.transcript.mp3"
   },
   {
     "cluster_id": 9,
@@ -223,7 +235,10 @@
     },
     "world_gx": -0.15270068053156138,
     "world_gy": -10.220657539367675,
-    "world_gz": -0.1787681218609214
+    "world_gz": -0.1787681218609214,
+    "audioUrl": "audio/anchor_004.mp3",
+    "audioCaption": "The expert first contextualizes the area by mentioning the director's office, which houses administrative staff. Their attention then shifts to the adjacent lobby, emphasizing its primary function as a space for students to publicly exhibit their creations. A distinctive physical feature noted within this area is the presence of wooden slats. The expert is articulating both the functional design and key visual elements of this student-centric space.",
+    "audioTranscriptUrl": "audio/anchor_004.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -266,7 +281,10 @@
     "world_gx": -1.9500484548929409,
     "world_gy": -14.55135871958274,
     "world_gz": 0.20443266077964567,
-    "id": 5
+    "id": 5,
+    "audioUrl": "audio/anchor_005.mp3",
+    "audioCaption": "The expert is focused on the architectural transition from the entry vestibule and lobby into the main design studios. They explain the strategic placement of a dividing wall featuring two glass windows, emphasizing its role in establishing crucial visual connections between distinct spaces. This design choice fosters a strong sense of continuity and transparency, allowing occupants in the lobby to view the typical studio beyond. The expert highlights how this intentional visual access enhances the overall spatial experience and connectivity within the building.",
+    "audioTranscriptUrl": "audio/anchor_005.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -315,7 +333,10 @@
     "world_gx": -3.2215451318095347,
     "world_gy": -22.144352156164185,
     "world_gz": 0.1497064541103994,
-    "id": 6
+    "id": 6,
+    "audioUrl": "audio/anchor_006.mp3",
+    "audioCaption": "The expert describes an open design studio, highlighting its layout with varying desk heights that separate first-year from upper-year students, strategically arranged to foster open communication. They emphasize the importance of individual workspace within this collaborative environment and point out the full window wall connecting the interior to the external trees and lawn. This space also features conference rooms at its ends, contributing to a dynamic learning environment before the expert transitions to moving towards a stairwell.",
+    "audioTranscriptUrl": "audio/anchor_006.transcript.mp3"
   },
   {
     "cluster_id": 18,
@@ -363,7 +384,10 @@
     },
     "world_gx": -2.6810059547424316,
     "world_gy": -23.432584762573242,
-    "world_gz": 0.7035809755325317
+    "world_gz": 0.7035809755325317,
+    "audioUrl": "audio/anchor_007.mp3",
+    "audioCaption": "The expert describes a student study area featuring distinct zones with taller, raised desks with stools and lower desks. This configuration strategically clusters students by academic year to foster open communication. The space is highly valued due to its expansive window wall. This architectural feature provides a significant connection to the external environment, offering views of trees and a lawn.",
+    "audioTranscriptUrl": "audio/anchor_007.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -411,7 +435,10 @@
     "world_gx": -5.188433106320293,
     "world_gy": -22.307346190733426,
     "world_gz": 0.24353933675347214,
-    "id": 8
+    "id": 8,
+    "audioUrl": "audio/anchor_008.mp3",
+    "audioCaption": "The expert details a collaborative workspace, emphasizing the importance of individual student desks for focused work within an open environment. Crucial homosote walls are highlighted for easily pinning and displaying work, creating a seamless transition from desk-based tasks to shared visual discourse. The space also features dedicated display areas for models and meeting tables, promoting group collaboration and integrating various aspects of student work. This design intentionally connects inside and outside work flows, supporting a dynamic and interactive studio setting.",
+    "audioTranscriptUrl": "audio/anchor_008.transcript.mp3"
   },
   {
     "cluster_id": 21,
@@ -452,7 +479,10 @@
     },
     "world_gx": 8.30579252243042,
     "world_gy": -18.542457580566406,
-    "world_gz": 0.2918112024664879
+    "world_gz": 0.2918112024664879,
+    "audioUrl": "audio/anchor_009.mp3",
+    "audioCaption": "The expert directs their attention to the stairwell, explicitly defining it as a functional space. This area is specifically utilized for pinning up various materials, positioned both high and low. This highlights its purpose as a dynamic information or exhibition zone within the building.",
+    "audioTranscriptUrl": "audio/anchor_009.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -497,7 +527,10 @@
     "world_gx": 10.817862212657928,
     "world_gy": -19.47539722919464,
     "world_gz": -1.5369354598224163,
-    "id": 10
+    "id": 10,
+    "audioUrl": "audio/anchor_010.mp3",
+    "audioCaption": "The expert highlights a display area within a stairwell, explaining its dual function as a central point for sharing school events and current lectures. They draw attention to a specific poster detailing various lectures and historical drawings from past Pella Prize thesis winners. This space serves to inform students about ongoing activities and to preserve the institution's rich history and past academic achievements. The expert's active left hand suggests gesturing towards these displayed items.",
+    "audioTranscriptUrl": "audio/anchor_010.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -540,7 +573,10 @@
     "world_gx": 10.285753540438836,
     "world_gy": -20.858633654767818,
     "world_gz": -1.770632794093002,
-    "id": 11
+    "id": 11,
+    "audioUrl": "audio/anchor_011.mp3",
+    "audioCaption": "The expert observes a display area within the stairwell dedicated to pinned materials. This space serves as a crucial communication hub for sharing school events and upcoming lectures. It also functions as a valuable platform for students to view significant historical work, exemplified by drawings from past Pella Prize winners. The expert highlights its dual purpose in informing the community and preserving the institution's rich history.",
+    "audioTranscriptUrl": "audio/anchor_011.transcript.mp3"
   },
   {
     "cluster_id": 28,
@@ -582,7 +618,10 @@
     },
     "world_gx": 7.9941400527954105,
     "world_gy": -20.8302978515625,
-    "world_gz": -2.639803910255432
+    "world_gz": -2.639803910255432,
+    "audioUrl": "audio/anchor_012.mp3",
+    "audioCaption": "The expert's gaze is fixed on a display dedicated to the school's thesis prizes from 1991 and 1992. They are explaining the significance of these specific awards. The expert emphasizes its broader function as a critical repository for maintaining the school's historical records. This location serves as an important point for preserving the institution's past achievements and identity.",
+    "audioTranscriptUrl": "audio/anchor_012.transcript.mp3"
   },
   {
     "cluster_id": 29,
@@ -626,7 +665,10 @@
     },
     "world_gx": 5.1089133482712965,
     "world_gy": -19.197760508610653,
-    "world_gz": -4.110817212324876
+    "world_gz": -4.110817212324876,
+    "audioUrl": "audio/anchor_013.mp3",
+    "audioCaption": "The expert focuses on the ceramic studio, noting its location at the end of the hall. They explain its significance as one of the primary design and maker spaces within the school. This observation highlights the availability of specialized creative facilities for students.",
+    "audioTranscriptUrl": "audio/anchor_013.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -672,7 +714,10 @@
     "world_gx": 5.932502753231294,
     "world_gy": -11.885409139367392,
     "world_gz": -4.012630424935143,
-    "id": 14
+    "id": 14,
+    "audioUrl": "audio/anchor_014.mp3",
+    "audioCaption": "The expert focuses on an Industrial Design Studio, identifying it as a crucial maker space nestled within the architectural \"knuckle\" connecting Cowgill and Burchard. They highlight its open studio layout, featuring desks and windows that functionally connect it to adjacent design labs. This setup emphasizes the institution's pedagogical approach of integrating maker spaces directly with studios. The expert describes these features while their left hand is active, likely gesturing towards the connecting elements and the studio's attributes.",
+    "audioTranscriptUrl": "audio/anchor_014.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -718,7 +763,10 @@
     "world_gx": -1.383093958056292,
     "world_gy": -7.527137678713376,
     "world_gz": -4.116916945249067,
-    "id": 15
+    "id": 15,
+    "audioUrl": "audio/anchor_015.mp3",
+    "audioCaption": "The expert describes the art and architecture library, situated in a 'knuckle' area, as a vital resource for students. They highlight its extensive collection, including a unique chair collection, books, and architecture periodicals, emphasizing its diverse and rotating resources. The library's strategic adjacency to design labs and additional maker spaces facilitates student observation and collaboration, further enhanced by its 'glass fishbowl' design promoting visibility. This central location serves as an important functional and social feature within the building.",
+    "audioTranscriptUrl": "audio/anchor_015.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -761,7 +809,10 @@
     "world_gx": -3.1341847026889975,
     "world_gy": -6.665004231577569,
     "world_gz": -4.221116509965875,
-    "id": 16
+    "id": 16,
+    "audioUrl": "audio/anchor_016.mp3",
+    "audioCaption": "The expert highlights maker spaces, emphasizing their location adjacent to design labs and their transparent 'glass fishbowl' construction. These spaces feature diverse technological resources, serving as a key educational asset for students. The expert evaluates the glass enclosure as highly beneficial because it allows students to easily view ongoing projects and observe the integration of technology into design work, inspiring their learning.",
+    "audioTranscriptUrl": "audio/anchor_016.transcript.mp3"
   },
   {
     "cluster_id": 37,
@@ -803,7 +854,10 @@
     },
     "world_gx": 1.2019713322321575,
     "world_gy": -5.128637504577637,
-    "world_gz": -4.12531304359436
+    "world_gz": -4.12531304359436,
+    "audioUrl": "audio/anchor_017.mp3",
+    "audioCaption": "The expert highlights 3D printers and additional resources available at this specific location. They identify this area as a prime example of a makers lab. The expert explains how such maker spaces are integrated into the educational curriculum. This emphasizes the facility's crucial role in providing practical, hands-on learning opportunities.",
+    "audioTranscriptUrl": "audio/anchor_017.transcript.mp3"
   },
   {
     "cluster_id": 38,
@@ -848,7 +902,10 @@
     },
     "world_gx": -0.7116761167844137,
     "world_gy": -4.687467511494955,
-    "world_gz": -4.199206479390463
+    "world_gz": -4.199206479390463,
+    "audioUrl": "audio/anchor_018.mp3",
+    "audioCaption": "The expert identifies the current location as encompassing two maker labs, emphasizing their integral role in the educational curriculum. They announce their progression into the Design Lab, situated within Burchard Hall. Before fully entering the new space, the expert contemplates a plan to gain a better vantage point, suggesting an elevated view for a comprehensive overview.",
+    "audioTranscriptUrl": "audio/anchor_018.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -915,7 +972,10 @@
     "world_gx": 5.470619711252362,
     "world_gy": 13.615577583984624,
     "world_gz": -3.6647723051704317,
-    "id": 19
+    "id": 19,
+    "audioUrl": "audio/anchor_019.mp3",
+    "audioCaption": "This expansive, double-height classroom is segmented into four quadrants by concrete columns, fostering a multi-disciplinary studio environment. It accommodates various student groups—including second and fourth-year labs, industrial design in the kiva, and architecture students—for pinups, meetings, and active work. Faculty offices directly overlook the space from a balcony, enabling direct interaction and creating a palpable energy, despite potential loudness. The open layout with minimal partitions and numerous review spaces promotes visual sharing of ideas across disciplines and academic years, underscoring its importance for learning.",
+    "audioTranscriptUrl": "audio/anchor_019.transcript.mp3"
   },
   {
     "cluster_id": 44,
@@ -960,7 +1020,10 @@
     },
     "world_gx": 4.167286539077759,
     "world_gy": 12.90137141091483,
-    "world_gz": -3.715985574041094
+    "world_gz": -3.715985574041094,
+    "audioUrl": "audio/anchor_020.mp3",
+    "audioCaption": "This observation highlights an important, double-height classroom space, emphasizing its central role. Surrounding this area are faculty offices, with direct access to a balcony that allows faculty to overlook the space. The expert also points out nearby wood and metal shops, indicating a comprehensive and integrated educational environment. This design fosters connectivity and passive observation between teaching areas and faculty workspaces.",
+    "audioTranscriptUrl": "audio/anchor_020.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -1004,6 +1067,9 @@
     "world_gx": 9.945509835836049,
     "world_gy": 11.11229511424228,
     "world_gz": -6.720843444536398,
-    "id": 21
+    "id": 21,
+    "audioUrl": "audio/anchor_021.mp3",
+    "audioCaption": "The expert highlights a screen printing room, focusing on how natural light enters from architectural structures referred to as \"pyramids\" on the plaza above. These features function as light-wells or skylights, illuminating the \"grand space\" below and enabling occupants to perceive outside weather changes. This design creates a significant connection between the upper plaza and the lower level, making natural light a defining characteristic. The space is dynamically activated by daily and seasonal light variations.",
+    "audioTranscriptUrl": "audio/anchor_021.transcript.mp3"
   }
 ]

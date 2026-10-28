@@ -2748,6 +2748,27 @@ body {
   padding-left: 12px;
   text-align: left;
 }
+.expert-words-play {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin-top: 4px;
+  padding: 4px 10px;
+  background: rgba(0, 255, 136, 0.08);
+  border: 1px solid rgba(0, 255, 136, 0.3);
+  border-radius: 12px;
+  color: #00ff88;
+  font-size: 0.75rem;
+  cursor: pointer;
+}
+.expert-words-play:hover,
+.expert-words-play.is-playing {
+  background: rgba(0, 255, 136, 0.18);
+}
+.expert-words-play__time {
+  color: #999;
+  font-variant-numeric: tabular-nums;
+}
 .expert-quote--original {
   border-left-color: rgba(255, 255, 255, 0.15);
   opacity: 0.7;

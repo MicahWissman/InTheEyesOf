@@ -19,6 +19,7 @@ export interface Anchor {
   corpusFile?: string | null;
   audioUrl?: string | null;
   audioUrls?: Record<string, Record<string, string>>;
+  audioTranscriptUrl?: string | null;   // TTS of the cleaned transcript_slice, same voice as audioUrl
   audioCaption?: string | null;
   audioDuration?: number | null;
   text?: Record<string, string>;

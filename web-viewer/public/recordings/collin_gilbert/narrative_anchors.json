@@ -47,7 +47,10 @@
     "world_gx": 1.0211534087109522,
     "world_gy": 0.7622709476914129,
     "world_gz": -0.04411757909174213,
-    "id": 0
+    "id": 0,
+    "audioUrl": "audio/anchor_000.mp3",
+    "audioCaption": "The expert is positioned on the plaza of Cowgill Hall, observing four distinctive pyramids. These structures serve to both demarcate the center of the plaza and act as functional skylights for the underground Burchard extension. The plaza itself is conceptually divided into quadrants, with each typically featuring an entrance to Burchard, although one entrance is specifically noted as absent near Cowgill's main entry. The expert's active left hand likely aids in pointing out these features during the detailed explanation of the plaza's design and hidden complexities.",
+    "audioTranscriptUrl": "audio/anchor_000.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -89,7 +92,10 @@
     "world_gx": -13.357187669927423,
     "world_gy": -7.000952096418901,
     "world_gz": -0.028979236327789044,
-    "id": 1
+    "id": 1,
+    "audioUrl": "audio/anchor_001.mp3",
+    "audioCaption": "The expert observes a critical transitional space, highlighting specific demarcations defining the area. Immediately to their right, an elevator and mechanical facilities occupy a distinct zone. Another clear boundary visually separates the plaza's termination from the commencement of Cowgill Hall. This location is significant for its functional infrastructure and architectural separation of distinct public areas, as the expert explains these delineating features.",
+    "audioTranscriptUrl": "audio/anchor_001.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -136,7 +142,10 @@
     "world_gx": -28.729876760186993,
     "world_gy": -0.8658905903361538,
     "world_gz": -0.12847255767673257,
-    "id": 2
+    "id": 2,
+    "audioUrl": "audio/anchor_002.mp3",
+    "audioCaption": "The expert describes a structural bridge connecting to an underground area, spanning an alley below. They highlight two distinct front doors and an adjacent vestibule area at this transition point. Attention is drawn to the length and capping of a specific wall, whose design is a significant architectural motif. The expert explains this wall's condition is almost a mirrored replicate of one found in the lobby, emphasizing a recurring design theme.",
+    "audioTranscriptUrl": "audio/anchor_002.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -190,7 +199,10 @@
     "world_gx": -37.12036269129368,
     "world_gy": 0.5915160192515734,
     "world_gz": 0.029064764730183493,
-    "id": 3
+    "id": 3,
+    "audioUrl": "audio/anchor_003.mp3",
+    "audioCaption": "The expert describes a distinctive slatted wall design in the school's lobby, noting its unique extension and how it opens into the main space. This integrated system functions as a dynamic \"museum\" for rotating student exhibitions, explicitly designed to hold standard paper sizes for pinups. Significant wear on the slats underscores its extensive use over many years for displaying student work, critiques, and feedback. The expert also points out the adjacent Dean's and Architecture offices, orienting the viewer within this central hub.",
+    "audioTranscriptUrl": "audio/anchor_003.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -237,7 +249,10 @@
     "world_gx": -43.87929719289144,
     "world_gy": -4.455294819672902,
     "world_gz": 0.20161615968293822,
-    "id": 4
+    "id": 4,
+    "audioUrl": "audio/anchor_004.mp3",
+    "audioCaption": "The expert describes Cowgill's fundamental linear layout, flanked by two doors that lead to fire stairs. These stairs facilitate critical vertical circulation throughout and egress from the building. A prominent front wall in the lobby separates the space into distinct exhibition and studio areas. This location notably features a plethora of studios, including two designated first-year studios.",
+    "audioTranscriptUrl": "audio/anchor_004.transcript.mp3"
   },
   {
     "cluster_id": 22,
@@ -281,7 +296,10 @@
     },
     "world_gx": -48.57996187712017,
     "world_gy": 6.735622782456248,
-    "world_gz": -0.021918524938978647
+    "world_gz": -0.021918524938978647,
+    "audioUrl": "audio/anchor_005.mp3",
+    "audioCaption": "The expert identifies bookshelves and a series of tables within a lobby area, configured for collaborative work and exhibits. This versatile space functions as a typical first-year lab, especially during morning hours. Currently, students are observed actively engaged in modeling assignments here. The description highlights the area's dual purpose as a functional workspace and display zone.",
+    "audioTranscriptUrl": "audio/anchor_005.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -333,7 +351,10 @@
     "world_gx": -52.71359925651144,
     "world_gy": 16.09584828507168,
     "world_gz": -0.29477551309823025,
-    "id": 6
+    "id": 6,
+    "audioUrl": "audio/anchor_006.mp3",
+    "audioCaption": "The expert observes a first-year design lab where students are actively modeling various forms derived from drawings. They explain how students explore abstract concepts like curvature, structural integrity, and part interchangeability through iterative paper models. This process translates initial ideas from two-dimensional drawings into tangible, three-dimensional explorations. The expert's detailed descriptions reveal a dynamic learning environment focused on hands-on material application and conceptual design development.",
+    "audioTranscriptUrl": "audio/anchor_006.transcript.mp3"
   },
   {
     "cluster_id": 29,
@@ -375,7 +396,10 @@
     },
     "world_gx": -44.323288917541504,
     "world_gy": 13.903505325317383,
-    "world_gz": -2.915292739868164
+    "world_gz": -2.915292739868164,
+    "audioUrl": "audio/anchor_007.mp3",
+    "audioCaption": "The expert focuses on a stairwell, evaluating its architectural character. They describe it as having the qualities of an 'exhibition space,' drawing a parallel to a 'lobby.' This suggests the stairwell serves a significant aesthetic or functional role beyond simple transit. The expert intends to highlight the grandeur and potential for display within this ground-level area.",
+    "audioTranscriptUrl": "audio/anchor_007.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -418,7 +442,10 @@
     "world_gx": -43.38753414789014,
     "world_gy": 9.042915924241177,
     "world_gz": -4.454324970768588,
-    "id": 8
+    "id": 8,
+    "audioUrl": "audio/anchor_008.mp3",
+    "audioCaption": "The expert identifies the Ferrari archive, explaining it contains items from Lucio and Olivio Ferrari. Adjacent to this is an industrial design laboratory, which the expert notes is flanked by another similar lab. Their active left hand suggests pointing at these distinct areas. This commentary clarifies the purpose and arrangement of these significant archival and functional spaces.",
+    "audioTranscriptUrl": "audio/anchor_008.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -465,7 +492,10 @@
     "world_gx": -35.07673486594357,
     "world_gy": 3.9773017967245394,
     "world_gz": -4.791051389067137,
-    "id": 9
+    "id": 9,
+    "audioUrl": "audio/anchor_009.mp3",
+    "audioCaption": "The expert describes a small robotics lab, highlighting work done with robot arms, casting, and hot wire cutting techniques. Adjacent to this is the school's 3D printing lab, offering diverse material printing like ceramics, traditional plastics, and filaments. This 3D printing facility is typically staffed by students, providing valuable resources for those without personal printers. The expert's description emphasizes the practical fabrication capabilities and collaborative student environment of these labs.",
+    "audioTranscriptUrl": "audio/anchor_009.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -514,7 +544,10 @@
     "world_gx": -34.45591536049891,
     "world_gy": -0.9345263787812699,
     "world_gz": -4.251058062020834,
-    "id": 10
+    "id": 10,
+    "audioUrl": "audio/anchor_010.mp3",
+    "audioCaption": "The expert highlights the school's specialized Art and Architecture library, detailing its collection of relevant campus resources. This space serves as a vital hub, providing student amenities for studying, socializing, and fostering a comprehensive educational experience. Adjacent to this area, a 3D printing lab offers various systems for student use, typically staffed by students themselves. The expert is explaining the integrated educational and social infrastructure available to students at this central location.",
+    "audioTranscriptUrl": "audio/anchor_010.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -564,7 +597,10 @@
     "world_gx": -24.66768831676907,
     "world_gy": 0.4572078574586798,
     "world_gz": -4.142693270135809,
-    "id": 11
+    "id": 11,
+    "audioUrl": "audio/anchor_011.mp3",
+    "audioCaption": "The expert details the primary threshold into Burchard Hall from the plaza, noting they are beneath the underside of a connecting bridge. They describe a direct staircase and flanking ramps that ascend to a mezzanine. This upper level houses various facilities including faculty offices, a wood shop, and a metal shop. Their intent is to explain the architectural features and functional organization of this key entry point.",
+    "audioTranscriptUrl": "audio/anchor_011.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -622,7 +658,10 @@
     "world_gx": -13.810008877962503,
     "world_gy": -0.12931499036656185,
     "world_gz": -5.715009392008286,
-    "id": 12
+    "id": 12,
+    "audioUrl": "audio/anchor_012.mp3",
+    "audioCaption": "From a ground-level vantage, the expert details Birchard's overhead structure, focusing on the underside of skylights, thin shaders, and beams that visually echo the building's exterior pyramid contour. This central position allows for identifying numerous surrounding academic and technical facilities, including various design and technology labs, classrooms, and faculty offices. Specific noteworthy areas mentioned are the Kiva meeting space, laser cutting room, and the pivotal threshold leading to Cowgill. The expert comprehensively explains both the architectural design and the diverse, interconnected academic functions housed within this prominent campus hub.",
+    "audioTranscriptUrl": "audio/anchor_012.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -666,7 +705,10 @@
     "world_gx": -15.968540957238938,
     "world_gy": 3.2698983252048492,
     "world_gz": -6.902104054556953,
-    "id": 13
+    "id": 13,
+    "audioUrl": "audio/anchor_013.mp3",
+    "audioCaption": "The expert details a sequence of specialized educational areas, including general classrooms, a dedicated laser cutting room, and a fabrication lab. These facilities are specifically provided for students, particularly those engaged in industrial design, to support their practical work. The Kiva, a distinct meeting space, is also highlighted as a resource for industrial design students. This collection of spaces underscores a comprehensive environment dedicated to hands-on learning and collaborative activities within design disciplines.",
+    "audioTranscriptUrl": "audio/anchor_013.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -707,7 +749,10 @@
     "world_gx": -16.854005456253475,
     "world_gy": 16.36578895835223,
     "world_gz": -6.888620447515656,
-    "id": 14
+    "id": 14,
+    "audioUrl": "audio/anchor_014.mp3",
+    "audioCaption": "The expert repeatedly highlights The Kiva, defining it as a crucial meeting space specifically for industrial design students. With their left hand active, they then point out an adjacent textile and sewing lab available to these same students. The expert also details a navigational element, mentioning stairs from the back corner of Birchard leading to other areas. This reveals an intent to explain the function and interconnectedness of key facilities within this educational environment.",
+    "audioTranscriptUrl": "audio/anchor_014.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -749,7 +794,10 @@
     "world_gx": -20.854328338916485,
     "world_gy": 25.2881129973974,
     "world_gz": -3.8802774181732764,
-    "id": 15
+    "id": 15,
+    "audioUrl": "audio/anchor_015.mp3",
+    "audioCaption": "The expert is focused on a junction along the mezzanine, outlining two distinct navigational choices. One option allows re-entry into Birchard, while the other leads to an exit from the building into a back alley. They are explaining these available pathways, noting it is the same mezzanine entry point previously used. This location is significant as a decision node for movement within and out of the structure.",
+    "audioTranscriptUrl": "audio/anchor_015.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -807,7 +855,10 @@
     "world_gx": -14.326743004333432,
     "world_gy": 24.80550751191422,
     "world_gz": -3.668086053562397,
-    "id": 16
+    "id": 16,
+    "audioUrl": "audio/anchor_016.mp3",
+    "audioCaption": "The expert describes a ground-level navigational junction, offering options to re-enter Birchard's mezzanine or exit to a back alley. From this position, they detail the specific route to the wood and metal shops, involving a ramp and turns. A prominent door at this location is clarified to function more as a threshold, granting access to these workshops. The active left hand likely indicates the direction or the specific entry point, underscoring this spot's significance as an access hub.",
+    "audioTranscriptUrl": "audio/anchor_016.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -849,7 +900,10 @@
     "world_gx": -12.886520521981375,
     "world_gy": 19.99866492407663,
     "world_gz": -3.9620509999138966,
-    "id": 17
+    "id": 17,
+    "audioUrl": "audio/anchor_017.mp3",
+    "audioCaption": "The expert describes a central doorway, highlighting the distinct areas visible from this position. To the left, a door functions as a window offering a direct view into the CNC machines. To the right, the area is lined with faculty offices. This location also serves as a vantage point, allowing sight into another connected space, acting as a functional hub.",
+    "audioTranscriptUrl": "audio/anchor_017.transcript.mp3"
   },
   {
     "cluster_id": 75,
@@ -892,7 +946,10 @@
     },
     "world_gx": -12.348628520965576,
     "world_gy": -23.361126104990642,
-    "world_gz": -3.8981699347496033
+    "world_gz": -3.8981699347496033,
+    "audioUrl": "audio/anchor_018.mp3",
+    "audioCaption": "The expert directs attention overhead, focusing on significant structural beams passing through the space. Their intent is to point out these architectural features for the observer. The active left hand likely accompanies this observation with a gestural emphasis on the features. This action highlights the building's structural design elements visible from ground level, potentially drawing a comparison to other areas within the structure.",
+    "audioTranscriptUrl": "audio/anchor_018.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -939,7 +996,10 @@
     "world_gx": -5.7871648382257534,
     "world_gy": -23.402007049984405,
     "world_gz": -2.7539111574490867,
-    "id": 19
+    "id": 19,
+    "audioUrl": "audio/anchor_019.mp3",
+    "audioCaption": "The expert focuses on the prominent beams overhead, explaining their structural and functional roles. These beams are positioned above plaza entrances, where integrated glass blocks allow students to sit and cast light into the space below. Conversely, the expert notes that similar overhead structures above the wood and metal shops are intentionally inaccessible. This observation highlights the architectural differentiation and functional zoning of the building's upper levels.",
+    "audioTranscriptUrl": "audio/anchor_019.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -989,7 +1049,10 @@
     "world_gx": 11.729090490341186,
     "world_gy": -23.326294309525263,
     "world_gz": -2.6076602250976224,
-    "id": 20
+    "id": 20,
+    "audioUrl": "audio/anchor_020.mp3",
+    "audioCaption": "The expert introduces a ceramics kiln and glazing room, pointing out two kilns and ongoing student projects. They contextualize their location as being in one of the room's entrances, having just departed a hallway. Specific architectural elements, such as glass blocks offering a view from below, are also highlighted. This detailed explanation, accompanied by an active left hand, occurs within the broader context of a general tour.",
+    "audioTranscriptUrl": "audio/anchor_020.transcript.mp3"
   },
   {
     "cluster_ids": [
@@ -1042,6 +1105,9 @@
     "world_gx": 21.19858573399624,
     "world_gy": -23.080439720694613,
     "world_gz": -2.3282921190912225,
-    "id": 21
+    "id": 21,
+    "audioUrl": "audio/anchor_021.mp3",
+    "audioCaption": "The expert initially describes a ceramic kiln and glazing room, highlighting two kilns and ongoing student projects. They then articulate their navigation, indicating a transition from a hallway into an entrance leading to Birchard. Their focus shifts to architectural details, specifically the notable depth of columns passing through a wall, exposing underlying structural elements. This observation occurs during their movement out onto a plaza.",
+    "audioTranscriptUrl": "audio/anchor_021.transcript.mp3"
   }
 ]

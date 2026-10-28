@@ -37,6 +37,7 @@ export interface AudioContextValue {
   audioEnabled: boolean;          // true = unmuted (default); false = muted
   audioUnlocked: boolean;         // true = user has tapped at least once
   currentAnchorId: number | null;
+  currentUrl: string | null;      // src of the current track — distinguishes an anchor's narrative vs transcript audio
   lastEndedId: number | null;     // id of the anchor whose audio last ended naturally
   isPlaying: boolean;
   currentTime: number;
@@ -57,6 +58,7 @@ export function AudioProvider({ children }: { children: ReactNode }) {
   const [audioEnabled, setAudioEnabled] = useState<boolean>(true);
   const [audioUnlocked, setAudioUnlocked] = useState(false);
   const [currentAnchorId, setCurrentAnchorId] = useState<number | null>(null);
+  const [currentUrl, setCurrentUrl] = useState<string | null>(null);
   const [lastEndedId, setLastEndedId] = useState<number | null>(null);
   const [isPlaying, setIsPlaying] = useState(false);
   const [currentTime, setCurrentTime] = useState(0);
@@ -89,6 +91,7 @@ export function AudioProvider({ children }: { children: ReactNode }) {
     setIsPlaying(false);
     currentAnchorIdRef.current = null;
     setCurrentAnchorId(null);
+    setCurrentUrl(null);
     currentTimeRef.current = 0;
     setCurrentTime(0);
   }, [clearWatchdog]);
@@ -160,6 +163,7 @@ export function AudioProvider({ children }: { children: ReactNode }) {
         setLastEndedId(currentAnchorIdRef.current);
         currentAnchorIdRef.current = null;
         setCurrentAnchorId(null);
+        setCurrentUrl(null);
         currentSrcRef.current = null;
         if ('mediaSession' in navigator) navigator.mediaSession.playbackState = 'none';
       });
@@ -253,6 +257,7 @@ export function AudioProvider({ children }: { children: ReactNode }) {
     const src = toRootRelative(url);
     currentAnchorIdRef.current = anchorId;
     setCurrentAnchorId(anchorId);
+    setCurrentUrl(src);
 
     if (!unlockedRef.current) {
       audio.pause();
@@ -292,6 +297,7 @@ export function AudioProvider({ children }: { children: ReactNode }) {
     }
     currentAnchorIdRef.current = anchorId;
     setCurrentAnchorId(anchorId);
+    setCurrentUrl(src);
     doPlay(audio, anchorId);
   }, [audioEnabled, ensureAudio, doPlay]);
 
@@ -315,6 +321,7 @@ export function AudioProvider({ children }: { children: ReactNode }) {
     }
     currentAnchorIdRef.current = null;
     setCurrentAnchorId(null);
+    setCurrentUrl(null);
     isPlayingRef.current = false;
     setIsPlaying(false);
     currentTimeRef.current = 0;
@@ -328,7 +335,7 @@ export function AudioProvider({ children }: { children: ReactNode }) {
   return (
     <AudioCtx.Provider value={{
       audioEnabled, audioUnlocked,
-      currentAnchorId, lastEndedId, isPlaying, currentTime, duration,
+      currentAnchorId, currentUrl, lastEndedId, isPlaying, currentTime, duration,
       toggleAudio, setNowPlayingTitle, playAnchorWithUnlock,
       playAnchor, pauseAudio, resumeAudio, stopAudio, seekAudio,
     }}>
