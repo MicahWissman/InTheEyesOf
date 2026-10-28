@@ -12,6 +12,10 @@ dist
 dist-ssr
 *.local
 
+# Fly-through video capture (scripts/record-walkthrough.mjs)
+.tmp-flythrough-video/
+*.webm
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

@@ -1,0 +1,3197 @@
+{
+  "metadata": {
+    "alpha": 0.5,
+    "beta": 0.5,
+    "gamma": 0.25,
+    "lam": 0.2,
+    "threshold": 0.6,
+    "tau_spatial": 0.4,
+    "tau_referential": 0.25,
+    "tau_thematic": 0.7,
+    "edge_method": "typed_edges_with_convergence_degree",
+    "model": "BAAI/bge-m3",
+    "weights": {
+      "semantic": 0.5,
+      "tag_overlap": 0.5,
+      "spatial_weight": 0.25,
+      "spatial_decay": 0.2
+    },
+    "total_pairs_evaluated": 231,
+    "edges_by_degree": {
+      "1": 36,
+      "2": 4,
+      "3": 0
+    }
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "cluster_id": 0,
+      "title": "Plaza Pyramids: Function & Access",
+      "pos": [
+        17.715287816739487,
+        2.1982262660987404,
+        20.29915742718084
+      ],
+      "time": "4.6s - 27.8s",
+      "narrative_description": "The expert is positioned on the plaza of Cowgill Hall, observing four distinctive pyramids. These structures serve to both demarcate the center of the plaza and act as functional skylights for the underground Burchard extension. The plaza itself is conceptually divided into quadrants, with each typically featuring an entrance to Burchard, although one entrance is specifically noted as absent near Cowgill's main entry. The expert's active left hand likely aids in pointing out these features during the detailed explanation of the plaza's design and hidden complexities.",
+      "objects": [
+        "Plaza",
+        "Cowgill Hall",
+        "Virginia Tech",
+        "School of Architecture",
+        "Pyramids",
+        "Burchard",
+        "Quadrants",
+        "Entrance"
+      ]
+    },
+    {
+      "id": 1,
+      "cluster_id": 6,
+      "title": "Plaza to Cowgill Transition",
+      "pos": [
+        2.164387913386564,
+        2.2134888997704043,
+        15.281804277999662
+      ],
+      "time": "45.1s - 55.0s",
+      "narrative_description": "The expert observes a critical transitional space, highlighting specific demarcations defining the area. Immediately to their right, an elevator and mechanical facilities occupy a distinct zone. Another clear boundary visually separates the plaza's termination from the commencement of Cowgill Hall. This location is significant for its functional infrastructure and architectural separation of distinct public areas, as the expert explains these delineating features.",
+      "objects": [
+        "demarcation",
+        "elevator",
+        "facilities",
+        "mechanics"
+      ]
+    },
+    {
+      "id": 2,
+      "cluster_id": 9,
+      "title": "Bridge, Vestibule, Mirrored Wall",
+      "pos": [
+        -4.034944121876382,
+        2.114048858565492,
+        -0.06507952507138981
+      ],
+      "time": "77.5s - 93.1s",
+      "narrative_description": "The expert describes a structural bridge connecting to an underground area, spanning an alley below. They highlight two distinct front doors and an adjacent vestibule area at this transition point. Attention is drawn to the length and capping of a specific wall, whose design is a significant architectural motif. The expert explains this wall's condition is almost a mirrored replicate of one found in the lobby, emphasizing a recurring design theme.",
+      "objects": [
+        "bridge",
+        "alley",
+        "underground area",
+        "front doors",
+        "vestibule area",
+        "wall",
+        "lobby"
+      ]
+    },
+    {
+      "id": 3,
+      "cluster_id": 13,
+      "title": "Lobby's Functional Slatted Wall",
+      "pos": [
+        -8.784600975546063,
+        2.271625690668298,
+        -7.1336745416283165
+      ],
+      "time": "97.1s - 132.5s",
+      "narrative_description": "The expert describes a distinctive slatted wall design in the school's lobby, noting its unique extension and how it opens into the main space. This integrated system functions as a dynamic \"museum\" for rotating student exhibitions, explicitly designed to hold standard paper sizes for pinups. Significant wear on the slats underscores its extensive use over many years for displaying student work, critiques, and feedback. The expert also points out the adjacent Dean's and Architecture offices, orienting the viewer within this central hub.",
+      "objects": [
+        "slats",
+        "wall",
+        "lobby space",
+        "school",
+        "exhibitions",
+        "paper sizes",
+        "pinups",
+        "Dean's office",
+        "Architecture office"
+      ]
+    },
+    {
+      "id": 4,
+      "cluster_id": 14,
+      "title": "Cowgill Entry, Stairs, Studios",
+      "pos": [
+        -17.104185518373114,
+        2.4442432188004033,
+        -8.525789999630653
+      ],
+      "time": "146.8s - 165.2s",
+      "narrative_description": "The expert describes Cowgill's fundamental linear layout, flanked by two doors that lead to fire stairs. These stairs facilitate critical vertical circulation throughout and egress from the building. A prominent front wall in the lobby separates the space into distinct exhibition and studio areas. This location notably features a plethora of studios, including two designated first-year studios.",
+      "objects": [
+        "doors",
+        "fire stairs",
+        "building",
+        "front wall",
+        "lobby",
+        "exhibition space",
+        "studios"
+      ]
+    },
+    {
+      "id": 5,
+      "cluster_id": 22,
+      "title": "Lobby Lab Workstation Activity",
+      "pos": [
+        -12.271323991732775,
+        2.2206734566911175,
+        -19.660255367676765
+      ],
+      "time": "195.8s - 198.9s",
+      "narrative_description": "The expert identifies bookshelves and a series of tables within a lobby area, configured for collaborative work and exhibits. This versatile space functions as a typical first-year lab, especially during morning hours. Currently, students are observed actively engaged in modeling assignments here. The description highlights the area's dual purpose as a functional workspace and display zone.",
+      "objects": [
+        "bookshelves",
+        "tables",
+        "students"
+      ]
+    },
+    {
+      "id": 6,
+      "cluster_id": 23,
+      "title": "Student Lab Model Iterations",
+      "pos": [
+        -8.36870964211829,
+        1.9477882736359646,
+        -29.119132959397273
+      ],
+      "time": "207.8s - 362.4s",
+      "narrative_description": "The expert observes a first-year design lab where students are actively modeling various forms derived from drawings. They explain how students explore abstract concepts like curvature, structural integrity, and part interchangeability through iterative paper models. This process translates initial ideas from two-dimensional drawings into tangible, three-dimensional explorations. The expert's detailed descriptions reveal a dynamic learning environment focused on hands-on material application and conceptual design development.",
+      "objects": [
+        "student models",
+        "paper models",
+        "drawings",
+        "Bristol sheet",
+        "Basswood",
+        "books"
+      ]
+    },
+    {
+      "id": 7,
+      "cluster_id": 29,
+      "title": "Stairwell as Exhibition Space",
+      "pos": [
+        -4.150063246843899,
+        -0.672764408770707,
+        -21.542424438965885
+      ],
+      "time": "400.6s - 401.8s",
+      "narrative_description": "The expert focuses on a stairwell, evaluating its architectural character. They describe it as having the qualities of an 'exhibition space,' drawing a parallel to a 'lobby.' This suggests the stairwell serves a significant aesthetic or functional role beyond simple transit. The expert intends to highlight the grandeur and potential for display within this ground-level area.",
+      "objects": [
+        "stairwell"
+      ]
+    },
+    {
+      "id": 8,
+      "cluster_id": 33,
+      "title": "Ferrari Archive and Design Labs",
+      "pos": [
+        -7.013928878316218,
+        -2.2117751374124106,
+        -17.505184522323905
+      ],
+      "time": "406.3s - 417.3s",
+      "narrative_description": "The expert identifies the Ferrari archive, explaining it contains items from Lucio and Olivio Ferrari. Adjacent to this is an industrial design laboratory, which the expert notes is flanked by another similar lab. Their active left hand suggests pointing at these distinct areas. This commentary clarifies the purpose and arrangement of these significant archival and functional spaces.",
+      "objects": [
+        "Ferrari archive",
+        "industrial design laboratory",
+        "archive collection",
+        "second industrial design laboratory"
+      ]
+    },
+    {
+      "id": 9,
+      "cluster_id": 34,
+      "title": "School's Fabrication Lab Offerings",
+      "pos": [
+        -4.925711510933784,
+        -2.5485207154885146,
+        -7.998914669395862
+      ],
+      "time": "427.9s - 449.3s",
+      "narrative_description": "The expert describes a small robotics lab, highlighting work done with robot arms, casting, and hot wire cutting techniques. Adjacent to this is the school's 3D printing lab, offering diverse material printing like ceramics, traditional plastics, and filaments. This 3D printing facility is typically staffed by students, providing valuable resources for those without personal printers. The expert's description emphasizes the practical fabrication capabilities and collaborative student environment of these labs.",
+      "objects": [
+        "robotics lab",
+        "robot arm",
+        "3D printing lab",
+        "ceramics",
+        "plastics",
+        "filaments"
+      ]
+    },
+    {
+      "id": 10,
+      "cluster_id": 38,
+      "title": "Library and Student Amenities",
+      "pos": [
+        -8.044363906164381,
+        -2.008503819014952,
+        -4.153728761467185
+      ],
+      "time": "451.6s - 492.1s",
+      "narrative_description": "The expert highlights the school's specialized Art and Architecture library, detailing its collection of relevant campus resources. This space serves as a vital hub, providing student amenities for studying, socializing, and fostering a comprehensive educational experience. Adjacent to this area, a 3D printing lab offers various systems for student use, typically staffed by students themselves. The expert is explaining the integrated educational and social infrastructure available to students at this central location.",
+      "objects": [
+        "3D printing systems",
+        "Art and architecture library",
+        "Library resources",
+        "Student amenities (e.g., seating, study areas)"
+      ]
+    },
+    {
+      "id": 11,
+      "cluster_id": 46,
+      "title": "Burchard Entryway and Mezzanine",
+      "pos": [
+        -0.27007357587512004,
+        -1.9002021697945297,
+        1.9541953036464257
+      ],
+      "time": "503.9s - 515.1s",
+      "narrative_description": "The expert details the primary threshold into Burchard Hall from the plaza, noting they are beneath the underside of a connecting bridge. They describe a direct staircase and flanking ramps that ascend to a mezzanine. This upper level houses various facilities including faculty offices, a wood shop, and a metal shop. Their intent is to explain the architectural features and functional organization of this key entry point.",
+      "objects": [
+        "threshold",
+        "bridge",
+        "plaza",
+        "building",
+        "staircase",
+        "ramps",
+        "mezzanine",
+        "faculty offices",
+        "wood shop",
+        "metal shop"
+      ]
+    },
+    {
+      "id": 12,
+      "cluster_id": 53,
+      "title": "Skylights, Beams, and Academic Spaces",
+      "pos": [
+        6.81481466692437,
+        -3.472576585031627,
+        10.20267317046242
+      ],
+      "time": "528.7s - 715.3s",
+      "narrative_description": "From a ground-level vantage, the expert details Birchard's overhead structure, focusing on the underside of skylights, thin shaders, and beams that visually echo the building's exterior pyramid contour. This central position allows for identifying numerous surrounding academic and technical facilities, including various design and technology labs, classrooms, and faculty offices. Specific noteworthy areas mentioned are the Kiva meeting space, laser cutting room, and the pivotal threshold leading to Cowgill. The expert comprehensively explains both the architectural design and the diverse, interconnected academic functions housed within this prominent campus hub.",
+      "objects": [
+        "Skylights",
+        "Shaders",
+        "Beams",
+        "Print lab",
+        "Industrial design lab",
+        "Classrooms",
+        "Laser cutting room",
+        "Fabrication lab",
+        "The Kiva (meeting space)",
+        "Library",
+        "Threshold (between buildings)",
+        "Faculty offices",
+        "Technology labs",
+        "Trimble lab"
+      ]
+    },
+    {
+      "id": 13,
+      "cluster_id": 57,
+      "title": "Design Labs and Meeting Kiva",
+      "pos": [
+        7.777452365717647,
+        -4.659677761442283,
+        6.292785052152462
+      ],
+      "time": "595.6s - 603.1s",
+      "narrative_description": "The expert details a sequence of specialized educational areas, including general classrooms, a dedicated laser cutting room, and a fabrication lab. These facilities are specifically provided for students, particularly those engaged in industrial design, to support their practical work. The Kiva, a distinct meeting space, is also highlighted as a resource for industrial design students. This collection of spaces underscores a comprehensive environment dedicated to hands-on learning and collaborative activities within design disciplines.",
+      "objects": [
+        "classrooms",
+        "laser cutting room",
+        "fabrication lab",
+        "The Kiva"
+      ]
+    },
+    {
+      "id": 14,
+      "cluster_id": 60,
+      "title": "Kiva: Student Meeting Space",
+      "pos": [
+        16.62472255217804,
+        -4.64626135718771,
+        -3.4032043718257334
+      ],
+      "time": "613.6s - 626.6s",
+      "narrative_description": "The expert repeatedly highlights The Kiva, defining it as a crucial meeting space specifically for industrial design students. With their left hand active, they then point out an adjacent textile and sewing lab available to these same students. The expert also details a navigational element, mentioning stairs from the back corner of Birchard leading to other areas. This reveals an intent to explain the function and interconnectedness of key facilities within this educational environment.",
+      "objects": [
+        "Kiva",
+        "Textile and sewing lab",
+        "Stairs"
+      ]
+    },
+    {
+      "id": 15,
+      "cluster_id": 62,
+      "title": "Mezzanine Navigational Options",
+      "pos": [
+        20.303244561735937,
+        -1.63794486339075,
+        -12.462955190905728
+      ],
+      "time": "644.2s - 650.1s",
+      "narrative_description": "The expert is focused on a junction along the mezzanine, outlining two distinct navigational choices. One option allows re-entry into Birchard, while the other leads to an exit from the building into a back alley. They are explaining these available pathways, noting it is the same mezzanine entry point previously used. This location is significant as a decision node for movement within and out of the structure.",
+      "objects": [
+        "Mezzanine",
+        "Birchard",
+        "Building",
+        "Back alley"
+      ]
+    },
+    {
+      "id": 16,
+      "cluster_id": 66,
+      "title": "Workshop Access Point",
+      "pos": [
+        24.46875815040336,
+        -1.425787827644287,
+        -7.414114782959768
+      ],
+      "time": "653.1s - 671.3s",
+      "narrative_description": "The expert describes a ground-level navigational junction, offering options to re-enter Birchard's mezzanine or exit to a back alley. From this position, they detail the specific route to the wood and metal shops, involving a ramp and turns. A prominent door at this location is clarified to function more as a threshold, granting access to these workshops. The active left hand likely indicates the direction or the specific entry point, underscoring this spot's significance as an access hub.",
+      "objects": [
+        "Birchard (building/area)",
+        "mezzanine",
+        "building",
+        "back alley",
+        "threshold",
+        "stairs",
+        "ramp",
+        "wood shop",
+        "metal shop",
+        "door"
+      ]
+    },
+    {
+      "id": 17,
+      "cluster_id": 69,
+      "title": "Entryway to CNC and Offices",
+      "pos": [
+        21.992587273104004,
+        -1.719734426876923,
+        -3.0496486030221703
+      ],
+      "time": "675.1s - 682.8s",
+      "narrative_description": "The expert describes a central doorway, highlighting the distinct areas visible from this position. To the left, a door functions as a window offering a direct view into the CNC machines. To the right, the area is lined with faculty offices. This location also serves as a vantage point, allowing sight into another connected space, acting as a functional hub.",
+      "objects": [
+        "door",
+        "window",
+        "CNC machines",
+        "faculty offices"
+      ]
+    },
+    {
+      "id": 18,
+      "cluster_id": 75,
+      "title": "Observing Overhead Structural Beams",
+      "pos": [
+        -8.95569043914298,
+        -1.6556172915999632,
+        27.324104578272777
+      ],
+      "time": "739.6s - 741.5s",
+      "narrative_description": "The expert directs attention overhead, focusing on significant structural beams passing through the space. Their intent is to point out these architectural features for the observer. The active left hand likely accompanies this observation with a gestural emphasis on the features. This action highlights the building's structural design elements visible from ground level, potentially drawing a comparison to other areas within the structure.",
+      "objects": [
+        "beams"
+      ]
+    },
+    {
+      "id": 19,
+      "cluster_id": 76,
+      "title": "Overhead Beams, Light, Accessibility",
+      "pos": [
+        -4.447668421721616,
+        -0.5113954711722344,
+        32.09194465288809
+      ],
+      "time": "749.9s - 763.1s",
+      "narrative_description": "The expert focuses on the prominent beams overhead, explaining their structural and functional roles. These beams are positioned above plaza entrances, where integrated glass blocks allow students to sit and cast light into the space below. Conversely, the expert notes that similar overhead structures above the wood and metal shops are intentionally inaccessible. This observation highlights the architectural differentiation and functional zoning of the building's upper levels.",
+      "objects": [
+        "beams",
+        "plaza",
+        "entrances",
+        "glass blocks",
+        "students",
+        "building",
+        "wood shop",
+        "metal shop"
+      ]
+    },
+    {
+      "id": 20,
+      "cluster_id": 90,
+      "title": "Kiln and Glazing Room Entrance",
+      "pos": [
+        7.720288795660855,
+        -0.3652442168972829,
+        44.692173994318935
+      ],
+      "time": "780.2s - 859.7s",
+      "narrative_description": "The expert introduces a ceramics kiln and glazing room, pointing out two kilns and ongoing student projects. They contextualize their location as being in one of the room's entrances, having just departed a hallway. Specific architectural elements, such as glass blocks offering a view from below, are also highlighted. This detailed explanation, accompanied by an active left hand, occurs within the broader context of a general tour.",
+      "objects": [
+        "kilns",
+        "ceramics",
+        "student projects",
+        "hallway",
+        "entrance",
+        "glass blocks"
+      ]
+    },
+    {
+      "id": 21,
+      "cluster_id": 85,
+      "title": "Kiln Room Transition & Columns",
+      "pos": [
+        14.446455414151973,
+        -0.08593112814711201,
+        51.36229378378726
+      ],
+      "time": "794.5s - 823.0s",
+      "narrative_description": "The expert initially describes a ceramic kiln and glazing room, highlighting two kilns and ongoing student projects. They then articulate their navigation, indicating a transition from a hallway into an entrance leading to Birchard. Their focus shifts to architectural details, specifically the notable depth of columns passing through a wall, exposing underlying structural elements. This observation occurs during their movement out onto a plaza.",
+      "objects": [
+        "kiln",
+        "glazing room",
+        "ceramics",
+        "student projects",
+        "hallway",
+        "entrance",
+        "Birchard (building)",
+        "columns",
+        "wall",
+        "finish",
+        "plaza"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": 0,
+      "target": 1,
+      "weight": 0.38522639257970315,
+      "types": [
+        "thematic"
+      ],
+      "convergence_degree": 1,
+      "semantic_sim": 0.751412570476532,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.03808042936574864,
+      "rationale": "The expert consistently analyzes the intentional spatial organization and functional infrastructure of the Cowgill Hall plaza and its adjacent transitional zones. These observations delineate how specific architectural elements, such as skylight pyramids and critical boundaries, serve to define distinct areas and guide navigation through the environment. The shared intent is to highlight the underlying design principles and practical uses embedded within the built landscape.",
+      "type": "convergence"
+    },
+    {
+      "source": 0,
+      "target": 11,
+      "weight": 0.3579758630500292,
+      "types": [
+        "thematic"
+      ],
+      "convergence_degree": 1,
+      "semantic_sim": 0.7132019996643066,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0054994528715036385,
+      "rationale": "The expert systematically details the architectural design and functional organization of access points into Burchard Hall from the Cowgill plaza. Observation A outlines the plaza's features, like skylight pyramids for the Burchard extension and specific entrance locations, which conceptually guide users. Subsequently, Observation B meticulously describes the primary threshold into Burchard, detailing the staircase, ramps, and mezzanine that comprise the immediate entry sequence and initial internal spatial arrangement.",
+      "type": "convergence"
+    },
+    {
+      "source": 0,
+      "target": 12,
+      "weight": 0.37612648059179304,
+      "types": [
+        "thematic"
+      ],
+      "convergence_degree": 1,
+      "semantic_sim": 0.7314741611480713,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.04155760007102956,
+      "rationale": "The expert is comprehensively detailing the integrated architectural design and functional purpose of the Burchard extension. Observation A showcases the exterior pyramids serving as plaza demarcation and skylights, while Observation B elaborates on the interior manifestation of these skylights and the interconnected academic spaces they illuminate within Burchard. Together, these moments illustrate how design elements connect the above-ground plaza to the subterranean campus hub.",
+      "type": "convergence"
+    },
+    {
+      "source": 0,
+      "target": 21,
+      "weight": 0.36012455451594017,
+      "types": [
+        "thematic"
+      ],
+      "convergence_degree": 1,
+      "semantic_sim": 0.719296932220459,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0019043536228426864,
+      "rationale": "The expert consistently examines the architectural design and functional integration of Burchard Hall with its surrounding plaza. Both moments detail how elements like skylight pyramids for the underground extension and structural columns reveal the building's hidden complexities and transitions, often observed during or immediately following navigation to the plaza space.",
+      "type": "convergence"
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "weight": 0.36664148678015,
+      "types": [
+        "thematic"
+      ],
+      "convergence_degree": 1,
+      "semantic_sim": 0.715032160282135,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.036501626556330026,
+      "rationale": "Both observations detail the expert's analysis of architectural and structural elements defining critical transition points between distinct spatial zones. These moments highlight functional infrastructure, such as elevators and structural bridges connecting different levels, alongside specific design motifs like delineated walls. The expert's intent is to explain how these particular features demarcate boundaries and establish connections, providing spatial organization and architectural coherence.",
+      "type": "convergence"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "weight": 0.3614017816341726,
+      "types": [
+        "thematic"
+      ],
+      "convergence_degree": 1,
+      "semantic_sim": 0.7217106819152832,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.002185762706123974,
+      "rationale": "These observations share a common expert intent: to meticulously analyze how physical architectural features and boundaries define and organize functional spaces. Both instances highlight critical elements like distinct demarcations, walls, and circulation points (elevators, fire stairs) that delineate areas and dictate user flow, whether separating external public zones or segmenting internal building functions like studios and exhibition spaces. This analysis provides a detailed understanding of the spatial layout and functional infrastructure of the building and its immediate surroundings.",
+      "type": "convergence"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "weight": 0.35014321563023393,
+      "types": [
+        "thematic"
+      ],
+      "convergence_degree": 1,
+      "semantic_sim": 0.7000083923339844,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0005560778529669561,
+      "rationale": "Both observations highlight the expert's analysis of architectural elements that define and characterize distinct public and transitional spaces. This involves interpreting how demarcations, boundaries, and a grand stairwell shape the functional purpose and aesthetic experience, from critical infrastructure zones to exhibition-like ground-level areas. The expert is articulating the intended design logic behind spatial separation and experiential quality.",
+      "type": "convergence"
+    },
+    {
+      "source": 1,
+      "target": 11,
+      "weight": 0.36537957560428874,
+      "types": [
+        "thematic"
+      ],
+      "convergence_degree": 1,
+      "semantic_sim": 0.7013051509857178,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.05890800044571938,
+      "rationale": "Both observations capture the expert's detailed analysis of architectural features defining critical transitional spaces and entry points. They consistently highlight infrastructural elements like elevators, demarcations, staircases, and ramps that organize circulation and delineate access between distinct functional zones or buildings. The shared intent is to articulate the functional organization and spatial navigation within these architectural interfaces.",
+      "type": "convergence"
+    },
+    {
+      "source": 1,
+      "target": 12,
+      "weight": 0.39350521084308704,
+      "types": [
+        "thematic"
+      ],
+      "convergence_degree": 1,
+      "semantic_sim": 0.7032055854797363,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.16760967241287555,
+      "rationale": "Both observations collaboratively delineate critical transitional spaces and key functional connections within the campus, particularly around Cowgill Hall. The expert identifies significant architectural demarcations, from external plaza boundaries and infrastructure to internal overhead structures and pivotal thresholds, to define how different academic buildings and public areas are spatially linked. This consistent focus establishes crucial navigational waypoints and illustrates the interconnectedness of diverse campus functions.",
+      "type": "convergence"
+    },
+    {
+      "source": 1,
+      "target": 21,
+      "weight": 0.3534126059126989,
+      "types": [
+        "thematic"
+      ],
+      "convergence_degree": 1,
+      "semantic_sim": 0.7065839767456055,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.00048247015958462913,
+      "rationale": "The expert consistently identifies and articulates the architectural and structural elements defining critical transitional spaces and delineating distinct functional areas within the built environment. This involves explaining visual boundaries, specific infrastructure like column depths or facility zones, and how these features facilitate navigation between spaces such as plazas, halls, and specialized rooms. This shared intent reflects a focus on understanding spatial relationships and the functional organization of the expert's surroundings.",
+      "type": "convergence"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "weight": 0.3786147368913582,
+      "types": [
+        "thematic"
+      ],
+      "convergence_degree": 1,
+      "semantic_sim": 0.7506558299064636,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.013147287752505624,
+      "rationale": "The expert consistently analyzes the architectural character and intentional design of critical transitional zones within the building. This includes evaluating a complex structural bridge and its integrated architectural motifs at a front-door transition in Observation A, and assessing a grand stairwell's potential as an \"exhibition space\" akin to a lobby in Observation B. Across both, the expert identifies how specific structural and design elements contribute to the building's overall aesthetic narrative and the occupant's navigational experience through significant points of entry and vertical movement.",
+      "type": "convergence"
+    },
+    {
+      "source": 2,
+      "target": 11,
+      "weight": 0.4630499367628917,
+      "types": [
+        "thematic"
+      ],
+      "convergence_degree": 1,
+      "semantic_sim": 0.7087960243225098,
+      "tag_overlap": 0.0625,
+      "tag_overlap_raw": 0.0625,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.30960769840654717,
+      "rationale": "Both observations center on the architectural analysis and functional organization surrounding a prominent connecting bridge structure. One expert details the unique wall design and entry vestibule at the bridge's transition to an underground area, while the other elaborates on the primary ground-level threshold, circulation elements like stairs and ramps, and the functional layout of spaces directly beneath the bridge's span.",
+      "type": "convergence"
+    },
+    {
+      "source": 2,
+      "target": 21,
+      "weight": 0.385689171403402,
+      "types": [
+        "thematic"
+      ],
+      "convergence_degree": 1,
+      "semantic_sim": 0.7125459313392639,
+      "tag_overlap": 0.058823529411764705,
+      "tag_overlap_raw": 0.058823529411764705,
+      "intent_gate": 1.0,
+      "spatial_prox": 1.7764111550651703e-05,
+      "rationale": "Both observations showcase the expert's analytical focus on architectural and structural elements within the built environment, interpreting features like recurring design motifs, column depths, and exposed structural components. This detailed analysis is inherently tied to their articulated navigation, documenting transitions between distinct spatial zones such as a bridge connecting areas or a hallway leading to a plaza, crucial for contextualizing egocentric data and understanding interconnected spaces.",
+      "type": "convergence"
+    },
+    {
+      "source": 3,
+      "target": 10,
+      "weight": 0.448070434143846,
+      "types": [
+        "thematic"
+      ],
+      "convergence_degree": 1,
+      "semantic_sim": 0.7217865586280823,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.3487086193192194,
+      "rationale": "Both observations detail specific, student-centric architectural infrastructure within a central academic hub. They describe how dedicated physical spaces—a unique slatted wall for student exhibitions and a specialized Art and Architecture library with an adjacent 3D printing lab—are designed to integrate learning, showcase student work, and provide comprehensive educational resources. The descriptions collectively highlight the specialized facilities supporting student experience and engagement within the school's core environment.",
+      "type": "convergence"
+    },
+    {
+      "source": 6,
+      "target": 10,
+      "weight": 0.3534200857566674,
+      "types": [
+        "thematic"
+      ],
+      "convergence_degree": 1,
+      "semantic_sim": 0.7036540508270264,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.006372241372616893,
+      "rationale": "These observations collectively highlight the educational infrastructure and processes that facilitate students' progression from conceptual design to tangible, three-dimensional object creation. Observation A showcases the early-stage translation of 2D drawings into physical paper models, while Observation B reveals advanced fabrication capabilities like 3D printing systems that extend this material application. Together, they illustrate a comprehensive, hands-on approach to design realization, bridging foundational analog prototyping with cutting-edge digital manufacturing.",
+      "type": "convergence"
+    },
+    {
+      "source": 7,
+      "target": 18,
+      "weight": 0.371175821109156,
+      "types": [
+        "thematic"
+      ],
+      "convergence_degree": 1,
+      "semantic_sim": 0.7423245310783386,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 5.422227994670716e-05,
+      "rationale": "The expert consistently highlights significant architectural features visible from the ground level, evaluating both the aesthetic function of a grand stairwell and the exposed structural design of overhead beams. This intent reveals a focus on the building's deliberate construction and its visual impact within the immediate environment, emphasizing how these elements contribute to the overall character and understanding of the space.",
+      "type": "convergence"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "weight": 0.49351570876036943,
+      "types": [
+        "thematic"
+      ],
+      "convergence_degree": 1,
+      "semantic_sim": 0.8023643493652344,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.3693341363110089,
+      "rationale": "Both observations centrally feature a student-staffed 3D printing lab as a vital communal resource for practical fabrication and diverse material prototyping. The expert consistently highlights the provision of specialized equipment—including 3D printers and robot arms—integrated within interconnected educational facilities like the robotics lab and library. This demonstrates an expert intent to showcase accessible, hands-on technical capabilities and their strategic placement to support student projects and learning.",
+      "type": "convergence"
+    },
+    {
+      "source": 9,
+      "target": 13,
+      "weight": 0.3678194423713802,
+      "types": [
+        "thematic"
+      ],
+      "convergence_degree": 1,
+      "semantic_sim": 0.7249723076820374,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.021333154121446127,
+      "rationale": "These observations consistently showcase specialized facilities, including robotics, 3D printing, laser cutting, and general fabrication labs, explicitly designed to support student projects and practical work. The expert's description emphasizes the availability of diverse tools and collaborative spaces for hands-on learning and prototyping, particularly benefiting design-oriented disciplines.",
+      "type": "convergence"
+    },
+    {
+      "source": 10,
+      "target": 12,
+      "weight": 0.3564354493595768,
+      "types": [
+        "thematic"
+      ],
+      "convergence_degree": 1,
+      "semantic_sim": 0.7049307823181152,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.01588023280207652,
+      "rationale": "The expert systematically describes prominent, central campus hubs that consolidate diverse academic and technical facilities, including specialized libraries, 3D printing, and laser cutting labs. These observations detail the functional integration of specific learning resources and student amenities, emphasizing both their architectural context and their spatial interconnectedness within the overall campus design. The expert's intent is to comprehensively map these key student-centric infrastructures and their navigational relevance within the campus.",
+      "type": "convergence"
+    },
+    {
+      "source": 10,
+      "target": 13,
+      "weight": 0.3742396056879835,
+      "types": [
+        "thematic"
+      ],
+      "convergence_degree": 1,
+      "semantic_sim": 0.7376111149787903,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.021736192794353314,
+      "rationale": "The expert consistently highlights specialized campus facilities, such as 3D printing labs, laser cutting rooms, and fabrication labs, equipped for student-led practical application. This demonstrates a dedicated institutional commitment to providing diverse, advanced infrastructure for hands-on learning, prototyping, and collaborative work in design and creative disciplines. The navigational goal is to showcase the breadth and integration of these specialized resources available to students.",
+      "type": "convergence"
+    },
+    {
+      "source": 10,
+      "target": 14,
+      "weight": 0.3586664042008999,
+      "types": [
+        "thematic"
+      ],
+      "convergence_degree": 1,
+      "semantic_sim": 0.7138410806655884,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0069834554724228365,
+      "rationale": "The expert consistently details the functional purpose and interconnectedness of specialized facilities and resources designed for specific student groups, such as the Art and Architecture library with its adjacent 3D printing lab, and The Kiva alongside its textile lab. This involves explaining their student-centric utility for education and practical application, while also outlining navigational elements like adjacency and stairwells that link these key areas within the campus environment.",
+      "type": "convergence"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "weight": 0.3912548581444296,
+      "types": [
+        "thematic"
+      ],
+      "convergence_degree": 1,
+      "semantic_sim": 0.7269594669342041,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.1111004987093103,
+      "rationale": "Both observations systematically explain the architectural design and functional organization of Burchard Hall, emphasizing its role as a prominent academic and technical hub. The expert highlights specific structural elements, including the underside of overhead features like a connecting bridge and skylights, alongside crucial navigational thresholds that connect distinct areas within the building and to external campus facilities. This demonstrates a shared intent to articulate how the building's physical form dictates its diverse programmatic functions and interstitial connections.",
+      "type": "convergence"
+    },
+    {
+      "source": 11,
+      "target": 15,
+      "weight": 0.3721957886865523,
+      "types": [
+        "thematic"
+      ],
+      "convergence_degree": 1,
+      "semantic_sim": 0.7411047220230103,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.006573710700188541,
+      "rationale": "The expert first details the architectural features and functional organization of a primary threshold into Burchard Hall, highlighting the ascent to a mezzanine. Subsequently, they focus on that same mezzanine, explaining navigational choices from it that lead either back into the building or out to an alley. Both moments articulate how the building's internal layout facilitates or directs movement, emphasizing key entry points and subsequent decision nodes within the structure's overall design.",
+      "type": "convergence"
+    },
+    {
+      "source": 11,
+      "target": 16,
+      "weight": 0.5694337536374792,
+      "types": [
+        "referential",
+        "thematic"
+      ],
+      "convergence_degree": 2,
+      "semantic_sim": 0.8030170798301697,
+      "tag_overlap": 0.3333333333333333,
+      "tag_overlap_raw": 0.3333333333333333,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.005034188222910909,
+      "rationale": "Both observations meticulously detail critical access points and navigational strategies within Burchard Hall, specifically emphasizing the pathways leading to the wood and metal shops. Observation A establishes the initial plaza entry and the overall architectural organization of the mezzanine level, while B elaborates on a ground-level junction that functions as a direct access hub to these specialized workshops, including specific ramped routes and doors. The expert's intent is to provide a comprehensive functional map of these key internal access points and their relation to specific workshop destinations.",
+      "type": "convergence"
+    },
+    {
+      "source": 11,
+      "target": 19,
+      "weight": 0.5027098975512746,
+      "types": [
+        "referential",
+        "thematic"
+      ],
+      "convergence_degree": 2,
+      "semantic_sim": 0.7185745239257812,
+      "tag_overlap": 0.2857142857142857,
+      "tag_overlap_raw": 0.2857142857142857,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0022619709249646846,
+      "rationale": "Both observations dissect the architectural and functional organization surrounding the Burchard Hall plaza entry, specifically focusing on the transition to the mezzanine housing the wood and metal shops. They detail structural elements like staircases, ramps, and overhead beams with integrated glass blocks, elucidating how these features define access, cast light, and functionally differentiate distinct upper-level zones within the building. This reveals a shared intent to explain the comprehensive design and purpose of key physical entry points and their immediate, functionally distinct upper-level areas.",
+      "type": "convergence"
+    },
+    {
+      "source": 11,
+      "target": 21,
+      "weight": 0.40790889175578493,
+      "types": [
+        "thematic"
+      ],
+      "convergence_degree": 1,
+      "semantic_sim": 0.7658012509346008,
+      "tag_overlap": 0.05,
+      "tag_overlap_raw": 0.05,
+      "intent_gate": 1.0,
+      "spatial_prox": 3.306515393807081e-05,
+      "rationale": "The expert consistently analyzes the architectural and structural articulation of Burchard Hall, specifically at its entry and exit points connecting to the plaza. One observation meticulously describes the functional organization and features of a primary threshold, while the other details exposed structural columns as the expert moves out onto the plaza. Both instances demonstrate an expert intent to document how the building's design integrates its internal functions with its external environment.",
+      "type": "convergence"
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "weight": 0.47645225253629403,
+      "types": [
+        "spatial",
+        "thematic"
+      ],
+      "convergence_degree": 2,
+      "semantic_sim": 0.7369623780250549,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.4318842540950662,
+      "rationale": "The observations consistently identify specialized academic facilities, notably the Kiva meeting space and laser cutting room, as central resources for design students' practical work. The expert's intent is to characterize how these interconnected spaces, including various classrooms and fabrication labs, form a comprehensive environment dedicated to hands-on learning and collaborative activities within a prominent campus hub. This analysis details both their architectural integration and their functional role in supporting academic functions.",
+      "type": "convergence"
+    },
+    {
+      "source": 12,
+      "target": 14,
+      "weight": 0.4089335567877756,
+      "types": [
+        "thematic"
+      ],
+      "convergence_degree": 1,
+      "semantic_sim": 0.8005502223968506,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.034633782357401194,
+      "rationale": "Both observations consistently feature the expert detailing the functionality and spatial layout of a central academic hub, prominently highlighting **The Kiva** as a crucial meeting space. The expert's intent is to explain the **interconnectedness of specialized academic facilities**, such as design labs, and to orient the viewer through navigational elements like thresholds and stairs that link these areas within the broader educational environment.",
+      "type": "convergence"
+    },
+    {
+      "source": 12,
+      "target": 21,
+      "weight": 0.35793701132965644,
+      "types": [
+        "thematic"
+      ],
+      "convergence_degree": 1,
+      "semantic_sim": 0.7157615423202515,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0002249606781227959,
+      "rationale": "Both observations centrally feature Birchard, with the expert providing detailed analysis of its architectural elements and functional significance. One highlights Birchard's internal structure and connections as a central academic hub, noting skylights and beams. The other captures transit through Birchard, focusing on exposed structural columns during ingress and egress, underscoring its role as both a distinct architectural entity and a key navigational nexus.",
+      "type": "convergence"
+    },
+    {
+      "source": 13,
+      "target": 14,
+      "weight": 0.4314495239959022,
+      "types": [
+        "thematic"
+      ],
+      "convergence_degree": 1,
+      "semantic_sim": 0.8266849517822266,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.07242819241915557,
+      "rationale": "Both observations underscore the expert's intent to detail the specialized, interconnected facilities available to industrial design students. The Kiva is prominently featured in both as a key resource, with Observation B further emphasizing its adjacency to other practical areas like the textile lab and detailing navigational connections like stairs. This collectively illustrates the comprehensive and integrated environment designed for hands-on learning within design disciplines.",
+      "type": "convergence"
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "weight": 0.3832483159459494,
+      "types": [
+        "thematic"
+      ],
+      "convergence_degree": 1,
+      "semantic_sim": 0.7018760442733765,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.12924117523704456,
+      "rationale": "The expert consistently articulates critical navigational decision points and pathways within and surrounding the Birchard building. They define internal connections like stairs leading to other facilities (Observation A) and detail specific egress options from a mezzanine junction, including re-entry to Birchard or exiting the building (Observation B). This reveals an overarching intent to orient the viewer by mapping out the complex movement possibilities and spatial relationships within this educational environment.",
+      "type": "convergence"
+    },
+    {
+      "source": 14,
+      "target": 16,
+      "weight": 0.40202725113648796,
+      "types": [
+        "thematic"
+      ],
+      "convergence_degree": 1,
+      "semantic_sim": 0.7274563908576965,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.15319622283055878,
+      "rationale": "The expert consistently clarifies the complex spatial interconnectedness of the educational facility, detailing specific navigational elements such as stairs, ramps, and crucial access points like doors or junctions. Both observations highlight the functional pathways between specialized academic areas, from design studios and textile labs to wood and metal workshops. Active left-hand gestures underscore the expert's intent to visually guide understanding of these vital routes and their functional purpose within the environment.",
+      "type": "convergence"
+    },
+    {
+      "source": 14,
+      "target": 21,
+      "weight": 0.35669273598968726,
+      "types": [
+        "thematic"
+      ],
+      "convergence_degree": 1,
+      "semantic_sim": 0.7133771181106567,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 1.6707737435568313e-05,
+      "rationale": "The expert consistently functions as a narrator and guide, identifying key academic facilities like The Kiva, textile labs, and ceramic kiln rooms while detailing their purpose for students. Concurrently, they articulate their navigation through the environment, explicitly marking transitions between specific locations such as hallways to Birchard or connections via stairs, to convey a comprehensive understanding of the campus layout and its resources.",
+      "type": "convergence"
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "weight": 0.48944997547374447,
+      "types": [
+        "thematic"
+      ],
+      "convergence_degree": 1,
+      "semantic_sim": 0.8439586162567139,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.26988266938155014,
+      "rationale": "These observations reveal the expert's consistent effort to delineate critical navigational junctions presenting a binary choice: re-entry into Birchard's mezzanine or exit to a back alley. These locations function as essential decision nodes and access hubs, clarifying specific pathways to internal areas like the wood and metal shops. The expert's intent is to articulate the functional circulation within this multi-level building, highlighting key thresholds for movement.",
+      "type": "convergence"
+    },
+    {
+      "source": 15,
+      "target": 21,
+      "weight": 0.37614389196559495,
+      "types": [
+        "thematic"
+      ],
+      "convergence_degree": 1,
+      "semantic_sim": 0.752286434173584,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 2.6995152118116998e-06,
+      "rationale": "The expert consistently analyzes specific architectural and structural details, such as column depth or decision-node junctions, to interpret navigation pathways related to the Birchard area. Their intent is to meticulously map and understand movement options, transitions, and the underlying physical characteristics of the building's infrastructure.",
+      "type": "convergence"
+    },
+    {
+      "source": 16,
+      "target": 21,
+      "weight": 0.3721971628438741,
+      "types": [
+        "thematic"
+      ],
+      "convergence_degree": 1,
+      "semantic_sim": 0.7443910241127014,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 6.60315009358923e-06,
+      "rationale": "Both observations reveal the expert's meticulous attention to navigational topology and architectural details defining movement through a complex environment. They consistently identify critical access points—such as thresholds, entrances, and junctions leading to specific functional areas like Birchard or workshops—and highlight structural elements like columns or doors that serve as key landmarks and define spatial transitions. This shared intent focuses on articulating the precise routing and interconnections between distinct zones within the surveyed building structure.",
+      "type": "convergence"
+    },
+    {
+      "source": 18,
+      "target": 19,
+      "weight": 0.4958579110655069,
+      "types": [
+        "thematic"
+      ],
+      "convergence_degree": 1,
+      "semantic_sim": 0.734757661819458,
+      "tag_overlap": 0.125,
+      "tag_overlap_raw": 0.125,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.26391632062311166,
+      "rationale": "Both observations directly focus on the expert's intent to highlight and explain the structural and architectural significance of overhead beams. The expert uses pointing and verbal explanations to illustrate how these beams contribute to the building's design, including their functional roles in channeling light via integrated glass blocks and differentiating accessible versus inaccessible areas within the structure. This shared emphasis explores both the foundational engineering and the intentional spatial zoning elements within the building.",
+      "type": "convergence"
+    },
+    {
+      "source": 18,
+      "target": 20,
+      "weight": 0.35421624201781576,
+      "types": [
+        "thematic"
+      ],
+      "convergence_degree": 1,
+      "semantic_sim": 0.7044090032577515,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.008046961555760047,
+      "rationale": "The expert consistently guides the observer's attention to specific architectural and functional elements within the environment, using gestural emphasis to highlight features like structural beams, glass blocks, or kilns. Their intent is to provide a detailed, contextual explanation of the building's design and purpose, linking visible structural elements to the activities or equipment within different areas. This demonstrates a shared navigational goal of orienting the observer and emphasizing key aspects of the physical space.",
+      "type": "convergence"
+    },
+    {
+      "source": 18,
+      "target": 21,
+      "weight": 0.35107104134298567,
+      "types": [
+        "thematic"
+      ],
+      "convergence_degree": 1,
+      "semantic_sim": 0.701537013053894,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0012101392641545449,
+      "rationale": "The expert consistently highlights the building's intrinsic structural and architectural elements, drawing attention to how underlying construction like overhead beams and visible column depths are exposed within the environment. This common focus reveals an intent to analyze the structural design and engineering choices as key features encountered during navigation. The observations center on visually identifying and emphasizing these integral load-bearing or foundational components.",
+      "type": "convergence"
+    },
+    {
+      "source": 20,
+      "target": 21,
+      "weight": 0.6206186948672215,
+      "types": [
+        "referential",
+        "thematic"
+      ],
+      "convergence_degree": 2,
+      "semantic_sim": 0.85841304063797,
+      "tag_overlap": 0.3076923076923077,
+      "tag_overlap_raw": 0.3076923076923077,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.15026408280833065,
+      "rationale": "Both observations detail the expert's introduction to the \"ceramics kiln and glazing room,\" consistently identifying objects such as \"two kilns\" and \"ongoing student projects\" within this space. A critical shared theme is the expert's navigation from a \"hallway\" into an \"entrance,\" during which they precisely highlight distinctive architectural details—like \"glass blocks\" or \"exposed structural elements\"—to contextualize the environment's structure and spatial characteristics. This reflects an expert intent to orient the viewer within a new area while emphasizing unique physical landmarks.",
+      "type": "convergence"
+    }
+  ],
+  "components": [
+    {
+      "source": 0,
+      "target": 1,
+      "semantic_sim": 0.751412570476532,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.03808042936574864
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "semantic_sim": 0.6341885328292847,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0025821482603988538
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "semantic_sim": 0.5643824338912964,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.00048644159939045724
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "semantic_sim": 0.6786068677902222,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.00011849378225591364
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "semantic_sim": 0.5726678967475891,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 4.5769123880770396e-05
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "semantic_sim": 0.546249508857727,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 1.4005577979416513e-05
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "semantic_sim": 0.6466917395591736,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 7.794544999685038e-05
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "semantic_sim": 0.5623149275779724,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.00011417522255573064
+    },
+    {
+      "source": 0,
+      "target": 9,
+      "semantic_sim": 0.5350329875946045,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0006687715965086024
+    },
+    {
+      "source": 0,
+      "target": 10,
+      "semantic_sim": 0.5930920839309692,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0007823715761160744
+    },
+    {
+      "source": 0,
+      "target": 11,
+      "semantic_sim": 0.7132019996643066,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0054994528715036385
+    },
+    {
+      "source": 0,
+      "target": 12,
+      "semantic_sim": 0.7314741611480713,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.04155760007102956
+    },
+    {
+      "source": 0,
+      "target": 13,
+      "semantic_sim": 0.5248843431472778,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.024760996829885636
+    },
+    {
+      "source": 0,
+      "target": 14,
+      "semantic_sim": 0.6352952718734741,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.00716189362980447
+    },
+    {
+      "source": 0,
+      "target": 15,
+      "semantic_sim": 0.665112316608429,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0013368208280724976
+    },
+    {
+      "source": 0,
+      "target": 16,
+      "semantic_sim": 0.6652431488037109,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0031805034769355283
+    },
+    {
+      "source": 0,
+      "target": 17,
+      "semantic_sim": 0.6050373911857605,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.008133985366975495
+    },
+    {
+      "source": 0,
+      "target": 18,
+      "semantic_sim": 0.6636425852775574,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0038115673374844138
+    },
+    {
+      "source": 0,
+      "target": 19,
+      "semantic_sim": 0.6751082539558411,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.006408165685594846
+    },
+    {
+      "source": 0,
+      "target": 20,
+      "semantic_sim": 0.6452962756156921,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.005005921691229776
+    },
+    {
+      "source": 0,
+      "target": 21,
+      "semantic_sim": 0.719296932220459,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0019043536228426864
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "semantic_sim": 0.715032160282135,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.036501626556330026
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "semantic_sim": 0.5966979265213013,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.006810168976915014
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "semantic_sim": 0.7217106819152832,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.002185762706123974
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "semantic_sim": 0.630322277545929,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0005201904006610501
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "semantic_sim": 0.5782584547996521,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.00010871338387578365
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "semantic_sim": 0.7000083923339844,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0005560778529669561
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "semantic_sim": 0.5808401107788086,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0010418433238454851
+    },
+    {
+      "source": 1,
+      "target": 9,
+      "semantic_sim": 0.5736186504364014,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.007015809496104069
+    },
+    {
+      "source": 1,
+      "target": 10,
+      "semantic_sim": 0.6598417162895203,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.011433943030736471
+    },
+    {
+      "source": 1,
+      "target": 11,
+      "semantic_sim": 0.7013051509857178,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.05890800044571938
+    },
+    {
+      "source": 1,
+      "target": 12,
+      "semantic_sim": 0.7032055854797363,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.16760967241287555
+    },
+    {
+      "source": 1,
+      "target": 13,
+      "semantic_sim": 0.5965217351913452,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.07995773106780511
+    },
+    {
+      "source": 1,
+      "target": 14,
+      "semantic_sim": 0.6484036445617676,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0072953637753859005
+    },
+    {
+      "source": 1,
+      "target": 15,
+      "semantic_sim": 0.6765302419662476,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0012630837851595727
+    },
+    {
+      "source": 1,
+      "target": 16,
+      "semantic_sim": 0.6584267616271973,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0016520659001436758
+    },
+    {
+      "source": 1,
+      "target": 17,
+      "semantic_sim": 0.6467837691307068,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.004263230384218086
+    },
+    {
+      "source": 1,
+      "target": 18,
+      "semantic_sim": 0.6684218645095825,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.03444671777438618
+    },
+    {
+      "source": 1,
+      "target": 19,
+      "semantic_sim": 0.6901236176490784,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.025896980535613155
+    },
+    {
+      "source": 1,
+      "target": 20,
+      "semantic_sim": 0.6513214707374573,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0024582962163651884
+    },
+    {
+      "source": 1,
+      "target": 21,
+      "semantic_sim": 0.7065839767456055,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.00048247015958462913
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "semantic_sim": 0.660291850566864,
+      "tag_overlap": 0.06666666666666667,
+      "tag_overlap_raw": 0.06666666666666667,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.18204247100376741
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "semantic_sim": 0.6630520224571228,
+      "tag_overlap": 0.07692307692307693,
+      "tag_overlap_raw": 0.07692307692307693,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.04440213772010985
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "semantic_sim": 0.645055890083313,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.014246945959219779
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "semantic_sim": 0.634614884853363,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.002808253416692881
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "semantic_sim": 0.7506558299064636,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.013147287752505624
+    },
+    {
+      "source": 2,
+      "target": 8,
+      "semantic_sim": 0.5782923698425293,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.026179720720857533
+    },
+    {
+      "source": 2,
+      "target": 9,
+      "semantic_sim": 0.5847423076629639,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.15737960917939223
+    },
+    {
+      "source": 2,
+      "target": 10,
+      "semantic_sim": 0.6369646787643433,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.2438477078171425
+    },
+    {
+      "source": 2,
+      "target": 11,
+      "semantic_sim": 0.7087960243225098,
+      "tag_overlap": 0.0625,
+      "tag_overlap_raw": 0.0625,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.30960769840654717
+    },
+    {
+      "source": 2,
+      "target": 12,
+      "semantic_sim": 0.6763095855712891,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.04118429077364091
+    },
+    {
+      "source": 2,
+      "target": 13,
+      "semantic_sim": 0.5699841976165771,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.049509784187413634
+    },
+    {
+      "source": 2,
+      "target": 14,
+      "semantic_sim": 0.6387740969657898,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.012295957445636552
+    },
+    {
+      "source": 2,
+      "target": 15,
+      "semantic_sim": 0.693284809589386,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0040295561615965045
+    },
+    {
+      "source": 2,
+      "target": 16,
+      "semantic_sim": 0.6876288056373596,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.002659582353379173
+    },
+    {
+      "source": 2,
+      "target": 17,
+      "semantic_sim": 0.6506825685501099,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.005014486761375937
+    },
+    {
+      "source": 2,
+      "target": 18,
+      "semantic_sim": 0.6925029754638672,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0036378064850798547
+    },
+    {
+      "source": 2,
+      "target": 19,
+      "semantic_sim": 0.6392687559127808,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0015752638726466114
+    },
+    {
+      "source": 2,
+      "target": 20,
+      "semantic_sim": 0.6612899303436279,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 9.436686683906626e-05
+    },
+    {
+      "source": 2,
+      "target": 21,
+      "semantic_sim": 0.7125459313392639,
+      "tag_overlap": 0.058823529411764705,
+      "tag_overlap_raw": 0.058823529411764705,
+      "intent_gate": 1.0,
+      "spatial_prox": 1.7764111550651703e-05
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "semantic_sim": 0.651921272277832,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.18499924066504977
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "semantic_sim": 0.6854941248893738,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.07423071052165664
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "semantic_sim": 0.6601014137268066,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.012297549925897983
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "semantic_sim": 0.6519021987915039,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0457805230488456
+    },
+    {
+      "source": 3,
+      "target": 8,
+      "semantic_sim": 0.5217257738113403,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.10153061838629755
+    },
+    {
+      "source": 3,
+      "target": 9,
+      "semantic_sim": 0.6593868732452393,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.28737364569168006
+    },
+    {
+      "source": 3,
+      "target": 10,
+      "semantic_sim": 0.7217865586280823,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.3487086193192194
+    },
+    {
+      "source": 3,
+      "target": 11,
+      "semantic_sim": 0.5968829393386841,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.07231567855641413
+    },
+    {
+      "source": 3,
+      "target": 12,
+      "semantic_sim": 0.6258153319358826,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.008199413401857644
+    },
+    {
+      "source": 3,
+      "target": 13,
+      "semantic_sim": 0.6273765563964844,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.011290285153851765
+    },
+    {
+      "source": 3,
+      "target": 14,
+      "semantic_sim": 0.6349586248397827,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.004895563583249877
+    },
+    {
+      "source": 3,
+      "target": 15,
+      "semantic_sim": 0.5689027309417725,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0025648241951280164
+    },
+    {
+      "source": 3,
+      "target": 16,
+      "semantic_sim": 0.5548557043075562,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.001240932916766047
+    },
+    {
+      "source": 3,
+      "target": 17,
+      "semantic_sim": 0.6619971990585327,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0019102963096397183
+    },
+    {
+      "source": 3,
+      "target": 18,
+      "semantic_sim": 0.5888171195983887,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.00097190196194599
+    },
+    {
+      "source": 3,
+      "target": 19,
+      "semantic_sim": 0.6278223991394043,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0003661269980406488
+    },
+    {
+      "source": 3,
+      "target": 20,
+      "semantic_sim": 0.6474173665046692,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 1.862729631498898e-05
+    },
+    {
+      "source": 3,
+      "target": 21,
+      "semantic_sim": 0.6418570280075073,
+      "tag_overlap": 0.05263157894736842,
+      "tag_overlap_raw": 0.05263157894736842,
+      "intent_gate": 1.0,
+      "spatial_prox": 3.3826397720456583e-06
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "semantic_sim": 0.6806434392929077,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0882107187459233
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "semantic_sim": 0.5870376229286194,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.011390214205791097
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "semantic_sim": 0.6419285535812378,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.024104406486509116
+    },
+    {
+      "source": 4,
+      "target": 8,
+      "semantic_sim": 0.5516921877861023,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.05741667004025236
+    },
+    {
+      "source": 4,
+      "target": 9,
+      "semantic_sim": 0.571143388748169,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.07175169908970543
+    },
+    {
+      "source": 4,
+      "target": 10,
+      "semantic_sim": 0.5742193460464478,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.11078075595076362
+    },
+    {
+      "source": 4,
+      "target": 11,
+      "semantic_sim": 0.6540524363517761,
+      "tag_overlap": 0.0625,
+      "tag_overlap_raw": 0.0625,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.017248881244203356
+    },
+    {
+      "source": 4,
+      "target": 12,
+      "semantic_sim": 0.6885643601417542,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0020499581645228348
+    },
+    {
+      "source": 4,
+      "target": 13,
+      "semantic_sim": 0.5892036557197571,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.002570307895415239
+    },
+    {
+      "source": 4,
+      "target": 14,
+      "semantic_sim": 0.6033151149749756,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0009406433645090995
+    },
+    {
+      "source": 4,
+      "target": 15,
+      "semantic_sim": 0.6094326972961426,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0005172498745482177
+    },
+    {
+      "source": 4,
+      "target": 16,
+      "semantic_sim": 0.6044389605522156,
+      "tag_overlap": 0.0625,
+      "tag_overlap_raw": 0.0625,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0002355713940286022
+    },
+    {
+      "source": 4,
+      "target": 17,
+      "semantic_sim": 0.6124787926673889,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.00035639093653352363
+    },
+    {
+      "source": 4,
+      "target": 18,
+      "semantic_sim": 0.555722177028656,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0006122088657132125
+    },
+    {
+      "source": 4,
+      "target": 19,
+      "semantic_sim": 0.5711471438407898,
+      "tag_overlap": 0.07142857142857142,
+      "tag_overlap_raw": 0.07142857142857142,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0001975934076966774
+    },
+    {
+      "source": 4,
+      "target": 20,
+      "semantic_sim": 0.5953924655914307,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 7.825991613599893e-06
+    },
+    {
+      "source": 4,
+      "target": 21,
+      "semantic_sim": 0.6434330940246582,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 1.3072482368208463e-06
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "semantic_sim": 0.6995892524719238,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.12909645366923284
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "semantic_sim": 0.6696574091911316,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.17120852562388433
+    },
+    {
+      "source": 5,
+      "target": 8,
+      "semantic_sim": 0.6212634444236755,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.2366281877292812
+    },
+    {
+      "source": 5,
+      "target": 9,
+      "semantic_sim": 0.6459392309188843,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.054107647240417146
+    },
+    {
+      "source": 5,
+      "target": 10,
+      "semantic_sim": 0.6768838763237,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.03601260453141407
+    },
+    {
+      "source": 5,
+      "target": 11,
+      "semantic_sim": 0.6132084727287292,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.006652462988342696
+    },
+    {
+      "source": 5,
+      "target": 12,
+      "semantic_sim": 0.6320788860321045,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0007623507515896449
+    },
+    {
+      "source": 5,
+      "target": 13,
+      "semantic_sim": 0.6850367784500122,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0012286986488608503
+    },
+    {
+      "source": 5,
+      "target": 14,
+      "semantic_sim": 0.6606497764587402,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0011456437676324572
+    },
+    {
+      "source": 5,
+      "target": 15,
+      "semantic_sim": 0.5470746755599976,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0012107386611573613
+    },
+    {
+      "source": 5,
+      "target": 16,
+      "semantic_sim": 0.5736309289932251,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.00041813225175569565
+    },
+    {
+      "source": 5,
+      "target": 17,
+      "semantic_sim": 0.6577486395835876,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.00047307740869622245
+    },
+    {
+      "source": 5,
+      "target": 18,
+      "semantic_sim": 0.6279518604278564,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 7.852544178634939e-05
+    },
+    {
+      "source": 5,
+      "target": 19,
+      "semantic_sim": 0.642907977104187,
+      "tag_overlap": 0.1,
+      "tag_overlap_raw": 0.1,
+      "intent_gate": 1.0,
+      "spatial_prox": 2.8028255074690387e-05
+    },
+    {
+      "source": 5,
+      "target": 20,
+      "semantic_sim": 0.6390010118484497,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 1.3886765318714974e-06
+    },
+    {
+      "source": 5,
+      "target": 21,
+      "semantic_sim": 0.6447593569755554,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 2.5465330591218407e-07
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "semantic_sim": 0.6159462928771973,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.1633502587200299
+    },
+    {
+      "source": 6,
+      "target": 8,
+      "semantic_sim": 0.5770476460456848,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.08356708692216422
+    },
+    {
+      "source": 6,
+      "target": 9,
+      "semantic_sim": 0.6990715265274048,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.012610089152556122
+    },
+    {
+      "source": 6,
+      "target": 10,
+      "semantic_sim": 0.7036540508270264,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.006372241372616893
+    },
+    {
+      "source": 6,
+      "target": 11,
+      "semantic_sim": 0.5822190046310425,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0015519862101209584
+    },
+    {
+      "source": 6,
+      "target": 12,
+      "semantic_sim": 0.6456571817398071,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.00020352860419437738
+    },
+    {
+      "source": 6,
+      "target": 13,
+      "semantic_sim": 0.6785756945610046,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.00037252123806353065
+    },
+    {
+      "source": 6,
+      "target": 14,
+      "semantic_sim": 0.6559501886367798,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0006807210251770608
+    },
+    {
+      "source": 6,
+      "target": 15,
+      "semantic_sim": 0.5466113090515137,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.001267850460402391
+    },
+    {
+      "source": 6,
+      "target": 16,
+      "semantic_sim": 0.5582359433174133,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.000370238852378628
+    },
+    {
+      "source": 6,
+      "target": 17,
+      "semantic_sim": 0.6101807951927185,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0003232428489771123
+    },
+    {
+      "source": 6,
+      "target": 18,
+      "semantic_sim": 0.6532497406005859,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 1.222242874820753e-05
+    },
+    {
+      "source": 6,
+      "target": 19,
+      "semantic_sim": 0.5923364162445068,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 4.656889519173282e-06
+    },
+    {
+      "source": 6,
+      "target": 20,
+      "semantic_sim": 0.6227787137031555,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 2.724061413225197e-07
+    },
+    {
+      "source": 6,
+      "target": 21,
+      "semantic_sim": 0.6694566011428833,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 5.393401080499274e-08
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "semantic_sim": 0.5996646285057068,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.3546167543099661
+    },
+    {
+      "source": 7,
+      "target": 9,
+      "semantic_sim": 0.5896955132484436,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.06463791173100973
+    },
+    {
+      "source": 7,
+      "target": 10,
+      "semantic_sim": 0.6295919418334961,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.028046654508650574
+    },
+    {
+      "source": 7,
+      "target": 11,
+      "semantic_sim": 0.653067946434021,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.00848644304716869
+    },
+    {
+      "source": 7,
+      "target": 12,
+      "semantic_sim": 0.6482260823249817,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0011821955401856426
+    },
+    {
+      "source": 7,
+      "target": 13,
+      "semantic_sim": 0.5881544351577759,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0022230419680686606
+    },
+    {
+      "source": 7,
+      "target": 14,
+      "semantic_sim": 0.6542849540710449,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.00379970039346021
+    },
+    {
+      "source": 7,
+      "target": 15,
+      "semantic_sim": 0.6523289680480957,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.00540478988579539
+    },
+    {
+      "source": 7,
+      "target": 16,
+      "semantic_sim": 0.6515706777572632,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.001686628918616693
+    },
+    {
+      "source": 7,
+      "target": 17,
+      "semantic_sim": 0.6252288222312927,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0016485468948336558
+    },
+    {
+      "source": 7,
+      "target": 18,
+      "semantic_sim": 0.7423245310783386,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 5.422227994670716e-05
+    },
+    {
+      "source": 7,
+      "target": 19,
+      "semantic_sim": 0.6279844045639038,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 2.1942448674708532e-05
+    },
+    {
+      "source": 7,
+      "target": 20,
+      "semantic_sim": 0.6452248692512512,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 1.42960045771788e-06
+    },
+    {
+      "source": 7,
+      "target": 21,
+      "semantic_sim": 0.6775715947151184,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 2.914824495706413e-07
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "semantic_sim": 0.5900017619132996,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.14259460090340692
+    },
+    {
+      "source": 8,
+      "target": 10,
+      "semantic_sim": 0.6000946760177612,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.06866329193041741
+    },
+    {
+      "source": 8,
+      "target": 11,
+      "semantic_sim": 0.5391260981559753,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.016253655154970313
+    },
+    {
+      "source": 8,
+      "target": 12,
+      "semantic_sim": 0.5647947788238525,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.00203238466719817
+    },
+    {
+      "source": 8,
+      "target": 13,
+      "semantic_sim": 0.6173174381256104,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.003605218042657885
+    },
+    {
+      "source": 8,
+      "target": 14,
+      "semantic_sim": 0.6566404700279236,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.003979558042598392
+    },
+    {
+      "source": 8,
+      "target": 15,
+      "semantic_sim": 0.5785871744155884,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0038606860666518935
+    },
+    {
+      "source": 8,
+      "target": 16,
+      "semantic_sim": 0.5960916876792908,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0013415280021593578
+    },
+    {
+      "source": 8,
+      "target": 17,
+      "semantic_sim": 0.5930405259132385,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0015299221948113502
+    },
+    {
+      "source": 8,
+      "target": 18,
+      "semantic_sim": 0.6239950656890869,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.00012653977908673472
+    },
+    {
+      "source": 8,
+      "target": 19,
+      "semantic_sim": 0.5283383727073669,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 4.8278926614494465e-05
+    },
+    {
+      "source": 8,
+      "target": 20,
+      "semantic_sim": 0.5898634791374207,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 2.7910676412020217e-06
+    },
+    {
+      "source": 8,
+      "target": 21,
+      "semantic_sim": 0.5952012538909912,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 5.39289463535102e-07
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "semantic_sim": 0.8023643493652344,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.3693341363110089
+    },
+    {
+      "source": 9,
+      "target": 11,
+      "semantic_sim": 0.5837684869766235,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.11064248245807358
+    },
+    {
+      "source": 9,
+      "target": 12,
+      "semantic_sim": 0.6364338994026184,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.01309063632861762
+    },
+    {
+      "source": 9,
+      "target": 13,
+      "semantic_sim": 0.7249723076820374,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.021333154121446127
+    },
+    {
+      "source": 9,
+      "target": 14,
+      "semantic_sim": 0.651323676109314,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.01195114783904825
+    },
+    {
+      "source": 9,
+      "target": 15,
+      "semantic_sim": 0.5097475647926331,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.005931934353272052
+    },
+    {
+      "source": 9,
+      "target": 16,
+      "semantic_sim": 0.577582836151123,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.002782673338681681
+    },
+    {
+      "source": 9,
+      "target": 17,
+      "semantic_sim": 0.6492502093315125,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.00418432038755893
+    },
+    {
+      "source": 9,
+      "target": 18,
+      "semantic_sim": 0.6200957298278809,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0008147125942337453
+    },
+    {
+      "source": 9,
+      "target": 19,
+      "semantic_sim": 0.5834376811981201,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0003258460130715937
+    },
+    {
+      "source": 9,
+      "target": 20,
+      "semantic_sim": 0.6637169718742371,
+      "tag_overlap": 0.09090909090909091,
+      "tag_overlap_raw": 0.09090909090909091,
+      "intent_gate": 1.0,
+      "spatial_prox": 1.9477139408142067e-05
+    },
+    {
+      "source": 9,
+      "target": 21,
+      "semantic_sim": 0.6259741187095642,
+      "tag_overlap": 0.0625,
+      "tag_overlap_raw": 0.0625,
+      "intent_gate": 1.0,
+      "spatial_prox": 3.7335273805769244e-06
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "semantic_sim": 0.6380153894424438,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.13842128265242623
+    },
+    {
+      "source": 10,
+      "target": 12,
+      "semantic_sim": 0.7049307823181152,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.01588023280207652
+    },
+    {
+      "source": 10,
+      "target": 13,
+      "semantic_sim": 0.7376111149787903,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.021736192794353314
+    },
+    {
+      "source": 10,
+      "target": 14,
+      "semantic_sim": 0.7138410806655884,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0069834554724228365
+    },
+    {
+      "source": 10,
+      "target": 15,
+      "semantic_sim": 0.5947797298431396,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0027161832192437356
+    },
+    {
+      "source": 10,
+      "target": 16,
+      "semantic_sim": 0.5998226404190063,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.001449876994992547
+    },
+    {
+      "source": 10,
+      "target": 17,
+      "semantic_sim": 0.6833232045173645,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.002449859505351755
+    },
+    {
+      "source": 10,
+      "target": 18,
+      "semantic_sim": 0.6396918892860413,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.001838877475865425
+    },
+    {
+      "source": 10,
+      "target": 19,
+      "semantic_sim": 0.6341739296913147,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.000681722045313421
+    },
+    {
+      "source": 10,
+      "target": 20,
+      "semantic_sim": 0.6548144817352295,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 3.463549567969614e-05
+    },
+    {
+      "source": 10,
+      "target": 21,
+      "semantic_sim": 0.6440743207931519,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 6.231282334912687e-06
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "semantic_sim": 0.7269594669342041,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.1111004987093103
+    },
+    {
+      "source": 11,
+      "target": 13,
+      "semantic_sim": 0.557352602481842,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.14808311514691666
+    },
+    {
+      "source": 11,
+      "target": 14,
+      "semantic_sim": 0.6796252131462097,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.027679323079832785
+    },
+    {
+      "source": 11,
+      "target": 15,
+      "semantic_sim": 0.7411047220230103,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.006573710700188541
+    },
+    {
+      "source": 11,
+      "target": 16,
+      "semantic_sim": 0.8030170798301697,
+      "tag_overlap": 0.3333333333333333,
+      "tag_overlap_raw": 0.3333333333333333,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.005034188222910909
+    },
+    {
+      "source": 11,
+      "target": 17,
+      "semantic_sim": 0.6395723819732666,
+      "tag_overlap": 0.07692307692307693,
+      "tag_overlap_raw": 0.07692307692307693,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.010422820261802888
+    },
+    {
+      "source": 11,
+      "target": 18,
+      "semantic_sim": 0.6357890367507935,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.004685289631370279
+    },
+    {
+      "source": 11,
+      "target": 19,
+      "semantic_sim": 0.7185745239257812,
+      "tag_overlap": 0.2857142857142857,
+      "tag_overlap_raw": 0.2857142857142857,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0022619709249646846
+    },
+    {
+      "source": 11,
+      "target": 20,
+      "semantic_sim": 0.658596396446228,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.00016639950074787043
+    },
+    {
+      "source": 11,
+      "target": 21,
+      "semantic_sim": 0.7658012509346008,
+      "tag_overlap": 0.05,
+      "tag_overlap_raw": 0.05,
+      "intent_gate": 1.0,
+      "spatial_prox": 3.306515393807081e-05
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "semantic_sim": 0.7369623780250549,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.4318842540950662
+    },
+    {
+      "source": 12,
+      "target": 14,
+      "semantic_sim": 0.8005502223968506,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.034633782357401194
+    },
+    {
+      "source": 12,
+      "target": 15,
+      "semantic_sim": 0.6607663631439209,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.005052604385488333
+    },
+    {
+      "source": 12,
+      "target": 16,
+      "semantic_sim": 0.6626318097114563,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.006705636620860795
+    },
+    {
+      "source": 12,
+      "target": 17,
+      "semantic_sim": 0.6606366634368896,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.01750878316008447
+    },
+    {
+      "source": 12,
+      "target": 18,
+      "semantic_sim": 0.6694820523262024,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.009375036113483629
+    },
+    {
+      "source": 12,
+      "target": 19,
+      "semantic_sim": 0.6948878169059753,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.007021068361633504
+    },
+    {
+      "source": 12,
+      "target": 20,
+      "semantic_sim": 0.6376505494117737,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.00097975667843256
+    },
+    {
+      "source": 12,
+      "target": 21,
+      "semantic_sim": 0.7157615423202515,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0002249606781227959
+    },
+    {
+      "source": 13,
+      "target": 14,
+      "semantic_sim": 0.8266849517822266,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.07242819241915557
+    },
+    {
+      "source": 13,
+      "target": 15,
+      "semantic_sim": 0.5277499556541443,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.010555988029424758
+    },
+    {
+      "source": 13,
+      "target": 16,
+      "semantic_sim": 0.558197021484375,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.012679399161108992
+    },
+    {
+      "source": 13,
+      "target": 17,
+      "semantic_sim": 0.6354019045829773,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.03166628196487141
+    },
+    {
+      "source": 13,
+      "target": 18,
+      "semantic_sim": 0.600182056427002,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.004477656532332685
+    },
+    {
+      "source": 13,
+      "target": 19,
+      "semantic_sim": 0.6053738594055176,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0031204501112417644
+    },
+    {
+      "source": 13,
+      "target": 20,
+      "semantic_sim": 0.6498085260391235,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0004404277140217361
+    },
+    {
+      "source": 13,
+      "target": 21,
+      "semantic_sim": 0.619228184223175,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.00010538925033401043
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "semantic_sim": 0.7018760442733765,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.12924117523704456
+    },
+    {
+      "source": 14,
+      "target": 16,
+      "semantic_sim": 0.7274563908576965,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.15319622283055878
+    },
+    {
+      "source": 14,
+      "target": 17,
+      "semantic_sim": 0.6383544206619263,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.2938157034441505
+    },
+    {
+      "source": 14,
+      "target": 18,
+      "semantic_sim": 0.6558409333229065,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.000329263982844226
+    },
+    {
+      "source": 14,
+      "target": 19,
+      "semantic_sim": 0.6442669630050659,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0002492375678480799
+    },
+    {
+      "source": 14,
+      "target": 20,
+      "semantic_sim": 0.6797427535057068,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 5.4356742731767724e-05
+    },
+    {
+      "source": 14,
+      "target": 21,
+      "semantic_sim": 0.7133771181106567,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 1.6707737435568313e-05
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "semantic_sim": 0.8439586162567139,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.26988266938155014
+    },
+    {
+      "source": 15,
+      "target": 17,
+      "semantic_sim": 0.6402865648269653,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.14766508581749396
+    },
+    {
+      "source": 15,
+      "target": 18,
+      "semantic_sim": 0.6496955752372742,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 5.1319467896748325e-05
+    },
+    {
+      "source": 15,
+      "target": 19,
+      "semantic_sim": 0.6333269476890564,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 3.731523462768365e-05
+    },
+    {
+      "source": 15,
+      "target": 20,
+      "semantic_sim": 0.6461624503135681,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 8.231560925400576e-06
+    },
+    {
+      "source": 15,
+      "target": 21,
+      "semantic_sim": 0.752286434173584,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 2.6995152118116998e-06
+    },
+    {
+      "source": 16,
+      "target": 17,
+      "semantic_sim": 0.6900561451911926,
+      "tag_overlap": 0.07692307692307693,
+      "tag_overlap_raw": 0.07692307692307693,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.3659298175683171
+    },
+    {
+      "source": 16,
+      "target": 18,
+      "semantic_sim": 0.6916811466217041,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 6.497182361345872e-05
+    },
+    {
+      "source": 16,
+      "target": 19,
+      "semantic_sim": 0.6526517271995544,
+      "tag_overlap": 0.2,
+      "tag_overlap_raw": 0.2,
+      "intent_gate": 1.0,
+      "spatial_prox": 5.582363733152077e-05
+    },
+    {
+      "source": 16,
+      "target": 20,
+      "semantic_sim": 0.6753066778182983,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 1.758565694085328e-05
+    },
+    {
+      "source": 16,
+      "target": 21,
+      "semantic_sim": 0.7443910241127014,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 6.60315009358923e-06
+    },
+    {
+      "source": 17,
+      "target": 18,
+      "semantic_sim": 0.692234992980957,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.00017120740134853306
+    },
+    {
+      "source": 17,
+      "target": 19,
+      "semantic_sim": 0.678784966468811,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0001509117496844901
+    },
+    {
+      "source": 17,
+      "target": 20,
+      "semantic_sim": 0.6658922433853149,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 4.6802062470738445e-05
+    },
+    {
+      "source": 17,
+      "target": 21,
+      "semantic_sim": 0.6505959630012512,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 1.684592280153806e-05
+    },
+    {
+      "source": 18,
+      "target": 19,
+      "semantic_sim": 0.734757661819458,
+      "tag_overlap": 0.125,
+      "tag_overlap_raw": 0.125,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.26391632062311166
+    },
+    {
+      "source": 18,
+      "target": 20,
+      "semantic_sim": 0.7044090032577515,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.008046961555760047
+    },
+    {
+      "source": 18,
+      "target": 21,
+      "semantic_sim": 0.701537013053894,
+      "tag_overlap": 0.0,
+      "tag_overlap_raw": 0.0,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.0012101392641545449
+    },
+    {
+      "source": 19,
+      "target": 20,
+      "semantic_sim": 0.6653085947036743,
+      "tag_overlap": 0.07692307692307693,
+      "tag_overlap_raw": 0.07692307692307693,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.030094709105018283
+    },
+    {
+      "source": 19,
+      "target": 21,
+      "semantic_sim": 0.6984814405441284,
+      "tag_overlap": 0.05555555555555555,
+      "tag_overlap_raw": 0.05555555555555555,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.004524697824421263
+    },
+    {
+      "source": 20,
+      "target": 21,
+      "semantic_sim": 0.85841304063797,
+      "tag_overlap": 0.3076923076923077,
+      "tag_overlap_raw": 0.3076923076923077,
+      "intent_gate": 1.0,
+      "spatial_prox": 0.15026408280833065
+    }
+  ]
+}

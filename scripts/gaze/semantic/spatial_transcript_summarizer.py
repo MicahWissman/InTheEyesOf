@@ -31,6 +31,7 @@ import json
 
 # Maximum points to keep for raycasting (performance limit)
 MAX_RAYCAST_POINTS = 500_000
+SUBSAMPLE_SEED = 0  # fixed so the subsample, and hence the gaze events, are reproducible
 
 # Semidense CSV.gz column name variations
 SEMIDENSE_COLUMNS = {
@@ -143,7 +144,7 @@ def _parse_semipcd_csv_gz(path):
 
     # Subsample for raycasting performance
     if len(points) > MAX_RAYCAST_POINTS:
-        idx = np.random.choice(len(points), MAX_RAYCAST_POINTS, replace=False)
+        idx = np.random.default_rng(SUBSAMPLE_SEED).choice(len(points), MAX_RAYCAST_POINTS, replace=False)
         points = points[idx]
 
     return points
@@ -166,7 +167,7 @@ def load_semipcd_from_mps(mps_root):
         print(f"  Found .ply point cloud: {path}")
         pcd = o3d.io.read_point_cloud(path)
         if len(pcd.points) > MAX_RAYCAST_POINTS:
-            indices = np.random.choice(len(pcd.points), MAX_RAYCAST_POINTS, replace=False)
+            indices = np.random.default_rng(SUBSAMPLE_SEED).choice(len(pcd.points), MAX_RAYCAST_POINTS, replace=False)
             pcd = pcd.select_by_index(indices)
         return pcd, path
 
@@ -206,13 +207,16 @@ def get_refined_gaze_points(pcd, origins, directions, fallback_depth=2.0):
     dirs = dirs / np.linalg.norm(dirs, axis=1, keepdims=True)
     guess = origins + dirs * fallback_depth
 
-    # One batched, multithreaded radius search for all rays (replaces the
-    # per-point open3d query loop). Same algorithm per ray afterwards.
-    neighbor_lists = tree.query_ball_point(guess, 1.5, workers=-1)
+    # Batched, multithreaded radius search (replaces the per-point open3d query loop),
+    # in chunks: in a small dense room each 1.5m ball holds a large share of the cloud,
+    # and querying every ray at once needed ~15 GB. Same algorithm per ray afterwards.
+    def neighbor_lists():
+        for s in range(0, len(guess), 256):
+            yield from tree.query_ball_point(guess[s:s + 256], 1.5, workers=-1)
 
     refined = guess.copy()                       # default = 2.0m fallback point
     quality_flags = np.zeros(len(origins))
-    for i, idxs in enumerate(neighbor_lists):
+    for i, idxs in enumerate(neighbor_lists()):
         if not idxs:
             continue
         pts = points_pcd[idxs]

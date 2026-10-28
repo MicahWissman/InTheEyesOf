@@ -14,6 +14,18 @@
   overflow: hidden;
 }
 
+/* ── Fly-through capture mode (?flythrough=1) — hide all chrome for a clean video frame.
+   Dev/demo only, never toggled from the UI. See scripts/record-walkthrough.mjs. ── */
+.flythrough-mode .sidebar,
+.flythrough-mode .recording-switcher,
+.flythrough-mode .iso-panel-label,
+.flythrough-mode .iso-zoom-controls,
+.flythrough-mode .cam-overlay,
+.flythrough-mode .intro-overlay,
+.flythrough-mode .welcome-overlay {
+  display: none !important;
+}
+
 /* ── Recording switcher bar ── */
 .recording-switcher {
   display: flex;
@@ -1722,6 +1734,18 @@ body {
   vertical-align: middle;
   background: #555;
   color: #fff;
+}
+/* Which person's recording an anchor came from (combined multi-SLAM experiences) */
+.person-tag {
+  display: inline-block;
+  font-size: 0.65rem;
+  font-weight: 700;
+  padding: 1px 6px;
+  margin-right: 6px;
+  border-radius: 3px;
+  vertical-align: middle;
+  background: #555;
+  color: #000;
 }
 .debug-id-tag.cat-heritage  { background: #00cc66; color: #000; }
 .debug-id-tag.cat-nature    { background: #4488ff; color: #fff; }

@@ -1,0 +1,1299 @@
+[
+  {
+    "cluster_ids": [
+      0,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cluster_id": 0,
+    "start_ts": 129929498,
+    "end_ts": 210429498,
+    "start_sec": 12.100091275,
+    "duration": 80.5,
+    "relative_time": "12.1s - 92.6s",
+    "transcript_slice": "I can pretend to be an electrical or a computer, but I'm not either. Wait, what's your major? CE. Oh. Yeah, I guess. Oh, you're going to record? Yeah, we're going to record tandem. That way I can get a recording on the new version of that. Okay, so what I'm going to do is that the tours usually involve a lot of personal things and that sort of thing. But I'm going to focus more on the building and what the building has to offer. [...] Yeah, I guess. Oh, you're going to record? Yeah, we're going to record tandem. That way I can get a recording on the new version of that. Okay, so what I'm going to do is that the tours usually involve a lot of personal things and that sort of thing. But I'm going to focus more on the building and what the building has to offer. [...] That way I can get a recording on the new version of that. Okay, so what I'm going to do is that the tours usually involve a lot of personal things and that sort of thing. But I'm going to focus more on the building and what the building has to offer. Because this is something to do with looking at something and then trying to produce the information. And so I changed what I was going to talk a bit. So there will be a little LARPing around here and there because we literally encouraged that when I started giving tours. So I think that's about it. So we're going to cover NCB, Hitt Hall, walk through Dering, go inside Pamplin, and then go around Hahn. [...] Because this is something to do with looking at something and then trying to produce the information. And so I changed what I was going to talk a bit. So there will be a little LARPing around here and there because we literally encouraged that when I started giving tours. So I think that's about it. So we're going to cover NCB, Hitt Hall, walk through Dering, go inside Pamplin, and then go around Hahn. And I was thinking of ending it at Davidson. And I think that should be good. Perfect. Okay, so we can start off. Can I start? Yeah. Okay. Get out of your way. Yeah. I know. I think we'll get. As long as I'm pointing to the buildings when I'm looking at it, I think that should be good to do. Okay. [...] And I was thinking of ending it at Davidson. And I think that should be good. Perfect. Okay, so we can start off. Can I start? Yeah. Okay. Get out of your way. Yeah. I know. I think we'll get. As long as I'm pointing to the buildings when I'm looking at it, I think that should be good to do. Okay. [...] And I was thinking of ending it at Davidson. And I think that should be good. Perfect. Okay, so we can start off. Can I start? Yeah. Okay. Get out of your way. Yeah. I know. I think we'll get. As long as I'm pointing to the buildings when I'm looking at it, I think that should be good to do. Okay. So starting off our tour, we're going to start in NCB. This is a multidisciplinary building which hosts classes ranging from Harry Potter history to even a CS class. [...] So starting off our tour, we're going to start in NCB. This is a multidisciplinary building which hosts classes ranging from Harry Potter history to even a CS class. As a CS major, I've taken a lot of classes here. And one of my friends had a Pathways to be taken, and that's where she took Harry Potter history. [...] As a CS major, I've taken a lot of classes here. And one of my friends had a Pathways to be taken, and that's where she took Harry Potter history. So this building has the first-year engineering prep lab. And that's about this way. Here, engineers can come on and make their own kind of projects that they have for their classes.",
+    "gx": -140.50698245698038,
+    "gy": -1.3860970391101706,
+    "gz": -59.87412311949623,
+    "clip_rel_path": "cluster_00/event_005_cluster_0.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 555,
+    "fallback_ratio": 0.0,
+    "narrative_title": "NCB Multidisciplinary Building Intro",
+    "narrative_description": "The expert begins a campus tour, stating an intent to focus on building features and what they offer. The initial focus is the NCB building, characterized as a multidisciplinary facility hosting a wide range of classes, including Computer Science and unique subjects like 'Harry Potter history.' Within NCB, the expert highlights the first-year engineering prep lab, where students can develop their class-related projects. The expert plans to point at buildings as they describe them, confirming active engagement with the visible environment. The outlined tour itinerary includes further visits to Hitt Hall, Dering, Pamplin, Hahn, and Davidson.",
+    "objects": [
+      "NCB building",
+      "first-year engineering prep lab",
+      "Hitt Hall",
+      "Dering building",
+      "Pamplin building",
+      "Hahn building",
+      "Davidson building"
+    ],
+    "actions": [
+      "giving a tour",
+      "recording",
+      "pointing to buildings",
+      "taking classes",
+      "making projects"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "id": 0,
+    "world_gx": 20.24079497410778,
+    "world_gy": 122.53772496988331,
+    "world_gz": 0.18518744203682969
+  },
+  {
+    "cluster_ids": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "cluster_id": 7,
+    "start_ts": 218529498,
+    "end_ts": 237629498,
+    "start_sec": 100.700091275,
+    "duration": 19.099999999999994,
+    "relative_time": "100.7s - 119.8s",
+    "transcript_slice": "So this building has the first-year engineering prep lab. And that's about this way. Here, engineers can come on and make their own kind of projects that they have for their classes. This is open to all first-year to, well, whatever engineering level you're at. And they offer all kinds of materials for you to use with. [...] So this building has the first-year engineering prep lab. And that's about this way. Here, engineers can come on and make their own kind of projects that they have for their classes. This is open to all first-year to, well, whatever engineering level you're at. And they offer all kinds of materials for you to use with. We also have a laser cutting machine in there, a woodworking machine, and all these required trainings for you to do. So like every other building, NCB also has study spots everywhere. [...] We also have a laser cutting machine in there, a woodworking machine, and all these required trainings for you to do. So like every other building, NCB also has study spots everywhere. I've never had the necessity to go to the library to study. And this is one of the newest buildings on campus. On this side of the campus, most of the buildings are new.",
+    "gx": -131.9173881781167,
+    "gy": -1.1640570169402134,
+    "gz": -80.65389884202496,
+    "clip_rel_path": "cluster_07/event_012_cluster_7.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 43,
+    "fallback_ratio": 0.0,
+    "narrative_title": "NCB: Engineering Lab & Study",
+    "narrative_description": "The expert focuses on the NCB building, describing its first-year engineering prep lab. This lab facilitates student projects by providing materials like laser cutting and woodworking machines, accessible to all engineering levels. The building also boasts convenient study spots and is noted as one of the newest facilities on campus. Their attention underscores NCB's functional importance for practical engineering education and academic work.",
+    "objects": [
+      "NCB building",
+      "first-year engineering prep lab",
+      "laser cutting machine",
+      "woodworking machine",
+      "materials",
+      "study spots"
+    ],
+    "actions": [
+      "make projects",
+      "use materials",
+      "do required trainings",
+      "study"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "id": 1,
+    "world_gx": 38.861972359454995,
+    "world_gy": 109.93486645149463,
+    "world_gz": 0.4070447710512037
+  },
+  {
+    "cluster_ids": [
+      10,
+      11,
+      12
+    ],
+    "cluster_id": 12,
+    "start_ts": 250429498,
+    "end_ts": 305529498,
+    "start_sec": 132.600091275,
+    "duration": 55.099999999999994,
+    "relative_time": "132.6s - 187.7s",
+    "transcript_slice": "I've never had the necessity to go to the library to study. And this is one of the newest buildings on campus. On this side of the campus, most of the buildings are new. Beside NCB, we also have USLB. When we exit the building, we will be able to see that. All academic buildings are mostly air-conditioned, and every academic building also has vending machines, so students wouldn't go starving. [...] Every classroom has its own kind of building. Every classroom has its own kind of building. Every classroom has its own kind of building. Every classroom has its own kind of facilities available. This particular classroom is a regional lecture style, but classrooms at NCB also are designed in a way that they're just like collaborative spaces where there's like desks here and there, and well, that's about it. [...] Every classroom has its own kind of building. Every classroom has its own kind of building. Every classroom has its own kind of building. Every classroom has its own kind of facilities available. This particular classroom is a regional lecture style, but classrooms at NCB also are designed in a way that they're just like collaborative spaces where there's like desks here and there, and well, that's about it. All classrooms have whiteboards as well as all the, well, digital screens or projectors usually up front, and the professor usually uses microphones in larger classrooms. [...] This particular classroom is a regional lecture style, but classrooms at NCB also are designed in a way that they're just like collaborative spaces where there's like desks here and there, and well, that's about it. All classrooms have whiteboards as well as all the, well, digital screens or projectors usually up front, and the professor usually uses microphones in larger classrooms. [...] All classrooms have whiteboards as well as all the, well, digital screens or projectors usually up front, and the professor usually uses microphones in larger classrooms. And yes, all the technologies do work here. There is not a broken TV in any classroom. Moving on, I will be talking about the transportation VT has to offer and the facilities. [...] All classrooms have whiteboards as well as all the, well, digital screens or projectors usually up front, and the professor usually uses microphones in larger classrooms. And yes, all the technologies do work here. There is not a broken TV in any classroom. Moving on, I will be talking about the transportation VT has to offer and the facilities. (silence)",
+    "gx": -105.28433850807914,
+    "gy": -1.1390972457447446,
+    "gz": -108.0988241804813,
+    "clip_rel_path": "cluster_12/event_021_cluster_12.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 236,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Modern Classroom Amenities Overview",
+    "narrative_description": "The expert describes a modern academic building, likely NCB, highlighting its new construction and overall campus amenities like air-conditioning and vending machines. They detail various classroom setups, from lecture-style to collaborative spaces featuring desks. The narrative emphasizes the functional technology available in all classrooms, including whiteboards, digital screens, and projectors, noting that microphones are used in larger rooms. This location serves to showcase the well-equipped and modern academic facilities.",
+    "objects": [
+      "buildings",
+      "vending machines",
+      "classrooms",
+      "desks",
+      "whiteboards",
+      "digital screens",
+      "projectors",
+      "microphones",
+      "TV"
+    ],
+    "actions": [
+      "studying",
+      "exiting",
+      "designing",
+      "using",
+      "working",
+      "talking"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "id": 2,
+    "world_gx": 60.37345119304281,
+    "world_gy": 78.31525953668803,
+    "world_gz": 0.4319745830863543
+  },
+  {
+    "cluster_ids": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "cluster_id": 18,
+    "start_ts": 321629498,
+    "end_ts": 354429498,
+    "start_sec": 203.800091275,
+    "duration": 32.80000000000001,
+    "relative_time": "203.8s - 236.6s",
+    "transcript_slice": "(silence) As we exit NCB, we will be right at Orange Bay. This is one of the two transit loops here at Virginia Tech. We have buses running all around Blacksburg, around campus, as well as buses to Christiansburg and Roanoke. The closest building next to our Orange Loop is our DDS, our new building that has been recently built. [...] As we exit NCB, we will be right at Orange Bay. This is one of the two transit loops here at Virginia Tech. We have buses running all around Blacksburg, around campus, as well as buses to Christiansburg and Roanoke. The closest building next to our Orange Loop is our DDS, our new building that has been recently built. [...] The closest building next to our Orange Loop is our DDS, our new building that has been recently built. Right next to DDS is NextEc. This is an extension of DDS, which is for the new Pamplin School of Business, particularly to hospitality and hotel management. There are buses also running to Dulles from Maroon Loop, which is all the way on the other side. The parking lot for off-campus students is the Perry's Parking Garage, which is right about there. [...] Right next to DDS is NextEc. This is an extension of DDS, which is for the new Pamplin School of Business, particularly to hospitality and hotel management. There are buses also running to Dulles from Maroon Loop, which is all the way on the other side. The parking lot for off-campus students is the Perry's Parking Garage, which is right about there. [...] Right next to DDS is NextEc. This is an extension of DDS, which is for the new Pamplin School of Business, particularly to hospitality and hotel management. There are buses also running to Dulles from Maroon Loop, which is all the way on the other side. The parking lot for off-campus students is the Perry's Parking Garage, which is right about there. And for freshmen, the parking is usually on the other side of the campus at Duck Pond, so I would encourage you not to get your cars on campus.",
+    "gx": -82.4181373339025,
+    "gy": -1.1441547033364552,
+    "gz": -125.17427511646622,
+    "clip_rel_path": "cluster_18/event_026_cluster_18.mp4",
+    "mean_quality": 0.9928571428571429,
+    "sample_count": 114,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Orange Loop Transit and Parking",
+    "narrative_description": "The expert details the Orange Bay transit loop as a central transportation hub serving local towns and campus. They highlight the newly constructed DDS building and its NextEc extension, home to the Pamplin School of Business, as immediate architectural features. The narrative shifts to campus parking, identifying Perry's Parking Garage for off-campus students and advising freshmen against bringing cars due to distant parking at Duck Pond. This area serves as a significant informational nexus, connecting transit, academics, and practical campus logistics.",
+    "objects": [
+      "Orange Loop",
+      "Buses",
+      "DDS building",
+      "NextEc building",
+      "Perry's Parking Garage"
+    ],
+    "actions": [
+      "Buses running",
+      "Buildings constructed",
+      "Students parking"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "id": 3,
+    "world_gx": 72.48789067129557,
+    "world_gy": 52.475860595923756,
+    "world_gz": 0.4269855147027627
+  },
+  {
+    "cluster_ids": [
+      21,
+      22,
+      23,
+      24,
+      26,
+      27,
+      28
+    ],
+    "cluster_id": 27,
+    "start_ts": 371829498,
+    "end_ts": 392529498,
+    "start_sec": 254.000091275,
+    "duration": 20.69999999999999,
+    "relative_time": "254.0s - 274.7s",
+    "transcript_slice": "And for freshmen, the parking is usually on the other side of the campus at Duck Pond, so I would encourage you not to get your cars on campus. We encourage our students to ride bikes all over campus, so we have bike stands pretty much everywhere. Right now, it's a weekend, so that's why it's probably a little empty here. We're now entering Hitt Hall. Hitt Hall also has classes held for many majors, but the Myers Lawson School of Construction is located inside Hitt Hall. [...] We encourage our students to ride bikes all over campus, so we have bike stands pretty much everywhere. Right now, it's a weekend, so that's why it's probably a little empty here. We're now entering Hitt Hall. Hitt Hall also has classes held for many majors, but the Myers Lawson School of Construction is located inside Hitt Hall. [...] Right now, it's a weekend, so that's why it's probably a little empty here. We're now entering Hitt Hall. Hitt Hall also has classes held for many majors, but the Myers Lawson School of Construction is located inside Hitt Hall. They have a really cool lab with a walking dog, with a robot dog, I believe, in there. And this also, this is one of the academic buildings that also has the Hitt Hall.",
+    "gx": -61.69993963386793,
+    "gy": -1.0711066039069357,
+    "gz": -114.84680487825645,
+    "clip_rel_path": "cluster_27/event_035_cluster_27.mp4",
+    "mean_quality": 0.943452380952381,
+    "sample_count": 80,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Entering Hitt Hall Overview",
+    "narrative_description": "The expert guides into Hitt Hall, an academic building housing numerous majors and the Myers Lawson School of Construction. They highlight a unique lab within, featuring a robot dog. The area appears empty, which the expert attributes to it being a weekend, while also noting the campus-wide availability of bike stands. The narrative emphasizes Hitt Hall's academic significance and campus transportation culture.",
+    "objects": [
+      "Hitt Hall",
+      "bike stands",
+      "lab",
+      "robot dog"
+    ],
+    "actions": [
+      "entering",
+      "gesturing"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "id": 4,
+    "world_gx": 58.19526078360421,
+    "world_gy": 34.26539590018136,
+    "world_gz": 0.5004698140280588
+  },
+  {
+    "cluster_ids": [
+      29,
+      30,
+      31
+    ],
+    "cluster_id": 31,
+    "start_ts": 398629498,
+    "end_ts": 409429498,
+    "start_sec": 280.800091275,
+    "duration": 10.800000000000011,
+    "relative_time": "280.8s - 291.6s",
+    "transcript_slice": "They have a really cool lab with a walking dog, with a robot dog, I believe, in there. And this also, this is one of the academic buildings that also has the Hitt Hall. a dining inside it that is a Paris place. Paris place has a lot to offer if we go [...] a dining inside it that is a Paris place. Paris place has a lot to offer if we go in again once again it's currently closed but we do have 24-hour breakfast at SolarX and Rambutan's got your Asian bowls, ramen, we got a little cute cafe",
+    "gx": -42.86735852014199,
+    "gy": -0.850760732088743,
+    "gz": -121.29279893284483,
+    "clip_rel_path": "cluster_31/event_039_cluster_31.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 34,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Campus Dining Options Overview",
+    "narrative_description": "The expert observes an academic building, specifically Hitt Hall, and describes the dining establishments available within it. They emphasize \"Paris place\" as a significant offering, noting its current closure but past variety. Additionally, the expert points out \"SolarX\" for 24-hour breakfast and \"Rambutan\" for Asian bowls and ramen. This detailed explanation highlights the diverse food services accessible in this campus location, including a cute cafe.",
+    "objects": [
+      "lab",
+      "robot dog",
+      "academic buildings",
+      "Hitt Hall",
+      "dining",
+      "Paris place",
+      "SolarX",
+      "Rambutan",
+      "bowls",
+      "ramen",
+      "cafe"
+    ],
+    "actions": [
+      "walking",
+      "go in",
+      "closed",
+      "have breakfast"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "id": 5,
+    "world_gx": 60.711809067499075,
+    "world_gy": 14.519918900444393,
+    "world_gz": 0.7209825070131393
+  },
+  {
+    "cluster_ids": [
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ],
+    "cluster_id": 34,
+    "start_ts": 444929498,
+    "end_ts": 477229498,
+    "start_sec": 327.100091275,
+    "duration": 32.30000000000001,
+    "relative_time": "327.1s - 359.4s",
+    "transcript_slice": "through our dining website for. Exiting Hitt Hall we're gonna take a cool kind of excursion through through a hall as a bridge but before we go there one thing to notice is that these gray stones are on all like around most of the campus [...] of excursion through through a hall as a bridge but before we go there one thing to notice is that these gray stones are on all like around most of the campus it's called the Hokie stone which is locally sourced in Blacksburg but the building that we're looking at right now the Daring Hall is one of the older halls which does not have the Hokie stone on it. As we can see it has not been power washed in a good bit. Inside Daring Hall we also [...] it's called the Hokie stone which is locally sourced in Blacksburg but the building that we're looking at right now the Daring Hall is one of the older halls which does not have the Hokie stone on it. As we can see it has not been power washed in a good bit. Inside Daring Hall we also [...] can see it has not been power washed in a good bit. Inside Daring Hall we also this is the hall for the biological and geological sciences here at Tech most of your bio labs would be inside the Daring Hall. On the second floor of this particular hall we also have a rock museum I hear and apparently we have a",
+    "gx": -8.762209423739233,
+    "gy": -1.0831441258686474,
+    "gz": -99.76640242737406,
+    "clip_rel_path": "cluster_34/event_042_cluster_34.mp4",
+    "mean_quality": 0.9170454545454545,
+    "sample_count": 77,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Daring Hall: Older, No Hokie Stone",
+    "narrative_description": "The expert focuses on Daring Hall, noting it's an older campus building that conspicuously lacks the common local Hokie stone and appears un-power washed. They explain its primary function as the hub for biological and geological sciences, housing bio labs. Additionally, the building contains a rock museum, highlighting its distinct academic and architectural characteristics compared to newer campus structures.",
+    "objects": [
+      "Daring Hall",
+      "Hokie stone",
+      "gray stones",
+      "bio labs",
+      "rock museum"
+    ],
+    "actions": [
+      "explaining",
+      "pointing out",
+      "describing"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "id": 6,
+    "world_gx": 32.75112712723868,
+    "world_gy": -14.544622562612805,
+    "world_gz": 0.4893828132855041
+  },
+  {
+    "cluster_ids": [
+      25,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "cluster_id": 45,
+    "start_ts": 483429498,
+    "end_ts": 516829498,
+    "start_sec": 365.600091275,
+    "duration": 33.39999999999998,
+    "relative_time": "365.6s - 399.0s",
+    "transcript_slice": "this is the hall for the biological and geological sciences here at Tech most of your bio labs would be inside the Daring Hall. On the second floor of this particular hall we also have a rock museum I hear and apparently we have a form of a t-rex bone and I hear that really rocks. So while we pass through [...] form of a t-rex bone and I hear that really rocks. So while we pass through this bridge this connection between this side of the academic side to the other [...] this bridge this connection between this side of the academic side to the other side I'm going to be talking a little bit about academics here at VT. We have over 31 31 thousand students in total over over 30,000 over 29,000 [...] this bridge this connection between this side of the academic side to the other side I'm going to be talking a little bit about academics here at VT. We have over 31 31 thousand students in total over over 30,000 over 29,000 undergraduate students and over 3,000 graduate students. As I mentioned I wasn't lying there are vending machines everywhere and study [...] side I'm going to be talking a little bit about academics here at VT. We have over 31 31 thousand students in total over over 30,000 over 29,000 undergraduate students and over 3,000 graduate students. As I mentioned I wasn't lying there are vending machines everywhere and study",
+    "gx": -12.0350674722423,
+    "gy": -1.44492976429136,
+    "gz": -74.60309595868841,
+    "clip_rel_path": "cluster_45/event_054_cluster_45.mp4",
+    "mean_quality": 0.8615985576923078,
+    "sample_count": 122,
+    "fallback_ratio": 0.078125,
+    "narrative_title": "Academic Bridge and Science Hall",
+    "narrative_description": "The expert focuses on a bridge connecting different academic sections of the university while passing through it. They identify an adjacent building as the Biological and Geological Sciences Hall, home to bio labs and a notable rock museum with a T-Rex bone. This prominent connection serves as a point for the expert to explain the hall's purpose and discuss general university academics, including student enrollment numbers. The expert also notes the ubiquitous presence of vending machines in the area. Their intent is to inform and guide, linking specific campus structures to broader institutional facts.",
+    "objects": [
+      "Biological and Geological Sciences Hall",
+      "Daring Hall",
+      "Bio labs",
+      "Rock museum",
+      "T-Rex bone",
+      "Bridge",
+      "Vending machines"
+    ],
+    "actions": [
+      "Passing through",
+      "Explaining"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "id": 7,
+    "world_gx": 8.764466634515474,
+    "world_gy": -6.265495680710196,
+    "world_gz": 0.12791694905221013
+  },
+  {
+    "cluster_ids": [
+      47,
+      49,
+      50
+    ],
+    "cluster_id": 49,
+    "start_ts": 548929498,
+    "end_ts": 570329498,
+    "start_sec": 431.100091275,
+    "duration": 21.399999999999977,
+    "relative_time": "431.1s - 452.5s",
+    "transcript_slice": "different colleges and have over 140 paths for students to take in pursuing what they want to pursue. I myself am a computer science major with minors in artificial intelligence human-computer interaction and entrepreneurship so VT is very flexible with what you want to do. As we are now approaching the Pamplin the Pamplin School of Businesses building [...] artificial intelligence human-computer interaction and entrepreneurship so VT is very flexible with what you want to do. As we are now approaching the Pamplin the Pamplin School of Businesses building this is a really cool building I will say why when we enter but this is the [...] this is a really cool building I will say why when we enter but this is the building mostly for the business students and here is where you will also find Pamplin careers and they help you with a lot of things actually hold a lot",
+    "gx": 10.732624698745937,
+    "gy": -1.2398369644496865,
+    "gz": -31.94053186414728,
+    "clip_rel_path": "cluster_49/event_057_cluster_49.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 32,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Approaching Pamplin Business Building",
+    "narrative_description": "The expert is actively approaching the Pamplin School of Business building, describing it as a \"really cool\" and significant structure primarily for business students. They highlight that this building also houses Pamplin Careers, a crucial resource offering extensive student support. The expert intends to explain the building's unique characteristics upon entry, emphasizing its central role for business-related university functions.",
+    "objects": [
+      "Pamplin School of Business building",
+      "Pamplin Careers office"
+    ],
+    "actions": [
+      "approaching",
+      "entering",
+      "finding",
+      "helping",
+      "holding events"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "id": 8,
+    "world_gx": -37.61242357889811,
+    "world_gy": -19.963884353637695,
+    "world_gz": 0.33394332757840556
+  },
+  {
+    "cluster_ids": [
+      51,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      75
+    ],
+    "cluster_id": 75,
+    "start_ts": 593729498,
+    "end_ts": 791429498,
+    "start_sec": 475.900091275,
+    "duration": 197.69999999999993,
+    "relative_time": "475.9s - 673.6s",
+    "transcript_slice": "skills and etc. Fun fact before we enter Pamplin is that a lot of these buildings are actually connected Pamplin is connected to Robeson which is on my right and Robeson is connected to Hahn North which is connected to Hahn South which is also connected by an underground path to Davidson Hall where [...] abroad. On another note if you're interested in research VT also has a lot of research opportunities available for you. We are on the top ranks for a research university so even though if you're not really inclined to doing a research definitely getting involved in a program would be really beneficial for you. After high school I really hated the aspect of research but then here when I did get an opportunity to take part in one I did and I think I'm really having a really good time in there. It's [...] of research opportunities available for you. We are on the top ranks for a research university so even though if you're not really inclined to doing a research definitely getting involved in a program would be really beneficial for you. After high school I really hated the aspect of research but then here when I did get an opportunity to take part in one I did and I think I'm really having a really good time in there. It's [...] for you. After high school I really hated the aspect of research but then here when I did get an opportunity to take part in one I did and I think I'm really having a really good time in there. It's not about what you produce but it's also a lot of experience that you gain and a lot of skills that you develop from participating in one. As we are",
+    "gx": 39.0007256925423,
+    "gy": 1.0206309869279555,
+    "gz": 15.680009512378348,
+    "clip_rel_path": "cluster_75/event_088_cluster_75.mp4",
+    "mean_quality": 0.9183566433566434,
+    "sample_count": 88,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Campus Connections and Research Insights",
+    "narrative_description": "The expert's gaze is fixed on Pamplin Hall, noting its connection to Robeson Hall, located to their right. They explain the \"fun fact\" that Pamplin is part of a complex network of interconnected campus buildings, including Hahn North, Hahn South, and Davidson Hall via an underground path. The discussion then shifts to highlighting Virginia Tech's significant research opportunities and high ranking as a research university. The expert shares a personal anecdote, evaluating their initial dislike but current enjoyment and benefit from participating in university research programs. This location prompts both an explanation of campus architecture and an enthusiastic endorsement of academic engagement at the university.",
+    "objects": [
+      "Pamplin Hall",
+      "Robeson Hall",
+      "Hahn North",
+      "Hahn South",
+      "Davidson Hall",
+      "underground path"
+    ],
+    "actions": [
+      "describing campus layout",
+      "explaining research opportunities",
+      "evaluating personal experience"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "id": 9,
+    "world_gx": -89.9544414173473,
+    "world_gy": -38.05006064068188,
+    "world_gz": 2.59549281001091
+  },
+  {
+    "cluster_ids": [
+      52,
+      53,
+      54,
+      55,
+      56,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67
+    ],
+    "cluster_id": 52,
+    "start_ts": 625229498,
+    "end_ts": 771529498,
+    "start_sec": 507.400091275,
+    "duration": 146.29999999999995,
+    "relative_time": "507.4s - 653.7s",
+    "transcript_slice": "nice greenery kind of situation going on in there. Students usually find this very welcoming and energetic to be around and that's what attracts this hall mostly I usually hang out here because it's in between it's like around the center of [...] usually hang out here because it's in between it's like around the center of the campus and me and my friends catch up here during school days like in the middle of the day where I want to grab a lunch or something we just get and we'd [...] offer such as study abroad program. So VT really encourages our students to participate in study abroad opportunities. More information on that is available on our website. Personally I have a few friends doing a study abroad opportunity. Currently a friend of mine is in Spain for an entire semester and another fellow Hokie ambassador is also in Switzerland doing a semester [...] opportunity. Currently a friend of mine is in Spain for an entire semester and another fellow Hokie ambassador is also in Switzerland doing a semester abroad. On another note if you're interested in research VT also has a lot [...] opportunity. Currently a friend of mine is in Spain for an entire semester and another fellow Hokie ambassador is also in Switzerland doing a semester abroad. On another note if you're interested in research VT also has a lot of research opportunities available for you. We are on the top ranks for a research university so even though if you're not really inclined to doing a research definitely getting involved in a program would be really beneficial [...] abroad. On another note if you're interested in research VT also has a lot of research opportunities available for you. We are on the top ranks for a research university so even though if you're not really inclined to doing a research definitely getting involved in a program would be really beneficial",
+    "gx": 59.83045976494914,
+    "gy": 1.4263958006769788,
+    "gz": 7.737438062184964,
+    "clip_rel_path": "cluster_52/event_074_cluster_52.mp4",
+    "mean_quality": 0.9198051948051947,
+    "sample_count": 145,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Central Green Campus Hub",
+    "narrative_description": "The expert highlights a central campus area, noting its appealing greenery and welcoming atmosphere as a popular student gathering spot. This location serves as an ideal place for friends to socialize and have lunch between classes. From this comfortable setting, the expert elaborates on university opportunities, specifically discussing study abroad programs and extensive research initiatives. They emphasize VT's strong encouragement for student participation and its distinguished research university ranking.",
+    "objects": [
+      "greenery",
+      "campus area",
+      "hall"
+    ],
+    "actions": [
+      "explaining",
+      "describing",
+      "gathering",
+      "gesturing"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "id": 10,
+    "world_gx": -86.37471808518113,
+    "world_gy": -60.05341728091677,
+    "world_gz": 3.001430342725451
+  },
+  {
+    "cluster_ids": [
+      57,
+      58,
+      59
+    ],
+    "cluster_id": 57,
+    "start_ts": 664229498,
+    "end_ts": 721129498,
+    "start_sec": 546.400091275,
+    "duration": 56.89999999999998,
+    "relative_time": "546.4s - 603.3s",
+    "transcript_slice": "every every hall has its own benefits and particular target audiences for again business majors and as I see that there is a middle kind of podium for the professor and students usually sit around. Main features of this classroom is that it definitely has your VT alerts clock. Which should be right about there and this clock is not just a regular clock I [...] is that it definitely has your VT alerts clock. Which should be right about there and this clock is not just a regular clock I hear because they also produce VT alerts when something important has to be shared to our students and so most professors don't encourage you using your phone in your class and that's why this is a really key point to most buildings here on campus. Other than that this classroom also has a blackboard a projector drop-down and professors usually use microphones and these classes as well. Perfect. Moving on we would be headed to the Hahn Hall. So [...] your phone in your class and that's why this is a really key point to most buildings here on campus. Other than that this classroom also has a blackboard a projector drop-down and professors usually use microphones and these classes as well. Perfect. Moving on we would be headed to the Hahn Hall. So [...] your phone in your class and that's why this is a really key point to most buildings here on campus. Other than that this classroom also has a blackboard a projector drop-down and professors usually use microphones and these classes as well. Perfect. Moving on we would be headed to the Hahn Hall. So (silence) [...] projector drop-down and professors usually use microphones and these classes as well. Perfect. Moving on we would be headed to the Hahn Hall. So (silence)",
+    "gx": 71.59227703663501,
+    "gy": 1.2341179001181564,
+    "gz": -20.029441835336954,
+    "clip_rel_path": "cluster_57/event_066_cluster_57.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 348,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Classroom Technology and Alerts",
+    "narrative_description": "The expert details a typical classroom setup, noting a central podium for the professor and general student seating arrangements. They highlight the crucial \"VT alerts clock,\" which functions as both a timepiece and an emergency notification system, emphasizing its importance given policies discouraging phone use. This classroom, likely for business majors, also features a blackboard, a drop-down projector, and microphones for professor use. The explanation thoroughly covers the functional and social context of these integrated teaching tools.",
+    "objects": [
+      "Podium",
+      "VT alerts clock",
+      "Blackboard",
+      "Projector",
+      "Microphones"
+    ],
+    "actions": [
+      "Students sitting",
+      "VT alerts clock producing alerts",
+      "Professors discouraging phone use",
+      "Professors using microphones"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "id": 11,
+    "world_gx": -61.54952666634473,
+    "world_gy": -77.17211300714769,
+    "world_gz": 2.808912245310573
+  },
+  {
+    "cluster_ids": [
+      76,
+      77,
+      78,
+      79
+    ],
+    "cluster_id": 77,
+    "start_ts": 795629498,
+    "end_ts": 810029498,
+    "start_sec": 677.800091275,
+    "duration": 14.399999999999977,
+    "relative_time": "677.8s - 692.2s",
+    "transcript_slice": "not about what you produce but it's also a lot of experience that you gain and a lot of skills that you develop from participating in one. As we are approaching Hahn Hall this hall has bigger lecture halls although we have a saying that VT's average class size is 25 to 30 students. These classes can hold [...] approaching Hahn Hall this hall has bigger lecture halls although we have a saying that VT's average class size is 25 to 30 students. These classes can hold up to 200 people and why exactly is that? I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. These bigger classes usually have smaller classes for recitation to",
+    "gx": 18.24792314920512,
+    "gy": 0.6201488316491321,
+    "gz": 24.89647580397275,
+    "clip_rel_path": "cluster_77/event_090_cluster_77.mp4",
+    "mean_quality": 0.8423076923076923,
+    "sample_count": 46,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Hahn Hall Large Lecture Spaces",
+    "narrative_description": "The expert focuses on Hahn Hall, specifically its larger lecture halls. They explain these halls can accommodate up to 200 students, contrasting with Virginia Tech's typical class size of 25-30. The expert notes these larger classes often include smaller recitation sections to maintain educational quality. Their active left hand likely gestures towards the building while explaining the functional context of its academic spaces.",
+    "objects": [
+      "Hahn Hall",
+      "lecture halls",
+      "recitation classes"
+    ],
+    "actions": [
+      "approaching",
+      "explaining",
+      "gesturing"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "id": 12,
+    "world_gx": -94.79740905761719,
+    "world_gy": -15.865209817886353,
+    "world_gz": 2.1948574781417847
+  },
+  {
+    "cluster_ids": [
+      80,
+      81,
+      82,
+      83
+    ],
+    "cluster_id": 82,
+    "start_ts": 822729498,
+    "end_ts": 833129498,
+    "start_sec": 704.900091275,
+    "duration": 10.399999999999977,
+    "relative_time": "704.9s - 715.3s",
+    "transcript_slice": "up to 200 people and why exactly is that? I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. These bigger classes usually have smaller classes for recitation to maintain our class average usually. Right there is a physics lab that is for our general physics mostly and this hall also has labs for chemistry and the physics and chemistry lecture halls as well. Perfect. So we will now be [...] maintain our class average usually. Right there is a physics lab that is for our general physics mostly and this hall also has labs for chemistry and the physics and chemistry lecture halls as well. Perfect. So we will now be [...] maintain our class average usually. Right there is a physics lab that is for our general physics mostly and this hall also has labs for chemistry and the physics and chemistry lecture halls as well. Perfect. So we will now be entering Hahn Hall. So before we move on I will be showing you an example lecture",
+    "gx": -8.317240577906277,
+    "gy": -0.6863175775155131,
+    "gz": 32.17882864459716,
+    "clip_rel_path": "cluster_82/event_095_cluster_82.mp4",
+    "mean_quality": 0.984375,
+    "sample_count": 49,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Hahn Hall Science Facilities",
+    "narrative_description": "The expert's gaze focuses on Hahn Hall, identifying it as a significant academic building. They specifically point out the presence of physics labs, chemistry labs, and corresponding lecture halls within the structure. This highlights the building's function as a central location for general physics and chemistry courses. The expert then states the group will be entering Hahn Hall to view an example lecture.",
+    "objects": [
+      "Hahn Hall",
+      "Physics labs",
+      "Chemistry labs",
+      "Lecture halls"
+    ],
+    "actions": [
+      "Entering building",
+      "Describing academic facilities",
+      "Planning a demonstration"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "id": 13,
+    "world_gx": -96.5740966796875,
+    "world_gy": 11.622665405273438,
+    "world_gz": 0.8881294913589954
+  },
+  {
+    "cluster_ids": [
+      84,
+      85,
+      86,
+      87,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94
+    ],
+    "cluster_id": 91,
+    "start_ts": 878129498,
+    "end_ts": 974229498,
+    "start_sec": 760.300091275,
+    "duration": 96.10000000000002,
+    "relative_time": "760.3s - 856.4s",
+    "transcript_slice": "pretty much everywhere on campus. This is one of our lecture halls here as I mentioned can hold up to 200 students. This has a double projector on top so [...] pretty much everywhere on campus. This is one of our lecture halls here as I mentioned can hold up to 200 students. This has a double projector on top so professors make sure that everyone here can see what they're trying to project. A long whiteboard and this black table in between is situated in a way such [...] mentioned can hold up to 200 students. This has a double projector on top so professors make sure that everyone here can see what they're trying to project. A long whiteboard and this black table in between is situated in a way such [...] professors make sure that everyone here can see what they're trying to project. A long whiteboard and this black table in between is situated in a way such that everyone is able to look at it and again of course our VT alerts clock is right up there. Usually here's where I ask questions and they answer, they take a seat, yada, yada, yada. [...] that everyone is able to look at it and again of course our VT alerts clock is right up there. Usually here's where I ask questions and they answer, they take a seat, yada, yada, yada. So I think we'll be moving on. It's dramatic. Yeah we're done here. It's usually that. Oh no, but I hear that it's mainly situated for that. Oh really? [...] Oh. All building is gonna be taken over by another college. Oh okay. That's crazy. Cuz we get like a fact packet and then we get updates every time we need to say something else. Can you contact them to let them direct them? Administration? Yeah. Yeah. So right now she's not doing that. Her name is Ashton Engle. She changed positions but then she was our coordinator for the school. [...] Can you contact them to let them direct them? Administration? Yeah. Yeah. So right now she's not doing that. Her name is Ashton Engle. She changed positions but then she was our coordinator for the school. Okay. We will for sure contact them. Definitely give them some information. [...] Okay. We will for sure contact them. Definitely give them some information. Yeah. Um. HTM probably have very tiny part of that. Yeah. Okay. They're the tiniest department in Pembroke. I'm surprised that maybe the student is from HTM.",
+    "gx": -57.508041953608995,
+    "gy": -1.3019114119055932,
+    "gz": 51.48490001537576,
+    "clip_rel_path": "cluster_91/event_104_cluster_91.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 110,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Lecture Hall Features and Use",
+    "narrative_description": "The expert describes a lecture hall built for 200 students, highlighting its double projector for clear visibility and a long whiteboard with a black table optimally situated for the audience. They point out a VT alerts clock and contextualize the space by describing typical student interactions. While observing the lecture hall, the expert discusses the building's future administrative changes and departmental roles. This observation explains the functional design of the space and reveals related logistical information.",
+    "objects": [
+      "lecture hall",
+      "projector (double)",
+      "whiteboard (long)",
+      "table (black)",
+      "VT alerts clock"
+    ],
+    "actions": [
+      "explaining features",
+      "professors projecting",
+      "students seeing",
+      "students looking",
+      "expert asking questions",
+      "students answering",
+      "students taking a seat",
+      "left hand active",
+      "discussing administrative changes",
+      "discussing contacting administration"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "id": 14,
+    "world_gx": -105.56572849657003,
+    "world_gy": 63.695781276026814,
+    "world_gz": 0.2721357356363407
+  },
+  {
+    "cluster_ids": [
+      95,
+      96,
+      97,
+      98
+    ],
+    "cluster_id": 95,
+    "start_ts": 997129498,
+    "end_ts": 1031629498,
+    "start_sec": 879.300091275,
+    "duration": 34.5,
+    "relative_time": "879.3s - 913.8s",
+    "transcript_slice": "Maybe. Oh she did do hospitality management. Yeah. That makes sense. Yeah. There's no way HTM has a whole building. That makes sense. Yeah. Okay perfect. Now we can see one of my favorite places on campus. The duck pond if you squint. Yeah. Squint your eyes and look ahead. That would be duck pond. Did you call that? Did you call that pond over there? Yeah. He's been recording everything. [...] Yeah. Squint your eyes and look ahead. That would be duck pond. Did you call that? Did you call that pond over there? Yeah. He's been recording everything. That's okay. We can cut it out. We can cut it out. That's okay. I was like. We can cut it out. Uh duck pond is one of the most like what am I saying? Okay I forgot my vocabulary there but it's the most scenic place on campus. [...] We have a saying. Yeah. We have a saying that if you hold your partner's hand and walk around the duck pond completely you're destined for each other. We they actually make us say that on tours by the way. Really?",
+    "gx": -68.12714600732929,
+    "gy": -1.3896473287477622,
+    "gz": 93.70953576686442,
+    "clip_rel_path": "cluster_95/event_108_cluster_95.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 52,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Campus's Scenic Duck Pond",
+    "narrative_description": "The expert focuses intently on the campus duck pond, describing it as one of their favorite and most scenic places. They explain a campus tradition that holding a partner's hand while walking around the pond ensures they are destined for each other. This highlights the pond not only as a natural feature but also as a significant social and emotional landmark. Their attention reveals the profound sentimental value and traditional lore associated with this specific location.",
+    "objects": [
+      "duck pond"
+    ],
+    "actions": [
+      "explaining",
+      "pointing out",
+      "squinting",
+      "walking around",
+      "holding hands"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "at_water_body",
+      "proximity_to_path": "on_path"
+    },
+    "id": 15,
+    "world_gx": -144.78216289173474,
+    "world_gy": 82.61023580377753,
+    "world_gz": 0.1848655337891118
+  },
+  {
+    "cluster_ids": [
+      99,
+      100
+    ],
+    "cluster_id": 99,
+    "start_ts": 1045429498,
+    "end_ts": 1064029498,
+    "start_sec": 927.600091275,
+    "duration": 18.600000000000023,
+    "relative_time": "927.6s - 946.2s",
+    "transcript_slice": "Yep. About yeah we say a lot of things on tours. Behind duck pond is Oakland where most of the Greek life and Greek houses are at. That's just information and about 17 to 20% of our students are involved in Greek life on campus. Perfect. Now we can see Davidson Hall on to our left. [...] Perfect. Now we can see Davidson Hall on to our left. This is the hall that has the campus. This is one of the chemistry lecture halls and one of the connections from the long path that I was mentioning. That's a fun fact that I learned from a professor because he had to take a particular I forget what but without exposure to outside from one place to another.",
+    "gx": -46.268581820986526,
+    "gy": -0.8745070256621731,
+    "gz": 126.43411428074081,
+    "clip_rel_path": "cluster_99/event_112_cluster_99.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 21,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Davidson Hall: Lecture & Path",
+    "narrative_description": "The expert focuses on Davidson Hall, identifying it as a prominent campus building housing chemistry lecture halls. They highlight its unique structural design, functioning as a connection point from a long path to facilitate indoor passage. This architectural feature, allowing movement without outdoor exposure, is shared as a \"fun fact\" learned from a professor. Earlier, the expert provided general context about Greek life in Oakland, behind the duck pond. The primary intent is to point out and explain the hall's functional significance and its unique design for campus navigation, likely reinforced by active gesturing.",
+    "objects": [
+      "Davidson Hall",
+      "Duck pond",
+      "Greek houses",
+      "Long path",
+      "Walkway"
+    ],
+    "actions": [
+      "Pointing out",
+      "Describing",
+      "Explaining",
+      "Gesturing",
+      "Traversing"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "id": 16,
+    "world_gx": -181.24185485839843,
+    "world_gy": 67.79858741760253,
+    "world_gz": 0.7007826894521714
+  },
+  {
+    "cluster_ids": [
+      101,
+      102,
+      105,
+      106,
+      107,
+      108,
+      109
+    ],
+    "cluster_id": 101,
+    "start_ts": 1085229498,
+    "end_ts": 1115229498,
+    "start_sec": 967.400091275,
+    "duration": 30.0,
+    "relative_time": "967.4s - 997.4s",
+    "transcript_slice": "Perfect. Now as we cut through this we will be entering we will be looking at the crown jewel of our campus that is the Burris Hall. I never had the opportunity to tour around Virginia Tech before I before I came here. As an international student all I had was Google Maps and whatever it could show me was only Burris Hall when I searched up Virginia Tech. [...] I never had the opportunity to tour around Virginia Tech before I before I came here. As an international student all I had was Google Maps and whatever it could show me was only Burris Hall when I searched up Virginia Tech. So before we head on there on to my left is Hahn Hall South. [...] So before we head on there on to my left is Hahn Hall South. And if you can take a sneak peek at the drill field which is right behind Davidson Hall on the other side. [...] And if you can take a sneak peek at the drill field which is right behind Davidson Hall on the other side. As we walk up we're going to enter a place like a quadrant with our Pamplin School of Business.",
+    "gx": -11.824772266030404,
+    "gy": -0.7866785870291627,
+    "gz": 146.19957602126124,
+    "clip_rel_path": "cluster_101/event_114_cluster_101.mp4",
+    "mean_quality": 0.8571428571428571,
+    "sample_count": 75,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Burris Hall and Campus Landmarks",
+    "narrative_description": "The expert focuses on Burris Hall, presenting it as the campus's \"crown jewel\" and a personally significant, iconic landmark. They point out Hahn Hall South to their left and the Drill Field situated behind Davidson Hall. The expert then describes the upcoming path, leading into a quadrant containing the Pamplin School of Business. This location serves as a central point for introducing key campus architecture and their navigational context.",
+    "objects": [
+      "Burris Hall",
+      "Hahn Hall South",
+      "Davidson Hall",
+      "Drill Field",
+      "Pamplin School of Business",
+      "quadrant"
+    ],
+    "actions": [
+      "cutting through",
+      "entering",
+      "looking at",
+      "heading on",
+      "taking a sneak peek",
+      "walking up",
+      "pointing out"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "id": 17,
+    "world_gx": -207.5460418701172,
+    "world_gy": 38.04729995727539,
+    "world_gz": 0.78937396556139
+  },
+  {
+    "cluster_ids": [
+      110,
+      111,
+      112,
+      113
+    ],
+    "cluster_id": 110,
+    "start_ts": 1123729498,
+    "end_ts": 1138729498,
+    "start_sec": 1005.900091275,
+    "duration": 15.0,
+    "relative_time": "1005.9s - 1020.9s",
+    "transcript_slice": "As we walk up we're going to enter a place like a quadrant with our Pamplin School of Business. Alongside Williams Hall. Before we move on there BT has about over 900 clubs and organizations that you can be part of. [...] Alongside Williams Hall. Before we move on there BT has about over 900 clubs and organizations that you can be part of. (silence)",
+    "gx": 11.561817795699795,
+    "gy": 1.138253727105735,
+    "gz": 124.91319955617153,
+    "clip_rel_path": "cluster_110/event_121_cluster_110.mp4",
+    "mean_quality": 0.9694055944055944,
+    "sample_count": 49,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Pamplin Business Quadrant",
+    "narrative_description": "The expert guides the listener into a distinct campus quadrant. This academic hub prominently features the Pamplin School of Business and Williams Hall. Providing broader context, the expert notes the university's vibrant social scene, boasting over 900 clubs and organizations. Their active left hand likely gestures to identify these significant campus landmarks. This explanation serves to orient the audience within the university's academic and social landscape.",
+    "objects": [
+      "Pamplin School of Business",
+      "Williams Hall",
+      "quadrant"
+    ],
+    "actions": [
+      "walking",
+      "entering",
+      "describing",
+      "explaining",
+      "gesturing"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "id": 18,
+    "world_gx": -191.41204452514648,
+    "world_gy": 10.849202752113342,
+    "world_gz": 2.7143207788467407
+  },
+  {
+    "cluster_ids": [
+      114,
+      115,
+      116
+    ],
+    "cluster_id": 116,
+    "start_ts": 1146029498,
+    "end_ts": 1155529498,
+    "start_sec": 1028.200091275,
+    "duration": 9.5,
+    "relative_time": "1028.2s - 1037.7s",
+    "transcript_slice": "(silence) Just to mention a few we have a fun ones actually. We have a chocolate milk drinking club. They meet on Mondays at 6 p.m. at one of our all you can eat dining halls on campus just to drink. [...] Just to mention a few we have a fun ones actually. We have a chocolate milk drinking club. They meet on Mondays at 6 p.m. at one of our all you can eat dining halls on campus just to drink. Just to socialize. We solely drink chocolate milk actually. And another club that is to be mentioned is the Squirtle Watching Club.",
+    "gx": 26.67692145222479,
+    "gy": 1.7018355732950852,
+    "gz": 111.36263410946096,
+    "clip_rel_path": "cluster_116/event_127_cluster_116.mp4",
+    "mean_quality": 0.7027777777777778,
+    "sample_count": 32,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Campus Club Introductions",
+    "narrative_description": "The expert, while focused on a general area, describes the diverse and engaging social clubs available on campus. They highlight the unique Chocolate Milk Drinking Club, which meets weekly at campus dining halls for socializing. The expert also mentions the distinctive Squirtle Watching Club, showcasing the breadth of student interests and campus social life.",
+    "objects": [
+      "dining halls",
+      "campus"
+    ],
+    "actions": [
+      "meeting",
+      "drinking",
+      "socializing",
+      "watching"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "id": 19,
+    "world_gx": -181.18729654947916,
+    "world_gy": -6.687578519185384,
+    "world_gz": 3.2779150009155273
+  },
+  {
+    "cluster_ids": [
+      117,
+      118,
+      119,
+      120
+    ],
+    "cluster_id": 117,
+    "start_ts": 1173629498,
+    "end_ts": 1186329498,
+    "start_sec": 1055.800091275,
+    "duration": 12.699999999999818,
+    "relative_time": "1055.8s - 1068.5s",
+    "transcript_slice": "The Squirtle Watching Club in Virginia Tech is huge because there are a lot of Squirtles to watch. And the bigger club is the Watching the Squirtle Watching Club which is basically people watching. And that is said to have about 1.5 more times of attendance compared to the Squirtle Club itself. [...] And the bigger club is the Watching the Squirtle Watching Club which is basically people watching. And that is said to have about 1.5 more times of attendance compared to the Squirtle Club itself. Perfect. So before we head to the actual Burris Hall.",
+    "gx": 50.79855709019306,
+    "gy": 2.449528867412539,
+    "gz": 89.7564782895766,
+    "clip_rel_path": "cluster_117/event_128_cluster_117.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 41,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Campus Social Scene Explained",
+    "narrative_description": "From a ground-level vantage point, the expert's gaze rests on an area serving as a transition point before reaching Burris Hall. They recount the popularity of the 'Squirtle Watching Club' and the even larger 'Watching the Squirtle Watching Club' at Virginia Tech, noting their substantial attendance figures. This narrative reveals a notable facet of campus culture, illustrating unique student social dynamics and the phenomenon of 'people watching' within the university environment. The expert's left hand is active, potentially indicating a gesture while sharing this insightful anecdote about campus life.",
+    "objects": [
+      "Squirtles",
+      "people",
+      "Burris Hall"
+    ],
+    "actions": [
+      "watching",
+      "attending",
+      "gesturing",
+      "recounting"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "id": 20,
+    "world_gx": -164.8883087158203,
+    "world_gy": -34.67011308670044,
+    "world_gz": 4.025628316402435
+  },
+  {
+    "cluster_ids": [
+      121,
+      122
+    ],
+    "cluster_id": 122,
+    "start_ts": 1199229498,
+    "end_ts": 1223029498,
+    "start_sec": 1081.400091275,
+    "duration": 23.799999999999955,
+    "relative_time": "1081.4s - 1105.2s",
+    "transcript_slice": "Perfect. So before we head to the actual Burris Hall. And see what the crown jewels like. What's inside Burris Hall is our biggest auditorium on campus. [...] It can hold up to 3,003 people in total. Three is an interesting number at the end. Why I may ask is that we actually have three therapy dogs. Usually in my tours I carry a water bottle with their sticker on it. And I'd show it to people. So we have Josie, Epcot and Derek. And those are our three therapy dogs. On that note, VT has a lot of well-being and like residential well-being advice. Like resources available on campus. We have Cook Counseling which is open to all.",
+    "gx": 75.67947544785336,
+    "gy": 3.0331671073386755,
+    "gz": 66.71788653968902,
+    "clip_rel_path": "cluster_122/event_133_cluster_122.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 24,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Burris Hall Auditorium Campus Wellness",
+    "narrative_description": "The expert introduces Burris Hall, emphasizing its importance as home to the campus's largest auditorium with a 3,003-person capacity. This numerical detail serves as a memorable segue to discuss the university's three therapy dogs: Josie, Epcot, and Derek. The conversation then broadens to encompass various campus well-being resources, including Cook Counseling, highlighting a holistic approach to student support. This spot is used to connect architectural scale with essential student welfare services.",
+    "objects": [
+      "Burris Hall",
+      "Auditorium",
+      "Water bottle",
+      "Therapy dog stickers"
+    ],
+    "actions": [
+      "Describing campus features",
+      "Explaining functional details",
+      "Introducing student support services",
+      "Sharing personal anecdotes"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "id": 21,
+    "world_gx": -147.33939361572266,
+    "world_gy": -63.685150146484375,
+    "world_gz": 4.609276294708252
+  },
+  {
+    "cluster_ids": [
+      123,
+      124,
+      125,
+      126
+    ],
+    "cluster_id": 125,
+    "start_ts": 1239429498,
+    "end_ts": 1253729498,
+    "start_sec": 1121.600091275,
+    "duration": 14.299999999999955,
+    "relative_time": "1121.6s - 1135.9s",
+    "transcript_slice": "On that note, VT has a lot of well-being and like residential well-being advice. Like resources available on campus. We have Cook Counseling which is open to all. All you need to do is book an appointment and go there. We have Timely Care, a 24-7 online support that VT also has to offer. And of course our student leaders who live amongst every other student. [...] All you need to do is book an appointment and go there. We have Timely Care, a 24-7 online support that VT also has to offer. And of course our student leaders who live amongst every other student. They are upperclassmen who's been through the freshman phase. Inside of the Burris Hall we also have our office of the Vice President for Student Affairs. [...] All you need to do is book an appointment and go there. We have Timely Care, a 24-7 online support that VT also has to offer. And of course our student leaders who live amongst every other student. They are upperclassmen who's been through the freshman phase. Inside of the Burris Hall we also have our office of the Vice President for Student Affairs. That's where our Queen Frances is. I know that because I work there and she's an amazing person. So the Dean of Students, the VPSA and everyone is inside Burris as well.",
+    "gx": 104.06577040239468,
+    "gy": 3.9161851976288737,
+    "gz": 40.37471801109902,
+    "clip_rel_path": "cluster_125/event_136_cluster_125.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 44,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Burris Hall Student Support Hub",
+    "narrative_description": "The expert is focused on Burris Hall, identifying it as a central location for Virginia Tech's student well-being and support services. They explain that the Office of the Vice President for Student Affairs, Dean of Students, and other key personnel reside within Burris Hall. This building serves as a hub for essential resources like Cook Counseling and Timely Care, accessible via appointments. The expert highlights the personal connection and accessibility of these services, noting they work in the VPSA office. Burris Hall is thus a significant landmark for student welfare, reinforcing the university's commitment to comprehensive support.",
+    "objects": [
+      "Burris Hall",
+      "Office of the Vice President for Student Affairs"
+    ],
+    "actions": [
+      "booking appointments",
+      "attending counseling services",
+      "working (at VPSA office)",
+      "left hand active"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "id": 22,
+    "world_gx": -127.26052411397299,
+    "world_gy": -96.79984855651855,
+    "world_gz": 5.492304642995198
+  },
+  {
+    "cluster_ids": [
+      127,
+      128,
+      129,
+      130,
+      131
+    ],
+    "cluster_id": 130,
+    "start_ts": 1264229498,
+    "end_ts": 1281129498,
+    "start_sec": 1146.400091275,
+    "duration": 16.90000000000009,
+    "relative_time": "1146.4s - 1163.3s",
+    "transcript_slice": "That's where our Queen Frances is. I know that because I work there and she's an amazing person. So the Dean of Students, the VPSA and everyone is inside Burris as well. So I'm going to stop talking for a while so you can just admire our Crown Jewel. [...] So I'm going to stop talking for a while so you can just admire our Crown Jewel. And I guess that's where we're going to end our tour with a fun fact about Burris Hall once we get in front of it.",
+    "gx": 124.29016733890121,
+    "gy": 3.9748273534217633,
+    "gz": 28.029808697821636,
+    "clip_rel_path": "cluster_130/event_141_cluster_130.mp4",
+    "mean_quality": 0.9727272727272727,
+    "sample_count": 58,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Burris Hall: Crown Jewel",
+    "narrative_description": "The expert identifies Burris Hall as a highly significant campus building, affectionately calling it the \"Crown Jewel.\" They highlight its importance by mentioning key personnel, such as \"Queen Frances,\" the Dean of Students, and VPSA, who work within its walls. The speaker encourages observers to admire the structure and indicates this location will be a final stop for a future \"fun fact\" on the tour. Their personal experience working there provides authentic insight into the building's vital role in campus operations.",
+    "objects": [
+      "Burris Hall"
+    ],
+    "actions": [
+      "explaining building importance",
+      "evaluating significance",
+      "referencing building occupants",
+      "guiding observation",
+      "planning tour continuation"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "id": 23,
+    "world_gx": -119.24682866876776,
+    "world_gy": -119.09791329123757,
+    "world_gz": 5.5510472904552115
+  },
+  {
+    "cluster_ids": [
+      132,
+      133
+    ],
+    "cluster_id": 133,
+    "start_ts": 1290429498,
+    "end_ts": 1297729498,
+    "start_sec": 1172.600091275,
+    "duration": 7.2999999999999545,
+    "relative_time": "1172.6s - 1179.9s",
+    "transcript_slice": "And I guess that's where we're going to end our tour with a fun fact about Burris Hall once we get in front of it. Oh and that's the Drill Field. So this also marks the end of the academic region of Virginia Tech. So to mention we actually have four different regions on campus. [...] Oh and that's the Drill Field. So this also marks the end of the academic region of Virginia Tech. So to mention we actually have four different regions on campus. We're currently in the academic region. The Drill Field separates us from the residential side and then the Rec Sports is behind the residential side of campus.",
+    "gx": 146.86735873193908,
+    "gy": 3.170071627077075,
+    "gz": 34.14916493177773,
+    "clip_rel_path": "cluster_133/event_144_cluster_133.mp4",
+    "mean_quality": 0.9772727272727273,
+    "sample_count": 22,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Drill Field: Campus Regions",
+    "narrative_description": "The expert focuses on the Drill Field, identifying it as a crucial landmark marking the boundary of the academic region at Virginia Tech. They explain the campus is divided into four distinct regions, noting their current position within the academic zone. The Drill Field plays a functional role by separating the academic side from the residential areas. Rec Sports facilities are located further behind the residential campus, completing the description of the campus layout. The expert uses their left hand, likely gesturing while detailing this comprehensive spatial organization.",
+    "objects": [
+      "Drill Field",
+      "Burris Hall"
+    ],
+    "actions": [
+      "Explaining campus regions",
+      "Pointing out the Drill Field",
+      "Describing spatial boundaries",
+      "Planning tour progression",
+      "Left hand active"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "id": 24,
+    "world_gx": -129.79259490966797,
+    "world_gy": -139.97765350341797,
+    "world_gz": 4.746692419052124
+  },
+  {
+    "cluster_ids": [
+      25,
+      134
+    ],
+    "cluster_id": 25,
+    "start_ts": 1314829498,
+    "end_ts": 1328129498,
+    "start_sec": 1197.000091275,
+    "duration": 13.300000000000182,
+    "relative_time": "1197.0s - 1210.3s",
+    "transcript_slice": "So we really don't like to haunt our students during the weekends to come to us at residential. And they come to us the academic side of the campus. [...] And they come to us the academic side of the campus. So the fun fact about Burris Hall is actually that on top you can see, you probably can't, but there's a small camera situated there which has a live stream of the Drill Field.",
+    "gx": 175.9947160888977,
+    "gy": 1.9342853112322937,
+    "gz": 37.30541423837889,
+    "clip_rel_path": "cluster_25/event_145_cluster_25.mp4",
+    "mean_quality": 0.532051282051282,
+    "sample_count": 25,
+    "fallback_ratio": 0.038461538461538464,
+    "narrative_title": "Burris Hall Camera Livestream",
+    "narrative_description": "The expert observes Burris Hall, a prominent building located on the academic side of campus. Their attention is drawn to a small camera uniquely positioned on top of the structure. This camera provides a live stream, specifically capturing the adjacent Drill Field. The expert highlights this detail as a 'fun fact,' underscoring Burris Hall's technological feature and its purpose.",
+    "objects": [
+      "Burris Hall",
+      "camera",
+      "Drill Field"
+    ],
+    "actions": [
+      "describing",
+      "explaining",
+      "pointing out"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "id": 25,
+    "world_gx": -138.75677410373262,
+    "world_gy": -167.87047436749205,
+    "world_gz": 3.5113545198545815
+  },
+  {
+    "cluster_ids": [
+      135,
+      136,
+      137,
+      138
+    ],
+    "cluster_id": 137,
+    "start_ts": 1336029498,
+    "end_ts": 1355929498,
+    "start_sec": 1218.200091275,
+    "duration": 19.90000000000009,
+    "relative_time": "1218.2s - 1238.1s",
+    "transcript_slice": "So the fun fact about Burris Hall is actually that on top you can see, you probably can't, but there's a small camera situated there which has a live stream of the Drill Field. And so there's also one of my friends. We used to live in East Campbell, which is right across the Drill Field. [...] And so there's also one of my friends. We used to live in East Campbell, which is right across the Drill Field. And her mom used to log in onto that camera at 7.55. Every Thursday morning to see if she's crossing to get her 8 a.m. lab on time. [...] And so there's also one of my friends. We used to live in East Campbell, which is right across the Drill Field. And her mom used to log in onto that camera at 7.55. Every Thursday morning to see if she's crossing to get her 8 a.m. lab on time. So I guess that is one of the fun facts if you ever are curious about what's happening. And especially during Gobbler Fest time, definitely log in to see what's the Drill Field looking like. [...] And her mom used to log in onto that camera at 7.55. Every Thursday morning to see if she's crossing to get her 8 a.m. lab on time. So I guess that is one of the fun facts if you ever are curious about what's happening. And especially during Gobbler Fest time, definitely log in to see what's the Drill Field looking like.",
+    "gx": 199.75743107021714,
+    "gy": 2.2293014795276327,
+    "gz": 38.570485868388616,
+    "clip_rel_path": "cluster_137/event_149_cluster_137.mp4",
+    "mean_quality": 0.9206730769230769,
+    "sample_count": 46,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Burris Hall Live Stream Camera",
+    "narrative_description": "The expert focuses on the top of Burris Hall, describing a small camera situated there. This camera offers a live stream of the Drill Field, a notable feature. The expert shares a personal anecdote about a friend's mom using the stream to track her daughter. This \"fun fact\" is presented to highlight the camera's utility, especially during Gobbler Fest. The expert's active left hand likely emphasizes the camera's location.",
+    "objects": [
+      "Burris Hall",
+      "camera",
+      "Drill Field"
+    ],
+    "actions": [
+      "explaining",
+      "pointing",
+      "logging in",
+      "crossing"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "id": 26,
+    "world_gx": -144.7869560241699,
+    "world_gy": -190.8901123046875,
+    "world_gz": 3.8067175149917603
+  },
+  {
+    "cluster_ids": [
+      139,
+      140,
+      141
+    ],
+    "cluster_id": 141,
+    "start_ts": 1391729498,
+    "end_ts": 1401829498,
+    "start_sec": 1273.900091275,
+    "duration": 10.099999999999909,
+    "relative_time": "1273.9s - 1284.0s",
+    "transcript_slice": "And that would be the conclusion of our tour. With Burris Hall. Perfect. And it has a live stream of the Drill Field. And it looks really cool during Gobbler Fest time. [...] And it has a live stream of the Drill Field. And it looks really cool during Gobbler Fest time.",
+    "gx": 228.82194638678902,
+    "gy": 1.79713241377378,
+    "gz": 13.898113788119588,
+    "clip_rel_path": "cluster_141/event_153_cluster_141.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 46,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Burris Hall: Drill Field View",
+    "narrative_description": "The expert concludes the tour at Burris Hall, highlighting it as the final destination. They point out a key feature of the building: a live stream of the Drill Field. This stream offers a 'cool' and engaging visual, especially during the festive Gobbler Fest event. The expert evaluates this as a perfect and noteworthy aspect, enhancing the building's social appeal.",
+    "objects": [
+      "Burris Hall",
+      "Drill Field"
+    ],
+    "actions": [
+      "Concluding tour",
+      "Describing features",
+      "Evaluating aesthetics"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "id": 27,
+    "world_gx": -126.48133713858469,
+    "world_gy": -224.3322466532389,
+    "world_gz": 3.3745923189889817
+  }
+]

@@ -1,0 +1,4688 @@
+{
+    "metadata": {
+        "alpha": 0.5,
+        "beta": 0.5,
+        "gamma": 0.5,
+        "lam": 0.05,
+        "threshold": 0.6,
+        "tau_spatial": 0.4,
+        "tau_referential": 0.25,
+        "tau_thematic": 0.7,
+        "edge_method": "typed_edges_with_convergence_degree",
+        "model": "BAAI/bge-m3",
+        "weights": {
+            "semantic": 0.5,
+            "tag_overlap": 0.5,
+            "spatial_weight": 0.5,
+            "spatial_decay": 0.05
+        },
+        "total_pairs_evaluated": 378,
+        "edges_by_degree": {
+            "1": 39,
+            "2": 7,
+            "3": 0
+        }
+    },
+    "nodes": [
+        {
+            "id": 0,
+            "cluster_id": 0,
+            "title": "NCB Multidisciplinary Building Intro",
+            "pos": [
+                -140.50698245698038,
+                -1.3860970391101706,
+                -59.87412311949623
+            ],
+            "time": "12.1s - 92.6s",
+            "narrative_description": "The expert begins a campus tour, stating an intent to focus on building features and what they offer. The initial focus is the NCB building, characterized as a multidisciplinary facility hosting a wide range of classes, including Computer Science and unique subjects like 'Harry Potter history.' Within NCB, the expert highlights the first-year engineering prep lab, where students can develop their class-related projects. The expert plans to point at buildings as they describe them, confirming active engagement with the visible environment. The outlined tour itinerary includes further visits to Hitt Hall, Dering, Pamplin, Hahn, and Davidson.",
+            "objects": [
+                "NCB building",
+                "first-year engineering prep lab",
+                "Hitt Hall",
+                "Dering building",
+                "Pamplin building",
+                "Hahn building",
+                "Davidson building"
+            ]
+        },
+        {
+            "id": 1,
+            "cluster_id": 7,
+            "title": "NCB: Engineering Lab & Study",
+            "pos": [
+                -131.9173881781167,
+                -1.1640570169402134,
+                -80.65389884202496
+            ],
+            "time": "100.7s - 119.8s",
+            "narrative_description": "The expert focuses on the NCB building, describing its first-year engineering prep lab. This lab facilitates student projects by providing materials like laser cutting and woodworking machines, accessible to all engineering levels. The building also boasts convenient study spots and is noted as one of the newest facilities on campus. Their attention underscores NCB's functional importance for practical engineering education and academic work.",
+            "objects": [
+                "NCB building",
+                "first-year engineering prep lab",
+                "laser cutting machine",
+                "woodworking machine",
+                "materials",
+                "study spots"
+            ]
+        },
+        {
+            "id": 2,
+            "cluster_id": 12,
+            "title": "Modern Classroom Amenities Overview",
+            "pos": [
+                -105.28433850807914,
+                -1.1390972457447446,
+                -108.0988241804813
+            ],
+            "time": "132.6s - 187.7s",
+            "narrative_description": "The expert describes a modern academic building, likely NCB, highlighting its new construction and overall campus amenities like air-conditioning and vending machines. They detail various classroom setups, from lecture-style to collaborative spaces featuring desks. The narrative emphasizes the functional technology available in all classrooms, including whiteboards, digital screens, and projectors, noting that microphones are used in larger rooms. This location serves to showcase the well-equipped and modern academic facilities.",
+            "objects": [
+                "buildings",
+                "vending machines",
+                "classrooms",
+                "desks",
+                "whiteboards",
+                "digital screens",
+                "projectors",
+                "microphones",
+                "TV"
+            ]
+        },
+        {
+            "id": 3,
+            "cluster_id": 18,
+            "title": "Orange Loop Transit and Parking",
+            "pos": [
+                -82.4181373339025,
+                -1.1441547033364552,
+                -125.17427511646622
+            ],
+            "time": "203.8s - 236.6s",
+            "narrative_description": "The expert details the Orange Bay transit loop as a central transportation hub serving local towns and campus. They highlight the newly constructed DDS building and its NextEc extension, home to the Pamplin School of Business, as immediate architectural features. The narrative shifts to campus parking, identifying Perry's Parking Garage for off-campus students and advising freshmen against bringing cars due to distant parking at Duck Pond. This area serves as a significant informational nexus, connecting transit, academics, and practical campus logistics.",
+            "objects": [
+                "Orange Loop",
+                "Buses",
+                "DDS building",
+                "NextEc building",
+                "Perry's Parking Garage"
+            ]
+        },
+        {
+            "id": 4,
+            "cluster_id": 27,
+            "title": "Entering Hitt Hall Overview",
+            "pos": [
+                -61.69993963386793,
+                -1.0711066039069357,
+                -114.84680487825645
+            ],
+            "time": "254.0s - 274.7s",
+            "narrative_description": "The expert guides into Hitt Hall, an academic building housing numerous majors and the Myers Lawson School of Construction. They highlight a unique lab within, featuring a robot dog. The area appears empty, which the expert attributes to it being a weekend, while also noting the campus-wide availability of bike stands. The narrative emphasizes Hitt Hall's academic significance and campus transportation culture.",
+            "objects": [
+                "Hitt Hall",
+                "bike stands",
+                "lab",
+                "robot dog"
+            ]
+        },
+        {
+            "id": 5,
+            "cluster_id": 31,
+            "title": "Campus Dining Options Overview",
+            "pos": [
+                -42.86735852014199,
+                -0.850760732088743,
+                -121.29279893284483
+            ],
+            "time": "280.8s - 291.6s",
+            "narrative_description": "The expert observes an academic building, specifically Hitt Hall, and describes the dining establishments available within it. They emphasize \"Paris place\" as a significant offering, noting its current closure but past variety. Additionally, the expert points out \"SolarX\" for 24-hour breakfast and \"Rambutan\" for Asian bowls and ramen. This detailed explanation highlights the diverse food services accessible in this campus location, including a cute cafe.",
+            "objects": [
+                "lab",
+                "robot dog",
+                "academic buildings",
+                "Hitt Hall",
+                "dining",
+                "Paris place",
+                "SolarX",
+                "Rambutan",
+                "bowls",
+                "ramen",
+                "cafe"
+            ]
+        },
+        {
+            "id": 6,
+            "cluster_id": 34,
+            "title": "Daring Hall: Older, No Hokie Stone",
+            "pos": [
+                -8.762209423739233,
+                -1.0831441258686474,
+                -99.76640242737406
+            ],
+            "time": "327.1s - 359.4s",
+            "narrative_description": "The expert focuses on Daring Hall, noting it's an older campus building that conspicuously lacks the common local Hokie stone and appears un-power washed. They explain its primary function as the hub for biological and geological sciences, housing bio labs. Additionally, the building contains a rock museum, highlighting its distinct academic and architectural characteristics compared to newer campus structures.",
+            "objects": [
+                "Daring Hall",
+                "Hokie stone",
+                "gray stones",
+                "bio labs",
+                "rock museum"
+            ]
+        },
+        {
+            "id": 7,
+            "cluster_id": 45,
+            "title": "Academic Bridge and Science Hall",
+            "pos": [
+                -12.0350674722423,
+                -1.44492976429136,
+                -74.60309595868841
+            ],
+            "time": "365.6s - 399.0s",
+            "narrative_description": "The expert focuses on a bridge connecting different academic sections of the university while passing through it. They identify an adjacent building as the Biological and Geological Sciences Hall, home to bio labs and a notable rock museum with a T-Rex bone. This prominent connection serves as a point for the expert to explain the hall's purpose and discuss general university academics, including student enrollment numbers. The expert also notes the ubiquitous presence of vending machines in the area. Their intent is to inform and guide, linking specific campus structures to broader institutional facts.",
+            "objects": [
+                "Biological and Geological Sciences Hall",
+                "Daring Hall",
+                "Bio labs",
+                "Rock museum",
+                "T-Rex bone",
+                "Bridge",
+                "Vending machines"
+            ]
+        },
+        {
+            "id": 8,
+            "cluster_id": 49,
+            "title": "Approaching Pamplin Business Building",
+            "pos": [
+                10.732624698745937,
+                -1.2398369644496865,
+                -31.94053186414728
+            ],
+            "time": "431.1s - 452.5s",
+            "narrative_description": "The expert is actively approaching the Pamplin School of Business building, describing it as a \"really cool\" and significant structure primarily for business students. They highlight that this building also houses Pamplin Careers, a crucial resource offering extensive student support. The expert intends to explain the building's unique characteristics upon entry, emphasizing its central role for business-related university functions.",
+            "objects": [
+                "Pamplin School of Business building",
+                "Pamplin Careers office"
+            ]
+        },
+        {
+            "id": 9,
+            "cluster_id": 75,
+            "title": "Campus Connections and Research Insights",
+            "pos": [
+                39.0007256925423,
+                1.0206309869279555,
+                15.680009512378348
+            ],
+            "time": "475.9s - 673.6s",
+            "narrative_description": "The expert's gaze is fixed on Pamplin Hall, noting its connection to Robeson Hall, located to their right. They explain the \"fun fact\" that Pamplin is part of a complex network of interconnected campus buildings, including Hahn North, Hahn South, and Davidson Hall via an underground path. The discussion then shifts to highlighting Virginia Tech's significant research opportunities and high ranking as a research university. The expert shares a personal anecdote, evaluating their initial dislike but current enjoyment and benefit from participating in university research programs. This location prompts both an explanation of campus architecture and an enthusiastic endorsement of academic engagement at the university.",
+            "objects": [
+                "Pamplin Hall",
+                "Robeson Hall",
+                "Hahn North",
+                "Hahn South",
+                "Davidson Hall",
+                "underground path"
+            ]
+        },
+        {
+            "id": 10,
+            "cluster_id": 52,
+            "title": "Central Green Campus Hub",
+            "pos": [
+                59.83045976494914,
+                1.4263958006769788,
+                7.737438062184964
+            ],
+            "time": "507.4s - 653.7s",
+            "narrative_description": "The expert highlights a central campus area, noting its appealing greenery and welcoming atmosphere as a popular student gathering spot. This location serves as an ideal place for friends to socialize and have lunch between classes. From this comfortable setting, the expert elaborates on university opportunities, specifically discussing study abroad programs and extensive research initiatives. They emphasize VT's strong encouragement for student participation and its distinguished research university ranking.",
+            "objects": [
+                "greenery",
+                "campus area",
+                "hall"
+            ]
+        },
+        {
+            "id": 11,
+            "cluster_id": 57,
+            "title": "Classroom Technology and Alerts",
+            "pos": [
+                71.59227703663501,
+                1.2341179001181564,
+                -20.029441835336954
+            ],
+            "time": "546.4s - 603.3s",
+            "narrative_description": "The expert details a typical classroom setup, noting a central podium for the professor and general student seating arrangements. They highlight the crucial \"VT alerts clock,\" which functions as both a timepiece and an emergency notification system, emphasizing its importance given policies discouraging phone use. This classroom, likely for business majors, also features a blackboard, a drop-down projector, and microphones for professor use. The explanation thoroughly covers the functional and social context of these integrated teaching tools.",
+            "objects": [
+                "Podium",
+                "VT alerts clock",
+                "Blackboard",
+                "Projector",
+                "Microphones"
+            ]
+        },
+        {
+            "id": 12,
+            "cluster_id": 77,
+            "title": "Hahn Hall Large Lecture Spaces",
+            "pos": [
+                18.24792314920512,
+                0.6201488316491321,
+                24.89647580397275
+            ],
+            "time": "677.8s - 692.2s",
+            "narrative_description": "The expert focuses on Hahn Hall, specifically its larger lecture halls. They explain these halls can accommodate up to 200 students, contrasting with Virginia Tech's typical class size of 25-30. The expert notes these larger classes often include smaller recitation sections to maintain educational quality. Their active left hand likely gestures towards the building while explaining the functional context of its academic spaces.",
+            "objects": [
+                "Hahn Hall",
+                "lecture halls",
+                "recitation classes"
+            ]
+        },
+        {
+            "id": 13,
+            "cluster_id": 82,
+            "title": "Hahn Hall Science Facilities",
+            "pos": [
+                -8.317240577906277,
+                -0.6863175775155131,
+                32.17882864459716
+            ],
+            "time": "704.9s - 715.3s",
+            "narrative_description": "The expert's gaze focuses on Hahn Hall, identifying it as a significant academic building. They specifically point out the presence of physics labs, chemistry labs, and corresponding lecture halls within the structure. This highlights the building's function as a central location for general physics and chemistry courses. The expert then states the group will be entering Hahn Hall to view an example lecture.",
+            "objects": [
+                "Hahn Hall",
+                "Physics labs",
+                "Chemistry labs",
+                "Lecture halls"
+            ]
+        },
+        {
+            "id": 14,
+            "cluster_id": 91,
+            "title": "Lecture Hall Features and Use",
+            "pos": [
+                -57.508041953608995,
+                -1.3019114119055932,
+                51.48490001537576
+            ],
+            "time": "760.3s - 856.4s",
+            "narrative_description": "The expert describes a lecture hall built for 200 students, highlighting its double projector for clear visibility and a long whiteboard with a black table optimally situated for the audience. They point out a VT alerts clock and contextualize the space by describing typical student interactions. While observing the lecture hall, the expert discusses the building's future administrative changes and departmental roles. This observation explains the functional design of the space and reveals related logistical information.",
+            "objects": [
+                "lecture hall",
+                "projector (double)",
+                "whiteboard (long)",
+                "table (black)",
+                "VT alerts clock"
+            ]
+        },
+        {
+            "id": 15,
+            "cluster_id": 95,
+            "title": "Campus's Scenic Duck Pond",
+            "pos": [
+                -68.12714600732929,
+                -1.3896473287477622,
+                93.70953576686442
+            ],
+            "time": "879.3s - 913.8s",
+            "narrative_description": "The expert focuses intently on the campus duck pond, describing it as one of their favorite and most scenic places. They explain a campus tradition that holding a partner's hand while walking around the pond ensures they are destined for each other. This highlights the pond not only as a natural feature but also as a significant social and emotional landmark. Their attention reveals the profound sentimental value and traditional lore associated with this specific location.",
+            "objects": [
+                "duck pond"
+            ]
+        },
+        {
+            "id": 16,
+            "cluster_id": 99,
+            "title": "Davidson Hall: Lecture & Path",
+            "pos": [
+                -46.268581820986526,
+                -0.8745070256621731,
+                126.43411428074081
+            ],
+            "time": "927.6s - 946.2s",
+            "narrative_description": "The expert focuses on Davidson Hall, identifying it as a prominent campus building housing chemistry lecture halls. They highlight its unique structural design, functioning as a connection point from a long path to facilitate indoor passage. This architectural feature, allowing movement without outdoor exposure, is shared as a \"fun fact\" learned from a professor. Earlier, the expert provided general context about Greek life in Oakland, behind the duck pond. The primary intent is to point out and explain the hall's functional significance and its unique design for campus navigation, likely reinforced by active gesturing.",
+            "objects": [
+                "Davidson Hall",
+                "Duck pond",
+                "Greek houses",
+                "Long path",
+                "Walkway"
+            ]
+        },
+        {
+            "id": 17,
+            "cluster_id": 101,
+            "title": "Burris Hall and Campus Landmarks",
+            "pos": [
+                -11.824772266030404,
+                -0.7866785870291627,
+                146.19957602126124
+            ],
+            "time": "967.4s - 997.4s",
+            "narrative_description": "The expert focuses on Burris Hall, presenting it as the campus's \"crown jewel\" and a personally significant, iconic landmark. They point out Hahn Hall South to their left and the Drill Field situated behind Davidson Hall. The expert then describes the upcoming path, leading into a quadrant containing the Pamplin School of Business. This location serves as a central point for introducing key campus architecture and their navigational context.",
+            "objects": [
+                "Burris Hall",
+                "Hahn Hall South",
+                "Davidson Hall",
+                "Drill Field",
+                "Pamplin School of Business",
+                "quadrant"
+            ]
+        },
+        {
+            "id": 18,
+            "cluster_id": 110,
+            "title": "Pamplin Business Quadrant",
+            "pos": [
+                11.561817795699795,
+                1.138253727105735,
+                124.91319955617153
+            ],
+            "time": "1005.9s - 1020.9s",
+            "narrative_description": "The expert guides the listener into a distinct campus quadrant. This academic hub prominently features the Pamplin School of Business and Williams Hall. Providing broader context, the expert notes the university's vibrant social scene, boasting over 900 clubs and organizations. Their active left hand likely gestures to identify these significant campus landmarks. This explanation serves to orient the audience within the university's academic and social landscape.",
+            "objects": [
+                "Pamplin School of Business",
+                "Williams Hall",
+                "quadrant"
+            ]
+        },
+        {
+            "id": 19,
+            "cluster_id": 116,
+            "title": "Campus Club Introductions",
+            "pos": [
+                26.67692145222479,
+                1.7018355732950852,
+                111.36263410946096
+            ],
+            "time": "1028.2s - 1037.7s",
+            "narrative_description": "The expert, while focused on a general area, describes the diverse and engaging social clubs available on campus. They highlight the unique Chocolate Milk Drinking Club, which meets weekly at campus dining halls for socializing. The expert also mentions the distinctive Squirtle Watching Club, showcasing the breadth of student interests and campus social life.",
+            "objects": [
+                "dining halls",
+                "campus"
+            ]
+        },
+        {
+            "id": 20,
+            "cluster_id": 117,
+            "title": "Campus Social Scene Explained",
+            "pos": [
+                50.79855709019306,
+                2.449528867412539,
+                89.7564782895766
+            ],
+            "time": "1055.8s - 1068.5s",
+            "narrative_description": "From a ground-level vantage point, the expert's gaze rests on an area serving as a transition point before reaching Burris Hall. They recount the popularity of the 'Squirtle Watching Club' and the even larger 'Watching the Squirtle Watching Club' at Virginia Tech, noting their substantial attendance figures. This narrative reveals a notable facet of campus culture, illustrating unique student social dynamics and the phenomenon of 'people watching' within the university environment. The expert's left hand is active, potentially indicating a gesture while sharing this insightful anecdote about campus life.",
+            "objects": [
+                "Squirtles",
+                "people",
+                "Burris Hall"
+            ]
+        },
+        {
+            "id": 21,
+            "cluster_id": 122,
+            "title": "Burris Hall Auditorium Campus Wellness",
+            "pos": [
+                75.67947544785336,
+                3.0331671073386755,
+                66.71788653968902
+            ],
+            "time": "1081.4s - 1105.2s",
+            "narrative_description": "The expert introduces Burris Hall, emphasizing its importance as home to the campus's largest auditorium with a 3,003-person capacity. This numerical detail serves as a memorable segue to discuss the university's three therapy dogs: Josie, Epcot, and Derek. The conversation then broadens to encompass various campus well-being resources, including Cook Counseling, highlighting a holistic approach to student support. This spot is used to connect architectural scale with essential student welfare services.",
+            "objects": [
+                "Burris Hall",
+                "Auditorium",
+                "Water bottle",
+                "Therapy dog stickers"
+            ]
+        },
+        {
+            "id": 22,
+            "cluster_id": 125,
+            "title": "Burris Hall Student Support Hub",
+            "pos": [
+                104.06577040239468,
+                3.9161851976288737,
+                40.37471801109902
+            ],
+            "time": "1121.6s - 1135.9s",
+            "narrative_description": "The expert is focused on Burris Hall, identifying it as a central location for Virginia Tech's student well-being and support services. They explain that the Office of the Vice President for Student Affairs, Dean of Students, and other key personnel reside within Burris Hall. This building serves as a hub for essential resources like Cook Counseling and Timely Care, accessible via appointments. The expert highlights the personal connection and accessibility of these services, noting they work in the VPSA office. Burris Hall is thus a significant landmark for student welfare, reinforcing the university's commitment to comprehensive support.",
+            "objects": [
+                "Burris Hall",
+                "Office of the Vice President for Student Affairs"
+            ]
+        },
+        {
+            "id": 23,
+            "cluster_id": 130,
+            "title": "Burris Hall: Crown Jewel",
+            "pos": [
+                124.29016733890121,
+                3.9748273534217633,
+                28.029808697821636
+            ],
+            "time": "1146.4s - 1163.3s",
+            "narrative_description": "The expert identifies Burris Hall as a highly significant campus building, affectionately calling it the \"Crown Jewel.\" They highlight its importance by mentioning key personnel, such as \"Queen Frances,\" the Dean of Students, and VPSA, who work within its walls. The speaker encourages observers to admire the structure and indicates this location will be a final stop for a future \"fun fact\" on the tour. Their personal experience working there provides authentic insight into the building's vital role in campus operations.",
+            "objects": [
+                "Burris Hall"
+            ]
+        },
+        {
+            "id": 24,
+            "cluster_id": 133,
+            "title": "Drill Field: Campus Regions",
+            "pos": [
+                146.86735873193908,
+                3.170071627077075,
+                34.14916493177773
+            ],
+            "time": "1172.6s - 1179.9s",
+            "narrative_description": "The expert focuses on the Drill Field, identifying it as a crucial landmark marking the boundary of the academic region at Virginia Tech. They explain the campus is divided into four distinct regions, noting their current position within the academic zone. The Drill Field plays a functional role by separating the academic side from the residential areas. Rec Sports facilities are located further behind the residential campus, completing the description of the campus layout. The expert uses their left hand, likely gesturing while detailing this comprehensive spatial organization.",
+            "objects": [
+                "Drill Field",
+                "Burris Hall"
+            ]
+        },
+        {
+            "id": 25,
+            "cluster_id": 25,
+            "title": "Burris Hall Camera Livestream",
+            "pos": [
+                175.9947160888977,
+                1.9342853112322937,
+                37.30541423837889
+            ],
+            "time": "1197.0s - 1210.3s",
+            "narrative_description": "The expert observes Burris Hall, a prominent building located on the academic side of campus. Their attention is drawn to a small camera uniquely positioned on top of the structure. This camera provides a live stream, specifically capturing the adjacent Drill Field. The expert highlights this detail as a 'fun fact,' underscoring Burris Hall's technological feature and its purpose.",
+            "objects": [
+                "Burris Hall",
+                "camera",
+                "Drill Field"
+            ]
+        },
+        {
+            "id": 26,
+            "cluster_id": 137,
+            "title": "Burris Hall Live Stream Camera",
+            "pos": [
+                199.75743107021714,
+                2.2293014795276327,
+                38.570485868388616
+            ],
+            "time": "1218.2s - 1238.1s",
+            "narrative_description": "The expert focuses on the top of Burris Hall, describing a small camera situated there. This camera offers a live stream of the Drill Field, a notable feature. The expert shares a personal anecdote about a friend's mom using the stream to track her daughter. This \"fun fact\" is presented to highlight the camera's utility, especially during Gobbler Fest. The expert's active left hand likely emphasizes the camera's location.",
+            "objects": [
+                "Burris Hall",
+                "camera",
+                "Drill Field"
+            ]
+        },
+        {
+            "id": 27,
+            "cluster_id": 141,
+            "title": "Burris Hall: Drill Field View",
+            "pos": [
+                228.82194638678902,
+                1.79713241377378,
+                13.898113788119588
+            ],
+            "time": "1273.9s - 1284.0s",
+            "narrative_description": "The expert concludes the tour at Burris Hall, highlighting it as the final destination. They point out a key feature of the building: a live stream of the Drill Field. This stream offers a 'cool' and engaging visual, especially during the festive Gobbler Fest event. The expert evaluates this as a perfect and noteworthy aspect, enhancing the building's social appeal.",
+            "objects": [
+                "Burris Hall",
+                "Drill Field"
+            ]
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 1,
+            "weight": 0.6442519158859715,
+            "types": [
+                "thematic"
+            ],
+            "convergence_degree": 1,
+            "semantic_sim": 0.7818092107772827,
+            "tag_overlap": 0.18181818181818182,
+            "tag_overlap_raw": 0.18181818181818182,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.3248764391764784,
+            "rationale": "Both observations center on the NCB building, specifically highlighting its first-year engineering prep lab as a critical resource for student project development and practical learning, detailing its functional importance through available tools. The expert's intent is to showcase this specific, hands-on educational infrastructure within the broader campus tour context. The act of pointing at buildings described in Observation A further indicates a navigational goal of clearly identifying landmarks, implying underlying egocentric object recognition and localization challenges for the recording system.",
+            "type": "convergence"
+        },
+        {
+            "source": 0,
+            "target": 2,
+            "weight": 0.3952237592663984,
+            "types": [
+                "thematic"
+            ],
+            "convergence_degree": 1,
+            "semantic_sim": 0.7399551272392273,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.050492391293569576,
+            "rationale": "Both observations detail the expert's intent to showcase the modern academic facilities and resources available on campus, with the NCB building serving as a key illustrative example. Observation A introduces NCB as a multidisciplinary hub within a planned tour, while Observation B provides granular detail on NCB's contemporary design, diverse classroom configurations, and advanced technological provisions like digital screens and projectors. This demonstrates a focused effort to capture specific features of educational infrastructure and learning environments.",
+            "type": "convergence"
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "weight": 0.4475138388935588,
+            "types": [
+                "thematic"
+            ],
+            "convergence_degree": 1,
+            "semantic_sim": 0.747266948223114,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.1477607295640036,
+            "rationale": "The expert consistently highlights the NCB building's modern infrastructure and technological resources, showcasing both dedicated practical engineering workshops with specialized machinery like laser cutters and woodworking machines, and general-purpose classroom technology including digital screens and projectors. This shared focus emphasizes the diverse, well-equipped environments and tools available to students for hands-on project work and academic learning within a state-of-the-art facility.",
+            "type": "convergence"
+        },
+        {
+            "source": 2,
+            "target": 11,
+            "weight": 0.36872671967557225,
+            "types": [
+                "thematic"
+            ],
+            "convergence_degree": 1,
+            "semantic_sim": 0.7374022603034973,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 5.1179047647216134e-05,
+            "rationale": "The observations consistently document the diverse technological infrastructure within academic classrooms, detailing fixed display elements like projectors, whiteboards, and digital screens, alongside audio components such as microphones. The expert's intent is to showcase the functional integration and operational purpose of these teaching tools, which are critical for both instruction and emergency communication within the specific campus environments. This emphasizes identifying and contextualizing essential classroom objects for effective semantic mapping of facilities.",
+            "type": "convergence"
+        },
+        {
+            "source": 2,
+            "target": 14,
+            "weight": 0.3613293420280298,
+            "types": [
+                "thematic"
+            ],
+            "convergence_degree": 1,
+            "semantic_sim": 0.7224172949790955,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00024138907696410816,
+            "rationale": "These observations systematically document the functional design and integrated technology of academic learning environments, ranging from modern classrooms to large lecture halls. Both experts highlight essential instructional objects like whiteboards and projectors, emphasizing how these facilities are equipped for diverse teaching methods. The expert intent centers on showcasing the campus's pedagogical infrastructure optimized for instruction and student interaction.",
+            "type": "convergence"
+        },
+        {
+            "source": 4,
+            "target": 5,
+            "weight": 0.6179857459698113,
+            "types": [
+                "referential"
+            ],
+            "convergence_degree": 1,
+            "semantic_sim": 0.6163666844367981,
+            "tag_overlap": 0.25,
+            "tag_overlap_raw": 0.25,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.36960480750282443,
+            "rationale": "The expert's shared intent in both moments is to comprehensively showcase Hitt Hall, a key academic and communal building on campus. This involves detailing both its academic infrastructure, like the unique robot dog lab, and its student amenities, such as diverse dining establishments and integrated bike stands. The common navigational goal is a thorough descriptive exploration of this specific campus location's various features and functions.",
+            "type": "convergence"
+        },
+        {
+            "source": 4,
+            "target": 16,
+            "weight": 0.3550050357970758,
+            "types": [
+                "thematic"
+            ],
+            "convergence_degree": 1,
+            "semantic_sim": 0.710004448890686,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 5.6227034655582554e-06,
+            "rationale": "The expert consistently highlights unique architectural features or key objects within academic buildings, such as Hitt Hall's robotic lab and campus bike stands or Davidson Hall's structural design for indoor passage. This shared focus centers on explaining the functional significance of these elements and their contribution to efficient campus navigation and understanding the built environment.",
+            "type": "convergence"
+        },
+        {
+            "source": 8,
+            "target": 9,
+            "weight": 0.38730829617558554,
+            "types": [
+                "thematic"
+            ],
+            "convergence_degree": 1,
+            "semantic_sim": 0.7120323181152344,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0625842742359367,
+            "rationale": "The expert consistently leverages the Pamplin building as a central navigational and explanatory anchor. This architectural landmark serves to detail both specific business student support resources housed within and its broader integration into a network of interconnected campus buildings. The expert utilizes this physical context to articulate the university's extensive academic opportunities, from career services to high-ranking research programs.",
+            "type": "convergence"
+        },
+        {
+            "source": 8,
+            "target": 17,
+            "weight": 0.3753810283670606,
+            "types": [
+                "thematic"
+            ],
+            "convergence_degree": 1,
+            "semantic_sim": 0.7506359219551086,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00012613477901258835,
+            "rationale": "The expert consistently frames the Pamplin School of Business as a central navigational landmark, initially placing it within a broader campus architectural overview that includes Burris Hall and the Drill Field, and subsequently elaborating on its functional significance during a direct approach. These segments collaboratively establish both the geographical orientation and the purposeful role of key university structures within the expert's guided tour.",
+            "type": "convergence"
+        },
+        {
+            "source": 8,
+            "target": 18,
+            "weight": 0.3714117495749727,
+            "types": [
+                "thematic"
+            ],
+            "convergence_degree": 1,
+            "semantic_sim": 0.7424312829971313,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0003922161528139917,
+            "rationale": "The expert consistently focuses on the Pamplin School of Business, using it as a primary landmark to orient the viewer within a specific campus quadrant. This involves both physically approaching the building and detailing its significant role for business functions and student support, while simultaneously highlighting its position relative to other key academic structures. The shared intent is to establish the building's importance and exact location within the broader university context.",
+            "type": "convergence"
+        },
+        {
+            "source": 9,
+            "target": 12,
+            "weight": 0.5158093932074007,
+            "types": [
+                "thematic"
+            ],
+            "convergence_degree": 1,
+            "semantic_sim": 0.7103708982467651,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.32124788816803634,
+            "rationale": "The expert consistently details the physical and functional layout of Virginia Tech's academic environment, focusing on specific buildings and their utility. They describe the architectural interconnectedness of halls like Pamplin and Hahn, while simultaneously explaining how these spaces facilitate both large-scale instruction and extensive research opportunities. This reveals an expert intent to convey how the campus's physical structure supports its core academic and navigational functions.",
+            "type": "convergence"
+        },
+        {
+            "source": 9,
+            "target": 17,
+            "weight": 0.4140281296407587,
+            "types": [
+                "thematic"
+            ],
+            "convergence_degree": 1,
+            "semantic_sim": 0.7362388372421265,
+            "tag_overlap": 0.09090909090909091,
+            "tag_overlap_raw": 0.09090909090909091,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0009083311303000175,
+            "rationale": "The expert consistently establishes navigational context by detailing the proximity and interconnections of prominent campus buildings, including Pamplin, Hahn South, and Davidson Hall. They use these architectural landmarks to describe both an \"upcoming path\" and \"underground paths,\" providing a spatial understanding of the campus while linking locations to academic opportunities. This demonstrates a clear intent to build a comprehensive mental map for the viewer.",
+            "type": "convergence"
+        },
+        {
+            "source": 9,
+            "target": 18,
+            "weight": 0.36221744610541484,
+            "types": [
+                "thematic"
+            ],
+            "convergence_degree": 1,
+            "semantic_sim": 0.7208511233329773,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.003583768877852428,
+            "rationale": "Centered around prominent academic structures like Pamplin Hall, the expert actively navigates and describes distinct campus areas for the listener. This comprehensive orientation highlights both the university's architectural layout, including interconnected buildings, and the academic and social opportunities these landmarks embody. The expert's intent is to provide a rich contextual understanding of the university's physical and functional landscape.",
+            "type": "convergence"
+        },
+        {
+            "source": 11,
+            "target": 14,
+            "weight": 0.4338803617280715,
+            "types": [
+                "thematic"
+            ],
+            "convergence_degree": 1,
+            "semantic_sim": 0.7560262084007263,
+            "tag_overlap": 0.1111111111111111,
+            "tag_overlap_raw": 0.1111111111111111,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0006234039443055379,
+            "rationale": "The expert consistently documents the functional design and critical technological infrastructure within academic teaching environments. Both observations highlight key instructional tools like projectors and writing surfaces, and critically feature the \"VT alerts clock\" as a dual-purpose timepiece and essential emergency notification system. This shared focus reveals an intent to map out the functional layout, key equipment, and safety protocols integrated into university learning spaces.",
+            "type": "convergence"
+        },
+        {
+            "source": 12,
+            "target": 13,
+            "weight": 0.5695674624310909,
+            "types": [
+                "thematic"
+            ],
+            "convergence_degree": 1,
+            "semantic_sim": 0.7205902934074402,
+            "tag_overlap": 0.16666666666666666,
+            "tag_overlap_raw": 0.16666666666666666,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.2518779647880749,
+            "rationale": "The expert meticulously characterizes Hahn Hall, detailing its specific academic functions like large lecture spaces, physics labs, and chemistry labs. This comprehensive functional description informs the viewer about the building's purpose and directly precedes the navigational goal of entering to view an example lecture.",
+            "type": "convergence"
+        },
+        {
+            "source": 12,
+            "target": 14,
+            "weight": 0.3720602339898579,
+            "types": [
+                "thematic"
+            ],
+            "convergence_degree": 1,
+            "semantic_sim": 0.7260860204696655,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.01803444751005019,
+            "rationale": "The expert consistently analyzes the functional design and operational context of large academic lecture halls, specifically a 200-student capacity hall in Hahn Hall. They highlight specific physical attributes like double projectors, whiteboards, and the VT alerts clock, explaining how these features facilitate instruction and student interaction. This reveals an intent to thoroughly document the purposeful design and logistical implications of key educational infrastructure.",
+            "type": "convergence"
+        },
+        {
+            "source": 13,
+            "target": 16,
+            "weight": 0.3599641489915469,
+            "types": [
+                "thematic"
+            ],
+            "convergence_degree": 1,
+            "semantic_sim": 0.7137112021446228,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.006217095838471,
+            "rationale": "The expert consistently identifies prominent academic buildings like Hahn Hall and Davidson Hall, detailing their specific educational functions, such as housing chemistry lecture halls and specialized labs. This shared intent focuses on orienting the viewer to the campus's architectural and functional layout, explaining how these structures serve both academic disciplines and practical campus navigation.",
+            "type": "convergence"
+        },
+        {
+            "source": 17,
+            "target": 18,
+            "weight": 0.6111216641868752,
+            "types": [
+                "referential",
+                "thematic"
+            ],
+            "convergence_degree": 2,
+            "semantic_sim": 0.731396496295929,
+            "tag_overlap": 0.2857142857142857,
+            "tag_overlap_raw": 0.2857142857142857,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.20513254636353584,
+            "rationale": "The expert consistently guides the audience through distinct campus quadrants, using the Pamplin School of Business as a recurring central landmark to establish a clear navigational path. This shared intent focuses on spatially orienting the viewer by systematically introducing key academic buildings and their functional context within the university's environment. Such precise identification of landmarks and routing is crucial for an egocentric recording to accurately capture and reproduce the expert's intended tour.",
+            "type": "convergence"
+        },
+        {
+            "source": 17,
+            "target": 23,
+            "weight": 0.44936873410850386,
+            "types": [
+                "thematic"
+            ],
+            "convergence_degree": 1,
+            "semantic_sim": 0.7319493293762207,
+            "tag_overlap": 0.16666666666666666,
+            "tag_overlap_raw": 0.16666666666666666,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00012147217412040988,
+            "rationale": "Both observations establish Burris Hall as the \"crown jewel,\" serving as a central architectural and functional landmark crucial for the expert's narrative. It acts as an initial navigational anchor, orienting the observer to surrounding campus structures while simultaneously being earmarked as a significant informational hub for future tour details and personal insights. This dual focus highlights its importance for both spatial understanding and content delivery within the tour.",
+            "type": "convergence"
+        },
+        {
+            "source": 17,
+            "target": 24,
+            "weight": 0.5041063123039875,
+            "types": [
+                "referential"
+            ],
+            "convergence_degree": 1,
+            "semantic_sim": 0.6748189330101013,
+            "tag_overlap": 0.3333333333333333,
+            "tag_overlap_raw": 0.3333333333333333,
+            "intent_gate": 1.0,
+            "spatial_prox": 6.035826454033508e-05,
+            "rationale": "Both observations strategically leverage prominent campus landmarks, most notably the Drill Field, to construct a comprehensive understanding of the university's spatial organization. The expert's intent is to establish a foundational navigational framework, defining key architectural regions and their interconnections to orient the observer within the campus layout. This involves identifying specific buildings and areas to create a mental map for traversal.",
+            "type": "convergence"
+        },
+        {
+            "source": 17,
+            "target": 25,
+            "weight": 0.5086158179738951,
+            "types": [
+                "referential",
+                "thematic"
+            ],
+            "convergence_degree": 2,
+            "semantic_sim": 0.7314980626106262,
+            "tag_overlap": 0.2857142857142857,
+            "tag_overlap_raw": 0.2857142857142857,
+            "intent_gate": 1.0,
+            "spatial_prox": 1.928762287839501e-05,
+            "rationale": "Burris Hall acts as a central informational anchor for the expert, initially orienting the viewer within the campus's architectural layout and navigational context, notably referencing the adjacent Drill Field. Subsequently, the expert highlights a camera mounted on Burris Hall, specifically designed to capture a live stream of that same Drill Field. This underscores Burris Hall's dual significance as both a key navigational landmark and a hub for real-time environmental data capture.",
+            "type": "convergence"
+        },
+        {
+            "source": 17,
+            "target": 26,
+            "weight": 0.4772725302629206,
+            "types": [
+                "referential"
+            ],
+            "convergence_degree": 1,
+            "semantic_sim": 0.668823778629303,
+            "tag_overlap": 0.2857142857142857,
+            "tag_overlap_raw": 0.2857142857142857,
+            "intent_gate": 1.0,
+            "spatial_prox": 6.9961822525016735e-06,
+            "rationale": "Both observations center on Burris Hall, initially establishing it as a primary navigational landmark and then detailing a specific camera system on its summit. This camera functionally monitors the Drill Field, thereby linking these two key campus locations through both physical presence and technological utility for enhanced environmental awareness.",
+            "type": "convergence"
+        },
+        {
+            "source": 17,
+            "target": 27,
+            "weight": 0.5166261667502807,
+            "types": [
+                "referential"
+            ],
+            "convergence_degree": 1,
+            "semantic_sim": 0.6999179124832153,
+            "tag_overlap": 0.3333333333333333,
+            "tag_overlap_raw": 0.3333333333333333,
+            "intent_gate": 1.0,
+            "spatial_prox": 1.0876840128093546e-06,
+            "rationale": "Burris Hall consistently functions as a central navigational anchor, first introduced as an iconic \"crown jewel\" and later identified as the tour's ultimate destination. The Drill Field serves as a key contextual object, initially presented as a physical landmark near Burris and subsequently highlighted as an engaging live-streamed feature originating from inside Burris. This demonstrates the expert's intent to establish critical spatial understanding around significant architecture while also showcasing its interactive and socially appealing elements.",
+            "type": "convergence"
+        },
+        {
+            "source": 18,
+            "target": 20,
+            "weight": 0.3947680398460886,
+            "types": [
+                "thematic"
+            ],
+            "convergence_degree": 1,
+            "semantic_sim": 0.7178152799606323,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.07172079973154485,
+            "rationale": "The expert consistently aims to construct a comprehensive understanding of the university's environment, meticulously integrating both its physical layout and unique social fabric. This involves guiding the audience through distinct campus quadrants, identifying landmarks like the Pamplin School of Business and Williams Hall, while simultaneously illuminating the diverse social landscape through specific examples of student culture and engagement. The shared intent is to orient the listener within both the university's academic infrastructure and its vibrant, sometimes quirky, social dynamics.",
+            "type": "convergence"
+        },
+        {
+            "source": 19,
+            "target": 20,
+            "weight": 0.46196312109712667,
+            "types": [
+                "thematic"
+            ],
+            "convergence_degree": 1,
+            "semantic_sim": 0.7259478569030762,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.19797838529117714,
+            "rationale": "The observations are linked by the expert's repeated reference to the \"Squirtle Watching Club\" as a specific example to illustrate the unique and diverse social dynamics and student interests within the campus community. This consistently serves the expert's intent to highlight the distinctive and sometimes quirky aspects of university social culture. Both moments functionally showcase a noteworthy facet of campus life.",
+            "type": "convergence"
+        },
+        {
+            "source": 20,
+            "target": 22,
+            "weight": 0.47604281672195137,
+            "types": [
+                "referential"
+            ],
+            "convergence_degree": 1,
+            "semantic_sim": 0.6756364107131958,
+            "tag_overlap": 0.25,
+            "tag_overlap_raw": 0.25,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.026449222730706958,
+            "rationale": "The expert utilizes Burris Hall as a central navigational and thematic landmark, first illustrating campus social dynamics in its immediate vicinity. This sets the stage before elaborating on Burris Hall's specific functional purpose as the university's primary hub for student well-being and support services.",
+            "type": "convergence"
+        },
+        {
+            "source": 20,
+            "target": 23,
+            "weight": 0.49100382929725483,
+            "types": [
+                "referential"
+            ],
+            "convergence_degree": 1,
+            "semantic_sim": 0.6404392719268799,
+            "tag_overlap": 0.3333333333333333,
+            "tag_overlap_raw": 0.3333333333333333,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00823505333429653,
+            "rationale": "These moments chronicle the expert's navigational progression towards Burris Hall, a significant campus landmark. Observation A initiates this approach by highlighting surrounding student life dynamics at a transition point, while Observation B culminates at Burris Hall, detailing its critical role in campus operations and administrative functions. Together, they establish Burris Hall as a central destination, contextualized by both its cultural environment and institutional importance.",
+            "type": "convergence"
+        },
+        {
+            "source": 20,
+            "target": 24,
+            "weight": 0.471440893004156,
+            "types": [
+                "referential"
+            ],
+            "convergence_degree": 1,
+            "semantic_sim": 0.6889951229095459,
+            "tag_overlap": 0.25,
+            "tag_overlap_raw": 0.25,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0038866630987660425,
+            "rationale": "The expert is actively constructing a comprehensive mental model of the Virginia Tech campus environment, weaving together both its social and physical dimensions. Observation A highlights cultural landmarks and informal social dynamics within specific areas, illustrating how students interact with and utilize campus spaces. Simultaneously, Observation B details the formal spatial organization, identifying critical physical landmarks like the Drill Field to delineate campus regions and aid in understanding geographical boundaries for effective navigation.",
+            "type": "convergence"
+        },
+        {
+            "source": 20,
+            "target": 25,
+            "weight": 0.4566550960055132,
+            "types": [
+                "thematic"
+            ],
+            "convergence_degree": 1,
+            "semantic_sim": 0.7121818661689758,
+            "tag_overlap": 0.2,
+            "tag_overlap_raw": 0.2,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.001128325842050584,
+            "rationale": "The expert illuminates distinct forms of \"watching\" or observation within the university context, using Burris Hall as a geographic anchor. Observation A details the social phenomenon of \"people watching\" student activities near Burris Hall, while Observation B highlights a technological camera *on* Burris Hall, which provides a live stream specifically *watching* the adjacent Drill Field. This contrasts the expert's anecdote about human social observation with the identification of a structural feature for machine-based environmental monitoring.",
+            "type": "convergence"
+        },
+        {
+            "source": 20,
+            "target": 27,
+            "weight": 0.4406846915070901,
+            "types": [
+                "referential"
+            ],
+            "convergence_degree": 1,
+            "semantic_sim": 0.6313065886497498,
+            "tag_overlap": 0.25,
+            "tag_overlap_raw": 0.25,
+            "intent_gate": 1.0,
+            "spatial_prox": 6.279436443048835e-05,
+            "rationale": "The expert consistently highlights Burris Hall as a focal point for campus social dynamics and observation. Observation A describes the \"people watching\" culture near this building as a transition point, while B showcases a live stream of the Drill Field from within Burris Hall, further enhancing its social appeal and allowing for engaging observation of campus events. This illustrates a navigational arc culminating at Burris Hall, which serves as a hub for understanding and participating in campus social life.",
+            "type": "convergence"
+        },
+        {
+            "source": 21,
+            "target": 23,
+            "weight": 0.47961274901771506,
+            "types": [
+                "referential"
+            ],
+            "convergence_degree": 1,
+            "semantic_sim": 0.6644774675369263,
+            "tag_overlap": 0.25,
+            "tag_overlap_raw": 0.25,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.04474803049850383,
+            "rationale": "These observations highlight the expert's consistent strategy of utilizing Burris Hall as a central, significant landmark to deliver key university information. In both cases, this specific architectural object serves as a springboard to introduce diverse details, from the quantitative scale of its auditorium connecting to student welfare services, to its role as a \"Crown Jewel\" housing important personnel and a designated future \"fun fact\" stop. The shared functional purpose is to leverage a prominent campus structure for effective narrative integration and to anchor broader institutional insights within a tour context.",
+            "type": "convergence"
+        },
+        {
+            "source": 22,
+            "target": 23,
+            "weight": 0.7536870264698146,
+            "types": [
+                "referential",
+                "thematic"
+            ],
+            "convergence_degree": 2,
+            "semantic_sim": 0.701542854309082,
+            "tag_overlap": 0.5,
+            "tag_overlap_raw": 0.5,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.30583119863054714,
+            "rationale": "Both observations consistently identify Burris Hall as a central campus landmark housing critical administrative offices like the VPSA and Dean of Students. The shared functional purpose is to contextualize this specific building as a hub for essential student support services and significant campus operations. The expert's intent in both instances is to emphasize the building's importance and provide navigational guidance, either implicitly for accessing services or explicitly as a tour stop.",
+            "type": "convergence"
+        },
+        {
+            "source": 22,
+            "target": 24,
+            "weight": 0.5353474980544265,
+            "types": [
+                "referential"
+            ],
+            "convergence_degree": 1,
+            "semantic_sim": 0.6223728656768799,
+            "tag_overlap": 0.3333333333333333,
+            "tag_overlap_raw": 0.3333333333333333,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.11498879709863988,
+            "rationale": "The expert identifies crucial campus landmarks\u2014Burris Hall and the Drill Field\u2014explaining their distinct functional roles and spatial significance within Virginia Tech. These observations collectively establish a fundamental navigational framework, mapping essential student support services and delineating the campus's organizational structure into academic and residential zones. The overarching expert intent is to provide a comprehensive spatial understanding, highlighting key points of interest and their practical relevance for orientation and resource access.",
+            "type": "convergence"
+        },
+        {
+            "source": 22,
+            "target": 25,
+            "weight": 0.46403966655206824,
+            "types": [
+                "referential"
+            ],
+            "convergence_degree": 1,
+            "semantic_sim": 0.6507852077484131,
+            "tag_overlap": 0.25,
+            "tag_overlap_raw": 0.25,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.02729412535572344,
+            "rationale": "Burris Hall consistently emerges as a central campus landmark for the expert, recognized for its pivotal role in information dissemination and campus functionality. Observation A details its human-centric function as a hub for essential student support services and administrative access, while Observation B highlights its technological role in live data capture, providing visual information of the Drill Field.",
+            "type": "convergence"
+        },
+        {
+            "source": 22,
+            "target": 26,
+            "weight": 0.3994096254781634,
+            "types": [
+                "referential"
+            ],
+            "convergence_degree": 1,
+            "semantic_sim": 0.5404749512672424,
+            "tag_overlap": 0.25,
+            "tag_overlap_raw": 0.25,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.008344299689084326,
+            "rationale": "The expert consistently uses Burris Hall as a critical campus landmark, initially establishing its role as a hub for student well-being services, then highlighting a unique data capture device\u2014a live-streaming camera\u2014located on its exterior. This common focus underscores the expert's intent to spatially orient the viewer to the building's institutional importance and its integrated technological features, demonstrating a navigational goal of emphasizing key points of interest.",
+            "type": "convergence"
+        },
+        {
+            "source": 22,
+            "target": 27,
+            "weight": 0.4562572420121301,
+            "types": [
+                "referential"
+            ],
+            "convergence_degree": 1,
+            "semantic_sim": 0.5774819850921631,
+            "tag_overlap": 0.3333333333333333,
+            "tag_overlap_raw": 0.3333333333333333,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0016991655987638654,
+            "rationale": "Burris Hall is consistently presented as a pivotal campus destination, highlighted by the expert for its dual significance in student life. It functions as a central hub for essential student well-being and support services, establishing its critical functional purpose. Concurrently, it serves as a noteworthy and engaging landmark, concluding the tour with a unique social feature like the Drill Field live stream.",
+            "type": "convergence"
+        },
+        {
+            "source": 23,
+            "target": 24,
+            "weight": 0.6869755228133607,
+            "types": [
+                "referential"
+            ],
+            "convergence_degree": 1,
+            "semantic_sim": 0.5636715292930603,
+            "tag_overlap": 0.5,
+            "tag_overlap_raw": 0.5,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.31027951633366113,
+            "rationale": "The expert consistently works to establish a comprehensive understanding of the campus's spatial organization and functional layout. They define significant landmarks like Burris Hall and the Drill Field, not only by their individual importance but also by their roles in dividing and orienting the campus into distinct academic and residential zones. This shared navigational goal involves guiding the observer in constructing a mental map by highlighting key structures and their geographical relationships.",
+            "type": "convergence"
+        },
+        {
+            "source": 23,
+            "target": 25,
+            "weight": 0.5531805993439635,
+            "types": [
+                "referential",
+                "thematic"
+            ],
+            "convergence_degree": 2,
+            "semantic_sim": 0.7008396983146667,
+            "tag_overlap": 0.3333333333333333,
+            "tag_overlap_raw": 0.3333333333333333,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.07218816703992692,
+            "rationale": "The expert consistently focuses on Burris Hall as a central campus landmark, intending to highlight its multifaceted significance to the observer. This is achieved by first emphasizing its institutional importance and key personnel, then detailing a specific technological feature\u2014the live-stream camera\u2014that serves a practical purpose for the campus, with both aspects framed as engaging \"fun facts.",
+            "type": "convergence"
+        },
+        {
+            "source": 23,
+            "target": 26,
+            "weight": 0.47198370390415273,
+            "types": [
+                "referential"
+            ],
+            "convergence_degree": 1,
+            "semantic_sim": 0.5885078310966492,
+            "tag_overlap": 0.3333333333333333,
+            "tag_overlap_raw": 0.3333333333333333,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.02212624337832301,
+            "rationale": "The expert intentionally establishes Burris Hall as a central navigational landmark on the tour, initially highlighting its institutional significance and administrative functions. Subsequently, they elaborate on a specific technical feature\u2014the live-streaming camera atop the building\u2014thereby fulfilling the promised \"fun fact\" and illustrating Burris Hall's dual role in both campus operations and remote data capture of the Drill Field. This narrative arc reinforces the building's importance while guiding the observer through specific points of interest.",
+            "type": "convergence"
+        },
+        {
+            "source": 23,
+            "target": 27,
+            "weight": 0.5880128112561553,
+            "types": [
+                "referential"
+            ],
+            "convergence_degree": 1,
+            "semantic_sim": 0.6709089875221252,
+            "tag_overlap": 0.5,
+            "tag_overlap_raw": 0.5,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.005116634990185542,
+            "rationale": "The observations consistently identify Burris Hall as the significant final navigational goal for the tour. The expert's intent is to underscore the building's dual importance: its vital functional purpose housing key administrative personnel, and its social appeal derived from a specific engaging object, the Drill Field live stream. This combined emphasis establishes Burris Hall as a memorable and impactful tour conclusion.",
+            "type": "convergence"
+        },
+        {
+            "source": 24,
+            "target": 25,
+            "weight": 0.7828939844856639,
+            "types": [
+                "referential"
+            ],
+            "convergence_degree": 1,
+            "semantic_sim": 0.6683194637298584,
+            "tag_overlap": 0.6666666666666666,
+            "tag_overlap_raw": 0.6666666666666666,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.23080183857480285,
+            "rationale": "The Drill Field serves as the consistent geographical and functional anchor across both observations. The expert initially uses it as a crucial landmark to explain Virginia Tech's campus division and spatial organization. Subsequently, they identify a technological feature, a camera on Burris Hall, specifically positioned to capture a live stream of this same pivotal Drill Field, underscoring its constant importance as a visual reference and central point within the campus layout.",
+            "type": "convergence"
+        },
+        {
+            "source": 24,
+            "target": 26,
+            "weight": 0.6809528790802962,
+            "types": [
+                "referential"
+            ],
+            "convergence_degree": 1,
+            "semantic_sim": 0.6248800754547119,
+            "tag_overlap": 0.6666666666666666,
+            "tag_overlap_raw": 0.6666666666666666,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.07035901603921392,
+            "rationale": "The Drill Field is consistently presented as a central object of interest; initially establishing its critical role in defining campus boundaries and enabling physical navigation. Subsequently, a camera on Burris Hall is introduced as a technical solution that facilitates remote data capture and real-time observation of this identical, pivotal area, underscoring its dynamic functional importance for campus activity.",
+            "type": "convergence"
+        },
+        {
+            "source": 24,
+            "target": 27,
+            "weight": 0.8026131090432382,
+            "types": [
+                "referential"
+            ],
+            "convergence_degree": 1,
+            "semantic_sim": 0.5905501246452332,
+            "tag_overlap": 1.0,
+            "tag_overlap_raw": 1.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.014676093441243297,
+            "rationale": "The Drill Field acts as a pivotal reference point, central to both spatial understanding and social engagement on campus. Initially, it functions as a critical navigational landmark defining the boundary between academic and residential regions, aiding in overall campus layout comprehension. Later, it becomes the subject of a live stream within Burris Hall, demonstrating its significance as a focal point for campus events and social connection, effectively linking a specific location to the broader campus experience.",
+            "type": "convergence"
+        },
+        {
+            "source": 25,
+            "target": 26,
+            "weight": 1.0772928782779536,
+            "types": [
+                "referential",
+                "thematic"
+            ],
+            "convergence_degree": 2,
+            "semantic_sim": 0.850337028503418,
+            "tag_overlap": 1.0,
+            "tag_overlap_raw": 1.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.3042487280524891,
+            "rationale": "Both observations pinpoint a specific fixed camera on Burris Hall, highlighting its function of providing a live stream of the adjacent Drill Field. The expert's consistent intent is to showcase this technological feature and its practical utility, which includes remote monitoring and real-time data capture of the field, especially during events like Gobbler Fest.",
+            "type": "convergence"
+        },
+        {
+            "source": 25,
+            "target": 27,
+            "weight": 0.7547387153404409,
+            "types": [
+                "referential",
+                "thematic"
+            ],
+            "convergence_degree": 2,
+            "semantic_sim": 0.787181556224823,
+            "tag_overlap": 0.6666666666666666,
+            "tag_overlap_raw": 0.6666666666666666,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.055629207789392364,
+            "rationale": "The expert consistently highlights Burris Hall's unique technological feature: a strategically positioned camera providing a live stream of the Drill Field. This shared focus emphasizes the interactive and socially engaging nature of this specific data capture point, transforming a structural element into a noteworthy observational tool for campus life, especially during events.",
+            "type": "convergence"
+        },
+        {
+            "source": 26,
+            "target": 27,
+            "weight": 0.8139788553771408,
+            "types": [
+                "referential",
+                "thematic"
+            ],
+            "convergence_degree": 2,
+            "semantic_sim": 0.8126682639122009,
+            "tag_overlap": 0.6666666666666666,
+            "tag_overlap_raw": 0.6666666666666666,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.14862278017541403,
+            "rationale": "The expert consistently emphasizes the practical utility and social appeal of a specific data capture point: a camera on Burris Hall providing a live stream of the Drill Field. This feature, particularly valuable for monitoring activity and enhancing engagement during Gobbler Fest, exemplifies how a fixed observation point contributes to situational awareness and community interaction.",
+            "type": "convergence"
+        }
+    ],
+    "components": [
+        {
+            "source": 0,
+            "target": 1,
+            "semantic_sim": 0.7818092107772827,
+            "tag_overlap": 0.18181818181818182,
+            "tag_overlap_raw": 0.18181818181818182,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.3248764391764784
+        },
+        {
+            "source": 0,
+            "target": 2,
+            "semantic_sim": 0.7399551272392273,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.050492391293569576
+        },
+        {
+            "source": 0,
+            "target": 3,
+            "semantic_sim": 0.6005033850669861,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.012652245498087265
+        },
+        {
+            "source": 0,
+            "target": 4,
+            "semantic_sim": 0.6601924896240234,
+            "tag_overlap": 0.1,
+            "tag_overlap_raw": 0.1,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.008194167413265216
+        },
+        {
+            "source": 0,
+            "target": 5,
+            "semantic_sim": 0.5756431221961975,
+            "tag_overlap": 0.058823529411764705,
+            "tag_overlap_raw": 0.058823529411764705,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00312728606256071
+        },
+        {
+            "source": 0,
+            "target": 6,
+            "semantic_sim": 0.5960632562637329,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0010254561196504492
+        },
+        {
+            "source": 0,
+            "target": 7,
+            "semantic_sim": 0.6180293560028076,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0015559413186267091
+        },
+        {
+            "source": 0,
+            "target": 8,
+            "semantic_sim": 0.6919224858283997,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0004574312818620835
+        },
+        {
+            "source": 0,
+            "target": 9,
+            "semantic_sim": 0.6803014874458313,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 5.8954666137759914e-05
+        },
+        {
+            "source": 0,
+            "target": 10,
+            "semantic_sim": 0.6167076230049133,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 2.5600955465653084e-05
+        },
+        {
+            "source": 0,
+            "target": 11,
+            "semantic_sim": 0.5723362565040588,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 2.0578473800829854e-05
+        },
+        {
+            "source": 0,
+            "target": 12,
+            "semantic_sim": 0.5941922068595886,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00012352642723300076
+        },
+        {
+            "source": 0,
+            "target": 13,
+            "semantic_sim": 0.6948248744010925,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00031774929504754747
+        },
+        {
+            "source": 0,
+            "target": 14,
+            "semantic_sim": 0.6193554401397705,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0009640555833781014
+        },
+        {
+            "source": 0,
+            "target": 15,
+            "semantic_sim": 0.5346974730491638,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.000205672456113099
+        },
+        {
+            "source": 0,
+            "target": 16,
+            "semantic_sim": 0.6393932104110718,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 2.9258619916128007e-05
+        },
+        {
+            "source": 0,
+            "target": 17,
+            "semantic_sim": 0.6819191575050354,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 5.300989534371206e-06
+        },
+        {
+            "source": 0,
+            "target": 18,
+            "semantic_sim": 0.6584435701370239,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 6.354327705860899e-06
+        },
+        {
+            "source": 0,
+            "target": 19,
+            "semantic_sim": 0.5790927410125732,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 6.3514256943404125e-06
+        },
+        {
+            "source": 0,
+            "target": 20,
+            "semantic_sim": 0.5978114604949951,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 5.3140993718117185e-06
+        },
+        {
+            "source": 0,
+            "target": 21,
+            "semantic_sim": 0.5843592286109924,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 3.623270528996732e-06
+        },
+        {
+            "source": 0,
+            "target": 22,
+            "semantic_sim": 0.5574120283126831,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 1.8162883636623244e-06
+        },
+        {
+            "source": 0,
+            "target": 23,
+            "semantic_sim": 0.633890688419342,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 8.716304046531258e-07
+        },
+        {
+            "source": 0,
+            "target": 24,
+            "semantic_sim": 0.5789699554443359,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 2.7132471699106527e-07
+        },
+        {
+            "source": 0,
+            "target": 25,
+            "semantic_sim": 0.6019489765167236,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 6.459843178554253e-08
+        },
+        {
+            "source": 0,
+            "target": 26,
+            "semantic_sim": 0.557077169418335,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 2.0315525835113184e-08
+        },
+        {
+            "source": 0,
+            "target": 27,
+            "semantic_sim": 0.5854958891868591,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 6.628349609891882e-09
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "semantic_sim": 0.747266948223114,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.1477607295640036
+        },
+        {
+            "source": 1,
+            "target": 3,
+            "semantic_sim": 0.539922833442688,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.03583774645687316
+        },
+        {
+            "source": 1,
+            "target": 4,
+            "semantic_sim": 0.5655338168144226,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.020140673764389643
+        },
+        {
+            "source": 1,
+            "target": 5,
+            "semantic_sim": 0.5111808180809021,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0074894230494949605
+        },
+        {
+            "source": 1,
+            "target": 6,
+            "semantic_sim": 0.5725989937782288,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0019665569371298238
+        },
+        {
+            "source": 1,
+            "target": 7,
+            "semantic_sim": 0.590091347694397,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0024743868731115417
+        },
+        {
+            "source": 1,
+            "target": 8,
+            "semantic_sim": 0.6373215913772583,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0005330404914939772
+        },
+        {
+            "source": 1,
+            "target": 9,
+            "semantic_sim": 0.5745596885681152,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 5.48749745253563e-05
+        },
+        {
+            "source": 1,
+            "target": 10,
+            "semantic_sim": 0.5837392807006836,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 2.598959800437337e-05
+        },
+        {
+            "source": 1,
+            "target": 11,
+            "semantic_sim": 0.5503082871437073,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 2.447012147613252e-05
+        },
+        {
+            "source": 1,
+            "target": 12,
+            "semantic_sim": 0.5399127006530762,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00010329517091729306
+        },
+        {
+            "source": 1,
+            "target": 13,
+            "semantic_sim": 0.6432930827140808,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0002322113759310244
+        },
+        {
+            "source": 1,
+            "target": 14,
+            "semantic_sim": 0.5943119525909424,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0005093108067351741
+        },
+        {
+            "source": 1,
+            "target": 15,
+            "semantic_sim": 0.4674747884273529,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 9.296396549529767e-05
+        },
+        {
+            "source": 1,
+            "target": 16,
+            "semantic_sim": 0.5679722428321838,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 1.3605332372043687e-05
+        },
+        {
+            "source": 1,
+            "target": 17,
+            "semantic_sim": 0.533918559551239,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 2.6684177025422593e-06
+        },
+        {
+            "source": 1,
+            "target": 18,
+            "semantic_sim": 0.552480936050415,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 3.5988622208674216e-06
+        },
+        {
+            "source": 1,
+            "target": 19,
+            "semantic_sim": 0.503183126449585,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 3.906052406619113e-06
+        },
+        {
+            "source": 1,
+            "target": 20,
+            "semantic_sim": 0.5228697657585144,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 3.7498842524238984e-06
+        },
+        {
+            "source": 1,
+            "target": 21,
+            "semantic_sim": 0.5092744827270508,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 2.957650984019003e-06
+        },
+        {
+            "source": 1,
+            "target": 22,
+            "semantic_sim": 0.5728091597557068,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 1.7377870395119433e-06
+        },
+        {
+            "source": 1,
+            "target": 23,
+            "semantic_sim": 0.5526846051216125,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 9.028650963697482e-07
+        },
+        {
+            "source": 1,
+            "target": 24,
+            "semantic_sim": 0.5677618384361267,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 2.833941273595058e-07
+        },
+        {
+            "source": 1,
+            "target": 25,
+            "semantic_sim": 0.580359697341919,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 6.912087340566187e-08
+        },
+        {
+            "source": 1,
+            "target": 26,
+            "semantic_sim": 0.49051570892333984,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 2.2194243696360955e-08
+        },
+        {
+            "source": 1,
+            "target": 27,
+            "semantic_sim": 0.5068060159683228,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 7.975984251135594e-09
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "semantic_sim": 0.59266597032547,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.24004840602888497
+        },
+        {
+            "source": 2,
+            "target": 4,
+            "semantic_sim": 0.6364452242851257,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.11022992228915052
+        },
+        {
+            "source": 2,
+            "target": 5,
+            "semantic_sim": 0.6001840829849243,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.041178268420807115
+        },
+        {
+            "source": 2,
+            "target": 6,
+            "semantic_sim": 0.5684452652931213,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.007875043169151445
+        },
+        {
+            "source": 2,
+            "target": 7,
+            "semantic_sim": 0.6426854729652405,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00705399715792104
+        },
+        {
+            "source": 2,
+            "target": 8,
+            "semantic_sim": 0.6655288338661194,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0009692133856144077
+        },
+        {
+            "source": 2,
+            "target": 9,
+            "semantic_sim": 0.6252887845039368,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 7.441943131895574e-05
+        },
+        {
+            "source": 2,
+            "target": 10,
+            "semantic_sim": 0.6842610239982605,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 4.1676480311953654e-05
+        },
+        {
+            "source": 2,
+            "target": 11,
+            "semantic_sim": 0.7374022603034973,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 5.1179047647216134e-05
+        },
+        {
+            "source": 2,
+            "target": 12,
+            "semantic_sim": 0.6396680474281311,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00011435372892426097
+        },
+        {
+            "source": 2,
+            "target": 13,
+            "semantic_sim": 0.651861846446991,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00019814256520262337
+        },
+        {
+            "source": 2,
+            "target": 14,
+            "semantic_sim": 0.7224172949790955,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00024138907696410816
+        },
+        {
+            "source": 2,
+            "target": 15,
+            "semantic_sim": 0.5697047710418701,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 3.500443453980897e-05
+        },
+        {
+            "source": 2,
+            "target": 16,
+            "semantic_sim": 0.6056457757949829,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 5.6029842020661e-06
+        },
+        {
+            "source": 2,
+            "target": 17,
+            "semantic_sim": 0.5763170123100281,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 1.308738254331834e-06
+        },
+        {
+            "source": 2,
+            "target": 18,
+            "semantic_sim": 0.6524525284767151,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 2.185031631942601e-06
+        },
+        {
+            "source": 2,
+            "target": 19,
+            "semantic_sim": 0.5644981861114502,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 2.7475484627622104e-06
+        },
+        {
+            "source": 2,
+            "target": 20,
+            "semantic_sim": 0.6003745794296265,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 3.366176789409351e-06
+        },
+        {
+            "source": 2,
+            "target": 21,
+            "semantic_sim": 0.6064662337303162,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 3.4320666294323863e-06
+        },
+        {
+            "source": 2,
+            "target": 22,
+            "semantic_sim": 0.5761023163795471,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 2.66516104100836e-06
+        },
+        {
+            "source": 2,
+            "target": 23,
+            "semantic_sim": 0.6031278967857361,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 1.5969177264001977e-06
+        },
+        {
+            "source": 2,
+            "target": 24,
+            "semantic_sim": 0.62479168176651,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 5.160764655096508e-07
+        },
+        {
+            "source": 2,
+            "target": 25,
+            "semantic_sim": 0.6422139406204224,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 1.3302894018360875e-07
+        },
+        {
+            "source": 2,
+            "target": 26,
+            "semantic_sim": 0.5676729679107666,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 4.465187462196519e-08
+        },
+        {
+            "source": 2,
+            "target": 27,
+            "semantic_sim": 0.5677449703216553,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 1.888785811734181e-08
+        },
+        {
+            "source": 3,
+            "target": 4,
+            "semantic_sim": 0.5801411271095276,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.3142765807786961
+        },
+        {
+            "source": 3,
+            "target": 5,
+            "semantic_sim": 0.5383804440498352,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.1370933249370076
+        },
+        {
+            "source": 3,
+            "target": 6,
+            "semantic_sim": 0.5611761212348938,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.02032804301040274
+        },
+        {
+            "source": 3,
+            "target": 7,
+            "semantic_sim": 0.5598927140235901,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.013122971477669049
+        },
+        {
+            "source": 3,
+            "target": 8,
+            "semantic_sim": 0.6493811011314392,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0013744662988808523
+        },
+        {
+            "source": 3,
+            "target": 9,
+            "semantic_sim": 0.641667902469635,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 9.15329787628054e-05
+        },
+        {
+            "source": 3,
+            "target": 10,
+            "semantic_sim": 0.5965530276298523,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 5.918551846024543e-05
+        },
+        {
+            "source": 3,
+            "target": 11,
+            "semantic_sim": 0.5593507885932922,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 8.919027167497248e-05
+        },
+        {
+            "source": 3,
+            "target": 12,
+            "semantic_sim": 0.48613429069519043,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00011907439256521785
+        },
+        {
+            "source": 3,
+            "target": 13,
+            "semantic_sim": 0.5297184586524963,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0001671817322181493
+        },
+        {
+            "source": 3,
+            "target": 14,
+            "semantic_sim": 0.5364035367965698,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0001336425061625535
+        },
+        {
+            "source": 3,
+            "target": 15,
+            "semantic_sim": 0.6239004731178284,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 1.7253437016911583e-05
+        },
+        {
+            "source": 3,
+            "target": 16,
+            "semantic_sim": 0.6622471213340759,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 3.0219535525022123e-06
+        },
+        {
+            "source": 3,
+            "target": 17,
+            "semantic_sim": 0.6766051054000854,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 8.148338864685668e-07
+        },
+        {
+            "source": 3,
+            "target": 18,
+            "semantic_sim": 0.6458375453948975,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 1.5791420079993137e-06
+        },
+        {
+            "source": 3,
+            "target": 19,
+            "semantic_sim": 0.5090181231498718,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 2.2046716941783714e-06
+        },
+        {
+            "source": 3,
+            "target": 20,
+            "semantic_sim": 0.5605663657188416,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 3.2247788021556656e-06
+        },
+        {
+            "source": 3,
+            "target": 21,
+            "semantic_sim": 0.5697229504585266,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 3.9836470991718335e-06
+        },
+        {
+            "source": 3,
+            "target": 22,
+            "semantic_sim": 0.5329115986824036,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 3.837082324809599e-06
+        },
+        {
+            "source": 3,
+            "target": 23,
+            "semantic_sim": 0.5424182415008545,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 2.581323836352571e-06
+        },
+        {
+            "source": 3,
+            "target": 24,
+            "semantic_sim": 0.590050458908081,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 8.637787599203409e-07
+        },
+        {
+            "source": 3,
+            "target": 25,
+            "semantic_sim": 0.5565820336341858,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 2.351086791858236e-07
+        },
+        {
+            "source": 3,
+            "target": 26,
+            "semantic_sim": 0.5045490264892578,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 8.228382850965132e-08
+        },
+        {
+            "source": 3,
+            "target": 27,
+            "semantic_sim": 0.5403784513473511,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 3.95563437731156e-08
+        },
+        {
+            "source": 4,
+            "target": 5,
+            "semantic_sim": 0.6163666844367981,
+            "tag_overlap": 0.25,
+            "tag_overlap_raw": 0.25,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.36960480750282443
+        },
+        {
+            "source": 4,
+            "target": 6,
+            "semantic_sim": 0.6464985609054565,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.06378795315342302
+        },
+        {
+            "source": 4,
+            "target": 7,
+            "semantic_sim": 0.6445916891098022,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.04091711335444222
+        },
+        {
+            "source": 4,
+            "target": 8,
+            "semantic_sim": 0.6126880049705505,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0040682866128778005
+        },
+        {
+            "source": 4,
+            "target": 9,
+            "semantic_sim": 0.6081749796867371,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0002629570160903273
+        },
+        {
+            "source": 4,
+            "target": 10,
+            "semantic_sim": 0.5708798766136169,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00017835409212886281
+        },
+        {
+            "source": 4,
+            "target": 11,
+            "semantic_sim": 0.5750302076339722,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00028030894764094954
+        },
+        {
+            "source": 4,
+            "target": 12,
+            "semantic_sim": 0.5891250371932983,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0003190174223858442
+        },
+        {
+            "source": 4,
+            "target": 13,
+            "semantic_sim": 0.6581053733825684,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00040127277591710665
+        },
+        {
+            "source": 4,
+            "target": 14,
+            "semantic_sim": 0.6460573673248291,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00024378254511777167
+        },
+        {
+            "source": 4,
+            "target": 15,
+            "semantic_sim": 0.5392501950263977,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 2.9451085432690402e-05
+        },
+        {
+            "source": 4,
+            "target": 16,
+            "semantic_sim": 0.710004448890686,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 5.6227034655582554e-06
+        },
+        {
+            "source": 4,
+            "target": 17,
+            "semantic_sim": 0.613084077835083,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 1.6939991347806917e-06
+        },
+        {
+            "source": 4,
+            "target": 18,
+            "semantic_sim": 0.6119091510772705,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 3.596131879188041e-06
+        },
+        {
+            "source": 4,
+            "target": 19,
+            "semantic_sim": 0.5810750722885132,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 5.3211978791472715e-06
+        },
+        {
+            "source": 4,
+            "target": 20,
+            "semantic_sim": 0.6232847571372986,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 8.495988344452713e-06
+        },
+        {
+            "source": 4,
+            "target": 21,
+            "semantic_sim": 0.6270842552185059,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 1.1354212007106634e-05
+        },
+        {
+            "source": 4,
+            "target": 22,
+            "semantic_sim": 0.5365266799926758,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 1.1681879872690929e-05
+        },
+        {
+            "source": 4,
+            "target": 23,
+            "semantic_sim": 0.6119658946990967,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 8.05354905024936e-06
+        },
+        {
+            "source": 4,
+            "target": 24,
+            "semantic_sim": 0.599422037601471,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 2.712143403898213e-06
+        },
+        {
+            "source": 4,
+            "target": 25,
+            "semantic_sim": 0.6543573141098022,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 7.435115946927528e-07
+        },
+        {
+            "source": 4,
+            "target": 26,
+            "semantic_sim": 0.5766804814338684,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 2.6115739336791994e-07
+        },
+        {
+            "source": 4,
+            "target": 27,
+            "semantic_sim": 0.5948818325996399,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 1.2572329509120052e-07
+        },
+        {
+            "source": 5,
+            "target": 6,
+            "semantic_sim": 0.5306506752967834,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.13311297761026433
+        },
+        {
+            "source": 5,
+            "target": 7,
+            "semantic_sim": 0.5866044759750366,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.060948413184831976
+        },
+        {
+            "source": 5,
+            "target": 8,
+            "semantic_sim": 0.5998709201812744,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00546259470158997
+        },
+        {
+            "source": 5,
+            "target": 9,
+            "semantic_sim": 0.5885691046714783,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00034249279949414316
+        },
+        {
+            "source": 5,
+            "target": 10,
+            "semantic_sim": 0.6291943192481995,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00026221730964526703
+        },
+        {
+            "source": 5,
+            "target": 11,
+            "semantic_sim": 0.5391008853912354,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00047990254664630785
+        },
+        {
+            "source": 5,
+            "target": 12,
+            "semantic_sim": 0.5604190826416016,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0003623724249403938
+        },
+        {
+            "source": 5,
+            "target": 13,
+            "semantic_sim": 0.603807270526886,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0003837060393614313
+        },
+        {
+            "source": 5,
+            "target": 14,
+            "semantic_sim": 0.5669505596160889,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00017168072642082135
+        },
+        {
+            "source": 5,
+            "target": 15,
+            "semantic_sim": 0.5031540989875793,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 1.991399397235727e-05
+        },
+        {
+            "source": 5,
+            "target": 16,
+            "semantic_sim": 0.5578198432922363,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 4.1703395050285714e-06
+        },
+        {
+            "source": 5,
+            "target": 17,
+            "semantic_sim": 0.5792492628097534,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 1.420672080063096e-06
+        },
+        {
+            "source": 5,
+            "target": 18,
+            "semantic_sim": 0.5711928606033325,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 3.3454055909820906e-06
+        },
+        {
+            "source": 5,
+            "target": 19,
+            "semantic_sim": 0.594348669052124,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 5.330735340058633e-06
+        },
+        {
+            "source": 5,
+            "target": 20,
+            "semantic_sim": 0.5273691415786743,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 9.672625745548325e-06
+        },
+        {
+            "source": 5,
+            "target": 21,
+            "semantic_sim": 0.5418198108673096,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 1.4888729375542272e-05
+        },
+        {
+            "source": 5,
+            "target": 22,
+            "semantic_sim": 0.5395784974098206,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 1.7989724256332994e-05
+        },
+        {
+            "source": 5,
+            "target": 23,
+            "semantic_sim": 0.5434905290603638,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 1.354338116404138e-05
+        },
+        {
+            "source": 5,
+            "target": 24,
+            "semantic_sim": 0.5344547629356384,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 4.711213569439471e-06
+        },
+        {
+            "source": 5,
+            "target": 25,
+            "semantic_sim": 0.5531306862831116,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 1.3505897105178573e-06
+        },
+        {
+            "source": 5,
+            "target": 26,
+            "semantic_sim": 0.49997666478157043,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 4.901083240826336e-07
+        },
+        {
+            "source": 5,
+            "target": 27,
+            "semantic_sim": 0.522519052028656,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 2.5707921793451773e-07
+        },
+        {
+            "source": 6,
+            "target": 7,
+            "semantic_sim": 0.6785288453102112,
+            "tag_overlap": 0.09090909090909091,
+            "tag_overlap_raw": 0.09090909090909091,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.28114303375737854
+        },
+        {
+            "source": 6,
+            "target": 8,
+            "semantic_sim": 0.5737165212631226,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.029345819248942938
+        },
+        {
+            "source": 6,
+            "target": 9,
+            "semantic_sim": 0.5701513886451721,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0019348622224516184
+        },
+        {
+            "source": 6,
+            "target": 10,
+            "semantic_sim": 0.5028868913650513,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0016995908185235657
+        },
+        {
+            "source": 6,
+            "target": 11,
+            "semantic_sim": 0.49575090408325195,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.003477939576239731
+        },
+        {
+            "source": 6,
+            "target": 12,
+            "semantic_sim": 0.5465871095657349,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0016979414552448933
+        },
+        {
+            "source": 6,
+            "target": 13,
+            "semantic_sim": 0.6452698707580566,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0013640065673560175
+        },
+        {
+            "source": 6,
+            "target": 14,
+            "semantic_sim": 0.5343393683433533,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0003542096740850699
+        },
+        {
+            "source": 6,
+            "target": 15,
+            "semantic_sim": 0.5555241107940674,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 4.0308583225847555e-05
+        },
+        {
+            "source": 6,
+            "target": 16,
+            "semantic_sim": 0.6910060048103333,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 1.0496696478306905e-05
+        },
+        {
+            "source": 6,
+            "target": 17,
+            "semantic_sim": 0.5944878458976746,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 4.555108853469507e-06
+        },
+        {
+            "source": 6,
+            "target": 18,
+            "semantic_sim": 0.563714861869812,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 1.2617889286521654e-05
+        },
+        {
+            "source": 6,
+            "target": 19,
+            "semantic_sim": 0.5350359082221985,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 2.2431582570631837e-05
+        },
+        {
+            "source": 6,
+            "target": 20,
+            "semantic_sim": 0.531864583492279,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 4.846603442055836e-05
+        },
+        {
+            "source": 6,
+            "target": 21,
+            "semantic_sim": 0.5854251980781555,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 8.819147109383787e-05
+        },
+        {
+            "source": 6,
+            "target": 22,
+            "semantic_sim": 0.5312067866325378,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00012350102829572268
+        },
+        {
+            "source": 6,
+            "target": 23,
+            "semantic_sim": 0.6003993153572083,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 9.827621320931699e-05
+        },
+        {
+            "source": 6,
+            "target": 24,
+            "semantic_sim": 0.5648719668388367,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 3.4729710883858485e-05
+        },
+        {
+            "source": 6,
+            "target": 25,
+            "semantic_sim": 0.6210559606552124,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 1.0093927577734875e-05
+        },
+        {
+            "source": 6,
+            "target": 26,
+            "semantic_sim": 0.5081873536109924,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 3.6790935862166442e-06
+        },
+        {
+            "source": 6,
+            "target": 27,
+            "semantic_sim": 0.567768931388855,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 1.907939967606743e-06
+        },
+        {
+            "source": 7,
+            "target": 8,
+            "semantic_sim": 0.5969504117965698,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.08910817679962327
+        },
+        {
+            "source": 7,
+            "target": 9,
+            "semantic_sim": 0.6615495681762695,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.005589040596958571
+        },
+        {
+            "source": 7,
+            "target": 10,
+            "semantic_sim": 0.6579443216323853,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.004226177851485177
+        },
+        {
+            "source": 7,
+            "target": 11,
+            "semantic_sim": 0.5762897729873657,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00677344348985316
+        },
+        {
+            "source": 7,
+            "target": 12,
+            "semantic_sim": 0.6177288293838501,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.005509291391817461
+        },
+        {
+            "source": 7,
+            "target": 13,
+            "semantic_sim": 0.6702357530593872,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.004784058700543113
+        },
+        {
+            "source": 7,
+            "target": 14,
+            "semantic_sim": 0.6530267000198364,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0012286191246621678
+        },
+        {
+            "source": 7,
+            "target": 15,
+            "semantic_sim": 0.5982863903045654,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0001404494090334516
+        },
+        {
+            "source": 7,
+            "target": 16,
+            "semantic_sim": 0.6650117039680481,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 3.729710414164414e-05
+        },
+        {
+            "source": 7,
+            "target": 17,
+            "semantic_sim": 0.6133476495742798,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 1.6043806590191057e-05
+        },
+        {
+            "source": 7,
+            "target": 18,
+            "semantic_sim": 0.6508235931396484,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 4.3351330944815435e-05
+        },
+        {
+            "source": 7,
+            "target": 19,
+            "semantic_sim": 0.5949745178222656,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 7.493290570065226e-05
+        },
+        {
+            "source": 7,
+            "target": 20,
+            "semantic_sim": 0.6386164426803589,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00015070522594094057
+        },
+        {
+            "source": 7,
+            "target": 21,
+            "semantic_sim": 0.6060733199119568,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00024372199951157102
+        },
+        {
+            "source": 7,
+            "target": 22,
+            "semantic_sim": 0.607817530632019,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00028178763812560523
+        },
+        {
+            "source": 7,
+            "target": 23,
+            "semantic_sim": 0.6288291215896606,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00019621234362966097
+        },
+        {
+            "source": 7,
+            "target": 24,
+            "semantic_sim": 0.6468527317047119,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 6.569656979253464e-05
+        },
+        {
+            "source": 7,
+            "target": 25,
+            "semantic_sim": 0.6485239267349243,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 1.7700685357511906e-05
+        },
+        {
+            "source": 7,
+            "target": 26,
+            "semantic_sim": 0.5816063284873962,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 6.0946225424890504e-06
+        },
+        {
+            "source": 7,
+            "target": 27,
+            "semantic_sim": 0.5671653747558594,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 2.6761751865735293e-06
+        },
+        {
+            "source": 8,
+            "target": 9,
+            "semantic_sim": 0.7120323181152344,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0625842742359367
+        },
+        {
+            "source": 8,
+            "target": 10,
+            "semantic_sim": 0.6548570394515991,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.04246255731681663
+        },
+        {
+            "source": 8,
+            "target": 11,
+            "semantic_sim": 0.5912216901779175,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.04490614893674631
+        },
+        {
+            "source": 8,
+            "target": 12,
+            "semantic_sim": 0.5624277591705322,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.05680711211112985
+        },
+        {
+            "source": 8,
+            "target": 13,
+            "semantic_sim": 0.6669589281082153,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.035274895824182306
+        },
+        {
+            "source": 8,
+            "target": 14,
+            "semantic_sim": 0.604644775390625,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.004566466917031101
+        },
+        {
+            "source": 8,
+            "target": 15,
+            "semantic_sim": 0.5760495662689209,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0006007397085228931
+        },
+        {
+            "source": 8,
+            "target": 16,
+            "semantic_sim": 0.6439430117607117,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00022129225444377767
+        },
+        {
+            "source": 8,
+            "target": 17,
+            "semantic_sim": 0.7506359219551086,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00012613477901258835
+        },
+        {
+            "source": 8,
+            "target": 18,
+            "semantic_sim": 0.7424312829971313,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0003922161528139917
+        },
+        {
+            "source": 8,
+            "target": 19,
+            "semantic_sim": 0.584192156791687,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0007385127103178396
+        },
+        {
+            "source": 8,
+            "target": 20,
+            "semantic_sim": 0.5960788726806641,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.001647010746756393
+        },
+        {
+            "source": 8,
+            "target": 21,
+            "semantic_sim": 0.5813960433006287,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0027129927051683204
+        },
+        {
+            "source": 8,
+            "target": 22,
+            "semantic_sim": 0.6132570505142212,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0027145308221159666
+        },
+        {
+            "source": 8,
+            "target": 23,
+            "semantic_sim": 0.6973646283149719,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.001618422511852824
+        },
+        {
+            "source": 8,
+            "target": 24,
+            "semantic_sim": 0.6150630116462708,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0005158626924214252
+        },
+        {
+            "source": 8,
+            "target": 25,
+            "semantic_sim": 0.6588264107704163,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00012837468871999843
+        },
+        {
+            "source": 8,
+            "target": 26,
+            "semantic_sim": 0.5580401420593262,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 4.1538826266396084e-05
+        },
+        {
+            "source": 8,
+            "target": 27,
+            "semantic_sim": 0.6348758339881897,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 1.4465265963119356e-05
+        },
+        {
+            "source": 9,
+            "target": 10,
+            "semantic_sim": 0.693964958190918,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.32797524491171703
+        },
+        {
+            "source": 9,
+            "target": 11,
+            "semantic_sim": 0.5723146796226501,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0891581576549603
+        },
+        {
+            "source": 9,
+            "target": 12,
+            "semantic_sim": 0.7103708982467651,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.32124788816803634
+        },
+        {
+            "source": 9,
+            "target": 13,
+            "semantic_sim": 0.6988380551338196,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.08150854758137273
+        },
+        {
+            "source": 9,
+            "target": 14,
+            "semantic_sim": 0.6036875247955322,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.005810217971828502
+        },
+        {
+            "source": 9,
+            "target": 15,
+            "semantic_sim": 0.5860704779624939,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0013231444634272836
+        },
+        {
+            "source": 9,
+            "target": 16,
+            "semantic_sim": 0.6851330995559692,
+            "tag_overlap": 0.1,
+            "tag_overlap_raw": 0.1,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0009215609014714808
+        },
+        {
+            "source": 9,
+            "target": 17,
+            "semantic_sim": 0.7362388372421265,
+            "tag_overlap": 0.09090909090909091,
+            "tag_overlap_raw": 0.09090909090909091,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0009083311303000175
+        },
+        {
+            "source": 9,
+            "target": 18,
+            "semantic_sim": 0.7208511233329773,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.003583768877852428
+        },
+        {
+            "source": 9,
+            "target": 19,
+            "semantic_sim": 0.5383449792861938,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.008036428367370728
+        },
+        {
+            "source": 9,
+            "target": 20,
+            "semantic_sim": 0.6921513080596924,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.023489907611885942
+        },
+        {
+            "source": 9,
+            "target": 21,
+            "semantic_sim": 0.574420154094696,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.04310398882760684
+        },
+        {
+            "source": 9,
+            "target": 22,
+            "semantic_sim": 0.6254492402076721,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.030724418322000457
+        },
+        {
+            "source": 9,
+            "target": 23,
+            "semantic_sim": 0.6258767247200012,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.013413722483336955
+        },
+        {
+            "source": 9,
+            "target": 24,
+            "semantic_sim": 0.6980330944061279,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.004199146076027375
+        },
+        {
+            "source": 9,
+            "target": 25,
+            "semantic_sim": 0.6509769558906555,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0009734465167333726
+        },
+        {
+            "source": 9,
+            "target": 26,
+            "semantic_sim": 0.610433042049408,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00029778559048562975
+        },
+        {
+            "source": 9,
+            "target": 27,
+            "semantic_sim": 0.5958216786384583,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 7.548635781770269e-05
+        },
+        {
+            "source": 10,
+            "target": 11,
+            "semantic_sim": 0.6795812845230103,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.22139787320748736
+        },
+        {
+            "source": 10,
+            "target": 12,
+            "semantic_sim": 0.6130943298339844,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.10544667187056628
+        },
+        {
+            "source": 10,
+            "target": 13,
+            "semantic_sim": 0.6380601525306702,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.026743923732679586
+        },
+        {
+            "source": 10,
+            "target": 14,
+            "semantic_sim": 0.6487277150154114,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0019056954246207869
+        },
+        {
+            "source": 10,
+            "target": 15,
+            "semantic_sim": 0.6819437742233276,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0004487112198127732
+        },
+        {
+            "source": 10,
+            "target": 16,
+            "semantic_sim": 0.6176581978797913,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00034879355110957173
+        },
+        {
+            "source": 10,
+            "target": 17,
+            "semantic_sim": 0.595203161239624,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0004113714479399254
+        },
+        {
+            "source": 10,
+            "target": 18,
+            "semantic_sim": 0.6864374876022339,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0017706239815080294
+        },
+        {
+            "source": 10,
+            "target": 19,
+            "semantic_sim": 0.6597875952720642,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.004339508971141456
+        },
+        {
+            "source": 10,
+            "target": 20,
+            "semantic_sim": 0.6810333132743835,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.01614638710240174
+        },
+        {
+            "source": 10,
+            "target": 21,
+            "semantic_sim": 0.5747203230857849,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.04713706264858163
+        },
+        {
+            "source": 10,
+            "target": 22,
+            "semantic_sim": 0.6498258113861084,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0638363071817889
+        },
+        {
+            "source": 10,
+            "target": 23,
+            "semantic_sim": 0.6289721131324768,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.03400255767023154
+        },
+        {
+            "source": 10,
+            "target": 24,
+            "semantic_sim": 0.6547360420227051,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.010581611254269235
+        },
+        {
+            "source": 10,
+            "target": 25,
+            "semantic_sim": 0.6054955124855042,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0024949994271476965
+        },
+        {
+            "source": 10,
+            "target": 26,
+            "semantic_sim": 0.5549191832542419,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0007737202576025614
+        },
+        {
+            "source": 10,
+            "target": 27,
+            "semantic_sim": 0.5796893239021301,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0002127894124282129
+        },
+        {
+            "source": 11,
+            "target": 12,
+            "semantic_sim": 0.5873150825500488,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.030585192801359833
+        },
+        {
+            "source": 11,
+            "target": 13,
+            "semantic_sim": 0.5909689664840698,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.008449861867004119
+        },
+        {
+            "source": 11,
+            "target": 14,
+            "semantic_sim": 0.7560262084007263,
+            "tag_overlap": 0.1111111111111111,
+            "tag_overlap_raw": 0.1111111111111111,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0006234039443055379
+        },
+        {
+            "source": 11,
+            "target": 15,
+            "semantic_sim": 0.526034414768219,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00012230199568362667
+        },
+        {
+            "source": 11,
+            "target": 16,
+            "semantic_sim": 0.6005339622497559,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 8.268885430028005e-05
+        },
+        {
+            "source": 11,
+            "target": 17,
+            "semantic_sim": 0.558950662612915,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 9.144175495927392e-05
+        },
+        {
+            "source": 11,
+            "target": 18,
+            "semantic_sim": 0.6074694395065308,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.000392053766325678
+        },
+        {
+            "source": 11,
+            "target": 19,
+            "semantic_sim": 0.5330382585525513,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0009654758717791665
+        },
+        {
+            "source": 11,
+            "target": 20,
+            "semantic_sim": 0.577516496181488,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0037454312696972
+        },
+        {
+            "source": 11,
+            "target": 21,
+            "semantic_sim": 0.5546169281005859,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.012996051469759901
+        },
+        {
+            "source": 11,
+            "target": 22,
+            "semantic_sim": 0.6022823452949524,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.032334781963264635
+        },
+        {
+            "source": 11,
+            "target": 23,
+            "semantic_sim": 0.5794785022735596,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.02819225478303686
+        },
+        {
+            "source": 11,
+            "target": 24,
+            "semantic_sim": 0.6034327745437622,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.009674451621670464
+        },
+        {
+            "source": 11,
+            "target": 25,
+            "semantic_sim": 0.587189257144928,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0025913012719237056
+        },
+        {
+            "source": 11,
+            "target": 26,
+            "semantic_sim": 0.5207601189613342,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0008704527206908301
+        },
+        {
+            "source": 11,
+            "target": 27,
+            "semantic_sim": 0.4968183934688568,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00032151205743928345
+        },
+        {
+            "source": 12,
+            "target": 13,
+            "semantic_sim": 0.7205902934074402,
+            "tag_overlap": 0.16666666666666666,
+            "tag_overlap_raw": 0.16666666666666666,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.2518779647880749
+        },
+        {
+            "source": 12,
+            "target": 14,
+            "semantic_sim": 0.7260860204696655,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.01803444751005019
+        },
+        {
+            "source": 12,
+            "target": 15,
+            "semantic_sim": 0.5111520290374756,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0039951887465210535
+        },
+        {
+            "source": 12,
+            "target": 16,
+            "semantic_sim": 0.5955184102058411,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00244062301018709
+        },
+        {
+            "source": 12,
+            "target": 17,
+            "semantic_sim": 0.5486111640930176,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0019320810315426365
+        },
+        {
+            "source": 12,
+            "target": 18,
+            "semantic_sim": 0.6563076972961426,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.006657143362892751
+        },
+        {
+            "source": 12,
+            "target": 19,
+            "semantic_sim": 0.4930044412612915,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.012982692246532722
+        },
+        {
+            "source": 12,
+            "target": 20,
+            "semantic_sim": 0.6530447602272034,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.026525771126335942
+        },
+        {
+            "source": 12,
+            "target": 21,
+            "semantic_sim": 0.5870622396469116,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.02860121932792305
+        },
+        {
+            "source": 12,
+            "target": 22,
+            "semantic_sim": 0.6018598079681396,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.012737062065984982
+        },
+        {
+            "source": 12,
+            "target": 23,
+            "semantic_sim": 0.5468078255653381,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00495638997056439
+        },
+        {
+            "source": 12,
+            "target": 24,
+            "semantic_sim": 0.6373999118804932,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0015823386546015917
+        },
+        {
+            "source": 12,
+            "target": 25,
+            "semantic_sim": 0.5813332200050354,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00036632920393030595
+        },
+        {
+            "source": 12,
+            "target": 26,
+            "semantic_sim": 0.5310893058776855,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00011149309899707785
+        },
+        {
+            "source": 12,
+            "target": 27,
+            "semantic_sim": 0.4748411178588867,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 2.6371759446354723e-05
+        },
+        {
+            "source": 13,
+            "target": 14,
+            "semantic_sim": 0.6895198822021484,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.07119266015468516
+        },
+        {
+            "source": 13,
+            "target": 15,
+            "semantic_sim": 0.5519126653671265,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.013696513134330256
+        },
+        {
+            "source": 13,
+            "target": 16,
+            "semantic_sim": 0.7137112021446228,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.006217095838471
+        },
+        {
+            "source": 13,
+            "target": 17,
+            "semantic_sim": 0.6582657098770142,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.003333486835093578
+        },
+        {
+            "source": 13,
+            "target": 18,
+            "semantic_sim": 0.6599141359329224,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.008713043656597152
+        },
+        {
+            "source": 13,
+            "target": 19,
+            "semantic_sim": 0.5523989200592041,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.013164470058285025
+        },
+        {
+            "source": 13,
+            "target": 20,
+            "semantic_sim": 0.5989471077919006,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.016097798122269677
+        },
+        {
+            "source": 13,
+            "target": 21,
+            "semantic_sim": 0.5621594190597534,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.010621868750963983
+        },
+        {
+            "source": 13,
+            "target": 22,
+            "semantic_sim": 0.567164421081543,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.003557236434099508
+        },
+        {
+            "source": 13,
+            "target": 23,
+            "semantic_sim": 0.6494564414024353,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0013100268113720695
+        },
+        {
+            "source": 13,
+            "target": 24,
+            "semantic_sim": 0.5828748345375061,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00042549787161001544
+        },
+        {
+            "source": 13,
+            "target": 25,
+            "semantic_sim": 0.6604712605476379,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 9.902946620877887e-05
+        },
+        {
+            "source": 13,
+            "target": 26,
+            "semantic_sim": 0.5484967827796936,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 3.013986783562713e-05
+        },
+        {
+            "source": 13,
+            "target": 27,
+            "semantic_sim": 0.5725363492965698,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 6.839566096270887e-06
+        },
+        {
+            "source": 14,
+            "target": 15,
+            "semantic_sim": 0.5254245400428772,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.1133836817678819
+        },
+        {
+            "source": 14,
+            "target": 16,
+            "semantic_sim": 0.6675789952278137,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.022608626954764677
+        },
+        {
+            "source": 14,
+            "target": 17,
+            "semantic_sim": 0.5765402317047119,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0052063606398273865
+        },
+        {
+            "source": 14,
+            "target": 18,
+            "semantic_sim": 0.6479272842407227,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.006461439271446707
+        },
+        {
+            "source": 14,
+            "target": 19,
+            "semantic_sim": 0.5660843253135681,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0056984518869827114
+        },
+        {
+            "source": 14,
+            "target": 20,
+            "semantic_sim": 0.6342033743858337,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0031938000536013912
+        },
+        {
+            "source": 14,
+            "target": 21,
+            "semantic_sim": 0.6173380613327026,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0012231888981049136
+        },
+        {
+            "source": 14,
+            "target": 22,
+            "semantic_sim": 0.6014849543571472,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0003029420180466652
+        },
+        {
+            "source": 14,
+            "target": 23,
+            "semantic_sim": 0.6036878228187561,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00010421570863264221
+        },
+        {
+            "source": 14,
+            "target": 24,
+            "semantic_sim": 0.6300749778747559,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 3.507916680457133e-05
+        },
+        {
+            "source": 14,
+            "target": 25,
+            "semantic_sim": 0.6371477246284485,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 8.312388655567552e-06
+        },
+        {
+            "source": 14,
+            "target": 26,
+            "semantic_sim": 0.5506540536880493,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 2.5467798471926587e-06
+        },
+        {
+            "source": 14,
+            "target": 27,
+            "semantic_sim": 0.5607048273086548,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 5.354516756935924e-07
+        },
+        {
+            "source": 15,
+            "target": 16,
+            "semantic_sim": 0.6554470062255859,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.1397581839358303
+        },
+        {
+            "source": 15,
+            "target": 17,
+            "semantic_sim": 0.6097429990768433,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.02130376101613656
+        },
+        {
+            "source": 15,
+            "target": 18,
+            "semantic_sim": 0.6441187858581543,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.013830419510822775
+        },
+        {
+            "source": 15,
+            "target": 19,
+            "semantic_sim": 0.5988043546676636,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.008033314677421431
+        },
+        {
+            "source": 15,
+            "target": 20,
+            "semantic_sim": 0.6391925811767578,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0025989048967025342
+        },
+        {
+            "source": 15,
+            "target": 21,
+            "semantic_sim": 0.5525981783866882,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0006626718568086465
+        },
+        {
+            "source": 15,
+            "target": 22,
+            "semantic_sim": 0.5302419662475586,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00012131881383869906
+        },
+        {
+            "source": 15,
+            "target": 23,
+            "semantic_sim": 0.57576584815979,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 3.832367204528073e-05
+        },
+        {
+            "source": 15,
+            "target": 24,
+            "semantic_sim": 0.6145161390304565,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 1.4275961046820346e-05
+        },
+        {
+            "source": 15,
+            "target": 25,
+            "semantic_sim": 0.6234922409057617,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 3.620991736872215e-06
+        },
+        {
+            "source": 15,
+            "target": 26,
+            "semantic_sim": 0.5980199575424194,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 1.1494621482695196e-06
+        },
+        {
+            "source": 15,
+            "target": 27,
+            "semantic_sim": 0.5858446359634399,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 2.1020010861119085e-07
+        },
+        {
+            "source": 16,
+            "target": 17,
+            "semantic_sim": 0.6911522746086121,
+            "tag_overlap": 0.1,
+            "tag_overlap_raw": 0.1,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.1372969775633346
+        },
+        {
+            "source": 16,
+            "target": 18,
+            "semantic_sim": 0.6381929516792297,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.05533940873973359
+        },
+        {
+            "source": 16,
+            "target": 19,
+            "semantic_sim": 0.575051486492157,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.024076048495876884
+        },
+        {
+            "source": 16,
+            "target": 20,
+            "semantic_sim": 0.6002306938171387,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.005566792475216102
+        },
+        {
+            "source": 16,
+            "target": 21,
+            "semantic_sim": 0.6020326018333435,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0011226961158327148
+        },
+        {
+            "source": 16,
+            "target": 22,
+            "semantic_sim": 0.5582695603370667,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00017260175220979153
+        },
+        {
+            "source": 16,
+            "target": 23,
+            "semantic_sim": 0.6432915329933167,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 5.2826175944010614e-05
+        },
+        {
+            "source": 16,
+            "target": 24,
+            "semantic_sim": 0.623723566532135,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 2.244414887369616e-05
+        },
+        {
+            "source": 16,
+            "target": 25,
+            "semantic_sim": 0.6656710505485535,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 6.304662814961768e-06
+        },
+        {
+            "source": 16,
+            "target": 26,
+            "semantic_sim": 0.5863405466079712,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 2.1219839967897436e-06
+        },
+        {
+            "source": 16,
+            "target": 27,
+            "semantic_sim": 0.6154614686965942,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 3.513258428457433e-07
+        },
+        {
+            "source": 17,
+            "target": 18,
+            "semantic_sim": 0.731396496295929,
+            "tag_overlap": 0.2857142857142857,
+            "tag_overlap_raw": 0.2857142857142857,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.20513254636353584
+        },
+        {
+            "source": 17,
+            "target": 19,
+            "semantic_sim": 0.5521226525306702,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.07433840521482056
+        },
+        {
+            "source": 17,
+            "target": 20,
+            "semantic_sim": 0.6237022280693054,
+            "tag_overlap": 0.125,
+            "tag_overlap_raw": 0.125,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.01472210143227786
+        },
+        {
+            "source": 17,
+            "target": 21,
+            "semantic_sim": 0.6150116324424744,
+            "tag_overlap": 0.1111111111111111,
+            "tag_overlap_raw": 0.1111111111111111,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0027020649736934576
+        },
+        {
+            "source": 17,
+            "target": 22,
+            "semantic_sim": 0.6278653740882874,
+            "tag_overlap": 0.14285714285714285,
+            "tag_overlap_raw": 0.14285714285714285,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00038958844884873234
+        },
+        {
+            "source": 17,
+            "target": 23,
+            "semantic_sim": 0.7319493293762207,
+            "tag_overlap": 0.16666666666666666,
+            "tag_overlap_raw": 0.16666666666666666,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00012147217412040988
+        },
+        {
+            "source": 17,
+            "target": 24,
+            "semantic_sim": 0.6748189330101013,
+            "tag_overlap": 0.3333333333333333,
+            "tag_overlap_raw": 0.3333333333333333,
+            "intent_gate": 1.0,
+            "spatial_prox": 6.035826454033508e-05
+        },
+        {
+            "source": 17,
+            "target": 25,
+            "semantic_sim": 0.7314980626106262,
+            "tag_overlap": 0.2857142857142857,
+            "tag_overlap_raw": 0.2857142857142857,
+            "intent_gate": 1.0,
+            "spatial_prox": 1.928762287839501e-05
+        },
+        {
+            "source": 17,
+            "target": 26,
+            "semantic_sim": 0.668823778629303,
+            "tag_overlap": 0.2857142857142857,
+            "tag_overlap_raw": 0.2857142857142857,
+            "intent_gate": 1.0,
+            "spatial_prox": 6.9961822525016735e-06
+        },
+        {
+            "source": 17,
+            "target": 27,
+            "semantic_sim": 0.6999179124832153,
+            "tag_overlap": 0.3333333333333333,
+            "tag_overlap_raw": 0.3333333333333333,
+            "intent_gate": 1.0,
+            "spatial_prox": 1.0876840128093546e-06
+        },
+        {
+            "source": 18,
+            "target": 19,
+            "semantic_sim": 0.6851972341537476,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.36226332077865914
+        },
+        {
+            "source": 18,
+            "target": 20,
+            "semantic_sim": 0.7178152799606323,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.07172079973154485
+        },
+        {
+            "source": 18,
+            "target": 21,
+            "semantic_sim": 0.6289215683937073,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.013160710546642248
+        },
+        {
+            "source": 18,
+            "target": 22,
+            "semantic_sim": 0.5904055237770081,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0018974075889493045
+        },
+        {
+            "source": 18,
+            "target": 23,
+            "semantic_sim": 0.6170802712440491,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0005911796521927762
+        },
+        {
+            "source": 18,
+            "target": 24,
+            "semantic_sim": 0.6808215379714966,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00028958580097704383
+        },
+        {
+            "source": 18,
+            "target": 25,
+            "semantic_sim": 0.6486466526985168,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 8.998765229561881e-05
+        },
+        {
+            "source": 18,
+            "target": 26,
+            "semantic_sim": 0.5980199575424194,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 3.1896955817659e-05
+        },
+        {
+            "source": 18,
+            "target": 27,
+            "semantic_sim": 0.6110877394676208,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 5.035227263794717e-06
+        },
+        {
+            "source": 19,
+            "target": 20,
+            "semantic_sim": 0.7259478569030762,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.19797838529117714
+        },
+        {
+            "source": 19,
+            "target": 21,
+            "semantic_sim": 0.5828887820243835,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.03632738775566433
+        },
+        {
+            "source": 19,
+            "target": 22,
+            "semantic_sim": 0.5278770923614502,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.005237258317100061
+        },
+        {
+            "source": 19,
+            "target": 23,
+            "semantic_sim": 0.5318088531494141,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0016314139290131422
+        },
+        {
+            "source": 19,
+            "target": 24,
+            "semantic_sim": 0.5599302053451538,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0007902616242811194
+        },
+        {
+            "source": 19,
+            "target": 25,
+            "semantic_sim": 0.5696637630462646,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00024027748756024075
+        },
+        {
+            "source": 19,
+            "target": 26,
+            "semantic_sim": 0.5385737419128418,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 8.370021655485842e-05
+        },
+        {
+            "source": 19,
+            "target": 27,
+            "semantic_sim": 0.5425822138786316,
+            "tag_overlap": 0.0,
+            "tag_overlap_raw": 0.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 1.3393587905400229e-05
+        },
+        {
+            "source": 20,
+            "target": 21,
+            "semantic_sim": 0.626937747001648,
+            "tag_overlap": 0.16666666666666666,
+            "tag_overlap_raw": 0.16666666666666666,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.1834683139320627
+        },
+        {
+            "source": 20,
+            "target": 22,
+            "semantic_sim": 0.6756364107131958,
+            "tag_overlap": 0.25,
+            "tag_overlap_raw": 0.25,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.026449222730706958
+        },
+        {
+            "source": 20,
+            "target": 23,
+            "semantic_sim": 0.6404392719268799,
+            "tag_overlap": 0.3333333333333333,
+            "tag_overlap_raw": 0.3333333333333333,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00823505333429653
+        },
+        {
+            "source": 20,
+            "target": 24,
+            "semantic_sim": 0.6889951229095459,
+            "tag_overlap": 0.25,
+            "tag_overlap_raw": 0.25,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0038866630987660425
+        },
+        {
+            "source": 20,
+            "target": 25,
+            "semantic_sim": 0.7121818661689758,
+            "tag_overlap": 0.2,
+            "tag_overlap_raw": 0.2,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.001128325842050584
+        },
+        {
+            "source": 20,
+            "target": 26,
+            "semantic_sim": 0.6961542367935181,
+            "tag_overlap": 0.2,
+            "tag_overlap_raw": 0.2,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00037997510363470174
+        },
+        {
+            "source": 20,
+            "target": 27,
+            "semantic_sim": 0.6313065886497498,
+            "tag_overlap": 0.25,
+            "tag_overlap_raw": 0.25,
+            "intent_gate": 1.0,
+            "spatial_prox": 6.279436443048835e-05
+        },
+        {
+            "source": 21,
+            "target": 22,
+            "semantic_sim": 0.6824626922607422,
+            "tag_overlap": 0.2,
+            "tag_overlap_raw": 0.2,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.14416023170204803
+        },
+        {
+            "source": 21,
+            "target": 23,
+            "semantic_sim": 0.6644774675369263,
+            "tag_overlap": 0.25,
+            "tag_overlap_raw": 0.25,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.04474803049850383
+        },
+        {
+            "source": 21,
+            "target": 24,
+            "semantic_sim": 0.5219184756278992,
+            "tag_overlap": 0.2,
+            "tag_overlap_raw": 0.2,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.019956058548464283
+        },
+        {
+            "source": 21,
+            "target": 25,
+            "semantic_sim": 0.6402869820594788,
+            "tag_overlap": 0.16666666666666666,
+            "tag_overlap_raw": 0.16666666666666666,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.005368535361214646
+        },
+        {
+            "source": 21,
+            "target": 26,
+            "semantic_sim": 0.5619077682495117,
+            "tag_overlap": 0.16666666666666666,
+            "tag_overlap_raw": 0.16666666666666666,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0017265070786982438
+        },
+        {
+            "source": 21,
+            "target": 27,
+            "semantic_sim": 0.6074973344802856,
+            "tag_overlap": 0.2,
+            "tag_overlap_raw": 0.2,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.00030353573824765866
+        },
+        {
+            "source": 22,
+            "target": 23,
+            "semantic_sim": 0.701542854309082,
+            "tag_overlap": 0.5,
+            "tag_overlap_raw": 0.5,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.30583119863054714
+        },
+        {
+            "source": 22,
+            "target": 24,
+            "semantic_sim": 0.6223728656768799,
+            "tag_overlap": 0.3333333333333333,
+            "tag_overlap_raw": 0.3333333333333333,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.11498879709863988
+        },
+        {
+            "source": 22,
+            "target": 25,
+            "semantic_sim": 0.6507852077484131,
+            "tag_overlap": 0.25,
+            "tag_overlap_raw": 0.25,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.02729412535572344
+        },
+        {
+            "source": 22,
+            "target": 26,
+            "semantic_sim": 0.5404749512672424,
+            "tag_overlap": 0.25,
+            "tag_overlap_raw": 0.25,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.008344299689084326
+        },
+        {
+            "source": 22,
+            "target": 27,
+            "semantic_sim": 0.5774819850921631,
+            "tag_overlap": 0.3333333333333333,
+            "tag_overlap_raw": 0.3333333333333333,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.0016991655987638654
+        },
+        {
+            "source": 23,
+            "target": 24,
+            "semantic_sim": 0.5636715292930603,
+            "tag_overlap": 0.5,
+            "tag_overlap_raw": 0.5,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.31027951633366113
+        },
+        {
+            "source": 23,
+            "target": 25,
+            "semantic_sim": 0.7008396983146667,
+            "tag_overlap": 0.3333333333333333,
+            "tag_overlap_raw": 0.3333333333333333,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.07218816703992692
+        },
+        {
+            "source": 23,
+            "target": 26,
+            "semantic_sim": 0.5885078310966492,
+            "tag_overlap": 0.3333333333333333,
+            "tag_overlap_raw": 0.3333333333333333,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.02212624337832301
+        },
+        {
+            "source": 23,
+            "target": 27,
+            "semantic_sim": 0.6709089875221252,
+            "tag_overlap": 0.5,
+            "tag_overlap_raw": 0.5,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.005116634990185542
+        },
+        {
+            "source": 24,
+            "target": 25,
+            "semantic_sim": 0.6683194637298584,
+            "tag_overlap": 0.6666666666666666,
+            "tag_overlap_raw": 0.6666666666666666,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.23080183857480285
+        },
+        {
+            "source": 24,
+            "target": 26,
+            "semantic_sim": 0.6248800754547119,
+            "tag_overlap": 0.6666666666666666,
+            "tag_overlap_raw": 0.6666666666666666,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.07035901603921392
+        },
+        {
+            "source": 24,
+            "target": 27,
+            "semantic_sim": 0.5905501246452332,
+            "tag_overlap": 1.0,
+            "tag_overlap_raw": 1.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.014676093441243297
+        },
+        {
+            "source": 25,
+            "target": 26,
+            "semantic_sim": 0.850337028503418,
+            "tag_overlap": 1.0,
+            "tag_overlap_raw": 1.0,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.3042487280524891
+        },
+        {
+            "source": 25,
+            "target": 27,
+            "semantic_sim": 0.787181556224823,
+            "tag_overlap": 0.6666666666666666,
+            "tag_overlap_raw": 0.6666666666666666,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.055629207789392364
+        },
+        {
+            "source": 26,
+            "target": 27,
+            "semantic_sim": 0.8126682639122009,
+            "tag_overlap": 0.6666666666666666,
+            "tag_overlap_raw": 0.6666666666666666,
+            "intent_gate": 1.0,
+            "spatial_prox": 0.14862278017541403
+        }
+    ]
+}

@@ -1,0 +1,1009 @@
+[
+  {
+    "cluster_ids": [
+      0
+    ],
+    "cluster_id": 0,
+    "start_ts": 243126904,
+    "end_ts": 298526904,
+    "start_sec": 2.700096525,
+    "duration": 55.4,
+    "relative_time": "2.7s - 58.1s",
+    "transcript_slice": "Okay, so I can so I can go. All right. So we're on Cowgill Plaza, and looking at the four pyramids, those are essentially skylights that lead down into the lower space of Burchard Hall, which is where we have architecture students and desks. And I think we'll go down there later. But this [...] those are essentially skylights that lead down into the lower space of Burchard Hall, which is where we have architecture students and desks. And I think we'll go down there later. But this is a space that we'll have sometimes studios will do mock ups here or full scale spaces that they [...] those are essentially skylights that lead down into the lower space of Burchard Hall, which is where we have architecture students and desks. And I think we'll go down there later. But this is a space that we'll have sometimes studios will do mock ups here or full scale spaces that they create. So it's great to have this space a little outdoor playground. And these, these volumes lead [...] is a space that we'll have sometimes studios will do mock ups here or full scale spaces that they create. So it's great to have this space a little outdoor playground. And these, these volumes lead [...] create. So it's great to have this space a little outdoor playground. And these, these volumes lead down to the space down below. So there are elevators inside of there and stairs as well. Beyond this space is Hancock Hall, which is where we have lectures. So the school [...] create. So it's great to have this space a little outdoor playground. And these, these volumes lead down to the space down below. So there are elevators inside of there and stairs as well. Beyond this space is Hancock Hall, which is where we have lectures. So the school of architecture is, is sort of contained within these three buildings right here. And now we're facing Cowgill Hall. And this is sort of the the main space of the architecture school. Burchard has landscape architecture students and industrial design students, but Cowgill is",
+    "gx": 7.185909947351725,
+    "gy": 2.059532794192341,
+    "gz": 13.113431043020077,
+    "clip_rel_path": "cluster_00/event_009_cluster_0.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 404,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Cowgill Plaza: Architectural Hub",
+    "narrative_description": "The expert describes Cowgill Plaza, highlighting four pyramid-shaped skylights that illuminate Burchard Hall below, home to architecture studios and desks. The plaza itself functions as an 'outdoor playground' where studios conduct mock-ups and full-scale space creations. These volumes also house elevators and stairs for access, connecting the various levels of the academic complex. The expert points out Hancock Hall, used for lectures, and Cowgill Hall, identified as the main space, forming the school of architecture's core buildings.",
+    "objects": [
+      "pyramid-shaped skylights",
+      "Cowgill Plaza",
+      "Burchard Hall",
+      "desks",
+      "elevators",
+      "stairs",
+      "Hancock Hall",
+      "Cowgill Hall"
+    ],
+    "actions": [
+      "explaining",
+      "pointing out",
+      "gesturing",
+      "planning navigation",
+      "creating mock-ups"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "world_gx": 4.5019314774425085,
+    "world_gy": 12.183941958458494,
+    "world_gz": 0.03534995199956217,
+    "id": 0
+  },
+  {
+    "cluster_ids": [
+      2
+    ],
+    "cluster_id": 2,
+    "start_ts": 299026904,
+    "end_ts": 352126904,
+    "start_sec": 58.600096525,
+    "duration": 53.10000000000001,
+    "relative_time": "58.6s - 111.7s",
+    "transcript_slice": "of architecture is, is sort of contained within these three buildings right here. And now we're facing Cowgill Hall. And this is sort of the the main space of the architecture school. Burchard has landscape architecture students and industrial design students, but Cowgill is mostly architecture students with with a few others. So you can see the facade. It's a building [...] facing Cowgill Hall. And this is sort of the the main space of the architecture school. Burchard has landscape architecture students and industrial design students, but Cowgill is mostly architecture students with with a few others. So you can see the facade. It's a building that's a little bit different from many of the other buildings on campus. Which feature a lot of Hokie stone. I think as architects, we love the sort of simplicity and order of the facade, and the way that the structure is expressed through, you know, the concrete elements and also the vast glazing. But it is very different than say, Hancock Hall, which is, which is, you know, more Hokie stone and a bit more traditional, so a little bit of a different style. If we walk into the lobby space through the double [...] the concrete elements and also the vast glazing. But it is very different than say, Hancock Hall, which is, which is, you know, more Hokie stone and a bit more traditional, so a little bit of a different style. If we walk into the lobby space through the double doors, we can just briefly look down at the space between Cowgill and Burchard. So looking down here,",
+    "gx": 5.542974896388809,
+    "gy": 2.191991651961633,
+    "gz": 14.123077528649292,
+    "clip_rel_path": "cluster_02/event_011_cluster_2.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 428,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Cowgill Hall's Modern Architecture",
+    "narrative_description": "The expert focuses on Cowgill Hall, identifying it as the main architecture school building, primarily housing architecture students. They explain its distinctive modern facade, noting its simplicity, order, expressed concrete structure, and vast glazing. This contemporary style, preferred by architects, significantly contrasts with other traditional, Hokie stone buildings on campus like Hancock Hall. The expert anticipates walking towards its double doors before briefly looking at the space between Cowgill and adjacent Burchard Hall.",
+    "objects": [
+      "Cowgill Hall",
+      "facade",
+      "concrete elements",
+      "glazing",
+      "double doors",
+      "Burchard Hall"
+    ],
+    "actions": [
+      "facing",
+      "walking towards",
+      "looking down"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "world_gx": 6.423155374543055,
+    "world_gy": 12.017991621397153,
+    "world_gz": 0.16773642965684799,
+    "id": 1
+  },
+  {
+    "cluster_ids": [
+      4,
+      5
+    ],
+    "cluster_id": 4,
+    "start_ts": 360826904,
+    "end_ts": 381526904,
+    "start_sec": 120.400096525,
+    "duration": 20.700000000000003,
+    "relative_time": "120.4s - 141.1s",
+    "transcript_slice": "doors, we can just briefly look down at the space between Cowgill and Burchard. So looking down here, we have design studios down in this lower space. And this lovely bamboo that's that that was built [...] we have design studios down in this lower space. And this lovely bamboo that's that that was built here to provide a little greenery for the studios down there and for the offices in the space beyond. And then our wood shop has a loading dock down there as well. So walking into [...] we have design studios down in this lower space. And this lovely bamboo that's that that was built here to provide a little greenery for the studios down there and for the offices in the space beyond. And then our wood shop has a loading dock down there as well. So walking into the building through the vestibule space. So this is the lobby, Cowgill Lobby, and it's a really [...] here to provide a little greenery for the studios down there and for the offices in the space beyond. And then our wood shop has a loading dock down there as well. So walking into the building through the vestibule space. So this is the lobby, Cowgill Lobby, and it's a really",
+    "gx": 6.3925426489943185,
+    "gy": 2.0628588473385876,
+    "gz": 2.1200577817474673,
+    "clip_rel_path": "cluster_04/event_015_cluster_4.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 115,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Cowgill Lobby and Lower Studios",
+    "narrative_description": "The expert's gaze is directed at a lower space situated between the Cowgill and Burchard buildings. This area features design studios, a wood shop with a loading dock, and a decorative bamboo installation providing greenery for the studios and offices beyond. The expert explains how this space connects to the Cowgill Lobby via a vestibule entrance. This description highlights various functional zones and aesthetic elements within this important central campus area.",
+    "objects": [
+      "design studios",
+      "bamboo",
+      "offices",
+      "wood shop",
+      "loading dock",
+      "vestibule",
+      "Cowgill Lobby"
+    ],
+    "actions": [
+      "looking down",
+      "walking into"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "world_gx": -1.4008980865021474,
+    "world_gy": 2.8758653580079874,
+    "world_gz": 0.0387460619210742,
+    "id": 2
+  },
+  {
+    "cluster_ids": [
+      6
+    ],
+    "cluster_id": 6,
+    "start_ts": 394326904,
+    "end_ts": 460226904,
+    "start_sec": 153.900096525,
+    "duration": 65.89999999999998,
+    "relative_time": "153.9s - 219.8s",
+    "transcript_slice": "the building through the vestibule space. So this is the lobby, Cowgill Lobby, and it's a really important space, I think, for the school. It's kind of the beating heart of the school and a really dynamic space that changes almost every day. A new exhibition will go up on the walls. Over to this side is the dean's office, which is great to have the glass, you know, so we can kind [...] important space, I think, for the school. It's kind of the beating heart of the school and a really dynamic space that changes almost every day. A new exhibition will go up on the walls. Over to this side is the dean's office, which is great to have the glass, you know, so we can kind of maintain a connection. And with with the dean and with the folks from the college. And then over to the left is the [...] really dynamic space that changes almost every day. A new exhibition will go up on the walls. Over to this side is the dean's office, which is great to have the glass, you know, so we can kind of maintain a connection. And with with the dean and with the folks from the college. And then over to the left is the [...] of maintain a connection. And with with the dean and with the folks from the college. And then over to the left is the director's office. And that's where administration is and counselors and advisors and things like that. But the lobby is really a space for students to make work public. And we have the wooden slats [...] director's office. And that's where administration is and counselors and advisors and things like that. But the lobby is really a space for students to make work public. And we have the wooden slats here on the walls. They're a bit tough to to bang into. So when students are pinning up and pinning [...] director's office. And that's where administration is and counselors and advisors and things like that. But the lobby is really a space for students to make work public. And we have the wooden slats here on the walls. They're a bit tough to to bang into. So when students are pinning up and pinning down, it can be a quite loud space. But I think, you know, the the order that the slats provide is is really helpful for ordering the work. [...] here on the walls. They're a bit tough to to bang into. So when students are pinning up and pinning down, it can be a quite loud space. But I think, you know, the the order that the slats provide is is really helpful for ordering the work. [...] here on the walls. They're a bit tough to to bang into. So when students are pinning up and pinning down, it can be a quite loud space. But I think, you know, the the order that the slats provide is is really helpful for ordering the work. And, you know, the I think, you know, good generally good lighting in here. And the space is divided into sort of this entry vestibule and then the main space in here. I think it's important that [...] down, it can be a quite loud space. But I think, you know, the the order that the slats provide is is really helpful for ordering the work. And, you know, the I think, you know, good generally good lighting in here. And the space is divided into sort of this entry vestibule and then the main space in here. I think it's important that we have these kind of visual connections from different spaces in the building. So when you're even when you're in the lobby and there's this dividing wall here, you have the two glass windows, [...] And, you know, the I think, you know, good generally good lighting in here. And the space is divided into sort of this entry vestibule and then the main space in here. I think it's important that we have these kind of visual connections from different spaces in the building. So when you're even when you're in the lobby and there's this dividing wall here, you have the two glass windows,",
+    "gx": -1.0353445005144124,
+    "gy": 2.2259347489579127,
+    "gz": -8.820333616600907,
+    "clip_rel_path": "cluster_06/event_018_cluster_6.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 322,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Cowgill Lobby: Dynamic Hub",
+    "narrative_description": "The expert describes the Cowgill Lobby as the school's dynamic \"beating heart,\" a critical space for students to publicly exhibit their work on wooden slat walls. They emphasize the importance of visual connections maintained through glass with the adjacent dean's and director's offices. The space is noted for its good lighting and internal division by an entry vestibule and a dividing wall with windows. Despite potential noise from pinning work on the slats, the overall design ensures visual flow between different areas of the building. This central hub serves as a constantly evolving environment for both student showcase and administrative connection.",
+    "objects": [
+      "Cowgill Lobby",
+      "Vestibule",
+      "Walls",
+      "Exhibition",
+      "Dean's office",
+      "Glass windows",
+      "Director's office",
+      "Wooden slats",
+      "Dividing wall",
+      "Lighting"
+    ],
+    "actions": [
+      "Exhibitions going up",
+      "Pinning up/down work",
+      "Maintaining visual connections",
+      "Making work public",
+      "Ordering work"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "world_gx": -1.9396211737465558,
+    "world_gy": -10.336837216849888,
+    "world_gz": 0.20163654106232462,
+    "id": 3
+  },
+  {
+    "cluster_id": 9,
+    "start_ts": 419226904,
+    "end_ts": 422426904,
+    "transcript_slice": "of maintain a connection. And with with the dean and with the folks from the college. And then over to the left is the director's office. And that's where administration is and counselors and advisors and things like that. But the lobby is really a space for students to make work public. And we have the wooden slats",
+    "ai_summary": "The user is detailing the spatial layout, specifically pointing out the director's office as the location for administration, counselors, and advisors. They then describe the lobby as a public exhibition space for students, noting its distinctive wooden slat feature.",
+    "relative_time": "178.8s - 182.0s",
+    "start_sec": 178.800096525,
+    "duration": 3.200000000000017,
+    "gx": -2.4024979194573968,
+    "gy": 1.845593209508582,
+    "gz": -7.663820704201242,
+    "mean_quality": 1.0,
+    "sample_count": 25,
+    "fallback_ratio": 0.0,
+    "quality_tiers": {
+      "strong": 25,
+      "weak": 0,
+      "uncertain": 0,
+      "fallback": 0
+    },
+    "clip_rel_path": "cluster_09/event_023_cluster_9.mp4",
+    "id": 4,
+    "narrative_title": "Lobby Student Work Display",
+    "narrative_description": "The expert first contextualizes the area by mentioning the director's office, which houses administrative staff. Their attention then shifts to the adjacent lobby, emphasizing its primary function as a space for students to publicly exhibit their creations. A distinctive physical feature noted within this area is the presence of wooden slats. The expert is articulating both the functional design and key visual elements of this student-centric space.",
+    "objects": [
+      "director's office",
+      "lobby",
+      "wooden slats"
+    ],
+    "actions": [
+      "explaining purpose",
+      "describing physical elements"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "world_gx": -0.15270068053156138,
+    "world_gy": -10.220657539367675,
+    "world_gz": -0.1787681218609214
+  },
+  {
+    "cluster_ids": [
+      11
+    ],
+    "cluster_id": 11,
+    "start_ts": 461426904,
+    "end_ts": 493426904,
+    "start_sec": 221.000096525,
+    "duration": 32.0,
+    "relative_time": "221.0s - 253.0s",
+    "transcript_slice": "And, you know, the I think, you know, good generally good lighting in here. And the space is divided into sort of this entry vestibule and then the main space in here. I think it's important that we have these kind of visual connections from different spaces in the building. So when you're even when you're in the lobby and there's this dividing wall here, you have the two glass windows, that show the studio beyond. And that just I think, provides this really strong connection between the [...] we have these kind of visual connections from different spaces in the building. So when you're even when you're in the lobby and there's this dividing wall here, you have the two glass windows, that show the studio beyond. And that just I think, provides this really strong connection between the [...] we have these kind of visual connections from different spaces in the building. So when you're even when you're in the lobby and there's this dividing wall here, you have the two glass windows, that show the studio beyond. And that just I think, provides this really strong connection between the various spaces of the building. So yeah, this is the lobby. And we can go into briefly the design [...] that show the studio beyond. And that just I think, provides this really strong connection between the various spaces of the building. So yeah, this is the lobby. And we can go into briefly the design [...] that show the studio beyond. And that just I think, provides this really strong connection between the various spaces of the building. So yeah, this is the lobby. And we can go into briefly the design studios. So you can see in this space, this is a typical space of one of our design studio [...] various spaces of the building. So yeah, this is the lobby. And we can go into briefly the design studios. So you can see in this space, this is a typical space of one of our design studio",
+    "gx": -3.534393379792685,
+    "gy": 2.2287958785616486,
+    "gz": -12.214012233734616,
+    "clip_rel_path": "cluster_11/event_030_cluster_11.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 147,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Visual Connection to Studios",
+    "narrative_description": "The expert is focused on the architectural transition from the entry vestibule and lobby into the main design studios. They explain the strategic placement of a dividing wall featuring two glass windows, emphasizing its role in establishing crucial visual connections between distinct spaces. This design choice fosters a strong sense of continuity and transparency, allowing occupants in the lobby to view the typical studio beyond. The expert highlights how this intentional visual access enhances the overall spatial experience and connectivity within the building.",
+    "objects": [
+      "lighting",
+      "entry vestibule",
+      "lobby",
+      "dividing wall",
+      "glass windows",
+      "design studios"
+    ],
+    "actions": [
+      "explaining design connections",
+      "describing spatial divisions",
+      "evaluating design effectiveness"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "world_gx": -1.9500484548929409,
+    "world_gy": -14.55135871958274,
+    "world_gz": 0.20443266077964567,
+    "id": 5
+  },
+  {
+    "cluster_ids": [
+      14
+    ],
+    "cluster_id": 14,
+    "start_ts": 504126904,
+    "end_ts": 602726904,
+    "start_sec": 263.700096525,
+    "duration": 98.60000000000002,
+    "relative_time": "263.7s - 362.3s",
+    "transcript_slice": "studios. So you can see in this space, this is a typical space of one of our design studio labs. And you can see the desks are laid out. It's a completely open room and open studio. And what that does is it it it connects students across multiple years. So there might be first year [...] labs. And you can see the desks are laid out. It's a completely open room and open studio. And what that does is it it it connects students across multiple years. So there might be first year [...] what that does is it it it connects students across multiple years. So there might be first year students over here on the taller desks that are raised up and they're sitting on stools. And then you have the upper year students from second to fifth year in the lower desks. And they're clustered [...] what that does is it it it connects students across multiple years. So there might be first year students over here on the taller desks that are raised up and they're sitting on stools. And then you have the upper year students from second to fifth year in the lower desks. And they're clustered in such a way that the students can have open communication with one another. This space is great because it has the full window wall that opens to the trees and the lawn beyond [...] students over here on the taller desks that are raised up and they're sitting on stools. And then you have the upper year students from second to fifth year in the lower desks. And they're clustered in such a way that the students can have open communication with one another. This space is great because it has the full window wall that opens to the trees and the lawn beyond [...] in such a way that the students can have open communication with one another. This space is great because it has the full window wall that opens to the trees and the lawn beyond connecting, you know, inside and outside. On the ends, we have two conference rooms. But I think [...] connecting, you know, inside and outside. On the ends, we have two conference rooms. But I think that this space, the desk is really important. Just the fact that each student has their own space to work and the open environment to share discourse. And then the space of the walls is [...] else? You want me to add? No, we just can continue. Okay. All right. Cool. Okay. And did you want to go down to Burchard? Yeah, we can do it. Okay, cool. Okay, cool. So going into the stairwell. The stairwell is kind of a space where,",
+    "gx": -7.029866278940097,
+    "gy": 2.174141279659618,
+    "gz": -19.07345318553383,
+    "clip_rel_path": "cluster_14/event_043_cluster_14.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 199,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Open Design Studio Collaboration",
+    "narrative_description": "The expert describes an open design studio, highlighting its layout with varying desk heights that separate first-year from upper-year students, strategically arranged to foster open communication. They emphasize the importance of individual workspace within this collaborative environment and point out the full window wall connecting the interior to the external trees and lawn. This space also features conference rooms at its ends, contributing to a dynamic learning environment before the expert transitions to moving towards a stairwell.",
+    "objects": [
+      "Studio",
+      "Desks",
+      "Stools",
+      "Window wall",
+      "Trees",
+      "Lawn",
+      "Conference rooms",
+      "Walls",
+      "Stairwell"
+    ],
+    "actions": [
+      "Connecting students",
+      "Sitting on stools",
+      "Having open communication",
+      "Working",
+      "Sharing discourse",
+      "Going into stairwell"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "off_path"
+    },
+    "world_gx": -3.2215451318095347,
+    "world_gy": -22.144352156164185,
+    "world_gz": 0.1497064541103994,
+    "id": 6
+  },
+  {
+    "cluster_id": 18,
+    "start_ts": 533526904,
+    "end_ts": 534826904,
+    "transcript_slice": "students over here on the taller desks that are raised up and they're sitting on stools. And then you have the upper year students from second to fifth year in the lower desks. And they're clustered in such a way that the students can have open communication with one another. This space is great because it has the full window wall that opens to the trees and the lawn beyond",
+    "ai_summary": "The user is detailing the spatial arrangement of student workspaces, noting the varied desk heights (raised/lower) and seating (stools) designed to facilitate open communication. They also highlight a significant architectural feature: a full window wall that integrates the interior with the exterior by offering views of trees and a lawn.",
+    "relative_time": "293.1s - 294.4s",
+    "start_sec": 293.100096525,
+    "duration": 1.2999999999999545,
+    "gx": -8.230744315372373,
+    "gy": 2.7280554275904016,
+    "gz": -19.787297632158673,
+    "mean_quality": 1.0,
+    "sample_count": 11,
+    "fallback_ratio": 0.0,
+    "quality_tiers": {
+      "strong": 11,
+      "weak": 0,
+      "uncertain": 0,
+      "fallback": 0
+    },
+    "clip_rel_path": "cluster_18/event_045_cluster_18.mp4",
+    "id": 7,
+    "narrative_title": "Collaborative Student Space with View",
+    "narrative_description": "The expert describes a student study area featuring distinct zones with taller, raised desks with stools and lower desks. This configuration strategically clusters students by academic year to foster open communication. The space is highly valued due to its expansive window wall. This architectural feature provides a significant connection to the external environment, offering views of trees and a lawn.",
+    "objects": [
+      "desks",
+      "stools",
+      "students",
+      "window wall",
+      "trees",
+      "lawn"
+    ],
+    "actions": [
+      "sitting",
+      "clustering",
+      "communicating",
+      "opening"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "world_gx": -2.6810059547424316,
+    "world_gy": -23.432584762573242,
+    "world_gz": 0.7035809755325317
+  },
+  {
+    "cluster_ids": [
+      15,
+      19
+    ],
+    "cluster_id": 15,
+    "start_ts": 549126904,
+    "end_ts": 592226904,
+    "start_sec": 308.700096525,
+    "duration": 43.10000000000002,
+    "relative_time": "308.7s - 351.8s",
+    "transcript_slice": "connecting, you know, inside and outside. On the ends, we have two conference rooms. But I think that this space, the desk is really important. Just the fact that each student has their own space to work and the open environment to share discourse. And then the space of the walls is [...] connecting, you know, inside and outside. On the ends, we have two conference rooms. But I think that this space, the desk is really important. Just the fact that each student has their own space to work and the open environment to share discourse. And then the space of the walls is also really important. As well, you can see that there's work pinned up on the walls and the the walls are made of [...] also really important. As well, you can see that there's work pinned up on the walls and the the walls are made of homosote. So really easy to pin work in and out of so that the work can always go from the desks to to the walls. We also have display areas for models and things like this. And then spaces to [...] also really important. As well, you can see that there's work pinned up on the walls and the the walls are made of homosote. So really easy to pin work in and out of so that the work can always go from the desks to to the walls. We also have display areas for models and things like this. And then spaces to meet as a group. So meeting tables as well. Maybe that's it for this floor. Good. Is there anything [...] homosote. So really easy to pin work in and out of so that the work can always go from the desks to to the walls. We also have display areas for models and things like this. And then spaces to meet as a group. So meeting tables as well. Maybe that's it for this floor. Good. Is there anything [...] homosote. So really easy to pin work in and out of so that the work can always go from the desks to to the walls. We also have display areas for models and things like this. And then spaces to meet as a group. So meeting tables as well. Maybe that's it for this floor. Good. Is there anything else? You want me to add? No, we just can continue. Okay. All right. Cool. Okay. And did you want to go down to Burchard? [...] meet as a group. So meeting tables as well. Maybe that's it for this floor. Good. Is there anything else? You want me to add? No, we just can continue. Okay. All right. Cool. Okay. And did you want to go down to Burchard?",
+    "gx": -5.545924945687157,
+    "gy": 2.2679052264691024,
+    "gz": -20.374662780944004,
+    "clip_rel_path": "cluster_15/event_050_cluster_15.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 217,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Collaborative Work Environment",
+    "narrative_description": "The expert details a collaborative workspace, emphasizing the importance of individual student desks for focused work within an open environment. Crucial homosote walls are highlighted for easily pinning and displaying work, creating a seamless transition from desk-based tasks to shared visual discourse. The space also features dedicated display areas for models and meeting tables, promoting group collaboration and integrating various aspects of student work. This design intentionally connects inside and outside work flows, supporting a dynamic and interactive studio setting.",
+    "objects": [
+      "desks",
+      "walls",
+      "conference rooms",
+      "homosote",
+      "display areas",
+      "models",
+      "meeting tables"
+    ],
+    "actions": [
+      "working",
+      "sharing discourse",
+      "pinning work",
+      "displaying models",
+      "meeting as a group",
+      "connecting inside and outside"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "world_gx": -5.188433106320293,
+    "world_gy": -22.307346190733426,
+    "world_gz": 0.24353933675347214,
+    "id": 8
+  },
+  {
+    "cluster_id": 21,
+    "start_ts": 609426904,
+    "end_ts": 611426904,
+    "transcript_slice": "Yeah, we can do it. Okay, cool. Okay, cool. So going into the stairwell. The stairwell is kind of a space where, hello, Patrick, the stairwell is a space where we have material that gets pinned up and down to",
+    "ai_summary": "The user is focusing on the stairwell within the architectural model or spatial structure. They describe this space as functional, specifically noting its design to accommodate the pinning of materials both up and down.",
+    "relative_time": "369.0s - 371.0s",
+    "start_sec": 369.000096525,
+    "duration": 2.0,
+    "gx": -14.152156431049914,
+    "gy": 2.3166089767855755,
+    "gz": -9.320195389673021,
+    "mean_quality": 1.0,
+    "sample_count": 10,
+    "fallback_ratio": 0.0,
+    "quality_tiers": {
+      "strong": 10,
+      "weak": 0,
+      "uncertain": 0,
+      "fallback": 0
+    },
+    "clip_rel_path": "cluster_21/event_061_cluster_21.mp4",
+    "id": 9,
+    "narrative_title": "Stairwell Material Display Area",
+    "narrative_description": "The expert directs their attention to the stairwell, explicitly defining it as a functional space. This area is specifically utilized for pinning up various materials, positioned both high and low. This highlights its purpose as a dynamic information or exhibition zone within the building.",
+    "objects": [
+      "stairwell",
+      "material"
+    ],
+    "actions": [
+      "pinning up material"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "world_gx": 8.30579252243042,
+    "world_gy": -18.542457580566406,
+    "world_gz": 0.2918112024664879
+  },
+  {
+    "cluster_ids": [
+      23,
+      25
+    ],
+    "cluster_id": 25,
+    "start_ts": 615926904,
+    "end_ts": 644826904,
+    "start_sec": 375.500096525,
+    "duration": 28.899999999999977,
+    "relative_time": "375.5s - 404.4s",
+    "transcript_slice": "hello, Patrick, the stairwell is a space where we have material that gets pinned up and down to share, to share events and things that are happening in the school. And then we have the school. I think this poster will be up for a while. So this one is just showing some different [...] lectures that happen in the school. And it's a good way for students to sort of see what's going on. And to also see work from past students. So you have some drawings from Pella Prize, which was our thesis prize from 1991 and 1992. So it's just a good also place to keep the history of the",
+    "gx": -16.72638700210489,
+    "gy": 0.4879680637681376,
+    "gz": -8.575484539973726,
+    "clip_rel_path": "cluster_25/event_062_cluster_25.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 24,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Stairwell History Display",
+    "narrative_description": "The expert highlights a display area within a stairwell, explaining its dual function as a central point for sharing school events and current lectures. They draw attention to a specific poster detailing various lectures and historical drawings from past Pella Prize thesis winners. This space serves to inform students about ongoing activities and to preserve the institution's rich history and past academic achievements. The expert's active left hand suggests gesturing towards these displayed items.",
+    "objects": [
+      "stairwell",
+      "material",
+      "poster",
+      "drawings"
+    ],
+    "actions": [
+      "pinning up",
+      "sharing information",
+      "displaying",
+      "observing",
+      "preserving history",
+      "gesturing"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "world_gx": 10.817862212657928,
+    "world_gy": -19.47539722919464,
+    "world_gz": -1.5369354598224163,
+    "id": 10
+  },
+  {
+    "cluster_ids": [
+      22,
+      26
+    ],
+    "cluster_id": 26,
+    "start_ts": 619226904,
+    "end_ts": 637426904,
+    "start_sec": 378.800096525,
+    "duration": 18.19999999999999,
+    "relative_time": "378.8s - 397.0s",
+    "transcript_slice": "hello, Patrick, the stairwell is a space where we have material that gets pinned up and down to share, to share events and things that are happening in the school. And then we have the school. I think this poster will be up for a while. So this one is just showing some different [...] share, to share events and things that are happening in the school. And then we have the school. I think this poster will be up for a while. So this one is just showing some different lectures that happen in the school. And it's a good way for students to sort of see what's going on. And to also see work from past students. So you have some drawings from Pella Prize, which was [...] lectures that happen in the school. And it's a good way for students to sort of see what's going on. And to also see work from past students. So you have some drawings from Pella Prize, which was our thesis prize from 1991 and 1992. So it's just a good also place to keep the history of the",
+    "gx": -17.121663587851486,
+    "gy": 0.2542728571796069,
+    "gz": -10.003854262176793,
+    "clip_rel_path": "cluster_26/event_063_cluster_26.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 55,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Stairwell Display: History & Events",
+    "narrative_description": "The expert observes a display area within the stairwell dedicated to pinned materials. This space serves as a crucial communication hub for sharing school events and upcoming lectures. It also functions as a valuable platform for students to view significant historical work, exemplified by drawings from past Pella Prize winners. The expert highlights its dual purpose in informing the community and preserving the institution's rich history.",
+    "objects": [
+      "material (pinned)",
+      "poster",
+      "drawings (Pella Prize)"
+    ],
+    "actions": [
+      "pinning up and down",
+      "sharing events",
+      "showing lectures",
+      "students seeing what's going on",
+      "keeping history"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "world_gx": 10.285753540438836,
+    "world_gy": -20.858633654767818,
+    "world_gz": -1.770632794093002,
+    "id": 11
+  },
+  {
+    "cluster_id": 28,
+    "start_ts": 654026904,
+    "end_ts": 654926904,
+    "transcript_slice": "our thesis prize from 1991 and 1992. So it's just a good also place to keep the history of the school as well.",
+    "ai_summary": "The user is identifying specific architectural models or structures associated with thesis prizes from 1991 and 1992. This object serves as a physical record, preserving the history and past achievements of the school within the current display.",
+    "relative_time": "413.6s - 414.5s",
+    "start_sec": 413.600096525,
+    "duration": 0.8999999999999773,
+    "gx": -15.262925326907414,
+    "gy": -0.6149819610987439,
+    "gz": -11.34446675722004,
+    "mean_quality": 1.0,
+    "sample_count": 10,
+    "fallback_ratio": 0.0,
+    "quality_tiers": {
+      "strong": 10,
+      "weak": 0,
+      "uncertain": 0,
+      "fallback": 0
+    },
+    "clip_rel_path": "cluster_28/event_069_cluster_28.mp4",
+    "id": 12,
+    "narrative_title": "School Thesis Prize History",
+    "narrative_description": "The expert's gaze is fixed on a display dedicated to the school's thesis prizes from 1991 and 1992. They are explaining the significance of these specific awards. The expert emphasizes its broader function as a critical repository for maintaining the school's historical records. This location serves as an important point for preserving the institution's past achievements and identity.",
+    "objects": [
+      "thesis prizes",
+      "historical display"
+    ],
+    "actions": [
+      "explaining",
+      "describing"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "world_gx": 7.9941400527954105,
+    "world_gy": -20.8302978515625,
+    "world_gz": -2.639803910255432
+  },
+  {
+    "cluster_id": 29,
+    "start_ts": 656526904,
+    "end_ts": 658626904,
+    "transcript_slice": "school as well. Going into one of the other design spaces. We have at the end of the hall is the ceramic studio. And so that's an example of one of our maker",
+    "ai_summary": "The user is describing the location of a specific architectural feature, the ceramic studio, found at the end of a hall. This studio is presented as an example of a \"maker space\" within their design facilities.",
+    "relative_time": "416.1s - 418.2s",
+    "start_sec": 416.100096525,
+    "duration": 2.099999999999966,
+    "gx": -11.972666190763821,
+    "gy": -2.0861254224318015,
+    "gz": -11.748846752641716,
+    "mean_quality": 1.0,
+    "sample_count": 13,
+    "fallback_ratio": 0.0,
+    "quality_tiers": {
+      "strong": 13,
+      "weak": 0,
+      "uncertain": 0,
+      "fallback": 0
+    },
+    "clip_rel_path": "cluster_29/event_070_cluster_29.mp4",
+    "id": 13,
+    "narrative_title": "Ceramic Studio Maker Space",
+    "narrative_description": "The expert focuses on the ceramic studio, noting its location at the end of the hall. They explain its significance as one of the primary design and maker spaces within the school. This observation highlights the availability of specialized creative facilities for students.",
+    "objects": [
+      "ceramic studio",
+      "hall",
+      "design space",
+      "maker space"
+    ],
+    "actions": [
+      "explaining",
+      "pointing"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "world_gx": 5.1089133482712965,
+    "world_gy": -19.197760508610653,
+    "world_gz": -4.110817212324876
+  },
+  {
+    "cluster_ids": [
+      30
+    ],
+    "cluster_id": 30,
+    "start_ts": 665426904,
+    "end_ts": 692026904,
+    "start_sec": 425.000096525,
+    "duration": 26.600000000000023,
+    "relative_time": "425.0s - 451.6s",
+    "transcript_slice": "Going into one of the other design spaces. We have at the end of the hall is the ceramic studio. And so that's an example of one of our maker spaces that is really important to our pedagogical approach is having these spaces directly adjacent to the studios and the design labs. This is an industrial design studio. So the work is a little bit [...] Going into one of the other design spaces. We have at the end of the hall is the ceramic studio. And so that's an example of one of our maker spaces that is really important to our pedagogical approach is having these spaces directly adjacent to the studios and the design labs. This is an industrial design studio. So the work is a little bit different, but you can see the same desks, the same open studio. And again, the windows that connect [...] spaces that is really important to our pedagogical approach is having these spaces directly adjacent to the studios and the design labs. This is an industrial design studio. So the work is a little bit different, but you can see the same desks, the same open studio. And again, the windows that connect the maker space with the design lab. And then going into, we're now in the knuckle between Cowgill and Burchard. And this is our art and architecture [...] different, but you can see the same desks, the same open studio. And again, the windows that connect the maker space with the design lab. And then going into, we're now in the knuckle between Cowgill and Burchard. And this is our art and architecture",
+    "gx": -8.284148525261433,
+    "gy": -1.9880221628511485,
+    "gz": -5.381458286230189,
+    "clip_rel_path": "cluster_30/event_073_cluster_30.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 170,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Industrial Studio and Maker Pedagogy",
+    "narrative_description": "The expert focuses on an Industrial Design Studio, identifying it as a crucial maker space nestled within the architectural \"knuckle\" connecting Cowgill and Burchard. They highlight its open studio layout, featuring desks and windows that functionally connect it to adjacent design labs. This setup emphasizes the institution's pedagogical approach of integrating maker spaces directly with studios. The expert describes these features while their left hand is active, likely gesturing towards the connecting elements and the studio's attributes.",
+    "objects": [
+      "ceramic studio",
+      "industrial design studio",
+      "desks",
+      "open studio",
+      "windows",
+      "maker spaces",
+      "design labs",
+      "studios",
+      "knuckle"
+    ],
+    "actions": [
+      "narrating movement and location",
+      "describing physical features",
+      "gesturing"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "world_gx": 5.932502753231294,
+    "world_gy": -11.885409139367392,
+    "world_gz": -4.012630424935143,
+    "id": 14
+  },
+  {
+    "cluster_ids": [
+      33
+    ],
+    "cluster_id": 33,
+    "start_ts": 701726904,
+    "end_ts": 738026904,
+    "start_sec": 461.300096525,
+    "duration": 36.30000000000001,
+    "relative_time": "461.3s - 497.6s",
+    "transcript_slice": "the maker space with the design lab. And then going into, we're now in the knuckle between Cowgill and Burchard. And this is our art and architecture library, which is a great space for the students to come. We have a wonderful chair collection that has been collected by different faculty members. And there's just great books. Over to the left, you can see there's architecture periodicals, and just great resources. Temporary and rotating, and then some more permanent. But having this in the building is a really important [...] collected by different faculty members. And there's just great books. Over to the left, you can see there's architecture periodicals, and just great resources. Temporary and rotating, and then some more permanent. But having this in the building is a really important [...] architecture periodicals, and just great resources. Temporary and rotating, and then some more permanent. But having this in the building is a really important feature for the students because the adjacency to the design labs is really helpful for them to see. And then we have additional maker spaces here. So different technological resources that we have. [...] architecture periodicals, and just great resources. Temporary and rotating, and then some more permanent. But having this in the building is a really important feature for the students because the adjacency to the design labs is really helpful for them to see. And then we have additional maker spaces here. So different technological resources that we have. And I think the fact that, again, this is kind of in a glass fishbowl is really helpful because students can pass by [...] feature for the students because the adjacency to the design labs is really helpful for them to see. And then we have additional maker spaces here. So different technological resources that we have. And I think the fact that, again, this is kind of in a glass fishbowl is really helpful because students can pass by",
+    "gx": 0.18880479949823137,
+    "gy": -2.0926421059906772,
+    "gz": -6.230856702295301,
+    "clip_rel_path": "cluster_33/event_075_cluster_33.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 285,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Art & Architecture Library Hub",
+    "narrative_description": "The expert describes the art and architecture library, situated in a 'knuckle' area, as a vital resource for students. They highlight its extensive collection, including a unique chair collection, books, and architecture periodicals, emphasizing its diverse and rotating resources. The library's strategic adjacency to design labs and additional maker spaces facilitates student observation and collaboration, further enhanced by its 'glass fishbowl' design promoting visibility. This central location serves as an important functional and social feature within the building.",
+    "objects": [
+      "art and architecture library",
+      "chair collection",
+      "books",
+      "architecture periodicals",
+      "technological resources",
+      "maker spaces",
+      "design labs",
+      "glass"
+    ],
+    "actions": [
+      "students coming (to library)",
+      "faculty collecting (chairs)",
+      "students seeing (adjacency)",
+      "students passing by (library)"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "world_gx": -1.383093958056292,
+    "world_gy": -7.527137678713376,
+    "world_gz": -4.116916945249067,
+    "id": 15
+  },
+  {
+    "cluster_ids": [
+      35,
+      36
+    ],
+    "cluster_id": 35,
+    "start_ts": 741326904,
+    "end_ts": 755126904,
+    "start_sec": 500.900096525,
+    "duration": 13.800000000000068,
+    "relative_time": "500.9s - 514.7s",
+    "transcript_slice": "feature for the students because the adjacency to the design labs is really helpful for them to see. And then we have additional maker spaces here. So different technological resources that we have. And I think the fact that, again, this is kind of in a glass fishbowl is really helpful because students can pass by [...] feature for the students because the adjacency to the design labs is really helpful for them to see. And then we have additional maker spaces here. So different technological resources that we have. And I think the fact that, again, this is kind of in a glass fishbowl is really helpful because students can pass by and see the changing work. And what maybe a grad student is doing. And how technology gets integrated into the design work. [...] And I think the fact that, again, this is kind of in a glass fishbowl is really helpful because students can pass by and see the changing work. And what maybe a grad student is doing. And how technology gets integrated into the design work.",
+    "gx": 2.1091884844077975,
+    "gy": -2.19691867060295,
+    "gz": -6.579716741138366,
+    "clip_rel_path": "cluster_35/event_082_cluster_35.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 40,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Visible Maker Spaces and Resources",
+    "narrative_description": "The expert highlights maker spaces, emphasizing their location adjacent to design labs and their transparent 'glass fishbowl' construction. These spaces feature diverse technological resources, serving as a key educational asset for students. The expert evaluates the glass enclosure as highly beneficial because it allows students to easily view ongoing projects and observe the integration of technology into design work, inspiring their learning.",
+    "objects": [
+      "Maker spaces",
+      "Design labs",
+      "Glass partition",
+      "Technological resources",
+      "Student work"
+    ],
+    "actions": [
+      "Viewing work",
+      "Passing by",
+      "Integrating technology"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "world_gx": -3.1341847026889975,
+    "world_gy": -6.665004231577569,
+    "world_gz": -4.221116509965875,
+    "id": 16
+  },
+  {
+    "cluster_id": 37,
+    "start_ts": 768726904,
+    "end_ts": 772226904,
+    "transcript_slice": "Over here as well we have some 3D printers and additional resources. So I think these two spaces are good examples of the makers labs. And how the maker spaces get integrated into education here.",
+    "ai_summary": "The user is highlighting two distinct \"makers labs\" within the model, identifying them as spaces integrated into education. These labs are noted for containing technical resources like 3D printers and other resources.",
+    "relative_time": "528.3s - 531.8s",
+    "start_sec": 528.300096525,
+    "duration": 3.5,
+    "gx": -0.4619864424936866,
+    "gy": -2.1009814919185574,
+    "gz": -2.7650469341690007,
+    "mean_quality": 1.0,
+    "sample_count": 15,
+    "fallback_ratio": 0.0,
+    "quality_tiers": {
+      "strong": 15,
+      "weak": 0,
+      "uncertain": 0,
+      "fallback": 0
+    },
+    "clip_rel_path": "cluster_37/event_085_cluster_37.mp4",
+    "id": 17,
+    "narrative_title": "3D Printers and Maker Education",
+    "narrative_description": "The expert highlights 3D printers and additional resources available at this specific location. They identify this area as a prime example of a makers lab. The expert explains how such maker spaces are integrated into the educational curriculum. This emphasizes the facility's crucial role in providing practical, hands-on learning opportunities.",
+    "objects": [
+      "3D printers",
+      "resources"
+    ],
+    "actions": [
+      "describing",
+      "explaining"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "world_gx": 1.2019713322321575,
+    "world_gy": -5.128637504577637,
+    "world_gz": -4.12531304359436
+  },
+  {
+    "cluster_id": 38,
+    "start_ts": 778326904,
+    "end_ts": 781926904,
+    "transcript_slice": "So I think these two spaces are good examples of the makers labs. And how the maker spaces get integrated into education here. So now we're walking into the design lab. Burchard Hall and maybe I can go show the space from above first so",
+    "ai_summary": "The user is describing the integration of maker labs and spaces into the educational design of a facility. They are now entering the Design Lab in Burchard Hall and intend to show this specific space from an overhead perspective.",
+    "relative_time": "537.9s - 541.5s",
+    "start_sec": 537.900096525,
+    "duration": 3.6000000000000227,
+    "gx": 1.3386031563400742,
+    "gy": -2.174951302653124,
+    "gz": -3.548975072106101,
+    "mean_quality": 1.0,
+    "sample_count": 15,
+    "fallback_ratio": 0.0,
+    "quality_tiers": {
+      "strong": 15,
+      "weak": 0,
+      "uncertain": 0,
+      "fallback": 0
+    },
+    "clip_rel_path": "cluster_38/event_086_cluster_38.mp4",
+    "id": 18,
+    "narrative_title": "Entering Design Maker Labs",
+    "narrative_description": "The expert identifies the current location as encompassing two maker labs, emphasizing their integral role in the educational curriculum. They announce their progression into the Design Lab, situated within Burchard Hall. Before fully entering the new space, the expert contemplates a plan to gain a better vantage point, suggesting an elevated view for a comprehensive overview.",
+    "objects": [
+      "Makers labs",
+      "Design Lab",
+      "Burchard Hall"
+    ],
+    "actions": [
+      "Walking",
+      "Explaining",
+      "Planning",
+      "Gesturing"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "world_gx": -0.7116761167844137,
+    "world_gy": -4.687467511494955,
+    "world_gz": -4.199206479390463
+  },
+  {
+    "cluster_ids": [
+      39
+    ],
+    "cluster_id": 39,
+    "start_ts": 799026904,
+    "end_ts": 919626904,
+    "start_sec": 558.600096525,
+    "duration": 120.60000000000002,
+    "relative_time": "558.6s - 679.2s",
+    "transcript_slice": "this is a another really important classroom space and you can see it's a double height space and the faculty offices are directly adjacent we also have the wood shop over here and the metal shop in the space beyond so and then we have faculty offices which again [...] and the faculty offices are directly adjacent we also have the wood shop over here and the metal shop in the space beyond so and then we have faculty offices which again they the faculty can come right out of their office onto the balcony and look out at the students so there's that direct connection the space is broken into sort of four quadrants that are separated by these concrete columns and in this quadrant over here you have the [...] they the faculty can come right out of their office onto the balcony and look out at the students so there's that direct connection the space is broken into sort of four quadrants that are separated by these concrete columns and in this quadrant over here you have the [...] they the faculty can come right out of their office onto the balcony and look out at the students so there's that direct connection the space is broken into sort of four quadrants that are separated by these concrete columns and in this quadrant over here you have the second year and fourth year labs and then we have industrial design students over here that use this round space which is called the kiva [...] students so there's that direct connection the space is broken into sort of four quadrants that are separated by these concrete columns and in this quadrant over here you have the second year and fourth year labs and then we have industrial design students over here that use this round space which is called the kiva [...] second year and fourth year labs and then we have industrial design students over here that use this round space which is called the kiva for pinups and meetings and then in that quadrant over to the left in the in the back is more architecture students and then we have landscape architecture students in in the other quadrant and again showing the the walls around the space activated by pinups [...] for pinups and meetings and then in that quadrant over to the left in the in the back is more architecture students and then we have landscape architecture students in in the other quadrant and again showing the the walls around the space activated by pinups and some some review spaces meeting rooms are down below on the first floor which just provides an additional resource for those in studio to meet or pin up or show their work [...] and some some review spaces meeting rooms are down below on the first floor which just provides an additional resource for those in studio to meet or pin up or show their work so what's great about the space it can be a little bit loud but it's very active and i think [...] and some some review spaces meeting rooms are down below on the first floor which just provides an additional resource for those in studio to meet or pin up or show their work so what's great about the space it can be a little bit loud but it's very active and i think when you're down here the the you know energy is really palpable and although although it can be loud it also is quite nice to just experience being in a space with a lot of other people [...] so what's great about the space it can be a little bit loud but it's very active and i think when you're down here the the you know energy is really palpable and although although it can be loud it also is quite nice to just experience being in a space with a lot of other people [...] so what's great about the space it can be a little bit loud but it's very active and i think when you're down here the the you know energy is really palpable and although although it can be loud it also is quite nice to just experience being in a space with a lot of other people working and the same thing is for the library Same as upstairs, the open desks and, you know, the lack of partitions really allows [...] when you're down here the the you know energy is really palpable and although although it can be loud it also is quite nice to just experience being in a space with a lot of other people working and the same thing is for the library Same as upstairs, the open desks and, you know, the lack of partitions really allows [...] working and the same thing is for the library Same as upstairs, the open desks and, you know, the lack of partitions really allows for this sharing of ideas visually across, you know, across disciplines, but also across different years of architecture students. So the physical environment, I think, is really important for how we learn. [...] for this sharing of ideas visually across, you know, across disciplines, but also across different years of architecture students. So the physical environment, I think, is really important for how we learn. [...] for this sharing of ideas visually across, you know, across disciplines, but also across different years of architecture students. So the physical environment, I think, is really important for how we learn. So going down the stairs under that balcony that we were just walking under.",
+    "gx": 7.258924112668403,
+    "gy": -1.6405764758881758,
+    "gz": 14.840481273247724,
+    "clip_rel_path": "cluster_39/event_094_cluster_39.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 773,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Vibrant Studio Learning Environment",
+    "narrative_description": "This expansive, double-height classroom is segmented into four quadrants by concrete columns, fostering a multi-disciplinary studio environment. It accommodates various student groups—including second and fourth-year labs, industrial design in the kiva, and architecture students—for pinups, meetings, and active work. Faculty offices directly overlook the space from a balcony, enabling direct interaction and creating a palpable energy, despite potential loudness. The open layout with minimal partitions and numerous review spaces promotes visual sharing of ideas across disciplines and academic years, underscoring its importance for learning.",
+    "objects": [
+      "classroom space",
+      "double height space",
+      "faculty offices",
+      "wood shop",
+      "metal shop",
+      "balcony",
+      "concrete columns",
+      "quadrants",
+      "second year labs",
+      "fourth year labs",
+      "industrial design students area",
+      "round space (kiva)",
+      "architecture students area",
+      "landscape architecture students area",
+      "walls",
+      "pinups",
+      "review spaces",
+      "meeting rooms",
+      "open desks",
+      "partitions",
+      "stairs"
+    ],
+    "actions": [
+      "faculty coming out of office",
+      "faculty looking out at students",
+      "students using labs",
+      "students using kiva for pinups",
+      "students using kiva for meetings",
+      "walls activated by pinups",
+      "people meeting",
+      "people pinning up work",
+      "people showing work",
+      "people working",
+      "sharing ideas visually",
+      "learning"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "world_gx": 5.470619711252362,
+    "world_gy": 13.615577583984624,
+    "world_gz": -3.6647723051704317,
+    "id": 19
+  },
+  {
+    "cluster_id": 44,
+    "start_ts": 804126904,
+    "end_ts": 814326904,
+    "transcript_slice": "this is a another really important classroom space and you can see it's a double height space and the faculty offices are directly adjacent we also have the wood shop over here and the metal shop in the space beyond so and then we have faculty offices which again they the faculty can come right out of their office onto the balcony and look out at the",
+    "ai_summary": "The user is describing a double-height classroom space. This central area is surrounded by faculty offices, a wood shop, and a metal shop, with faculty having direct balcony access from their offices overlooking the space.",
+    "relative_time": "563.7s - 573.9s",
+    "start_sec": 563.700096525,
+    "duration": 10.199999999999932,
+    "gx": 7.881575595538334,
+    "gy": -1.6918260188573382,
+    "gz": 13.49101129230133,
+    "mean_quality": 1.0,
+    "sample_count": 70,
+    "fallback_ratio": 0.0,
+    "quality_tiers": {
+      "strong": 70,
+      "weak": 0,
+      "uncertain": 0,
+      "fallback": 0
+    },
+    "clip_rel_path": "cluster_44/event_088_cluster_44.mp4",
+    "id": 20,
+    "narrative_title": "Double-Height Classroom Environment",
+    "narrative_description": "This observation highlights an important, double-height classroom space, emphasizing its central role. Surrounding this area are faculty offices, with direct access to a balcony that allows faculty to overlook the space. The expert also points out nearby wood and metal shops, indicating a comprehensive and integrated educational environment. This design fosters connectivity and passive observation between teaching areas and faculty workspaces.",
+    "objects": [
+      "classroom space",
+      "faculty offices",
+      "wood shop",
+      "metal shop",
+      "balcony"
+    ],
+    "actions": [
+      "coming out of office",
+      "looking out"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "world_gx": 4.167286539077759,
+    "world_gy": 12.90137141091483,
+    "world_gz": -3.715985574041094
+  },
+  {
+    "cluster_ids": [
+      47,
+      48
+    ],
+    "cluster_id": 47,
+    "start_ts": 946626904,
+    "end_ts": 982426904,
+    "start_sec": 706.200096525,
+    "duration": 35.799999999999955,
+    "relative_time": "706.2s - 742.0s",
+    "transcript_slice": "We also have a printing room, a screen printing room as well. And here you can get a better sense of how the light comes into the space, the pyramids that we saw up on the plaza. We're now directly under it. And underneath these, and you don't necessarily get a direct view to the outside, but you [...] We also have a printing room, a screen printing room as well. And here you can get a better sense of how the light comes into the space, the pyramids that we saw up on the plaza. We're now directly under it. And underneath these, and you don't necessarily get a direct view to the outside, but you can kind of sense the weather and how the light changes throughout the day and activating the space. There's a lot of natural light in this space when the weather is good. And yeah, it's a really kind of grand space. And the connection from above and below is, I think, a feature of the space as well. Yeah. The end. Cool.",
+    "gx": 2.172729021216246,
+    "gy": -4.696446184147165,
+    "gz": 15.490800715610222,
+    "clip_rel_path": "cluster_47/event_108_cluster_47.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 242,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Pyramids: Light, Space Connection",
+    "narrative_description": "The expert highlights a screen printing room, focusing on how natural light enters from architectural structures referred to as \"pyramids\" on the plaza above. These features function as light-wells or skylights, illuminating the \"grand space\" below and enabling occupants to perceive outside weather changes. This design creates a significant connection between the upper plaza and the lower level, making natural light a defining characteristic. The space is dynamically activated by daily and seasonal light variations.",
+    "objects": [
+      "printing room",
+      "screen printing room",
+      "skylights",
+      "plaza",
+      "natural light"
+    ],
+    "actions": [
+      "sensing weather",
+      "illuminating space",
+      "connecting levels",
+      "activating space"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "world_gx": 9.945509835836049,
+    "world_gy": 11.11229511424228,
+    "world_gz": -6.720843444536398,
+    "id": 21
+  }
+]

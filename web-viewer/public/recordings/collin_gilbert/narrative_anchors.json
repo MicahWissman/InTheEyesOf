@@ -1,0 +1,1047 @@
+[
+  {
+    "cluster_ids": [
+      0,
+      1
+    ],
+    "cluster_id": 0,
+    "start_ts": 92172697,
+    "end_ts": 115372697,
+    "start_sec": 4.600095838,
+    "duration": 23.200000000000003,
+    "relative_time": "4.6s - 27.8s",
+    "transcript_slice": "All right, you are good to go. Cool, awesome. We're outside on the plaza of Cowgill Hall at Virginia Tech, the School of Architecture. Kind of around us, we have four pyramids. These sort of demarcate the center of the plaza, but yet also act as skylights for Burchard, [...] All right, you are good to go. Cool, awesome. We're outside on the plaza of Cowgill Hall at Virginia Tech, the School of Architecture. Kind of around us, we have four pyramids. These sort of demarcate the center of the plaza, but yet also act as skylights for Burchard, which is an extension below us. Sort of split into quadrants, so each quadrant has an entrance into the area of Burchard, there's one here on the left, closest to the entrance of Cowgill, that demarcates the absence of one of these entry points.",
+    "gx": 17.715287816739487,
+    "gy": 2.1982262660987404,
+    "gz": 20.29915742718084,
+    "clip_rel_path": "cluster_00/event_002_cluster_0.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 143,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Plaza Pyramids: Function & Access",
+    "narrative_description": "The expert is positioned on the plaza of Cowgill Hall, observing four distinctive pyramids. These structures serve to both demarcate the center of the plaza and act as functional skylights for the underground Burchard extension. The plaza itself is conceptually divided into quadrants, with each typically featuring an entrance to Burchard, although one entrance is specifically noted as absent near Cowgill's main entry. The expert's active left hand likely aids in pointing out these features during the detailed explanation of the plaza's design and hidden complexities.",
+    "objects": [
+      "Plaza",
+      "Cowgill Hall",
+      "Virginia Tech",
+      "School of Architecture",
+      "Pyramids",
+      "Burchard",
+      "Quadrants",
+      "Entrance"
+    ],
+    "actions": [
+      "explaining",
+      "observing",
+      "demarcating",
+      "acting as skylights",
+      "splitting",
+      "having an entrance",
+      "gesturing"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "world_gx": 1.0211534087109522,
+    "world_gy": 0.7622709476914129,
+    "world_gz": -0.04411757909174213,
+    "id": 0
+  },
+  {
+    "cluster_ids": [
+      5,
+      6
+    ],
+    "cluster_id": 6,
+    "start_ts": 132672697,
+    "end_ts": 142572697,
+    "start_sec": 45.100095838,
+    "duration": 9.899999999999999,
+    "relative_time": "45.1s - 55.0s",
+    "transcript_slice": "So if I look here and I see this sort of demarcated absence, I look to my right, it's where the elevator and some of the facilities and mechanics are for that space. There's another demarcation that sort of separates the end of the plaza into the beginning of Cowgill Hall. [...] So if I look here and I see this sort of demarcated absence, I look to my right, it's where the elevator and some of the facilities and mechanics are for that space. There's another demarcation that sort of separates the end of the plaza into the beginning of Cowgill Hall. Here we're passing over",
+    "gx": 2.164387913386564,
+    "gy": 2.2134888997704043,
+    "gz": 15.281804277999662,
+    "clip_rel_path": "cluster_06/event_004_cluster_6.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 71,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Plaza to Cowgill Transition",
+    "narrative_description": "The expert observes a critical transitional space, highlighting specific demarcations defining the area. Immediately to their right, an elevator and mechanical facilities occupy a distinct zone. Another clear boundary visually separates the plaza's termination from the commencement of Cowgill Hall. This location is significant for its functional infrastructure and architectural separation of distinct public areas, as the expert explains these delineating features.",
+    "objects": [
+      "demarcation",
+      "elevator",
+      "facilities",
+      "mechanics"
+    ],
+    "actions": [
+      "looking",
+      "explaining",
+      "describing"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "world_gx": -13.357187669927423,
+    "world_gy": -7.000952096418901,
+    "world_gz": -0.028979236327789044,
+    "id": 1
+  },
+  {
+    "cluster_ids": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "cluster_id": 9,
+    "start_ts": 165072697,
+    "end_ts": 180672697,
+    "start_sec": 77.500095838,
+    "duration": 15.600000000000009,
+    "relative_time": "77.5s - 93.1s",
+    "transcript_slice": "the sort of bridge that gaps here between sort of what is the alley area below and then into where Burchard was made underground. Two front doors, a slight vestibule area. And so you'll notice the sort of length of this wall here [...] Two front doors, a slight vestibule area. And so you'll notice the sort of length of this wall here and then how it caps out. It's very similar to what we'll see in the lobby here. It's almost a mirrored condition of this wall,",
+    "gx": -4.034944121876382,
+    "gy": 2.114048858565492,
+    "gz": -0.06507952507138981,
+    "clip_rel_path": "cluster_09/event_008_cluster_9.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 73,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Bridge, Vestibule, Mirrored Wall",
+    "narrative_description": "The expert describes a structural bridge connecting to an underground area, spanning an alley below. They highlight two distinct front doors and an adjacent vestibule area at this transition point. Attention is drawn to the length and capping of a specific wall, whose design is a significant architectural motif. The expert explains this wall's condition is almost a mirrored replicate of one found in the lobby, emphasizing a recurring design theme.",
+    "objects": [
+      "bridge",
+      "alley",
+      "underground area",
+      "front doors",
+      "vestibule area",
+      "wall",
+      "lobby"
+    ],
+    "actions": [
+      "explaining",
+      "comparing",
+      "pointing_out"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "world_gx": -28.729876760186993,
+    "world_gy": -0.8658905903361538,
+    "world_gz": -0.12847255767673257,
+    "id": 2
+  },
+  {
+    "cluster_ids": [
+      11,
+      12,
+      13
+    ],
+    "cluster_id": 13,
+    "start_ts": 184672697,
+    "end_ts": 220072697,
+    "start_sec": 97.100095838,
+    "duration": 35.39999999999999,
+    "relative_time": "97.1s - 132.5s",
+    "transcript_slice": "and then how it caps out. It's very similar to what we'll see in the lobby here. It's almost a mirrored condition of this wall, the systems of slats that caps out. It comes out at the end and opens up into the space. This is our lobby space when you first enter the school. This is a sort of museum for us. [...] the systems of slats that caps out. It comes out at the end and opens up into the space. This is our lobby space when you first enter the school. This is a sort of museum for us. There are always rotating exhibitions. It's designed here with the slats to hold standard paper sizes. [...] There are always rotating exhibitions. It's designed here with the slats to hold standard paper sizes. As you can see, there's years and years and years of wear on these, of probably thousands of pinups, as we like to call them, to celebrate the work of the school and give critique and feedback to the students of all years. This is the dean's office to our right, architecture office to our left.",
+    "gx": -8.784600975546063,
+    "gy": 2.271625690668298,
+    "gz": -7.1336745416283165,
+    "clip_rel_path": "cluster_13/event_013_cluster_13.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 194,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Lobby's Functional Slatted Wall",
+    "narrative_description": "The expert describes a distinctive slatted wall design in the school's lobby, noting its unique extension and how it opens into the main space. This integrated system functions as a dynamic \"museum\" for rotating student exhibitions, explicitly designed to hold standard paper sizes for pinups. Significant wear on the slats underscores its extensive use over many years for displaying student work, critiques, and feedback. The expert also points out the adjacent Dean's and Architecture offices, orienting the viewer within this central hub.",
+    "objects": [
+      "slats",
+      "wall",
+      "lobby space",
+      "school",
+      "exhibitions",
+      "paper sizes",
+      "pinups",
+      "Dean's office",
+      "Architecture office"
+    ],
+    "actions": [
+      "caps out",
+      "comes out",
+      "opens up",
+      "entering",
+      "holding",
+      "celebrating work",
+      "giving critique",
+      "giving feedback",
+      "designing"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "world_gx": -37.12036269129368,
+    "world_gy": 0.5915160192515734,
+    "world_gz": 0.029064764730183493,
+    "id": 3
+  },
+  {
+    "cluster_ids": [
+      14,
+      16,
+      17
+    ],
+    "cluster_id": 14,
+    "start_ts": 234372697,
+    "end_ts": 252772697,
+    "start_sec": 146.800095838,
+    "duration": 18.400000000000006,
+    "relative_time": "146.8s - 165.2s",
+    "transcript_slice": "Cowgill is fundamentally just a line if you had to draw a party of the space. It is sort of flanked by these two doors that open into fire stairs that will take you up, down, and out of the building. [...] Cowgill is fundamentally just a line if you had to draw a party of the space. It is sort of flanked by these two doors that open into fire stairs that will take you up, down, and out of the building. This front wall here in the lobby separates the space between what is exhibition space and then studio space. Here's where you'll see a plethora of studios. [...] It is sort of flanked by these two doors that open into fire stairs that will take you up, down, and out of the building. This front wall here in the lobby separates the space between what is exhibition space and then studio space. Here's where you'll see a plethora of studios. There's two first-year studios, one on either side.",
+    "gx": -17.104185518373114,
+    "gy": 2.4442432188004033,
+    "gz": -8.525789999630653,
+    "clip_rel_path": "cluster_14/event_014_cluster_14.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 80,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Cowgill Entry, Stairs, Studios",
+    "narrative_description": "The expert describes Cowgill's fundamental linear layout, flanked by two doors that lead to fire stairs. These stairs facilitate critical vertical circulation throughout and egress from the building. A prominent front wall in the lobby separates the space into distinct exhibition and studio areas. This location notably features a plethora of studios, including two designated first-year studios.",
+    "objects": [
+      "doors",
+      "fire stairs",
+      "building",
+      "front wall",
+      "lobby",
+      "exhibition space",
+      "studios"
+    ],
+    "actions": [
+      "open",
+      "take you up, down, and out",
+      "separates",
+      "gesturing"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "world_gx": -43.87929719289144,
+    "world_gy": -4.455294819672902,
+    "world_gz": 0.20161615968293822,
+    "id": 4
+  },
+  {
+    "cluster_id": 22,
+    "start_ts": 283372697,
+    "end_ts": 286472697,
+    "transcript_slice": "Bookshelves, series of tables that allow us to do work in the lobby, exhibit work. This is an example of a typical first-year lab in the morning. Currently, the students are working on modeling",
+    "ai_summary": "The user is detailing the flexible design of a lobby space, equipped with bookshelves and tables for work and exhibitions. This area also functions as a first-year lab, currently being used by students for modeling.",
+    "relative_time": "195.8s - 198.9s",
+    "start_sec": 195.800095838,
+    "duration": 3.0999999999999943,
+    "gx": -12.271323991732775,
+    "gy": 2.2206734566911175,
+    "gz": -19.660255367676765,
+    "mean_quality": 1.0,
+    "sample_count": 19,
+    "fallback_ratio": 0.0,
+    "quality_tiers": {
+      "strong": 19,
+      "weak": 0,
+      "uncertain": 0,
+      "fallback": 0
+    },
+    "clip_rel_path": "cluster_22/event_018_cluster_22.mp4",
+    "id": 5,
+    "narrative_title": "Lobby Lab Workstation Activity",
+    "narrative_description": "The expert identifies bookshelves and a series of tables within a lobby area, configured for collaborative work and exhibits. This versatile space functions as a typical first-year lab, especially during morning hours. Currently, students are observed actively engaged in modeling assignments here. The description highlights the area's dual purpose as a functional workspace and display zone.",
+    "objects": [
+      "bookshelves",
+      "tables",
+      "students"
+    ],
+    "actions": [
+      "working",
+      "exhibiting",
+      "modeling"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "world_gx": -48.57996187712017,
+    "world_gy": 6.735622782456248,
+    "world_gz": -0.021918524938978647
+  },
+  {
+    "cluster_ids": [
+      23,
+      25,
+      26
+    ],
+    "cluster_id": 23,
+    "start_ts": 295372697,
+    "end_ts": 449972697,
+    "start_sec": 207.800095838,
+    "duration": 154.60000000000002,
+    "relative_time": "207.8s - 362.4s",
+    "transcript_slice": "This is an example of a typical first-year lab in the morning. Currently, the students are working on modeling different forms that they've pulled out of drawing. So an example here of a student starting to think through curvature through a means that is not done by solid construction. [...] This is an example of a typical first-year lab in the morning. Currently, the students are working on modeling different forms that they've pulled out of drawing. So an example here of a student starting to think through curvature through a means that is not done by solid construction. So the implication of the curve by a series of points or by a series of nodes. Thinking also about interchangeability of parts. [...] different forms that they've pulled out of drawing. So an example here of a student starting to think through curvature through a means that is not done by solid construction. So the implication of the curve by a series of points or by a series of nodes. Thinking also about interchangeability of parts. [...] different forms that they've pulled out of drawing. So an example here of a student starting to think through curvature through a means that is not done by solid construction. So the implication of the curve by a series of points or by a series of nodes. Thinking also about interchangeability of parts. How can we make this in sort of different ways and have things fit together and construct new forms? This is also about continuity of lines, sort of thinking through. There's also a series of paper models that are happening here. This is a quick way for students to get ideas out of the drawings and into real model form. [...] This is also about continuity of lines, sort of thinking through. There's also a series of paper models that are happening here. This is a quick way for students to get ideas out of the drawings and into real model form. Currently, we're working through a lot of iterations of an idea. So this sort of sequence of things, of being able to read a drawing, of starting with some sort of standard or we could say like a base model, and then different deformations that might happen over time. So the shrinking and the sort of squishing as we're seeing right here if we compare these two things. Same thing here. Testing different ideas of structure. Here, standing up on two legs. Here, sort of more subtle slope that's coming up. Starting to maybe integrate some of these forms into profiles instead of separations. So this is a way that we generally like to work is a sort of contrast. And this is a continuity of thought from an original until we get something maybe more favorable to us. From there, starting to think, well what if we're not thinking about surface but instead thinking about lines and points in the way that we might construct things in the real world? How do you make a point, the sort of thickness of a point? Points really have a hard time existing in space because materials have thickness. Even the very minute of something like a sheet of Bristol really presents challenges when you try to translate an idea over to Basswood. There's a library in the school but I typically like to keep a library for the students of a collection of books that I might have. This starts to sort of lower the threshold for learning. They can stay [...] Even the very minute of something like a sheet of Bristol really presents challenges when you try to translate an idea over to Basswood. There's a library in the school but I typically like to keep a library for the students of a collection of books that I might have. This starts to sort of lower the threshold for learning. They can stay [...] typically like to keep a library for the students of a collection of books that I might have. This starts to sort of lower the threshold for learning. They can stay here and explore ideas and then once they have things of their own or have interests we go pursue the library downstairs. I'm going to head downstairs",
+    "gx": -8.36870964211829,
+    "gy": 1.9477882736359646,
+    "gz": -29.119132959397273,
+    "clip_rel_path": "cluster_23/event_023_cluster_23.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 1443,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Student Lab Model Iterations",
+    "narrative_description": "The expert observes a first-year design lab where students are actively modeling various forms derived from drawings. They explain how students explore abstract concepts like curvature, structural integrity, and part interchangeability through iterative paper models. This process translates initial ideas from two-dimensional drawings into tangible, three-dimensional explorations. The expert's detailed descriptions reveal a dynamic learning environment focused on hands-on material application and conceptual design development.",
+    "objects": [
+      "student models",
+      "paper models",
+      "drawings",
+      "Bristol sheet",
+      "Basswood",
+      "books"
+    ],
+    "actions": [
+      "modeling forms",
+      "thinking through curvature",
+      "making models fit together",
+      "constructing new forms",
+      "iterating ideas",
+      "testing structure",
+      "translating ideas",
+      "keeping a library",
+      "exploring ideas",
+      "left hand active"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "world_gx": -52.71359925651144,
+    "world_gy": 16.09584828507168,
+    "world_gz": -0.29477551309823025,
+    "id": 6
+  },
+  {
+    "cluster_id": 29,
+    "start_ts": 488172697,
+    "end_ts": 489372697,
+    "transcript_slice": "stairwell. This is almost an exhibition space much like the lobby is. This is the (silence)",
+    "ai_summary": "The user identifies a stairwell within the model. They then characterize this area as having the potential to function as an exhibition space, drawing a comparison to how the lobby is used.",
+    "relative_time": "400.6s - 401.8s",
+    "start_sec": 400.600095838,
+    "duration": 1.1999999999999886,
+    "gx": -4.150063246843899,
+    "gy": -0.672764408770707,
+    "gz": -21.542424438965885,
+    "mean_quality": 1.0,
+    "sample_count": 12,
+    "fallback_ratio": 0.0,
+    "quality_tiers": {
+      "strong": 12,
+      "weak": 0,
+      "uncertain": 0,
+      "fallback": 0
+    },
+    "clip_rel_path": "cluster_29/event_027_cluster_29.mp4",
+    "id": 7,
+    "narrative_title": "Stairwell as Exhibition Space",
+    "narrative_description": "The expert focuses on a stairwell, evaluating its architectural character. They describe it as having the qualities of an 'exhibition space,' drawing a parallel to a 'lobby.' This suggests the stairwell serves a significant aesthetic or functional role beyond simple transit. The expert intends to highlight the grandeur and potential for display within this ground-level area.",
+    "objects": [
+      "stairwell"
+    ],
+    "actions": [
+      "describing",
+      "evaluating",
+      "comparing"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "world_gx": -44.323288917541504,
+    "world_gy": 13.903505325317383,
+    "world_gz": -2.915292739868164
+  },
+  {
+    "cluster_ids": [
+      30,
+      31,
+      32,
+      33
+    ],
+    "cluster_id": 33,
+    "start_ts": 493872697,
+    "end_ts": 504872697,
+    "start_sec": 406.300095838,
+    "duration": 11.0,
+    "relative_time": "406.3s - 417.3s",
+    "transcript_slice": "(silence) Ferrari archive. It's a collection of things that come from Lucio and Olivio Ferrari. Here we have an industrial design laboratory and it's [...] (silence) Ferrari archive. It's a collection of things that come from Lucio and Olivio Ferrari. Here we have an industrial design laboratory and it's flanked by another one on the other side. Some of the things that we have",
+    "gx": -7.013928878316218,
+    "gy": -2.2117751374124106,
+    "gz": -17.505184522323905,
+    "clip_rel_path": "cluster_33/event_031_cluster_33.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 47,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Ferrari Archive and Design Labs",
+    "narrative_description": "The expert identifies the Ferrari archive, explaining it contains items from Lucio and Olivio Ferrari. Adjacent to this is an industrial design laboratory, which the expert notes is flanked by another similar lab. Their active left hand suggests pointing at these distinct areas. This commentary clarifies the purpose and arrangement of these significant archival and functional spaces.",
+    "objects": [
+      "Ferrari archive",
+      "industrial design laboratory",
+      "archive collection",
+      "second industrial design laboratory"
+    ],
+    "actions": [
+      "explaining",
+      "pointing"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "world_gx": -43.38753414789014,
+    "world_gy": 9.042915924241177,
+    "world_gz": -4.454324970768588,
+    "id": 8
+  },
+  {
+    "cluster_ids": [
+      34
+    ],
+    "cluster_id": 34,
+    "start_ts": 515472697,
+    "end_ts": 536872697,
+    "start_sec": 427.900095838,
+    "duration": 21.399999999999977,
+    "relative_time": "427.9s - 449.3s",
+    "transcript_slice": "flanked by another one on the other side. Some of the things that we have in the school to offer are things like a small robotics lab here where you can see some of the work that's been done either with the robot arm. This might be [...] flanked by another one on the other side. Some of the things that we have in the school to offer are things like a small robotics lab here where you can see some of the work that's been done either with the robot arm. This might be forms of casting. This might be hot wire cutting. It might be printing ceramics, printing kind of more traditional plastics and filaments. On the right [...] in the school to offer are things like a small robotics lab here where you can see some of the work that's been done either with the robot arm. This might be forms of casting. This might be hot wire cutting. It might be printing ceramics, printing kind of more traditional plastics and filaments. On the right [...] in the school to offer are things like a small robotics lab here where you can see some of the work that's been done either with the robot arm. This might be forms of casting. This might be hot wire cutting. It might be printing ceramics, printing kind of more traditional plastics and filaments. On the right here we have the school's 3D printing lab which is typically staffed by students. So for students who might not have a 3D printer or have multiple",
+    "gx": -4.925711510933784,
+    "gy": -2.5485207154885146,
+    "gz": -7.998914669395862,
+    "clip_rel_path": "cluster_34/event_036_cluster_34.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 152,
+    "fallback_ratio": 0.0,
+    "narrative_title": "School's Fabrication Lab Offerings",
+    "narrative_description": "The expert describes a small robotics lab, highlighting work done with robot arms, casting, and hot wire cutting techniques. Adjacent to this is the school's 3D printing lab, offering diverse material printing like ceramics, traditional plastics, and filaments. This 3D printing facility is typically staffed by students, providing valuable resources for those without personal printers. The expert's description emphasizes the practical fabrication capabilities and collaborative student environment of these labs.",
+    "objects": [
+      "robotics lab",
+      "robot arm",
+      "3D printing lab",
+      "ceramics",
+      "plastics",
+      "filaments"
+    ],
+    "actions": [
+      "explaining",
+      "pointing out",
+      "robot arm operation",
+      "casting",
+      "hot wire cutting",
+      "printing",
+      "staffing (by students)"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "world_gx": -35.07673486594357,
+    "world_gy": 3.9773017967245394,
+    "world_gz": -4.791051389067137,
+    "id": 9
+  },
+  {
+    "cluster_ids": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      44
+    ],
+    "cluster_id": 38,
+    "start_ts": 539172697,
+    "end_ts": 579672697,
+    "start_sec": 451.600095838,
+    "duration": 40.5,
+    "relative_time": "451.6s - 492.1s",
+    "transcript_slice": "forms of casting. This might be hot wire cutting. It might be printing ceramics, printing kind of more traditional plastics and filaments. On the right here we have the school's 3D printing lab which is typically staffed by students. So for students who might not have a 3D printer or have multiple [...] here we have the school's 3D printing lab which is typically staffed by students. So for students who might not have a 3D printer or have multiple prints, we have a series of systems here that can be used to print and use. This is the library. This is the library that we have here to allow them [...] here we have the school's 3D printing lab which is typically staffed by students. So for students who might not have a 3D printer or have multiple prints, we have a series of systems here that can be used to print and use. This is the library. This is the library that we have here to allow them to do that. This is the school's library. So everything that would be at the Art and Ar- or everything that would be at Newman library on campus that is considered art and architecture is kept in this space for the students. So all of [...] to do that. This is the school's library. So everything that would be at the Art and Ar- or everything that would be at Newman library on campus that is considered art and architecture is kept in this space for the students. So all of the sort of amenities that a student might need end up in the building and they're able to stick around, be here with friends, and sort of do this sort of [...] the sort of amenities that a student might need end up in the building and they're able to stick around, be here with friends, and sort of do this sort of all-encompassing type of education here. There's a threshold from Burchard or from Cowgill into Burchard. On our left here, and",
+    "gx": -8.044363906164381,
+    "gy": -2.008503819014952,
+    "gz": -4.153728761467185,
+    "clip_rel_path": "cluster_38/event_039_cluster_38.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 100,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Library and Student Amenities",
+    "narrative_description": "The expert highlights the school's specialized Art and Architecture library, detailing its collection of relevant campus resources. This space serves as a vital hub, providing student amenities for studying, socializing, and fostering a comprehensive educational experience. Adjacent to this area, a 3D printing lab offers various systems for student use, typically staffed by students themselves. The expert is explaining the integrated educational and social infrastructure available to students at this central location.",
+    "objects": [
+      "3D printing systems",
+      "Art and architecture library",
+      "Library resources",
+      "Student amenities (e.g., seating, study areas)"
+    ],
+    "actions": [
+      "3D printing",
+      "Student staffing (of the lab)",
+      "Resource utilization (in the library)",
+      "Student socializing",
+      "Student studying"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "world_gx": -34.45591536049891,
+    "world_gy": -0.9345263787812699,
+    "world_gz": -4.251058062020834,
+    "id": 10
+  },
+  {
+    "cluster_ids": [
+      46,
+      48,
+      49
+    ],
+    "cluster_id": 46,
+    "start_ts": 591472697,
+    "end_ts": 602672697,
+    "start_sec": 503.900095838,
+    "duration": 11.199999999999989,
+    "relative_time": "503.9s - 515.1s",
+    "transcript_slice": "all-encompassing type of education here. There's a threshold from Burchard or from Cowgill into Burchard. On our left here, and our right, are the underside of that bridge that we came in as we pass that threshold from the plaza into the building. So Burchard opens up with this sort of direct staircase. On either side there ramps up to a mezzanine where there are faculty offices, wood shop, metal shop. As we sort of look above us [...] our right, are the underside of that bridge that we came in as we pass that threshold from the plaza into the building. So Burchard opens up with this sort of direct staircase. On either side there ramps up to a mezzanine where there are faculty offices, wood shop, metal shop. As we sort of look above us [...] our right, are the underside of that bridge that we came in as we pass that threshold from the plaza into the building. So Burchard opens up with this sort of direct staircase. On either side there ramps up to a mezzanine where there are faculty offices, wood shop, metal shop. As we sort of look above us (silence)",
+    "gx": -0.27007357587512004,
+    "gy": -1.9002021697945297,
+    "gz": 1.9541953036464257,
+    "clip_rel_path": "cluster_46/event_048_cluster_46.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 40,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Burchard Entryway and Mezzanine",
+    "narrative_description": "The expert details the primary threshold into Burchard Hall from the plaza, noting they are beneath the underside of a connecting bridge. They describe a direct staircase and flanking ramps that ascend to a mezzanine. This upper level houses various facilities including faculty offices, a wood shop, and a metal shop. Their intent is to explain the architectural features and functional organization of this key entry point.",
+    "objects": [
+      "threshold",
+      "bridge",
+      "plaza",
+      "building",
+      "staircase",
+      "ramps",
+      "mezzanine",
+      "faculty offices",
+      "wood shop",
+      "metal shop"
+    ],
+    "actions": [
+      "passing threshold",
+      "opening up",
+      "ramping up",
+      "looking above"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "world_gx": -24.66768831676907,
+    "world_gy": 0.4572078574586798,
+    "world_gz": -4.142693270135809,
+    "id": 11
+  },
+  {
+    "cluster_ids": [
+      50,
+      51,
+      53,
+      55,
+      71,
+      73,
+      74
+    ],
+    "cluster_id": 53,
+    "start_ts": 616272697,
+    "end_ts": 802872697,
+    "start_sec": 528.700095838,
+    "duration": 186.5999999999999,
+    "relative_time": "528.7s - 715.3s",
+    "transcript_slice": "(silence) we'll see the underside of the skylights that we saw outside of the pyramids with these thin shaders here. [...] we'll see the underside of the skylights that we saw outside of the pyramids with these thin shaders here. The structure attempts to sort of follow the contour of that pyramid as you can see as it passes through. So these beams, [...] The structure attempts to sort of follow the contour of that pyramid as you can see as it passes through. So these beams, there's a square beam that happens that is then sort of flanked off by a much larger one that forms the shape of Birchard from the underside. To our right we have a print lab that is staffed by students. [...] Further down we have another industrial design lab and then some classrooms. There is a laser cutting room here for the students, a fabrication lab for industrial design. [...] Further down we have another industrial design lab and then some classrooms. There is a laser cutting room here for the students, a fabrication lab for industrial design. The Kiva is a meeting space for industrial design students. [...] (silence) library and that threshold from Cowgill to Birchard. If I turn around now we can see [...] library and that threshold from Cowgill to Birchard. If I turn around now we can see all the Birchard that we have here. We had sort of only introduced from coming into it. More faculty offices here [...] library and that threshold from Cowgill to Birchard. If I turn around now we can see all the Birchard that we have here. We had sort of only introduced from coming into it. More faculty offices here on the right. Here we have some more technology labs. There is the Trimble lab.",
+    "gx": 6.81481466692437,
+    "gy": -3.472576585031627,
+    "gz": 10.20267317046242,
+    "clip_rel_path": "cluster_53/event_055_cluster_53.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 236,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Skylights, Beams, and Academic Spaces",
+    "narrative_description": "From a ground-level vantage, the expert details Birchard's overhead structure, focusing on the underside of skylights, thin shaders, and beams that visually echo the building's exterior pyramid contour. This central position allows for identifying numerous surrounding academic and technical facilities, including various design and technology labs, classrooms, and faculty offices. Specific noteworthy areas mentioned are the Kiva meeting space, laser cutting room, and the pivotal threshold leading to Cowgill. The expert comprehensively explains both the architectural design and the diverse, interconnected academic functions housed within this prominent campus hub.",
+    "objects": [
+      "Skylights",
+      "Shaders",
+      "Beams",
+      "Print lab",
+      "Industrial design lab",
+      "Classrooms",
+      "Laser cutting room",
+      "Fabrication lab",
+      "The Kiva (meeting space)",
+      "Library",
+      "Threshold (between buildings)",
+      "Faculty offices",
+      "Technology labs",
+      "Trimble lab"
+    ],
+    "actions": [
+      "Explaining architectural structure",
+      "Identifying functional areas",
+      "Referring to future navigation (turning)",
+      "Gesturing (implied by hand activity)"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "world_gx": -13.810008877962503,
+    "world_gy": -0.12931499036656185,
+    "world_gz": -5.715009392008286,
+    "id": 12
+  },
+  {
+    "cluster_ids": [
+      56,
+      57,
+      58
+    ],
+    "cluster_id": 57,
+    "start_ts": 683172697,
+    "end_ts": 690672697,
+    "start_sec": 595.600095838,
+    "duration": 7.5,
+    "relative_time": "595.6s - 603.1s",
+    "transcript_slice": "and then some classrooms. There is a laser cutting room here for the students, a fabrication lab for industrial design. The Kiva is a meeting space for industrial design students.",
+    "gx": 7.777452365717647,
+    "gy": -4.659677761442283,
+    "gz": 6.292785052152462,
+    "clip_rel_path": "cluster_57/event_059_cluster_57.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 46,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Design Labs and Meeting Kiva",
+    "narrative_description": "The expert details a sequence of specialized educational areas, including general classrooms, a dedicated laser cutting room, and a fabrication lab. These facilities are specifically provided for students, particularly those engaged in industrial design, to support their practical work. The Kiva, a distinct meeting space, is also highlighted as a resource for industrial design students. This collection of spaces underscores a comprehensive environment dedicated to hands-on learning and collaborative activities within design disciplines.",
+    "objects": [
+      "classrooms",
+      "laser cutting room",
+      "fabrication lab",
+      "The Kiva"
+    ],
+    "actions": [
+      "laser cutting",
+      "fabrication",
+      "meeting",
+      "studying"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "world_gx": -15.968540957238938,
+    "world_gy": 3.2698983252048492,
+    "world_gz": -6.902104054556953,
+    "id": 13
+  },
+  {
+    "cluster_ids": [
+      59,
+      60,
+      61
+    ],
+    "cluster_id": 60,
+    "start_ts": 701172697,
+    "end_ts": 714172697,
+    "start_sec": 613.600095838,
+    "duration": 13.0,
+    "relative_time": "613.6s - 626.6s",
+    "transcript_slice": "The Kiva is a meeting space for industrial design students. The Kiva is a meeting space for industrial design students. The Kiva is a meeting space for industrial design students. And here to our left we have a textile and sewing lab for the students. If we take these stairs up here from the back corner of Birchard, [...] The Kiva is a meeting space for industrial design students. The Kiva is a meeting space for industrial design students. And here to our left we have a textile and sewing lab for the students. If we take these stairs up here from the back corner of Birchard, (silence) [...] (silence) (silence)",
+    "gx": 16.62472255217804,
+    "gy": -4.64626135718771,
+    "gz": -3.4032043718257334,
+    "clip_rel_path": "cluster_60/event_062_cluster_60.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 44,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Kiva: Student Meeting Space",
+    "narrative_description": "The expert repeatedly highlights The Kiva, defining it as a crucial meeting space specifically for industrial design students. With their left hand active, they then point out an adjacent textile and sewing lab available to these same students. The expert also details a navigational element, mentioning stairs from the back corner of Birchard leading to other areas. This reveals an intent to explain the function and interconnectedness of key facilities within this educational environment.",
+    "objects": [
+      "Kiva",
+      "Textile and sewing lab",
+      "Stairs"
+    ],
+    "actions": [
+      "Explaining",
+      "Gesturing"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "world_gx": -16.854005456253475,
+    "world_gy": 16.36578895835223,
+    "world_gz": -6.888620447515656,
+    "id": 14
+  },
+  {
+    "cluster_ids": [
+      62,
+      63
+    ],
+    "cluster_id": 62,
+    "start_ts": 731772697,
+    "end_ts": 737672697,
+    "start_sec": 644.200095838,
+    "duration": 5.899999999999977,
+    "relative_time": "644.2s - 650.1s",
+    "transcript_slice": "(silence) we're met with the option to re-enter Birchard on the mezzanine or exit the building in the back alley. So now we are back on the mezzanine so where we came into Birchard through the [...] we're met with the option to re-enter Birchard on the mezzanine or exit the building in the back alley. So now we are back on the mezzanine so where we came into Birchard through the",
+    "gx": 20.303244561735937,
+    "gy": -1.63794486339075,
+    "gz": -12.462955190905728,
+    "clip_rel_path": "cluster_62/event_064_cluster_62.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 41,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Mezzanine Navigational Options",
+    "narrative_description": "The expert is focused on a junction along the mezzanine, outlining two distinct navigational choices. One option allows re-entry into Birchard, while the other leads to an exit from the building into a back alley. They are explaining these available pathways, noting it is the same mezzanine entry point previously used. This location is significant as a decision node for movement within and out of the structure.",
+    "objects": [
+      "Mezzanine",
+      "Birchard",
+      "Building",
+      "Back alley"
+    ],
+    "actions": [
+      "Describing options",
+      "Re-entering",
+      "Exiting"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "world_gx": -20.854328338916485,
+    "world_gy": 25.2881129973974,
+    "world_gz": -3.8802774181732764,
+    "id": 15
+  },
+  {
+    "cluster_ids": [
+      64,
+      65,
+      66,
+      67,
+      68
+    ],
+    "cluster_id": 66,
+    "start_ts": 740672697,
+    "end_ts": 758872697,
+    "start_sec": 653.100095838,
+    "duration": 18.199999999999932,
+    "relative_time": "653.1s - 671.3s",
+    "transcript_slice": "we're met with the option to re-enter Birchard on the mezzanine or exit the building in the back alley. So now we are back on the mezzanine so where we came into Birchard through the [...] So now we are back on the mezzanine so where we came into Birchard through the threshold and took the stairs down. If we were to go to the left on the ramp and take another left we would end up here at the wood shop and the metal shop behind it. So both are [...] So now we are back on the mezzanine so where we came into Birchard through the threshold and took the stairs down. If we were to go to the left on the ramp and take another left we would end up here at the wood shop and the metal shop behind it. So both are accessible through this door. The left here is a door but functions more as a [...] threshold and took the stairs down. If we were to go to the left on the ramp and take another left we would end up here at the wood shop and the metal shop behind it. So both are accessible through this door. The left here is a door but functions more as a",
+    "gx": 24.46875815040336,
+    "gy": -1.425787827644287,
+    "gz": -7.414114782959768,
+    "clip_rel_path": "cluster_66/event_068_cluster_66.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 114,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Workshop Access Point",
+    "narrative_description": "The expert describes a ground-level navigational junction, offering options to re-enter Birchard's mezzanine or exit to a back alley. From this position, they detail the specific route to the wood and metal shops, involving a ramp and turns. A prominent door at this location is clarified to function more as a threshold, granting access to these workshops. The active left hand likely indicates the direction or the specific entry point, underscoring this spot's significance as an access hub.",
+    "objects": [
+      "Birchard (building/area)",
+      "mezzanine",
+      "building",
+      "back alley",
+      "threshold",
+      "stairs",
+      "ramp",
+      "wood shop",
+      "metal shop",
+      "door"
+    ],
+    "actions": [
+      "re-enter",
+      "exit",
+      "came into",
+      "took stairs",
+      "go left on ramp",
+      "take left",
+      "end up",
+      "accessible (through door)",
+      "functions (as threshold)",
+      "pointing/gesturing (implied by left hand active)"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "world_gx": -14.326743004333432,
+    "world_gy": 24.80550751191422,
+    "world_gz": -3.668086053562397,
+    "id": 16
+  },
+  {
+    "cluster_ids": [
+      69,
+      70
+    ],
+    "cluster_id": 69,
+    "start_ts": 762672697,
+    "end_ts": 770372697,
+    "start_sec": 675.100095838,
+    "duration": 7.699999999999932,
+    "relative_time": "675.1s - 682.8s",
+    "transcript_slice": "accessible through this door. The left here is a door but functions more as a window into the CNC machines that we have here. On the right we have faculty offices, more faculty offices. Here we are back where we can see through to the",
+    "gx": 21.992587273104004,
+    "gy": -1.719734426876923,
+    "gz": -3.0496486030221703,
+    "clip_rel_path": "cluster_69/event_071_cluster_69.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 21,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Entryway to CNC and Offices",
+    "narrative_description": "The expert describes a central doorway, highlighting the distinct areas visible from this position. To the left, a door functions as a window offering a direct view into the CNC machines. To the right, the area is lined with faculty offices. This location also serves as a vantage point, allowing sight into another connected space, acting as a functional hub.",
+    "objects": [
+      "door",
+      "window",
+      "CNC machines",
+      "faculty offices"
+    ],
+    "actions": [
+      "describing",
+      "viewing",
+      "accessing"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "world_gx": -12.886520521981375,
+    "world_gy": 19.99866492407663,
+    "world_gz": -3.9620509999138966,
+    "id": 17
+  },
+  {
+    "cluster_id": 75,
+    "start_ts": 827172697,
+    "end_ts": 829072697,
+    "transcript_slice": "(silence) You'll note above us these beams that are passing through. When we were on the",
+    "ai_summary": "The user is directing attention to structural beams overhead that traverse the space. They appear to be referencing a previous vantage point to provide context or comparison for these elements.",
+    "relative_time": "739.6s - 741.5s",
+    "start_sec": 739.600095838,
+    "duration": 1.8999999999999773,
+    "gx": -8.95569043914298,
+    "gy": -1.6556172915999632,
+    "gz": 27.324104578272777,
+    "mean_quality": 1.0,
+    "sample_count": 12,
+    "fallback_ratio": 0.0,
+    "quality_tiers": {
+      "strong": 12,
+      "weak": 0,
+      "uncertain": 0,
+      "fallback": 0
+    },
+    "clip_rel_path": "cluster_75/event_076_cluster_75.mp4",
+    "id": 18,
+    "narrative_title": "Observing Overhead Structural Beams",
+    "narrative_description": "The expert directs attention overhead, focusing on significant structural beams passing through the space. Their intent is to point out these architectural features for the observer. The active left hand likely accompanies this observation with a gestural emphasis on the features. This action highlights the building's structural design elements visible from ground level, potentially drawing a comparison to other areas within the structure.",
+    "objects": [
+      "beams"
+    ],
+    "actions": [
+      "noting",
+      "pointing out",
+      "gesturing",
+      "describing"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "world_gx": -12.348628520965576,
+    "world_gy": -23.361126104990642,
+    "world_gz": -3.8981699347496033
+  },
+  {
+    "cluster_ids": [
+      76
+    ],
+    "cluster_id": 76,
+    "start_ts": 837472697,
+    "end_ts": 850672697,
+    "start_sec": 749.900095838,
+    "duration": 13.200000000000045,
+    "relative_time": "749.9s - 763.1s",
+    "transcript_slice": "You'll note above us these beams that are passing through. When we were on the plaza, where those entrances are and we'll walk into one of those from here, where those entrances are there's glass blocks that students sit on which then [...] plaza, where those entrances are and we'll walk into one of those from here, where those entrances are there's glass blocks that students sit on which then end up projecting light down the entrance. On the other side of the building where we went through the wood shop and the metal shop, those are not accessible since they are right above where those shop spaces are.",
+    "gx": -4.447668421721616,
+    "gy": -0.5113954711722344,
+    "gz": 32.09194465288809,
+    "clip_rel_path": "cluster_76/event_079_cluster_76.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 39,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Overhead Beams, Light, Accessibility",
+    "narrative_description": "The expert focuses on the prominent beams overhead, explaining their structural and functional roles. These beams are positioned above plaza entrances, where integrated glass blocks allow students to sit and cast light into the space below. Conversely, the expert notes that similar overhead structures above the wood and metal shops are intentionally inaccessible. This observation highlights the architectural differentiation and functional zoning of the building's upper levels.",
+    "objects": [
+      "beams",
+      "plaza",
+      "entrances",
+      "glass blocks",
+      "students",
+      "building",
+      "wood shop",
+      "metal shop"
+    ],
+    "actions": [
+      "passing through",
+      "sitting",
+      "projecting light",
+      "walking",
+      "going through"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "world_gx": -5.7871648382257534,
+    "world_gy": -23.402007049984405,
+    "world_gz": -2.7539111574490867,
+    "id": 19
+  },
+  {
+    "cluster_ids": [
+      80,
+      81,
+      82,
+      89,
+      90
+    ],
+    "cluster_id": 90,
+    "start_ts": 867772697,
+    "end_ts": 947272697,
+    "start_sec": 780.200095838,
+    "duration": 79.5,
+    "relative_time": "780.2s - 859.7s",
+    "transcript_slice": "(silence) This is a kiln and glazing room for ceramics. Two kilns here in front of us and then a suite [...] (silence) This is a kiln and glazing room for ceramics. Two kilns here in front of us and then a suite of student projects that are happening at the same time. Here we are leaving the hallway. Now we are in one of the entrances that leads us into [...] minus the one that is missing. And then these are the glass blocks here where we could see from below it. General tour. [...] from below it. General tour.",
+    "gx": 7.720288795660855,
+    "gy": -0.3652442168972829,
+    "gz": 44.692173994318935,
+    "clip_rel_path": "cluster_90/event_088_cluster_90.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 57,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Kiln and Glazing Room Entrance",
+    "narrative_description": "The expert introduces a ceramics kiln and glazing room, pointing out two kilns and ongoing student projects. They contextualize their location as being in one of the room's entrances, having just departed a hallway. Specific architectural elements, such as glass blocks offering a view from below, are also highlighted. This detailed explanation, accompanied by an active left hand, occurs within the broader context of a general tour.",
+    "objects": [
+      "kilns",
+      "ceramics",
+      "student projects",
+      "hallway",
+      "entrance",
+      "glass blocks"
+    ],
+    "actions": [
+      "leaving",
+      "leading",
+      "happening",
+      "seeing",
+      "glazing",
+      "touring"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "world_gx": 11.729090490341186,
+    "world_gy": -23.326294309525263,
+    "world_gz": -2.6076602250976224,
+    "id": 20
+  },
+  {
+    "cluster_ids": [
+      83,
+      85,
+      88
+    ],
+    "cluster_id": 85,
+    "start_ts": 882072697,
+    "end_ts": 910572697,
+    "start_sec": 794.500095838,
+    "duration": 28.5,
+    "relative_time": "794.5s - 823.0s",
+    "transcript_slice": "This is a kiln and glazing room for ceramics. Two kilns here in front of us and then a suite of student projects that are happening at the same time. Here we are leaving the hallway. Now we are in one of the entrances that leads us into Birchard. You'll notice on the inside the depth of these columns as they pass through [...] Birchard. You'll notice on the inside the depth of these columns as they pass through the wall starting to expose what is past this finish here and showing how far down [...] the wall starting to expose what is past this finish here and showing how far down these end up in the building. Here we are coming back out onto the plaza.",
+    "gx": 14.446455414151973,
+    "gy": -0.08593112814711201,
+    "gz": 51.36229378378726,
+    "clip_rel_path": "cluster_85/event_085_cluster_85.mp4",
+    "mean_quality": 1.0,
+    "sample_count": 112,
+    "fallback_ratio": 0.0,
+    "narrative_title": "Kiln Room Transition & Columns",
+    "narrative_description": "The expert initially describes a ceramic kiln and glazing room, highlighting two kilns and ongoing student projects. They then articulate their navigation, indicating a transition from a hallway into an entrance leading to Birchard. Their focus shifts to architectural details, specifically the notable depth of columns passing through a wall, exposing underlying structural elements. This observation occurs during their movement out onto a plaza.",
+    "objects": [
+      "kiln",
+      "glazing room",
+      "ceramics",
+      "student projects",
+      "hallway",
+      "entrance",
+      "Birchard (building)",
+      "columns",
+      "wall",
+      "finish",
+      "plaza"
+    ],
+    "actions": [
+      "describing",
+      "explaining",
+      "navigating",
+      "pointing out",
+      "exposing",
+      "showing"
+    ],
+    "spatial_props": {
+      "elevation": "ground_level",
+      "proximity_to_water": "none",
+      "proximity_to_path": "on_path"
+    },
+    "world_gx": 21.19858573399624,
+    "world_gy": -23.080439720694613,
+    "world_gz": -2.3282921190912225,
+    "id": 21
+  }
+]

@@ -214,7 +214,7 @@ function ZoomAwareMarkers({
           : anchor.contentCategory === 'nature' ? '#4488ff'
           : anchor.contentCategory === 'context' ? '#888888'
           : anchor.contentCategory === 'review' ? '#ffaa00'
-          : isContext ? '#4488ff' : '#00ff88';
+          : anchor.source_color ?? (isContext ? '#4488ff' : '#00ff88');
         const color = isPlaying ? '#00ff88'
           : isSelected || proximity === 'in_range' ? '#00ff88'
           : isVisited && !isSelected ? '#999999'

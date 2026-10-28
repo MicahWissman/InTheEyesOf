@@ -238,6 +238,66 @@ To visualize a recording, assets must be mapped into the web-viewer public direc
    npm run dev
    ```
 
+## Scripted Walkthrough Video (Open3D)
+
+A research-demo alternative to the browser flythrough: renders a full-resolution
+walkthrough of a recording's point cloud along its SLAM trajectory with a
+deterministic, constant-speed camera, optionally dwelling on the route's
+narrative anchors (`anchors_route.json` → `gx/gy/gz`, same frame as the cloud).
+
+```bash
+# 1. Environment (open3d 0.19 is declared in aria_tools_conda.yml)
+conda env update -n aria_tools -f aria_tools_conda.yml
+
+# 2. Fast contact-sheet previews to pick the route segment (arc length in metres)
+python scripts/render_walkthrough.py --preview-only --end-m 300
+
+# 3. Full renders — two look modes to compare
+python scripts/render_walkthrough.py --look-mode path    --end-m 300 --duration 90
+python scripts/render_walkthrough.py --look-mode anchors --end-m 300 --duration 90
+
+# 4. Research presentation variant (trajectory polyline + anchor markers + text overlay)
+python scripts/render_walkthrough.py --look-mode anchors --overlay --annotated
+
+# Birds-eye / zoomed-out views (the route is also drawn to show the path):
+#    overview = whole segment framed from above (auto zoom to fit the route)
+#    topdown  = drone-style follow of the walker from straight above
+# A bright-red beacon follows the walker's position so it's easy to spot from
+# the air (--marker-radius to size it, --no-marker to turn it off).
+python scripts/render_walkthrough.py --view overview  --end-m 300 --duration 90
+python scripts/render_walkthrough.py --view topdown   --end-m 300 --duration 90
+```
+
+Outputs (gitignored, in `pipeline_results/walkthrough/<recording>/`):
+`<recording>_walkthrough_<mode>.mp4` (H.264, yuv420p), `preview_<mode>.png`,
+and `settings.json` recording every parameter for reproducibility.
+
+Notes:
+- Camera positions come directly from the baked `trajectory_latlon.json`
+  (`wx/wy/wz` are the device path in the point-cloud frame; no raw MPS CSV needed).
+- Open3D 0.19 has no unlit shader for coloured points, so the cloud gets
+  per-vertex normals (≈5 s) and renders with `defaultLit`.
+- Pacing: `--duration` sets the video length; `--speed-mult 1` replays the
+  segment at the true walking pace.
+
+**Interactive inspection with rerun** — instead of a video, load the point cloud
+and the real SLAM camera path into rerun (play VRS-style map + trajectory):
+
+```bash
+python scripts/rerun_cloud.py --spawn            # live viewer (needs a display)
+python scripts/rerun_cloud.py --save cloud.rrd   # or save, then: rerun cloud.rrd
+```
+
+This logs the baked `pointcloud.ply` as a static map, the device trajectory as a
+line, and the camera poses (Pinhole + `Transform3D`) on a scrubbable `frame`
+timeline so you can watch the camera move through the cloud.
+
+---
+
+
+---
+
+
 ---
 
 ## Sparse Point Cloud Handling

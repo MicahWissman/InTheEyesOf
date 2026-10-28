@@ -29,3 +29,8 @@ reccordings_aria/
 
 # Misc
 web-viewer/public/tiles/web-viewer/public/recordings/carona_adine/bubbles_lite.zip
+vrs-files/
+
+# Local binaries (EgoBlur model, paper copies)
+*.jit
+InTheEyesOf__*.pdf

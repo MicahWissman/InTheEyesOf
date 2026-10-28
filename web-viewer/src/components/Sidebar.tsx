@@ -270,13 +270,23 @@ export const Sidebar = ({
             <div className="comparison-grid">
               <div className="comparison-node">
                 <span className="node-label">Point A</span>
-                <h5>{selectedLink.source.narrative_titles?.[lang || 'en'] ?? selectedLink.source.narrative_title}</h5>
+                <h5>
+                  {selectedLink.source.source_person && (
+                    <span className="person-tag" style={{ background: selectedLink.source.source_color }}>{selectedLink.source.source_person}</span>
+                  )}
+                  {selectedLink.source.narrative_titles?.[lang || 'en'] ?? selectedLink.source.narrative_title}
+                </h5>
                 <p>{selectedLink.source.interpretation || selectedLink.source.narrative_description}</p>
               </div>
               <div className="comparison-divider"></div>
               <div className="comparison-node">
                 <span className="node-label">Point B</span>
-                <h5>{selectedLink.target.narrative_titles?.[lang || 'en'] ?? selectedLink.target.narrative_title}</h5>
+                <h5>
+                  {selectedLink.target.source_person && (
+                    <span className="person-tag" style={{ background: selectedLink.target.source_color }}>{selectedLink.target.source_person}</span>
+                  )}
+                  {selectedLink.target.narrative_titles?.[lang || 'en'] ?? selectedLink.target.narrative_title}
+                </h5>
                 <p>{selectedLink.target.interpretation || selectedLink.target.narrative_description}</p>
               </div>
             </div>
@@ -338,6 +348,9 @@ export const Sidebar = ({
                   onClick={anchorAudioUrl ? handlePlayPauseToggle : undefined}
                 >
                   <span className={`debug-id-tag${selectedAnchor.contentCategory ? ` cat-${selectedAnchor.contentCategory}` : ''}`}>{selectedAnchor.id}</span>
+                  {selectedAnchor.source_person && (
+                    <span className="person-tag" style={{ background: selectedAnchor.source_color }}>{selectedAnchor.source_person}</span>
+                  )}
                   {selectedAnchor.narrative_titles?.[lang || 'en'] ?? selectedAnchor.narrative_title}
                   {anchorAudioUrl && (
                     <svg className="popup-title__wave" width="16" height="12" viewBox="0 0 16 12" fill="currentColor" aria-hidden="true">
@@ -610,6 +623,9 @@ export const Sidebar = ({
                 className="anchor-item"
                 onClick={() => onSelect(anchor)}
               >
+                {anchor.source_person && (
+                  <span className="person-tag" style={{ background: anchor.source_color }}>{anchor.source_person}</span>
+                )}
                 <span className="item-title">{anchor.narrative_titles?.[lang || 'en'] ?? anchor.narrative_title}</span>
               </div>
             ))}

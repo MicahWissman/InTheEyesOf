@@ -16,7 +16,7 @@ type IsoLeafletView = {
   groundWidthM: number; geoScale: number;
 };
 import type { Map as LeafletMap } from 'leaflet';
-import type { Anchor as AnchorType, SemanticGraphData, Link, TrajectoryData, GazeOverlayData } from '../types';
+import type { Anchor as AnchorType, SemanticGraphData, Link, TrajectoryData, TrajectoryPoint, GazeOverlayData } from '../types';
 import { GazeBeams, TouchMarks, MapGazeLines, MapTouchDots, ScenePopup } from './GazeOverlays';
 import { AnchorLabels } from './AnchorLabels';
 import type { OrbitControls as OrbitControlsImpl } from 'three-stdlib';
@@ -448,6 +448,86 @@ function OrbitFlyIn({
   return null;
 }
 
+// ── Scripted fly-through along the recorded SLAM trajectory ──────────────────
+// Dev/demo only (?flythrough=1) — walks the camera along trajectoryData.path's
+// wx/wy/wz (the recording device's own head-height path, same coordinate frame
+// as pointcloud.ply) over a fixed video duration, independent of real capture
+// time. Modeled on OrbitFlyIn: writes camera.position directly each frame and
+// relies on the caller disabling OrbitControls (enabled=false) so its own
+// update() doesn't stomp these writes — see @react-three/drei OrbitControls,
+// which only calls controls.update() when controls.enabled is true.
+const FLYTHROUGH_MIN_POINT_SPACING = 0.3; // metres (SLAM units), drop near-duplicate samples
+const FLYTHROUGH_LOOK_AHEAD = 0.01; // fraction of path length used for the look target
+
+function TrajectoryFlyThrough({
+  active,
+  path,
+  durationSec,
+  controlsRef,
+  onComplete,
+}: {
+  active: boolean;
+  path: TrajectoryPoint[] | null;
+  durationSec: number;
+  controlsRef: React.RefObject<OrbitControlsImpl | null>;
+  onComplete: () => void;
+}) {
+  const { camera, invalidate } = useThree();
+  const elapsedRef = useRef(0);
+  const runningRef = useRef(false);
+
+  const curve = useMemo(() => {
+    if (!path || path.length < 2) return null;
+    const pts: THREE.Vector3[] = [];
+    let last: THREE.Vector3 | null = null;
+    for (const p of path) {
+      if (p.wx === undefined || p.wy === undefined || p.wz === undefined) continue;
+      const v = new THREE.Vector3(p.wx, p.wy, p.wz);
+      if (last && last.distanceTo(v) < FLYTHROUGH_MIN_POINT_SPACING) continue;
+      pts.push(v);
+      last = v;
+    }
+    if (pts.length < 2) return null;
+    const c = new THREE.CatmullRomCurve3(pts, false, 'catmullrom', 0.5);
+    c.arcLengthDivisions = Math.max(200, pts.length * 2);
+    return c;
+  }, [path]);
+
+  useEffect(() => {
+    if (active && curve) {
+      elapsedRef.current = 0;
+      runningRef.current = true;
+    } else {
+      runningRef.current = false;
+    }
+  }, [active, curve]);
+
+  useFrame((_, delta) => {
+    if (!runningRef.current || !curve) return;
+    invalidate();
+
+    elapsedRef.current += delta;
+    const t = Math.min(elapsedRef.current / durationSec, 1);
+
+    const pos = curve.getPointAt(t);
+    const lookAt = curve.getPointAt(Math.min(t + FLYTHROUGH_LOOK_AHEAD, 1));
+    camera.position.copy(pos);
+    camera.lookAt(lookAt);
+
+    if (t >= 1) {
+      runningRef.current = false;
+      const controls = controlsRef.current;
+      if (controls) {
+        controls.target.copy(lookAt);
+        controls.update();
+      }
+      onComplete();
+    }
+  });
+
+  return null;
+}
+
 // ── Follow camera: compass-tracked RPG overhead view ──────────────────────────
 function FollowCamera({
   active,
@@ -697,7 +777,7 @@ function AnchorMarker({
   const color = isPlaying ? '#00ff88'
     : (selected || proximity === 'in_range') ? '#00ff88'
       : isHeard ? COLOR_HEARD
-        : markerColor(anchor.source);
+        : anchor.source_color ?? markerColor(anchor.source);
   const opacity = (isHeard && !selected && !isPlaying) ? 0.4
     : proximity === 'distant' ? 0.35 : 1;
   const isMajor = (anchor.score ?? 0) >= 0.35 || anchor.hasAudio;
@@ -1111,6 +1191,18 @@ export const NarrativeViewer = ({ title: _title, anchorsUrl, pointCloudUrl, sema
 
   // ── GPS debug overlay — only active when ?debug=1 in the URL ──
   const debugMode = useMemo(() => new URLSearchParams(window.location.search).get('debug') === '1', []);
+
+  // ── Scripted SLAM-trajectory fly-through — dev/demo only, ?flythrough=1 in the URL.
+  // Never reachable from the UI; used by scripts/record-walkthrough.mjs to capture video.
+  const flythroughMode = useMemo(() => new URLSearchParams(window.location.search).get('flythrough') === '1', []);
+  const flythroughDurationSec = useMemo(() => {
+    const v = Number(new URLSearchParams(window.location.search).get('flythroughDuration'));
+    return v > 0 ? v : 60;
+  }, []);
+  useEffect(() => {
+    if (flythroughMode) document.body.classList.add('flythrough-mode');
+    return () => { document.body.classList.remove('flythrough-mode'); };
+  }, [flythroughMode]);
   const gpsAcceptedRef = useRef(0);
   const gpsRejectedRef = useRef(0);
   const [debugGps, setDebugGps] = useState<{
@@ -1392,6 +1484,11 @@ export const NarrativeViewer = ({ title: _title, anchorsUrl, pointCloudUrl, sema
   }, [gazeOverlayData, anchors]);
 
   useEffect(() => {
+    // The phone's own GPS is always the primary source. The shared relay (server/gps-relay.js)
+    // is opt-in via ?gpsRelay=1 (e.g. a fixed station feeding a device without GPS): it sends
+    // this device's position to every other connected viewer, and its positions are only used
+    // until this device has a GPS reading of its own.
+    const relayEnabled = new URLSearchParams(window.location.search).get('gpsRelay') === '1';
     let hasLocalGps = false;
     let ws: WebSocket | null = null;
     let reconnectTimer: ReturnType<typeof setTimeout> | null = null;
@@ -1428,7 +1525,7 @@ export const NarrativeViewer = ({ title: _title, anchorsUrl, pointCloudUrl, sema
       ws.onerror = () => { };
       ws.onclose = () => { reconnectTimer = setTimeout(connectWs, 3000); };
     }
-    connectWs();
+    if (relayEnabled) connectWs();
 
     if (!navigator.geolocation) {
       setGpsStatus('error');
@@ -1461,7 +1558,7 @@ export const NarrativeViewer = ({ title: _title, anchorsUrl, pointCloudUrl, sema
         const lat = pos.coords.latitude;
         const lon = pos.coords.longitude;
 
-        // Always broadcast to relay so other devices get position
+        // Relay mode only: broadcast so other devices get this position
         if (ws && ws.readyState === WebSocket.OPEN) {
           ws.send(JSON.stringify({ lat, lon }));
         }
@@ -1880,6 +1977,16 @@ export const NarrativeViewer = ({ title: _title, anchorsUrl, pointCloudUrl, sema
     doOrbitSwap(fromCam);
   }, [doOrbitSwap, viewMode, gpsStatus]);
 
+  // Fly-through: drop straight into ORBIT (same camera path a visitor uses) once the
+  // cloud has loaded — no manual tap needed for scripted/headless capture.
+  const flythroughEnteredRef = useRef(false);
+  useEffect(() => {
+    if (!flythroughMode || flythroughEnteredRef.current) return;
+    if (!(window as unknown as { __pointCloudLoaded?: boolean }).__pointCloudLoaded) return;
+    flythroughEnteredRef.current = true;
+    enterOrbitView();
+  }, [flythroughMode, enterOrbitView, recenterCloudSignal]);
+
   const handleIosPermission = useCallback(async () => {
     if (!orientation.requestPermission) return;
     const granted = await orientation.requestPermission();
@@ -2027,7 +2134,8 @@ export const NarrativeViewer = ({ title: _title, anchorsUrl, pointCloudUrl, sema
 
   const handleCloudLoaded = useCallback(() => {
     setRecenterCloudSignal(s => s + 1);
-  }, []);
+    if (flythroughMode) (window as unknown as { __pointCloudLoaded?: boolean }).__pointCloudLoaded = true;
+  }, [flythroughMode]);
 
   const handleSelectTouch = useCallback((o: import('../types').TouchOverlay) => {
     setSelectedGaze(null);
@@ -2347,7 +2455,7 @@ export const NarrativeViewer = ({ title: _title, anchorsUrl, pointCloudUrl, sema
                   <OrbitControls
                     ref={controlsRef}
                     makeDefault
-                    enabled={!flyInActive}
+                    enabled={!flyInActive && !flythroughMode}
                     enableDamping={true}
                     dampingFactor={0.1}
                     rotateSpeed={0.8}
@@ -2367,15 +2475,24 @@ export const NarrativeViewer = ({ title: _title, anchorsUrl, pointCloudUrl, sema
                     isoLeafletViewRef={isoLeafletViewRef}
                     controlsRef={controlsRef}
                   />
+                  {flythroughMode && (
+                    <TrajectoryFlyThrough
+                      active={!flyInActive}
+                      path={trajectoryData?.path ?? null}
+                      durationSec={flythroughDurationSec}
+                      controlsRef={controlsRef}
+                      onComplete={() => { (window as unknown as { __flythroughDone?: boolean }).__flythroughDone = true; }}
+                    />
+                  )}
                   <FollowCamera
-                    active={followVisitor && !flyInActive}
+                    active={followVisitor && !flyInActive && !flythroughMode}
                     userSlamPos={gpsStatus === 'active' ? userSlamPos : null}
                     compassAlpha={orientation.alpha}
                     northRotation={northRotation}
                     controlsRef={controlsRef}
                   />
                   <DoubleClickFocus controlsRef={controlsRef} />
-                  <OrbitAutoRecenter controlsRef={controlsRef} active={!followVisitor && !flyInActive} />
+                  <OrbitAutoRecenter controlsRef={controlsRef} active={!followVisitor && !flyInActive && !flythroughMode} />
                   <RecenterToCloud signal={recenterCloudSignal} controlsRef={controlsRef} />
                 </>
               )}

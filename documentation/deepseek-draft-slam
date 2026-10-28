@@ -1,0 +1,78 @@
+## Kimera-VIO in the InTheEyesOf pipeline — breakdown and MPS-SLAM deltas
+
+I traced exactly which MPS files/columns the pipeline consumes (in `spatial_transcript_summarizer.py`, `hotspot_gold_standard.py`, `export_trajectory_latlon.py`, `bake_geo_aligned_recording.py`, `build_fusion.py`) so this is scoped to what actually changes, not what *could* change.
+
+---
+
+### 1. License check (the reason Kimera is the right call here)
+
+| Module | License | Role |
+|---|---|---|
+| **Kimera-VIO** | BSD-2-Clause | Visual-inertial odometry (stereo + IMU), open-loop pose + mesh |
+| **Kimera-RPGO** | BSD-2-Clause | Robust pose-graph optimization → loop closure |
+| **Kimera-Mesher** | BSD-2-Clause | Per-frame & multi-frame watertight 3D mesh |
+| **Kimera-Semantics** | BSD-2-Clause | Semantic mesh (needs a 2D segmentation net) |
+
+All **BSD-2-Clause** → drop-in compatible with your **MIT** license, no copyleft, no "MPS cloud" dependency. That directly serves your project's **offline-first** ethos and the Layer-A/B provenance hierarchy (no data leaves the machine).
+
+> ⚠️ One real technical caveat: Kimera assumes a **pinhole (+radial-tangential) camera model** (it was designed around EuRoC). Aria's SLAM cameras are **fisheye**. Unlike ORB-SLAM3 (which natively handles Kannala-Brandt), Kimera needs you to **undistort/rectify the SLAM images to pinhole first** using `device_calibration.json` + `projectaria_tools.core.calibration`. That's a one-time preprocessing step, not a blocker.
+
+---
+
+### 2. How Kimera maps onto what the pipeline actually consumes
+
+Your pipeline reads three MPS "SLAM" artifacts. Here's the Kimera equivalent and the gap:
+
+| MPS artifact (and columns) | Used for | Kimera equivalent | Gap to close |
+|---|---|---|---|
+| `closed_loop_trajectory.csv` — `tracking_timestamp_us`, `tx/ty/tz_world_device`, `qw/qx/qy/qz_world_device` | Rotating CPF gaze → world rays (`load_data`, lines 288–319) | Kimera-VIO odometry (+ RPGO for loop closure) | Rewrite poses into the same CSV column names; **no ECEF/geo columns** |
+| `semidense_points.csv.gz` — `px/py/pz_world`, `dist_std`, `inv_dist_std` | Snap Rule KDTree raycasting + heat back-projection | Kimera-Mesher **mesh** | Mesh → point cloud sampling; `dist_std` has no mesh analogue (see §3.4) |
+| `closed_loop_trajectory.csv` — `geo_available`, `tx/ty/tz_ecef_device` | Geo-referencing (`export_trajectory_latlon.py`, `bake_geo_aligned_recording.py`) | **None — Kimera has no ECEF** | Must write your own world→ECEF alignment (§3.1) |
+
+Good news: the summarizer's Snap Rule **only needs gaze yaw/pitch (CPF, head-relative) + a world-frame pose + a world-frame point cloud**. It does **not** read MPS's `depth_m` — it re-grounds gaze by raycasting against your own cloud. So keeping MPS **eye-gaze** is clean: the gaze signal itself is trajectory-agnostic, and everything downstream re-derives 3D from *your* Kimera pose/cloud.
+
+---
+
+### 3. What you LOSE vs. MPS, strictly on the SLAM side
+
+**3.1 Geo-referenced trajectory (biggest loss).**
+MPS's `closed_loop_trajectory.csv` ships with `geo_available` + `tx/ty/tz_ecef_device` — i.e., it is already placed in Earth-centered coordinates. Kimera gives you a **metric, gravity-aligned frame anchored at the run's start**, with arbitrary yaw and origin, and **no ECEF**. Consequences:
+- `export_trajectory_latlon.py` (reads `geo_available` + ECEF) will **fail until you add a Kimera→ECEF step**.
+- `bake_geo_aligned_recording.py` (Procrustes world→ENU) will also break.
+- You must implement a **7-DoF Sim(3)/Umeyama alignment of Kimera's world frame into ECEF** using your `gps.csv` fixes (which you already extract in `extract_sensors.py`) plus the gravity direction, then populate `tx/ty/tz_ecef_device` and set `geo_available=1`.
+
+**3.2 Loop closure / global drift.**
+MPS's trajectory is **loop-closed**. Kimera-VIO alone is **open-loop VIO** and will drift over your ~20-minute `Carona1-001.vrs`. You need **Kimera-RPGO** on top to close loops. Even then, drift behavior and the specific world-frame anchoring will differ from MPS.
+
+**3.3 Multi-SLAM / shared world frame across recordings.**
+MPS places multiple recordings (your `0/` and `1/` halves, and cross-device Adine recordings) into **one shared world frame** — which is what `merge_recordings.py` assumes. Kimera anchors **every run at its own origin**; there's no built-in multi-recording merging. You'd have to reproduce that alignment externally (e.g., rigid-align overlapping trajectories the way your `README_SHARE.md` already describes doing manually).
+
+**3.4 Semi-dense point cloud + per-point uncertainty.**
+`load_semipcd_from_mps` and `hotspot_gold_standard.load_slam_points` filter on `dist_std`/`inv_dist_std` (≤0.005 / ≤0.05) before raycasting. Kimera produces a **watertight triangle mesh with no per-point uncertainty**. You lose the quality filter; you'd sample mesh vertices into a `px/py/pz_world` CSV and either drop `dist_std` filtering or synthesize a constant `dist_std`. (Alternatively you keep using MPS's point cloud for raycasting and only use Kimera for the trajectory — a hybrid that avoids this loss entirely.)
+
+**3.5 Hand-tracking 3D poses (latent, not current).**
+You keep MPS hand tracking, but its **3D** wrist/keypoints are expressed in the **MPS** world frame, not Kimera's. Today this is a non-issue — `build_fusion.py` only consumes `left/right_tracking_confidence` (visibility fractions), which are frame-agnostic. Flag this only if you later want 3D hand pose aligned to the Kimera map.
+
+**3.6 Tuning/robustness.**
+MPS is pre-tuned for Aria. Kimera needs: fisheye→pinhole undistortion, IMU noise parameters (from Aria's published IMU noise model), and validation on Aria's **short-baseline** stereo (expect slightly higher depth noise than a wide-baseline rig, mitigated by IMU).
+
+---
+
+### 4. What you DON'T lose (and what you gain)
+
+- **Metric scale** and **gravity alignment** — Kimera's IMU gives both, same as MPS.
+- **Per-timestamp pose** at camera/backend rate with IMU-rate propagation — enough for the `merge_asof` (100 ms tolerance) in `load_data`.
+- **You gain**: a denser, watertight **mesh** (richer than semi-dense points), optional **semantic mesh** (Kimera-Semantics) that could later feed the visual-grounding channel, full reproducibility, and **no cloud upload** — reinforcing the offline-first / knowledge-sovereignty invariants in `CLAUDE.md`.
+
+---
+
+### 5. Recommended integration sequence (once in Act mode)
+
+1. **`vrs_to_euroc.py`** — dump `camera-slam-left/right` → undistorted pinhole PNGs + EuRoC `data.csv`, and `imu-right` → `imu0/data.csv` (reuses the read path already proven in `extract_sensors.py`).
+2. **Kimera-VIO (+ RPGO)** — run over `Carona1-001.vrs`, emit odometry + mesh.
+3. **`kimera_to_mps.py` adapter** — rewrite poses to `closed_loop_trajectory.csv` schema (`tracking_timestamp_us`, `tx/ty/tz_world_device`, `qw/qx/qy/qz_world_device`), sample mesh → `semidense_points.csv.gz`, set `geo_available=0` initially.
+4. **Geo-referencing adapter** — align Kimera world→ECEF from `gps.csv` + gravity, populate `tx/ty/tz_ecef_device` + `geo_available=1`, so `export_trajectory_latlon.py` and `bake_geo_aligned_recording.py` work unchanged.
+
+Net: **feasible and license-safe**, with the main engineering cost being **geo-referencing (§3.1)** and **mesh→point-cloud + uncertainty loss (§3.4)** — not the sensor extraction itself, which you already have the tooling for.
+
+Would you like me to (a) write this up into `documentation/kimera_vio_migration.md`, and/or (b) prototype `vrs_to_euroc.py` + the `kimera_to_mps.py` adapter? (Both need Act mode.)

@@ -33,6 +33,11 @@ export interface Anchor {
   contentCategory?: 'heritage' | 'nature' | 'context' | 'personal' | 'review';
   score?: number;
   verbatimLang?: string;
+  // Combined (multi-SLAM) experiences: which recording/person this anchor came from
+  source_recording?: string;
+  source_person?: string;
+  source_color?: string;
+  source_anchor_id?: number;
 }
 
 // ── Expert attention overlays (loaded from gaze_overlay.json alongside narrative_anchors.json) ──
