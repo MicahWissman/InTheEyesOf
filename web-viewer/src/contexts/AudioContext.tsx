@@ -1,9 +1,13 @@
 import { createContext, useCallback, useContext, useEffect, useRef, useState } from 'react';
 import type { ReactNode } from 'react';
+import { logListenAction, logListenEnd, logListenStart, setLogPositionProvider } from '../utils/visitLog';
+import type { ListenTrigger } from '../utils/visitLog';
 
 
-// Minimal silent WAV (0.1 s, 8 kHz mono) for browser audio unlock via user gesture
-const SILENT_WAV = 'data:audio/wav;base64,UklGRigAAABXQVZFZm10IBIAAAABAAEARKwAAIhYAQACABAAZGF0YQQAAAAAAA==';
+// Minimal silent WAV (0.1 s, 8 kHz mono 8-bit) for browser audio unlock via user gesture.
+// (The previous constant had a malformed fmt chunk that Chromium refuses to decode, so the
+// unlock play() rejected and tap-to-play never started on Chrome/Android.)
+const SILENT_WAV = 'data:audio/wav;base64,UklGRkQDAABXQVZFZm10IBAAAAABAAEAQB8AAEAfAAABAAgAZGF0YSADAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgA==';
 
 // If currentTime hasn't advanced past this threshold within STUCK_WATCHDOG_MS after
 // play() is called, the play is treated as stuck and retried once, then released.
@@ -44,8 +48,9 @@ export interface AudioContextValue {
   duration: number;
   toggleAudio: () => void;
   setNowPlayingTitle: (title: string) => void;
-  playAnchorWithUnlock: (anchorId: number, url: string) => void;
-  playAnchor: (anchorId: number, url: string) => void;
+  // trigger is only for the visit log: what started the clip ('transcript' = the expert's own words)
+  playAnchorWithUnlock: (anchorId: number, url: string, trigger?: ListenTrigger) => void;
+  playAnchor: (anchorId: number, url: string, trigger?: ListenTrigger) => void;
   pauseAudio: () => void;
   resumeAudio: () => void;
   stopAudio: () => void;
@@ -87,6 +92,7 @@ export function AudioProvider({ children }: { children: ReactNode }) {
   // Called from: play() rejection, 'error' event, watchdog timeout (after 1 retry).
   const releaseChannel = useCallback(() => {
     clearWatchdog();
+    logListenEnd('failed', currentTimeRef.current, audioRef.current?.duration ?? 0);
     isPlayingRef.current = false;
     setIsPlaying(false);
     currentAnchorIdRef.current = null;
@@ -100,6 +106,7 @@ export function AudioProvider({ children }: { children: ReactNode }) {
 
   useEffect(() => {
     if (!audioEnabled && audioRef.current) {
+      logListenEnd('stopped', audioRef.current.currentTime, audioRef.current.duration);
       audioRef.current.pause();
       audioRef.current.src = '';
       currentSrcRef.current = null;
@@ -158,6 +165,7 @@ export function AudioProvider({ children }: { children: ReactNode }) {
         isPlayingRef.current = false;
         setIsPlaying(false);
         clearWatchdog();
+        logListenEnd('completed', el.duration, el.duration);
         currentTimeRef.current = 0;
         setCurrentTime(0);
         setLastEndedId(currentAnchorIdRef.current);
@@ -180,6 +188,7 @@ export function AudioProvider({ children }: { children: ReactNode }) {
       }
 
       audioRef.current = el;
+      setLogPositionProvider(() => ({ position: el.currentTime, duration: el.duration }));
     }
     return audioRef.current;
   }, [clearWatchdog, releaseChannel]);
@@ -251,10 +260,12 @@ export function AudioProvider({ children }: { children: ReactNode }) {
   }, []);
 
   // Gesture path — performs silent-WAV unlock on first tap, then plays url.
-  const playAnchorWithUnlock = useCallback((anchorId: number, url: string) => {
+  const playAnchorWithUnlock = useCallback((anchorId: number, url: string, trigger: ListenTrigger = 'tap') => {
     if (!audioEnabled) return;
     const audio = ensureAudio();
     const src = toRootRelative(url);
+    logListenEnd('skipped', audio.currentTime, audio.duration);
+    logListenStart(anchorId, trigger === 'transcript' ? 'transcript' : 'narration', trigger);
     currentAnchorIdRef.current = anchorId;
     setCurrentAnchorId(anchorId);
     setCurrentUrl(src);
@@ -285,10 +296,12 @@ export function AudioProvider({ children }: { children: ReactNode }) {
   }, [audioEnabled, ensureAudio, doPlay]);
 
   // Proximity / auto-play path — browser rejects silently if no prior gesture.
-  const playAnchor = useCallback((anchorId: number, url: string) => {
+  const playAnchor = useCallback((anchorId: number, url: string, trigger: ListenTrigger = 'auto') => {
     if (!audioEnabled) return;
     const audio = ensureAudio();
     const src = toRootRelative(url);
+    logListenEnd('skipped', audio.currentTime, audio.duration);
+    logListenStart(anchorId, trigger === 'transcript' ? 'transcript' : 'narration', trigger);
     if (currentSrcRef.current !== src) {
       audio.pause();
       audio.src = src;
@@ -301,12 +314,16 @@ export function AudioProvider({ children }: { children: ReactNode }) {
     doPlay(audio, anchorId);
   }, [audioEnabled, ensureAudio, doPlay]);
 
-  const pauseAudio = useCallback(() => { audioRef.current?.pause(); }, []);
+  const pauseAudio = useCallback(() => {
+    if (audioRef.current) logListenAction('pause', { position_s: +audioRef.current.currentTime.toFixed(1) });
+    audioRef.current?.pause();
+  }, []);
 
   // Resume from paused position — no seek, no watchdog; audio is already loaded.
   const resumeAudio = useCallback(() => {
     const audio = audioRef.current;
     if (!audio) return;
+    logListenAction('resume', { position_s: +audio.currentTime.toFixed(1) });
     audio.play()?.catch((err: Error) => {
       if (err?.name !== 'AbortError') releaseChannel();
     });
@@ -315,6 +332,7 @@ export function AudioProvider({ children }: { children: ReactNode }) {
   const stopAudio = useCallback(() => {
     clearWatchdog();
     if (audioRef.current) {
+      logListenEnd('stopped', audioRef.current.currentTime, audioRef.current.duration);
       audioRef.current.pause();
       audioRef.current.src = '';
       currentSrcRef.current = null;
@@ -329,7 +347,10 @@ export function AudioProvider({ children }: { children: ReactNode }) {
   }, [clearWatchdog]);
 
   const seekAudio = useCallback((time: number) => {
-    if (audioRef.current) audioRef.current.currentTime = time;
+    if (audioRef.current) {
+      logListenAction('seek', { from_s: +audioRef.current.currentTime.toFixed(1), to_s: +time.toFixed(1) });
+      audioRef.current.currentTime = time;
+    }
   }, []);
 
   return (

@@ -61,10 +61,29 @@ function getModel() {
 }
 
 const app = express();
-app.use(express.json({ limit: '16kb' }));
+app.use((req, res, next) => (req.path === '/log' ? next() : express.json({ limit: '16kb' })(req, res, next)));
 
 // ── Health ────────────────────────────────────────────────────────────────────
 app.get('/ask/health', (_req, res) => res.json({ ok: true }));
+
+// ── Visit log ─────────────────────────────────────────────────────────────────
+// Anonymous interaction events from web-viewer/src/utils/visitLog.ts, appended one JSON
+// object per line. No IP or headers are stored (nginx access_log is off for /log).
+const VISIT_LOG = process.env.VISIT_LOG || require('path').join(__dirname, 'logs', 'visits.jsonl');
+app.post('/log', express.json({ limit: '64kb' }), (req, res) => {
+  const events = Array.isArray(req.body) ? req.body.slice(0, 200) : [];
+  const received = new Date().toISOString();
+  const lines = events
+    .filter(e => e && typeof e === 'object' && typeof e.v === 'string' && typeof e.type === 'string')
+    .map(e => JSON.stringify({ ...e, received }))
+    .filter(l => l.length <= 2048);
+  if (lines.length) {
+    const fs = require('fs');
+    fs.mkdirSync(require('path').dirname(VISIT_LOG), { recursive: true });
+    fs.appendFile(VISIT_LOG, lines.join('\n') + '\n', err => err && console.error('[ask-proxy] visit log:', err.message));
+  }
+  res.status(204).end();
+});
 
 // ── Ask ───────────────────────────────────────────────────────────────────────
 app.post('/ask', async (req, res) => {

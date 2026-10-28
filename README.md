@@ -238,6 +238,33 @@ To visualize a recording, assets must be mapped into the web-viewer public direc
    npm run dev
    ```
 
+### Visitor interaction log
+
+The viewer records what visitors do, anonymously (`web-viewer/src/utils/visitLog.ts`):
+- which anchors (and so which perspective) they open, and for how long;
+- which clips they play, finish, skip (with the % heard), replay or leave;
+- pauses and seeks.
+
+Each visitor is a random id per browser tab, never a name, account or IP. Events go to `POST /log` and are appended to `server/logs/visits.jsonl`, which is gitignored. The handler runs both in `vite dev`/`vite preview` and in `server/ask-proxy.js` behind nginx (see `server/nginx-ask-location.conf`). Add `?nolog=1` to the URL to turn logging off on a device.
+
+```bash
+python scripts/summarize_visit_log.py server/logs/visits.jsonl --recording robotics_lab_combined --csv visits.csv
+```
+This prints a per-visitor table and a per-perspective table.
+
+### Testing on phones over the laptop's hotspot (WSL2)
+
+Turn on Windows Mobile Hotspot, then serve the viewer from WSL:
+```bash
+cd web-viewer && npm run build && npm run preview
+```
+
+WSL2 in NAT mode isn't reachable from the hotspot, so forward the port. In an Administrator PowerShell, run:
+```powershell
+powershell -ExecutionPolicy Bypass -File \\wsl.localhost\EyesOf\home\micah\workspace\ITEO\InTheEyesOf\web-viewer\scripts\hotspot-forward.ps1
+```
+Re-run it after a reboot, since the WSL IP changes; `-Remove` undoes it. Phones open the printed `https://192.168.137.1:4173/...` URL and accept the self-signed certificate once.
+
 ## Scripted Walkthrough Video (Open3D)
 
 A research-demo alternative to the browser flythrough: renders a full-resolution

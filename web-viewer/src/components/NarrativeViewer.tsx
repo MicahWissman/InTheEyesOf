@@ -35,6 +35,7 @@ import { SettingsPanel } from './SettingsPanel';
 import { CamView } from './CamView';
 import { NarrativeBubble } from './NarrativeBubble';
 import type { NearbyAnchorInfo } from './NarrativeBubble';
+import { logAnchorView, setLogRecording } from '../utils/visitLog';
 
 // ── AR Sense tuning constants ──────────────────────────────────────────────────
 const AR_DEFAULT_PITCH_DEG = -20;
@@ -1374,9 +1375,10 @@ export const NarrativeViewer = ({ title: _title, anchorsUrl, pointCloudUrl, sema
           if (a.placement === 'cloud' && a.gx == null) a.placement = 'map';
         }
         setAnchors(list);
+        setLogRecording(recordingId, list);
       })
       .catch(err => console.error(`Error loading anchors from ${anchorsUrl}:`, err));
-  }, [anchorsUrl]);
+  }, [anchorsUrl, recordingId]);
 
   useEffect(() => {
     if (semanticGraphUrl) {
@@ -1760,6 +1762,9 @@ export const NarrativeViewer = ({ title: _title, anchorsUrl, pointCloudUrl, sema
   }, [viewMode]);
 
 
+  // Visit log: how long each anchor stays open (the only signal for recordings without audio)
+  useEffect(() => { if (anchors.length) logAnchorView(selectedAnchor?.id ?? null); }, [selectedAnchor?.id, anchors.length]);
+
   // ── Audio: auto-play on anchor selection (tap path) ──
   // Skipped when a gesture path (handleIAmHere, proximity, queue) already called play
   // directly — those set skipAutoPlayRef to prevent the concurrent second play that
@@ -1806,7 +1811,7 @@ export const NarrativeViewer = ({ title: _title, anchorsUrl, pointCloudUrl, sema
     const url = `${recordingBaseUrl}/${aUrl}`;
     setNowPlayingTitle(anchor.narrative_titles?.[lang || 'en'] ?? anchor.narrative_title);
     skipAutoPlayRef.current = true;
-    playAnchor(anchor.id, url);
+    playAnchor(anchor.id, url, 'proximity');
     recordVisit(anchor.id);
     setSelectedAnchor(anchor);
     playSoftChime();
@@ -1870,7 +1875,7 @@ export const NarrativeViewer = ({ title: _title, anchorsUrl, pointCloudUrl, sema
     if (distM != null && distM < PROX_EXIT_M && !sessionMemory.visitedAnchorIds.includes(q.id)) {
       setNowPlayingTitle(q.title);
       skipAutoPlayRef.current = true;
-      playAnchor(q.id, q.url);
+      playAnchor(q.id, q.url, 'proximity');
       recordVisit(q.id);
       const a = anchors.find(x => x.id === q.id);
       if (a) setSelectedAnchor(a);
@@ -2061,7 +2066,7 @@ export const NarrativeViewer = ({ title: _title, anchorsUrl, pointCloudUrl, sema
     const url = `${recordingBaseUrl}/${camAUrl}`;
     setNowPlayingTitle(anchor.narrative_titles?.[lang || 'en'] ?? anchor.narrative_title);
     skipAutoPlayRef.current = true;
-    playAnchorWithUnlock(anchor.id, url);
+    playAnchorWithUnlock(anchor.id, url, 'cam');
     recordVisit(anchor.id);
     setSelectedAnchor(anchor);
   }, [recordingBaseUrl, setNowPlayingTitle, playAnchorWithUnlock, recordVisit]);

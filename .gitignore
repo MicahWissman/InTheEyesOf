@@ -17,6 +17,7 @@ secrets.json
 .env
 .env.*
 backend/conversation-service/data/
+server/logs/
 
 # IDE and OS
 .vscode/

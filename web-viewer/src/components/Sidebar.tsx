@@ -170,7 +170,7 @@ export const Sidebar = ({
       setNowPlayingTitle(selectedAnchor.narrative_titles?.[lang || 'en'] ?? selectedAnchor.narrative_title);
       recordVisit(selectedAnchor.id);
       stopSpeaking();
-      playAnchor(selectedAnchor.id, `${recordingBaseUrl}/${anchorAudioUrl}`);
+      playAnchor(selectedAnchor.id, `${recordingBaseUrl}/${anchorAudioUrl}`, 'sidebar');
     }
   };
 
@@ -184,7 +184,7 @@ export const Sidebar = ({
       const title = selectedAnchor.narrative_titles?.[lang || 'en'] ?? selectedAnchor.narrative_title;
       setNowPlayingTitle(`${title} — Expert's words`);
       stopSpeaking();
-      playAnchor(selectedAnchor.id, `${recordingBaseUrl}/${transcriptAudioUrl}`);
+      playAnchor(selectedAnchor.id, `${recordingBaseUrl}/${transcriptAudioUrl}`, 'transcript');
     }
   };
 
